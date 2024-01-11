@@ -1,2 +1,8 @@
 [project]
 name = pycones24
+
+[servers.ghpages-https]
+default = yes
+enabled = yes
+name = Github pages
+target = ghpages+https://python-vigo/pycones24
