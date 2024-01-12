@@ -5,4 +5,4 @@ name = pycones24
 default = yes
 enabled = yes
 name = Github pages
-target = ghpages+https://python-vigo/pycones24?cname=www.2024.es.pycon.org/
+target = ghpages+https://python-vigo/pycones24?cname=2024.es.pycon.org
