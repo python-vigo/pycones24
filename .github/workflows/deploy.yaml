@@ -1,0 +1,30 @@
+name: Deploy
+on:
+  push:
+    branches: [main]
+env:
+  OUTPUT: build
+jobs:
+  build:
+    name: Build lektor website
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Set up python 3.10
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.10"
+      - name: Install requirements
+        run: |
+          ./scripts/install
+      - name: Build lektor website
+        run: |
+          source .venv/bin/activate
+          lektor build -f webpack -O '${{ env.OUTPUT }}'
+      - name: Deploy lektor website
+        run: |
+          source .venv/bin/activate
+          lektor deploy -O '${{ env.OUTPUT }}' ghpages-https
+        env:
+          LEKTOR_DEPLOY_USERNAME: ${{ github.actor }}
+          LEKTOR_DEPLOY_PASSWORD: ${{ secrets.GITHUB_TOKEN }}
