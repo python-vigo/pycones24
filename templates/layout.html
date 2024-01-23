@@ -1,7 +1,16 @@
 <!doctype html>
-<meta charset="utf-8">
-<link rel="stylesheet" href="{{ '/static/style.css'|url }}">
-<title>{% block title %}Welcome{% endblock %} — PyConES 24</title>
+<head>
+  <meta charset="utf-8">
+  <link rel="stylesheet" href="{{ '/static/style.css'|url }}">
+  <title>{% block title %}Welcome{% endblock %} — PyConES 24</title>
+  <link rel="shortcut icon" type="image/x-icon" href="{{ '/static/favicon/favicon.ico'|asseturl }}">
+  <link rel="icon" type="image/png" sizes="192x192" href="{{ '/static/favicon/android-chrome-192x192.png'|asseturl }}">
+  <link rel="icon" type="image/png" sizes="512x512" href="{{ '/static/favicon/android-chrome-512x512.png'|asseturl }}">
+  <link rel="apple-touch-icon" sizes="180x180" href="{{ '/static/favicon/apple-touch-icon.png'|asseturl }}">
+  <link rel="icon" type="image/png" sizes="32x32" href="{{ '/static/favicon/favicon-32x32.png'|asseturl }}">
+  <link rel="icon" type="image/png" sizes="16x16" href="{{ '/static/favicon/favicon-16x16.png'|asseturl }}">
+  <link rel="manifest" href="{{ '/static/favicon/site.webmanifest'|asseturl }}">
+</head>
 <body class="mx-6 my-12">
   <header class="w-[760px] mx-auto bg-[#003A5D] py-5 px-8">
     <h1 class="m-0 text-4xl font-medium text-white">PyConES Vigo 2024</h1>
