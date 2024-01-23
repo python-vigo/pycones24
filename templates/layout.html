@@ -2,11 +2,11 @@
 <meta charset="utf-8">
 <link rel="stylesheet" href="{{ '/static/style.css'|url }}">
 <title>{% block title %}Welcome{% endblock %} — PyConES 24</title>
-<body>
-  <header>
-    <h1>PyConES Vigo 2024</h1>
+<body class="mx-6 my-12">
+  <header class="w-[760px] mx-auto bg-[#003A5D] py-5 px-8">
+    <h1 class="m-0 text-4xl font-medium text-white">PyConES Vigo 2024</h1>
   </header>
-  <main class="page">
+  <main class="bg-[#f1fbfe] w-[760px] mx-auto py-5 px-8">
     {% block body %}{% endblock %}
   </main>
 </body>
