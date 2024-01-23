@@ -2,6 +2,8 @@
 
 {% block title %}{{ this.title }}{% endblock %}
 {% block body %}
-  <h2>{{ this.title }}</h2>
-  {{ this.body }}
+  <section class="mx-auto md:ml-[276px] w-11/12 md:w-[534px]">
+    <h1 class="mb-1 text-4xl text-left md:mb-7">{{ this.hero_text }}</h1>
+    <p class="text-lg">{{ this.description_text }}</p>
+  </section>
 {% endblock %}
