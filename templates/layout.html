@@ -15,5 +15,8 @@
   {% include "components/header.html" %}
   <main>
     {% block body %}{% endblock %}
+    <figure class="fixed bottom-0 right-0">
+      <img src="{{ '/static/images/trisquel-down.png'|asseturl }}" alt="Trisquel" class="w-96 lg:w-[32rem] 2xl:w-[46rem]">
+    </figure>
   </main>
 </body>
