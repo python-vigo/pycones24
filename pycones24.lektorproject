@@ -1,5 +1,6 @@
 [project]
 name = pycones24
+url = https://2024.es.pycon.org/
 
 [servers.ghpages-https]
 default = yes
