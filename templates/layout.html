@@ -15,12 +15,12 @@
     <link rel="manifest" href="{{ '/static/favicon/site.webmanifest'|asseturl }}">
     <meta name="google-site-verification" content="ggr-BOSKTnIjcxjkkreUx5oqxBWojqS-iDhnE8ovQAk" />
   </head>
-  <body>
+  <body >
     {% include "components/header.html" %}
     <main>
       {% block body %}{% endblock %}
-      <figure class="fixed bottom-0 right-0 -z-20">
-        <img src="{{ '/static/images/trisquel-down.png'|asseturl }}" alt="Trisquel" class="w-full md:w-[42rem] lg:w-[32rem] 2xl:w-[46rem]">
+      <figure class="-z-20">
+        <img src="{{ '/static/images/trisquel-down.png'|asseturl }}" alt="Trisquel" class="fixed right-0 w-48 -bottom-0 lg:bottom-0 xs:w-64 md:w-72 lg:w-6/12 xl:w-4/12 -z-20">
       </figure>
     </main>
   </body>
