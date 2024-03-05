@@ -1,0 +1,23 @@
+name: Tailwind CSS Linter
+
+on:
+  pull_request:
+  push:
+    branches: [ master ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Check out code
+      uses: actions/checkout@v3
+
+    - name: Install Rustywind
+      run: |
+        wget -qO- https://github.com/avencera/rustywind/releases/download/v0.21.0/rustywind-v0.21.0-x86_64-unknown-linux-musl.tar.gz | tar xvz -C /usr/local/bin/
+        rustywind --version
+
+    - name: Run Rustywind
+      run: |
+        rustywind --check-formatted ./templates
