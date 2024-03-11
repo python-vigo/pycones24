@@ -1,7 +1,20 @@
 hero_text: Welcome to **PyConES**, the **most important Python conference in Spain**.
 ---
+dates_event: October 4th, 5th and 6th
+---
 description_text:
 
 An event that will bring together hundreds of enthusiasts of the Python programming language,
 with an incredible agenda in the best possible location.
 ---
+Project-Id-Version: pycones 24
+Report-Msgid-Bugs-To:
+PO-Revision-Date: 2024-03-12 00:37+0100
+Last-Translator: Automatically generated
+Language-Team: none
+Language: en
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+Plural-Forms: nplurals=2; plural=(n != 1);
+X-Generator: Poedit 3.4.2

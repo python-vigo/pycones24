@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pycones 24\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-03-11 01:10+CET\n"
+"POT-Creation-Date: 2024-03-12 00:38+CET\n"
 "PO-Revision-Date: 2024-03-11 00:54+CET\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -11,6 +11,10 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: https://2024.es.pycon.org/ (content/contents+es.lr:page.dates_event)
+msgid "4, 5 y 6 de octubre"
+msgstr ""
 
 #: https://2024.es.pycon.org/ (content/contents+es.lr:page.hero_text)
 msgid ""

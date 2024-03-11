@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pycones 24\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-03-11 01:10+CET\n"
-"PO-Revision-Date: 2024-03-11 01:14+0100\n"
+"POT-Creation-Date: 2024-03-12 00:38+CET\n"
+"PO-Revision-Date: 2024-03-12 00:37+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: en\n"
@@ -12,6 +12,10 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Poedit 3.4.2\n"
+
+#: https://2024.es.pycon.org/ (content/contents+es.lr:page.dates_event)
+msgid "4, 5 y 6 de octubre"
+msgstr "October 4th, 5th and 6th"
 
 #: https://2024.es.pycon.org/ (content/contents+es.lr:page.hero_text)
 msgid ""
