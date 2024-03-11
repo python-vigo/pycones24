@@ -1,0 +1,33 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: pycones 24\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-03-11 01:10+CET\n"
+"PO-Revision-Date: 2024-03-11 01:22+0100\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: gl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.2\n"
+
+#: https://2024.es.pycon.org/ (content/contents+es.lr:page.hero_text)
+msgid ""
+"Os damos la bienvenida a la **PyConES**, la **conferencia de Python más "
+"importante de España**."
+msgstr ""
+"Dámosvos a benvida á **PyConES**, a **conferencia de Python máis importante "
+"de España**."
+
+#: https://2024.es.pycon.org/ (content/contents+es.lr:page.description_text)
+msgid ""
+"Un evento que reunirá a cientos de entusiastas del lenguaje de programación "
+"Python,"
+msgstr ""
+"Un evento que reunirá a centos de entusiastas da linguaxe de programación "
+"Python,"
+
+#: https://2024.es.pycon.org/ (content/contents+es.lr:page.description_text)
+msgid "con una agenda increíble en la mejor localización posible."
+msgstr "cunha axenda incrible na mellor localización posible."

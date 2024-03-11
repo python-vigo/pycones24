@@ -1,3 +1,7 @@
-hero_text: Welcome to **PyConES**,  the **most important Python conference in Spain**.
+hero_text: Welcome to **PyConES**, the **most important Python conference in Spain**.
 ---
-description_text: An event that will bring together hundreds of enthusiasts of the Python programming language, with an incredible agenda in the best possible location.
+description_text:
+
+An event that will bring together hundreds of enthusiasts of the Python programming language,
+with an incredible agenda in the best possible location.
+---

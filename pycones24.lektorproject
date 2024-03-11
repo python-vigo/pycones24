@@ -10,6 +10,7 @@ target = ghpages+https://python-vigo/pycones24?cname=2024.es.pycon.org
 
 [packages]
 lektor-tailwind = 0.1.2
+lektor-i18n = 0.4.4
 
 [alternatives.es]
 name = Spanish
