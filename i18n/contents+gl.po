@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pycones 24\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-03-12 00:38+CET\n"
+"POT-Creation-Date: 2024-03-13 01:07+CET\n"
 "PO-Revision-Date: 2024-03-12 00:38+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -35,3 +35,465 @@ msgstr ""
 #: https://2024.es.pycon.org/ (content/contents+es.lr:page.description_text)
 msgid "con una agenda increíble en la mejor localización posible."
 msgstr "cunha axenda incrible na mellor localización posible."
+
+#: (dynamic)
+msgid "Código conducta"
+msgstr ""
+
+#: (dynamic)
+msgid ""
+"Python España, como asociación en torno a la que se organizan eventos de "
+"distintos tipos, quiere asegurar que todas las personas que participen en "
+"dichos eventos o comunicaciones tengan una experiencia profesional y "
+"positiva de aprendizaje, colaboración u ocio. Para ello, se espera que quien "
+"participe en la comunidad muestre respeto y cortesía hacia el resto."
+msgstr ""
+
+#: (dynamic)
+msgid ""
+"Al participar en la comunidad de Python España, te comprometes a fomentar "
+"una experiencia libre de acoso para todo el mundo, independientemente de la "
+"edad, dimensión corporal, discapacidad visible o invisible, etnicidad, "
+"características sexuales, identidad y expresión de género, nivel de "
+"experiencia, educación, nivel socio-económico, nacionalidad, apariencia "
+"personal, raza, religión, o identidad u orientación sexual."
+msgstr ""
+
+#: (dynamic)
+msgid ""
+"This Code of Conduct details what behaviors are expected, what is rejected "
+"and what mechanisms exist to help a person who is being subjected to "
+"inappropriate behavior."
+msgstr ""
+
+#: (dynamic)
+msgid ""
+"Este Código de Conducta detalla qué comportamientos se esperan, cuáles se "
+"rechazan y qué mecanismos hay para ayudar a una persona que esté siendo "
+"objeto de comportamientos inadecuados."
+msgstr ""
+
+#: (dynamic)
+msgid "¿Por qué un código de conducta?"
+msgstr ""
+
+#: (dynamic)
+msgid ""
+"Siguiendo con el zen de Python, explícito mejor que implícito. Explicitar "
+"qué se espera del ambiente en cualquier evento de Python España:"
+msgstr ""
+
+#: (dynamic)
+msgid "Favorece que más personas sepan que son bienvenidas"
+msgstr ""
+
+#: (dynamic)
+msgid "Evita ambigüedades"
+msgstr ""
+
+#: (dynamic)
+msgid ""
+"Construye un clima de confianza, donde si alguien quiere reportar un "
+"incidente, sabrá que no empezaremos por cuestionarle (victim blaming)."
+msgstr ""
+
+#: (dynamic)
+msgid "Alcance"
+msgstr ""
+
+#: (dynamic)
+msgid ""
+"Este código de conducta es aplicable a todas las personasque participen en "
+"espacios de la comunidad de Python España, ya sean en línea o presenciales. "
+"También se aplica a espacios públicos donde una persona esté en "
+"representación de la comunidad. Ejemplos de esto último incluyen el uso de "
+"la cuenta oficial de correo electrónico, publicaciones a través de las redes "
+"sociales oficiales, o presentaciones con personas designadas en eventos en "
+"línea o no."
+msgstr ""
+
+#: (dynamic)
+msgid ""
+"Este código de conducta es aplicable a todas las personasque participen en "
+"espacios de la comunidad de Python España, ya sean en línea o presenciales."
+"También se aplica a espacios públicos donde una persona esté en "
+"representación de la comunidad.Ejemplos de esto último incluyen el uso de la "
+"cuenta oficial de correo electrónico, publicacionesa través de las redes "
+"sociales oficiales, o presentaciones con personas designadas en eventos en "
+"línea o no."
+msgstr ""
+
+#: (dynamic)
+msgid ""
+"Python España, como asociación en torno a la que se organizan eventosde "
+"distintos tipos, quiere asegurar que todas las personas que participenen "
+"dichos eventos o comunicaciones tengan una experiencia profesional y "
+"positivade aprendizaje, colaboración u ocio. Para ello, se espera que quien "
+"participeen la comunidad muestre respeto y cortesía hacia el resto."
+msgstr ""
+
+#: (dynamic)
+msgid ""
+"Al participar en la comunidad de Python España, te comprometes a fomentar "
+"una experiencia libre de acosopara todo el mundo, independientemente de la "
+"edad, dimensión corporal, discapacidad visible o invisible,etnicidad, "
+"características sexuales, identidad y expresión de género, nivel de "
+"experiencia, educación,nivel socio-económico, nacionalidad, apariencia "
+"personal, raza, religión, o identidad u orientación sexual."
+msgstr ""
+
+#: (dynamic)
+msgid ""
+"Este Código de Conducta detalla qué comportamientos se esperan, cuáles se "
+"rechazan y qué mecanismos haypara ayudar a una persona que esté siendo "
+"objeto de comportamientos inadecuados."
+msgstr ""
+
+#: (dynamic)
+msgid ""
+"Siguiendo con el zen de Python, explícito mejor que implícito. Explicitar "
+"qué se espera del ambiente en\n"
+"      cualquier evento de Python España:"
+msgstr ""
+
+#: (dynamic)
+msgid ""
+"Construye un clima de confianza, donde si alguien quiere reportar un "
+"incidente, sabrá que no empezaremos\n"
+"        por cuestionarle (victim blaming)."
+msgstr ""
+
+#: (dynamic)
+msgid ""
+"Siguiendo con el zen de Python, explícito mejor que implícito. Explicitar "
+"qué se espera del ambiente encualquier evento de Python España:"
+msgstr ""
+
+#: (dynamic)
+msgid ""
+"Construye un clima de confianza, donde si alguien quiere reportar un "
+"incidente, sabrá que no empezaremospor cuestionarle (victim blaming)."
+msgstr ""
+
+#: (dynamic)
+msgid "Nuestros estándares"
+msgstr ""
+
+#: (dynamic)
+msgid ""
+"Ejemplos de comportamiento que contribuyen a crear un ambiente positivo para "
+"nuestra comunidad:"
+msgstr ""
+
+#: (dynamic)
+msgid ""
+"Demostrar empatía y amabilidad ante otras personas. No insultes o humilles a "
+"otros asistentes.Recuerda que las bromas sexistas, racistas o "
+"discriminatorias no son apropiadas. Nunca lo son."
+msgstr ""
+
+#: (dynamic)
+msgid "Respetar las diferentes opiniones, puntos de vista y experiencias"
+msgstr ""
+
+#: (dynamic)
+msgid "Dar y aceptar adecuadamente críticas constructivas"
+msgstr ""
+
+#: (dynamic)
+msgid ""
+"Aceptar la responsabilidad y disculparse ante quienes se vean afectados por "
+"nuestros errores,aprendiendo de la experiencia"
+msgstr ""
+
+#: (dynamic)
+msgid ""
+"Centrarse en lo que sea mejor no sólo para nosotros como individuos, sino "
+"para la comunidaden general"
+msgstr ""
+
+#: (dynamic)
+msgid "Usar un lenguaje inclusivo y que dé cabida a una audiencia diversa"
+msgstr ""
+
+#: (dynamic)
+msgid ""
+"Prestar especial atención a las personas que recién llegan a la comunidad"
+msgstr ""
+
+#: (dynamic)
+msgid ""
+"Presentarte con tus pronombres y preguntarle a otra persona los suyos para "
+"que existauna comunicación clara y sin sesgo"
+msgstr ""
+
+#: (dynamic)
+msgid "Ejemplos de comportamiento inaceptable"
+msgstr ""
+
+#: (dynamic)
+msgid ""
+"El uso de lenguaje o imágenes sexualizadas, y aproximaciones o atenciones "
+"sexuales de cualquier tipo"
+msgstr ""
+
+#: (dynamic)
+msgid ""
+"Comentarios despectivos trolling, insultantes o derogatorios, y ataques "
+"personales o políticos"
+msgstr ""
+
+#: (dynamic)
+msgid "Bromas racistas, sexistas o excluyentes"
+msgstr ""
+
+#: (dynamic)
+msgid "El acoso en público o privado"
+msgstr ""
+
+#: (dynamic)
+msgid ""
+"Publicar información privada de otras personas, tales como direcciones "
+"físicas o de correo electrónico,\n"
+"        sin su permiso explícito"
+msgstr ""
+
+#: (dynamic)
+msgid ""
+"Publicar información privada de otras personas, tales como direcciones "
+"físicas o de correo electrónico,sin su permiso explícito"
+msgstr ""
+
+#: (dynamic)
+msgid ""
+"Otras conductas que puedan ser razonablemente consideradas como inapropiadas "
+"en un entorno profesional"
+msgstr ""
+
+#: (dynamic)
+msgid ""
+"Por acoso se entiende comentarios ofensivos relacionados con género, "
+"orientación sexual, discapacidad, apariencia física, tamaño corporal, etnia "
+"o religión, pornografía en espacios públicos, intimidación deliberada, "
+"acecho, persecución, acoso por fotografías o grabaciones, constante "
+"interrupción de charlas u otros eventos, contacto físico inapropiado y "
+"atención sexual no deseada."
+msgstr ""
+
+#: (dynamic)
+msgid ""
+"Por acoso se entiende comentarios ofensivos relacionados con género, "
+"orientación sexual, discapacidad,apariencia física, tamaño corporal, etnia o "
+"religión, pornografía en espacios públicos, intimidación deliberada,acecho, "
+"persecución, acoso por fotografías o grabaciones, constante interrupción de "
+"charlas u otros eventos,contacto físico inapropiado y atención sexual no "
+"deseada."
+msgstr ""
+
+#: (dynamic)
+msgid ""
+"Por acoso se entiende comentarios ofensivos relacionados con género, "
+"orientación sexual,\n"
+"      discapacidad,apariencia física, tamaño corporal, etnia o religión, "
+"pornografía en espacios públicos, intimidación deliberada,acecho, "
+"persecución, acoso por fotografías o grabaciones, constante interrupción de "
+"charlas u otros eventos,contacto físico inapropiado y atención sexual no "
+"deseada."
+msgstr ""
+
+#: (dynamic)
+msgid "Cumplimiento"
+msgstr ""
+
+#: (dynamic)
+msgid ""
+"La administración de la comunidad es responsable de aclarar y hacer cumplir "
+"este código de conducta; encaso de que se determine un comportamiento "
+"inadecuado, tomará las acciones que considere oportunas. Éstas vandesde "
+"exigir el cese del comportamiento, hasta la expulsión de una persona de un "
+"evento o de la Asociación, sinderecho a reembolso. La administración de la "
+"comunidad tendrá el derecho y la responsabilidad de eliminar, editaro "
+"rechazar mensajes, comentarios, código, ediciones de páginas de wiki, "
+"tickets y otras contribuciones que no sealineen con este código de conducta, "
+"y comunicará las razones para sus decisiones de moderación cuando "
+"seaapropiado."
+msgstr ""
+
+#: (dynamic)
+msgid ""
+"La administración de la comunidad es responsable de aclarar y hacer cumplir "
+"este código de conducta; encaso de que se determine un comportamiento "
+"inadecuado, tomará las acciones que considere oportunas. Éstas vandesde "
+"exigir el cese del comportamiento, hasta la expulsión de una persona de un "
+"evento o de la Asociación, sinderecho a reembolso. La administración de la "
+"comunidad tendrá el derecho y la responsabilidad de eliminar,editar o "
+"rechazar mensajes, comentarios, código, ediciones de páginas de wiki, "
+"tickets y otras contribuciones queno se alineen con este código de conducta, "
+"y comunicará las razones para sus decisiones de moderación cuando "
+"seaapropiado."
+msgstr ""
+
+#: (dynamic)
+msgid ""
+"La administración de la comunidad es responsable de aclarar y hacer cumplir "
+"este código de conducta; encaso de que se determine un comportamiento "
+"inadecuado, tomará las acciones que considere oportunas. Éstas vandesde "
+"exigir el cese del comportamiento, hasta la expulsión de una persona de un "
+"evento o de la Asociación, sinderecho a reembolso. La administración de la "
+"comunidad tendrá el derecho y la responsabilidad de eliminar,editar o "
+"rechazar mensajes, comentarios, código, ediciones de páginas de wiki, "
+"tickets y otras contribucionesque no se alineen con este código de conducta, "
+"y comunicará las razones para sus decisiones de moderación cuando "
+"seaapropiado."
+msgstr ""
+
+#: (dynamic)
+msgid ""
+"La administración de la comunidad es responsable de aclarar y hacer cumplir "
+"este código de conducta; encaso de que se determine un comportamiento "
+"inadecuado, tomará las acciones que considere oportunas. Éstas vandesde "
+"exigir el cese del comportamiento, hasta la expulsión de una persona de un "
+"evento o de la Asociación, sinderecho a reembolso. La administración de la "
+"comunidad tendrá el derecho y la responsabilidad de eliminar,editar o "
+"rechazar mensajes, comentarios, código, ediciones de páginas de wiki, "
+"tickets y otras contribucionesque no se alineen con este código de conducta, "
+"y comunicará las razones para sus decisiones de moderación cuando\n"
+"      seaapropiado."
+msgstr ""
+
+#: (dynamic)
+msgid ""
+"La administración de la comunidad es responsable de aclarar y hacer cumplir "
+"este código de conducta; encaso de que se determine un comportamiento "
+"inadecuado, tomará las acciones que considere oportunas. Éstas vandesde "
+"exigir el cese del comportamiento, hasta la expulsión de una persona de un "
+"evento o de la Asociación, sinderecho a reembolso. La administración de la "
+"comunidad tendrá el derecho y la responsabilidad de eliminar,editar o "
+"rechazar mensajes, comentarios, código, ediciones de páginas de wiki, "
+"tickets y otras contribucionesque no se alineen con este código de conducta, "
+"y comunicará las razones para sus decisiones de moderación cuandosea "
+"apropiado."
+msgstr ""
+
+#: (dynamic)
+msgid ""
+"Por acoso se entiende comentarios ofensivos relacionados con género, "
+"orientación sexual,discapacidad, apariencia física, tamaño corporal, etnia o "
+"religión, pornografía en espacios públicos,\n"
+"      intimidación deliberada,acecho, persecución, acoso por fotografías o "
+"grabaciones, constante interrupción de charlas u otros eventos,contacto "
+"físico inapropiado y atención sexual no deseada."
+msgstr ""
+
+#: (dynamic)
+msgid ""
+"Por acoso se entiende comentarios ofensivos relacionados con género, "
+"orientación sexual,discapacidad, apariencia física, tamaño corporal, etnia o "
+"religión, pornografía en espacios públicos,intimidación deliberada, acecho, "
+"persecución, acoso por fotografías o grabaciones, constante interrupción "
+"decharlas u otros eventos, contacto físico inapropiado y atención sexual no "
+"deseada."
+msgstr ""
+
+#: (dynamic)
+msgid "Denuncia e información de contacto"
+msgstr ""
+
+#: (dynamic)
+msgid ""
+"Los casos de comportamiento abusivo, acosador o inaceptable de otro modo "
+"podrán ser denunciados a las personas administradoras de la comunidad "
+"responsables del cumplimiento:"
+msgstr ""
+
+#: (dynamic)
+msgid ""
+"Los casos de comportamiento abusivo, acosador o inaceptable de otro modo "
+"podrán ser denunciados a laspersonas administradoras de la comunidad "
+"responsables del cumplimiento:"
+msgstr ""
+
+#: (dynamic)
+msgid ""
+"Si es un evento presencial, ponte en contacto directamente con las personas "
+"organizadoras del evento. Esmuy probable que hayan publicando un código de "
+"conducta específico del evento con instrucciones de a quiénacudir; te "
+"proporcionarán un espacio seguro para ayudarte."
+msgstr ""
+
+#: (dynamic)
+msgid ""
+"Si se trata de un espacio en línea, ponte en contacto con las personas "
+"moderadoras de ese espacio."
+msgstr ""
+
+#: (dynamic)
+msgid ""
+"En el foro de Discourse puedes denunciar publicaciones individuales o "
+"contactar con el<a href='https://comunidad.es.python.org/groups/"
+"moderadores'>grupo de moderación</a>"
+msgstr ""
+
+#: (dynamic)
+msgid ""
+"En el foro de Discourse puedes denunciar publicaciones individuales o "
+"contactar con el{{<a href='https://comunidad.es.python.org/groups/"
+"moderadores'>grupo de moderación</a>}}"
+msgstr ""
+
+#: (dynamic)
+msgid ""
+"En el foro de Discourse puedes denunciar publicaciones individuales o "
+"contactar con el"
+msgstr ""
+
+#: (dynamic)
+msgid "grupo de moderación"
+msgstr ""
+
+#: (dynamic)
+msgid ""
+"En Telegram, a la persona propietaria del grupo u otras administradoras."
+msgstr ""
+
+#: (dynamic)
+msgid ""
+"Para otros espacios o de forma alternativa, ponte en contacto con la Junta "
+"Directiva en"
+msgstr ""
+
+#: (dynamic)
+msgid ""
+"Todas las personas administradoras de la comunidad están obligadas a "
+"respetar la privacidad y la seguridadde quienes denuncien incidentes."
+msgstr ""
+
+#: (dynamic)
+msgid "Atribución"
+msgstr ""
+
+#: (dynamic)
+msgid ""
+"Este código de conducta extiende el ya existente con aportaciones de otros "
+"códigos:"
+msgstr ""
+
+#: (dynamic)
+msgid "versión en español del Contributor Covenant 2.0"
+msgstr ""
+
+#: (dynamic)
+msgid "código de conducta de DjangoCon Europe 2020"
+msgstr ""
+
+#: templates/code_conduct.html:171
+msgid ""
+"En el foro de Discourse puedes denunciar publicaciones individuales o "
+"contactar con el "
+msgstr ""
+
+#: templates/code_conduct.html:180
+msgid ""
+"Para otros espacios o de forma alternativa, ponte en contacto con la Junta "
+"Directiva en "
+msgstr ""
