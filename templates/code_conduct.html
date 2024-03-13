@@ -3,36 +3,36 @@
 
 {% block body %}
 <section class="grid grid-flow-row gap-y-8 pb-10 mx-auto w-10/12">
-  <article>
-    <h1 class="mb-3 text-3xl">{{ _("Código conducta") }}</h1>
-    <p class="mb-3 text-md">
+  <article class="text-lg">
+    <h1 class="mb-3 text-4xl">{{ _("Código conducta") }}</h1>
+    <p class="mb-3">
       {{
-      _("Python España, como asociación en torno a la que se organizan eventos"
-      "de distintos tipos, quiere asegurar que todas las personas que participen"
-      "en dichos eventos o comunicaciones tengan una experiencia profesional y positiva"
-      "de aprendizaje, colaboración u ocio. Para ello, se espera que quien participe"
+      _("Python España, como asociación en torno a la que se organizan eventos "
+      "de distintos tipos, quiere asegurar que todas las personas que participen "
+      "en dichos eventos o comunicaciones tengan una experiencia profesional y positiva "
+      "de aprendizaje, colaboración u ocio. Para ello, se espera que quien participe "
       "en la comunidad muestre respeto y cortesía hacia el resto."
       )
       }}
     </p>
     <p class="mb-3">
       {{
-      _("Al participar en la comunidad de Python España, te comprometes a fomentar una experiencia libre de acoso"
-      "para todo el mundo, independientemente de la edad, dimensión corporal, discapacidad visible o invisible,"
-      "etnicidad, características sexuales, identidad y expresión de género, nivel de experiencia, educación,"
+      _("Al participar en la comunidad de Python España, te comprometes a fomentar una experiencia libre de acoso "
+      "para todo el mundo, independientemente de la edad, dimensión corporal, discapacidad visible o invisible, "
+      "etnicidad, características sexuales, identidad y expresión de género, nivel de experiencia, educación, "
       "nivel socio-económico, nacionalidad, apariencia personal, raza, religión, o identidad u orientación sexual."
       )
       }}
     </p>
     <p>
       {{
-      _("Este Código de Conducta detalla qué comportamientos se esperan, cuáles se rechazan y qué mecanismos hay"
+      _("Este Código de Conducta detalla qué comportamientos se esperan, cuáles se rechazan y qué mecanismos hay "
       "para ayudar a una persona que esté siendo objeto de comportamientos inadecuados."
       )
       }}
     </p>
   </article>
-  <article id="por-que-codigo-conducta">
+  <article id="por-que-codigo-conducta" class="text-lg">
     <h2 class="mb-3 text-2xl font-bold text-primary">
       <a href="#por-que-codigo-conducta">
         {{ _("¿Por qué un código de conducta?")}}
@@ -40,7 +40,7 @@
     </h2>
     <p>
       {{
-      _("Siguiendo con el zen de Python, explícito mejor que implícito. Explicitar qué se espera del ambiente en"
+      _("Siguiendo con el zen de Python, explícito mejor que implícito. Explicitar qué se espera del ambiente en "
       "cualquier evento de Python España:"
       )
       }}
@@ -50,29 +50,29 @@
       <li>{{ _("Evita ambigüedades")}}</li>
       <li>
         {{
-        _("Construye un clima de confianza, donde si alguien quiere reportar un incidente, sabrá que no empezaremos"
+        _("Construye un clima de confianza, donde si alguien quiere reportar un incidente, sabrá que no empezaremos "
         "por cuestionarle (victim blaming)."
         )
         }}
       </li>
     </ul>
   </article>
-  <article id="alcance">
+  <article id="alcance" class="text-lg">
     <h2 class="mb-3 text-2xl font-bold text-primary">
       <a href="#alcance">
         {{ _("Alcance")}}
       </a>
     </h2>
     <p>
-      {{ _("Este código de conducta es aplicable a todas las personas"
-      "que participen en espacios de la comunidad de Python España, ya sean en línea o presenciales."
-      "También se aplica a espacios públicos donde una persona esté en representación de la comunidad."
-      "Ejemplos de esto último incluyen el uso de la cuenta oficial de correo electrónico, publicaciones"
+      {{ _("Este código de conducta es aplicable a todas las personas "
+      "que participen en espacios de la comunidad de Python España, ya sean en línea o presenciales. "
+      "También se aplica a espacios públicos donde una persona esté en representación de la comunidad. "
+      "Ejemplos de esto último incluyen el uso de la cuenta oficial de correo electrónico, publicaciones "
       "a través de las redes sociales oficiales, o presentaciones con personas designadas en eventos en línea o no."
       )}}
     </p>
   </article>
-  <article id="nuestros-estandares">
+  <article id="nuestros-estandares" class="text-lg">
     <h2 class="mb-3 text-2xl font-bold text-primary">
       <a href="#nuestros-estandares">
         {{ _("Nuestros estándares") }}
@@ -81,26 +81,26 @@
     <p>{{ _("Ejemplos de comportamiento que contribuyen a crear un ambiente positivo para nuestra comunidad:")}}</p>
     <ul class="ml-8 list-disc">
       <li>
-        {{ _("Demostrar empatía y amabilidad ante otras personas. No insultes o humilles a otros asistentes."
+        {{ _("Demostrar empatía y amabilidad ante otras personas. No insultes o humilles a otros asistentes. "
         "Recuerda que las bromas sexistas, racistas o discriminatorias no son apropiadas. Nunca lo son."
         )}}
       </li>
       <li>{{ _("Respetar las diferentes opiniones, puntos de vista y experiencias")}}</li>
       <li>{{ _("Dar y aceptar adecuadamente críticas constructivas")}}</li>
       <li>
-        {{ _("Aceptar la responsabilidad y disculparse ante quienes se vean afectados por nuestros errores,"
+        {{ _("Aceptar la responsabilidad y disculparse ante quienes se vean afectados por nuestros errores, "
         "aprendiendo de la experiencia"
         )}}
       </li>
       <li>
-        {{ _("Centrarse en lo que sea mejor no sólo para nosotros como individuos, sino para la comunidad"
+        {{ _("Centrarse en lo que sea mejor no sólo para nosotros como individuos, sino para la comunidad "
         "en general"
         )}}
       </li>
       <li>{{ _("Usar un lenguaje inclusivo y que dé cabida a una audiencia diversa")}}</li>
       <li>{{ _("Prestar especial atención a las personas que recién llegan a la comunidad")}}</li>
       <li>
-        {{ _("Presentarte con tus pronombres y preguntarle a otra persona los suyos para que exista"
+        {{ _("Presentarte con tus pronombres y preguntarle a otra persona los suyos para que exista "
         "una comunicación clara y sin sesgo"
         )}}
       </li>
@@ -120,49 +120,49 @@
         {{ _("El acoso en público o privado") }}
       </li>
       <li>
-        {{ _("Publicar información privada de otras personas, tales como direcciones físicas o de correo electrónico,"
+        {{ _("Publicar información privada de otras personas, tales como direcciones físicas o de correo electrónico, "
         "sin su permiso explícito")}}
       </li>
       <li>
         {{_("Otras conductas que puedan ser razonablemente consideradas como inapropiadas en un entorno profesional")}}
       </li>
     </ul>
-    <p class="mt-3">{{ _("Por acoso se entiende comentarios ofensivos relacionados con género, orientación sexual,"
-      "discapacidad, apariencia física, tamaño corporal, etnia o religión, pornografía en espacios públicos,"
-      "intimidación deliberada, acecho, persecución, acoso por fotografías o grabaciones, constante interrupción de"
+    <p class="mt-3">{{ _("Por acoso se entiende comentarios ofensivos relacionados con género, orientación sexual, "
+      "discapacidad, apariencia física, tamaño corporal, etnia o religión, pornografía en espacios públicos, "
+      "intimidación deliberada, acecho, persecución, acoso por fotografías o grabaciones, constante interrupción de "
       "charlas u otros eventos, contacto físico inapropiado y atención sexual no deseada.") }}
     </p>
   </article>
-  <article id="cumplimiento">
+  <article id="cumplimiento" class="text-lg">
     <h2 class="mb-3 text-2xl font-bold text-primary">
       <a href="#cumplimiento">
         {{ _("Cumplimiento") }}
       </a>
     </h2>
-    <p>{{ _("La administración de la comunidad es responsable de aclarar y hacer cumplir este código de conducta; en"
-      "caso de que se determine un comportamiento inadecuado, tomará las acciones que considere oportunas. Éstas van"
-      "desde exigir el cese del comportamiento, hasta la expulsión de una persona de un evento o de la Asociación, sin"
-      "derecho a reembolso. La administración de la comunidad tendrá el derecho y la responsabilidad de eliminar,"
-      "editar o rechazar mensajes, comentarios, código, ediciones de páginas de wiki, tickets y otras contribuciones"
-      "que no se alineen con este código de conducta, y comunicará las razones para sus decisiones de moderación cuando"
-      "sea apropiado."
+    <p>{{ _("La administración de la comunidad es responsable de aclarar y hacer cumplir este código de conducta; en "
+      "caso de que se determine un comportamiento inadecuado, tomará las acciones que considere oportunas. Éstas van "
+      "desde exigir el cese del comportamiento, hasta la expulsión de una persona de un evento o de la Asociación, sin "
+      "derecho a reembolso. La administración de la comunidad tendrá el derecho y la responsabilidad de eliminar, "
+      "editar o rechazar mensajes, comentarios, código, ediciones de páginas de wiki, tickets y otras contribuciones "
+      "que no se alineen con este código de conducta, y comunicará las razones para sus decisiones de moderación "
+      "cuando sea apropiado."
       ) }}</p>
   </article>
-  <article id="denuncia-informacion-contacto">
+  <article id="denuncia-informacion-contacto" class="text-lg">
     <h2 class="mb-3 text-2xl font-bold text-primary">
       <a href="#denuncia-informacion-contacto">
         {{ _("Denuncia e información de contacto") }}
       </a>
     </h2>
     <p>
-      {{ _("Los casos de comportamiento abusivo, acosador o inaceptable de otro modo podrán ser denunciados a las"
+      {{ _("Los casos de comportamiento abusivo, acosador o inaceptable de otro modo podrán ser denunciados a las "
       "personas administradoras de la comunidad responsables del cumplimiento:") }}
     </p>
     <ul class="ml-8 list-disc">
       <li>
-        {{ _("Si es un evento presencial, ponte en contacto directamente con las personas organizadoras del evento. Es"
-        "muy probable que hayan publicando un código de conducta específico del evento con instrucciones de a quién"
-        "acudir; te proporcionarán un espacio seguro para ayudarte.") }}
+        {{ _("Si es un evento presencial, ponte en contacto directamente con las personas organizadoras del evento. "
+        "Es muy probable que hayan publicando un código de conducta específico del evento con instrucciones de a "
+        "quién acudir; te proporcionarán un espacio seguro para ayudarte.") }}
       </li>
       <li>
         {{ _("Si se trata de un espacio en línea, ponte en contacto con las personas moderadoras de ese espacio.") }}
@@ -182,11 +182,11 @@
       </li>
     </ul>
     <p class="my-3">
-      {{ _("Todas las personas administradoras de la comunidad están obligadas a respetar la privacidad y la seguridad"
+      {{ _("Todas las personas administradoras de la comunidad están obligadas a respetar la privacidad y la seguridad "
       "de quienes denuncien incidentes.") }}
     </p>
   </article>
-  <article id="atribucion">
+  <article id="atribucion" class="text-lg">
     <h2 class="mb-3 text-2xl font-bold text-primary">
       <a href="#atribucion">
         {{ _("Atribución") }}
@@ -195,7 +195,8 @@
     <p> {{ _("Este código de conducta extiende el ya existente con aportaciones de otros códigos:") }}</p>
     <ul class="ml-8 list-disc">
       <li>
-        <a class="text-primary hover:opacity-65" href="https://www.contributor-covenant.org/es/version/2/0/code_of_conduct/">
+        <a class="text-primary hover:opacity-65"
+          href="https://www.contributor-covenant.org/es/version/2/0/code_of_conduct/">
           {{ _("versión en español del Contributor Covenant 2.0") }}
         </a>
       </li>
