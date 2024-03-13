@@ -1,0 +1,33 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: pycones 24\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-03-12 00:38+CET\n"
+"PO-Revision-Date: 2024-03-11 00:54+CET\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: https://2024.es.pycon.org/ (content/contents+es.lr:page.dates_event)
+msgid "4, 5 y 6 de octubre"
+msgstr ""
+
+#: https://2024.es.pycon.org/ (content/contents+es.lr:page.hero_text)
+msgid ""
+"Os damos la bienvenida a la **PyConES**, la **conferencia de Python más "
+"importante de España**."
+msgstr ""
+
+#: https://2024.es.pycon.org/ (content/contents+es.lr:page.description_text)
+msgid ""
+"Un evento que reunirá a cientos de entusiastas del lenguaje de programación "
+"Python,"
+msgstr ""
+
+#: https://2024.es.pycon.org/ (content/contents+es.lr:page.description_text)
+msgid "con una agenda increíble en la mejor localización posible."
+msgstr ""

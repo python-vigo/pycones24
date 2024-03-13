@@ -1,0 +1,44 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: pycones 24\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-03-12 00:38+CET\n"
+"PO-Revision-Date: 2024-03-12 00:37+0100\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.4.2\n"
+
+#: https://2024.es.pycon.org/ (content/contents+es.lr:page.dates_event)
+msgid "4, 5 y 6 de octubre"
+msgstr "October 4th, 5th and 6th"
+
+#: https://2024.es.pycon.org/ (content/contents+es.lr:page.hero_text)
+msgid ""
+"Os damos la bienvenida a la **PyConES**, la **conferencia de Python más "
+"importante de España**."
+msgstr ""
+"Welcome to **PyConES**, the **most important Python conference in Spain**."
+
+#: https://2024.es.pycon.org/ (content/contents+es.lr:page.description_text)
+msgid ""
+"Un evento que reunirá a cientos de entusiastas del lenguaje de programación "
+"Python,"
+msgstr ""
+"An event that will bring together hundreds of enthusiasts of the Python "
+"programming language,"
+
+#: https://2024.es.pycon.org/ (content/contents+es.lr:page.description_text)
+msgid "con una agenda increíble en la mejor localización posible."
+msgstr "with an incredible agenda in the best possible location."
+
+#~ msgid ""
+#~ "ágina web de la PyConES 2024 en Vigo, Galicia. La conferencia de Python "
+#~ "más importante de España."
+#~ msgstr ""
+#~ "ágina web de la PyConES 2024 en Vigo, Galicia. La conferencia de Python "
+#~ "más importante de España."

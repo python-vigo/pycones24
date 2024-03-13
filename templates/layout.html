@@ -1,8 +1,16 @@
 <!doctype html>
-<html lang="es">
+<html lang="{{ this.alt }}">
   <head>
     <meta charset="utf-8">
-    <meta name="description" content="Página web de la PyConES 2024 en Vigo, Galicia. La conferencia de Python más importante de España.">
+    <meta name="description"
+      {% if this.alt == "en" %}
+        content="Website of PyConES 2024 in Vigo, Galicia. The most important Python conference in Spain."
+      {% elif this.alt == "gl" %}
+        content="Páxina web da PyConES 2024 en Vigo, Galicia. A conferencia de Python máis importante de España."
+      {% else %}
+        content="Página web de la PyConES 2024 en Vigo, Galicia. La conferencia de Python más importante de España."
+      {% endif %}
+    >
     <meta name="viewport" content="width=device-width" />
     <title>PyConES 2024 Vigo {% block title %}{% endblock title %}</title>
     <link rel="stylesheet" href="{{ '/static/style.css'|url }}" >

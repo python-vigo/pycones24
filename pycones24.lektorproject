@@ -10,3 +10,19 @@ target = ghpages+https://python-vigo/pycones24?cname=2024.es.pycon.org
 
 [packages]
 lektor-tailwind = 0.1.2
+lektor-i18n = 0.4.4
+
+[alternatives.es]
+name = Spanish
+primary = yes
+locale = es
+
+[alternatives.en]
+name = English
+url_prefix = /en/
+locale = en_US
+
+[alternatives.gl]
+name = Galician
+url_prefix = /gal/
+locale = gl
