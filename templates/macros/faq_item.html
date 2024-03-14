@@ -1,0 +1,9 @@
+{% macro faq_item(title, description, secondary_description="") %}
+    <details class="mb-5 border-t-[1px] border-primary">
+        <summary class="pt-2 mb-4 text-xl">{{ title }}</summary>
+        <p class="ml-5 text-md">{{ description }}</p>
+        {% if secondary_description %}
+          <p class="mt-3 ml-5 text-md">{{ secondary_description }}</p>
+        {% endif %}
+    </details>
+{% endmacro %}
