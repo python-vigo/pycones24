@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pycones 24\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-03-13 01:29+CET\n"
-"PO-Revision-Date: 2024-03-12 00:38+0100\n"
+"POT-Creation-Date: 2024-03-14 01:11+CET\n"
+"PO-Revision-Date: 2024-03-14 01:10+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: gl\n"
@@ -36,11 +36,11 @@ msgstr ""
 msgid "con una agenda increíble en la mejor localización posible."
 msgstr "cunha axenda incrible na mellor localización posible."
 
-#: templates/code_conduct.html:7
+#: (dynamic)
 msgid "Código conducta"
-msgstr ""
+msgstr "Código conduta"
 
-#: templates/code_conduct.html:10
+#: (dynamic)
 msgid ""
 "Python España, como asociación en torno a la que se organizan eventos de "
 "distintos tipos, quiere asegurar que todas las personas que participen en "
@@ -48,8 +48,13 @@ msgid ""
 "positiva de aprendizaje, colaboración u ocio. Para ello, se espera que quien "
 "participe en la comunidad muestre respeto y cortesía hacia el resto."
 msgstr ""
+"Python España, como asociación ao redor da que se organizan eventos de "
+"distintos tipos, quere asegurar que todas as persoas que participen nos "
+"devanditos eventos ou comunicacións teñan unha experiencia profesional e "
+"positiva de aprendizaxe, colaboración ou lecer. Para iso, espérase que quen "
+"participe na comunidade mostre respecto e cortesía cara ao resto."
 
-#: templates/code_conduct.html:20
+#: (dynamic)
 msgid ""
 "Al participar en la comunidad de Python España, te comprometes a fomentar "
 "una experiencia libre de acoso para todo el mundo, independientemente de la "
@@ -58,43 +63,56 @@ msgid ""
 "experiencia, educación, nivel socio-económico, nacionalidad, apariencia "
 "personal, raza, religión, o identidad u orientación sexual."
 msgstr ""
+"Ao participar na comunidade de Python España, comprométesche a fomentar unha "
+"experiencia libre de acoso para todo o mundo, independentemente da idade, "
+"dimensión corporal, discapacidade visible ou invisible, etnicidad, "
+"características sexuais, identidade e expresión de xénero, nivel de "
+"experiencia, educación, nivel socio-económico, nacionalidade, aparencia "
+"persoal, raza, relixión, ou identidade ou orientación sexual."
 
-#: templates/code_conduct.html:29
+#: (dynamic)
 msgid ""
 "Este Código de Conducta detalla qué comportamientos se esperan, cuáles se "
 "rechazan y qué mecanismos hay para ayudar a una persona que esté siendo "
 "objeto de comportamientos inadecuados."
 msgstr ""
+"Este Código de Conduta detalla que comportamentos espéranse, cales se "
+"rexeitan e que mecanismos hai para axudar a unha persoa que estea a ser "
+"obxecto de comportamentos inadecuados."
 
-#: templates/code_conduct.html:38
+#: (dynamic)
 msgid "¿Por qué un código de conducta?"
-msgstr ""
+msgstr "Por que un código de conduta?"
 
-#: templates/code_conduct.html:43
+#: (dynamic)
 msgid ""
 "Siguiendo con el zen de Python, explícito mejor que implícito. Explicitar "
 "qué se espera del ambiente en cualquier evento de Python España:"
 msgstr ""
+"Seguindo co zen de Python, explícito mellor que implícito. Explicitar que se "
+"espera do ambiente en calquera evento de Python España:"
 
-#: templates/code_conduct.html:49
+#: (dynamic)
 msgid "Favorece que más personas sepan que son bienvenidas"
-msgstr ""
+msgstr "Favorece que máis persoas saiban que son benvidas"
 
-#: templates/code_conduct.html:50
+#: (dynamic)
 msgid "Evita ambigüedades"
-msgstr ""
+msgstr "Evita ambigüidades"
 
-#: templates/code_conduct.html:53
+#: (dynamic)
 msgid ""
 "Construye un clima de confianza, donde si alguien quiere reportar un "
 "incidente, sabrá que no empezaremos por cuestionarle (victim blaming)."
 msgstr ""
+"Constrúe un clima de confianza, onde se alguén quere reportar un incidente, "
+"saberá que non empezaremos por cuestionarlle (victim blaming)."
 
-#: templates/code_conduct.html:63
+#: (dynamic)
 msgid "Alcance"
-msgstr ""
+msgstr "Alcance"
 
-#: templates/code_conduct.html:67
+#: (dynamic)
 msgid ""
 "Este código de conducta es aplicable a todas las personas que participen en "
 "espacios de la comunidad de Python España, ya sean en línea o presenciales. "
@@ -104,96 +122,122 @@ msgid ""
 "sociales oficiales, o presentaciones con personas designadas en eventos en "
 "línea o no."
 msgstr ""
+"Este código de conduta é aplicable a todas as persoas que participen en "
+"espazos da comunidade de Python España, xa sexan en liña ou presenciais. "
+"Tamén se aplica a espazos públicos onde unha persoa estea en representación "
+"da comunidade. Exemplos disto último inclúen o uso da conta oficial de "
+"correo electrónico, publicacións a través das redes sociais oficiais, ou "
+"presentacións con persoas designadas en eventos en liña ou non."
 
-#: templates/code_conduct.html:78
+#: (dynamic)
 msgid "Nuestros estándares"
-msgstr ""
+msgstr "Os nosos estándares"
 
-#: templates/code_conduct.html:81
+#: (dynamic)
 msgid ""
 "Ejemplos de comportamiento que contribuyen a crear un ambiente positivo para "
 "nuestra comunidad:"
 msgstr ""
+"Exemplos de comportamento que contribúen a crear un ambiente positivo para a "
+"nosa comunidade:"
 
-#: templates/code_conduct.html:84
+#: (dynamic)
 msgid ""
 "Demostrar empatía y amabilidad ante otras personas. No insultes o humilles a "
 "otros asistentes. Recuerda que las bromas sexistas, racistas o "
 "discriminatorias no son apropiadas. Nunca lo son."
 msgstr ""
+"Demostrar empatía e amabilidade ante outras persoas. Non insultes ou "
+"humilles a outros asistentes. Lembra que as bromas sexistas, racistas ou "
+"discriminatorias non son apropiadas. Nunca o son."
 
-#: templates/code_conduct.html:88
+#: (dynamic)
 msgid "Respetar las diferentes opiniones, puntos de vista y experiencias"
-msgstr ""
+msgstr "Respectar as diferentes opinións, puntos de vista e experiencias"
 
-#: templates/code_conduct.html:89
+#: (dynamic)
 msgid "Dar y aceptar adecuadamente críticas constructivas"
-msgstr ""
+msgstr "Dar e aceptar adecuadamente críticas construtivas"
 
-#: templates/code_conduct.html:91
+#: (dynamic)
 msgid ""
 "Aceptar la responsabilidad y disculparse ante quienes se vean afectados por "
 "nuestros errores, aprendiendo de la experiencia"
 msgstr ""
+"Aceptar a responsabilidade e desculparse ante quen se vexa afectados polos "
+"nosos erros, aprendendo da experiencia"
 
-#: templates/code_conduct.html:96
+#: (dynamic)
 msgid ""
 "Centrarse en lo que sea mejor no sólo para nosotros como individuos, sino "
 "para la comunidad en general"
 msgstr ""
+"Centrarse no que sexa mellor non só para nós como individuos, senón para a "
+"comunidade en xeral"
 
-#: templates/code_conduct.html:100
+#: (dynamic)
 msgid "Usar un lenguaje inclusivo y que dé cabida a una audiencia diversa"
-msgstr ""
+msgstr "Usar unha linguaxe inclusiva e que dea cabida a unha audiencia diversa"
 
-#: templates/code_conduct.html:101
+#: (dynamic)
 msgid ""
 "Prestar especial atención a las personas que recién llegan a la comunidad"
 msgstr ""
+"Prestar especial atención ás persoas que recentemente chegan á comunidade"
 
-#: templates/code_conduct.html:103
+#: (dynamic)
 msgid ""
 "Presentarte con tus pronombres y preguntarle a otra persona los suyos para "
 "que exista una comunicación clara y sin sesgo"
 msgstr ""
+"Presentarche cos teus pronomes e preguntarlle a outra persoa os seus para "
+"que exista unha comunicación clara e sen rumbo"
 
-#: templates/code_conduct.html:108
+#: (dynamic)
 msgid "Ejemplos de comportamiento inaceptable"
-msgstr ""
+msgstr "Exemplos de comportamento inaceptable"
 
-#: templates/code_conduct.html:111
+#: (dynamic)
 msgid ""
 "El uso de lenguaje o imágenes sexualizadas, y aproximaciones o atenciones "
 "sexuales de cualquier tipo"
 msgstr ""
+"O uso de linguaxe ou imaxes sexualizadas, e aproximacións ou atencións "
+"sexuais de calquera tipo"
 
-#: templates/code_conduct.html:114
+#: (dynamic)
 msgid ""
 "Comentarios despectivos trolling, insultantes o derogatorios, y ataques "
 "personales o políticos"
 msgstr ""
+"Comentarios despectivos trolling, insultantes ou derrogatorios, e ataques "
+"persoais ou políticos"
 
-#: templates/code_conduct.html:117
+#: (dynamic)
 msgid "Bromas racistas, sexistas o excluyentes"
-msgstr ""
+msgstr "Bromas racistas, sexistas ou excluíntes"
 
-#: templates/code_conduct.html:120
+#: (dynamic)
 msgid "El acoso en público o privado"
-msgstr ""
+msgstr "O acoso en público ou privado"
 
-#: templates/code_conduct.html:123
+#: (dynamic)
 msgid ""
 "Publicar información privada de otras personas, tales como direcciones "
 "físicas o de correo electrónico, sin su permiso explícito"
 msgstr ""
+"Publicar información privada doutras persoas, tales como direccións físicas "
+"ou de correo electrónico, sen o seu permiso explícito"
 
-#: templates/code_conduct.html:127
+#: (dynamic)
 msgid ""
 "Otras conductas que puedan ser razonablemente consideradas como inapropiadas "
 "en un entorno profesional"
 msgstr ""
+"Outras condutas que poidan ser razoablemente consideradas como inapropiadas "
+"nunha contorna profesional"
 
-#: templates/code_conduct.html:130
+#: (dynamic)
 msgid ""
 "Por acoso se entiende comentarios ofensivos relacionados con género, "
 "orientación sexual, discapacidad, apariencia física, tamaño corporal, etnia "
@@ -202,12 +246,18 @@ msgid ""
 "interrupción de charlas u otros eventos, contacto físico inapropiado y "
 "atención sexual no deseada."
 msgstr ""
+"Por acoso enténdese comentarios ofensivos relacionados con xénero, "
+"orientación sexual, discapacidade, aparencia física, tamaño corporal, etnia "
+"ou relixión, pornografía en espazos públicos, intimidación deliberada, "
+"espreita, persecución, acoso por fotografías ou gravacións, constante "
+"interrupción de charlas ou outros eventos, contacto físico inapropiado e "
+"atención sexual non desexada."
 
-#: templates/code_conduct.html:139
+#: (dynamic)
 msgid "Cumplimiento"
-msgstr ""
+msgstr "Cumprimento"
 
-#: templates/code_conduct.html:142
+#: (dynamic)
 msgid ""
 "La administración de la comunidad es responsable de aclarar y hacer cumplir "
 "este código de conducta; en caso de que se determine un comportamiento "
@@ -220,73 +270,110 @@ msgid ""
 "conducta, y comunicará las razones para sus decisiones de moderación cuando "
 "sea apropiado."
 msgstr ""
+"A administración da comunidade é responsable de aclarar e facer cumprir este "
+"código de conduta; no caso de que se determine un comportamento inadecuado, "
+"tomará as accións que considere oportunas. Estas van desde esixir o "
+"cesamento do comportamento, ata a expulsión dunha persoa dun evento ou da "
+"Asociación, sen dereito a reembolso. A administración da comunidade terá o "
+"dereito e a responsabilidade de eliminar, editar ou rexeitar mensaxes, "
+"comentarios, código, edicións de páxinas de wiki, tickets e outras "
+"contribucións que non se aliñen con este código de conduta, e comunicará as "
+"razóns para as súas decisións de moderación cando sexa apropiado."
 
-#: templates/code_conduct.html:154
+#: (dynamic)
 msgid "Denuncia e información de contacto"
-msgstr ""
+msgstr "Denuncia e información de contacto"
 
-#: templates/code_conduct.html:158
+#: (dynamic)
 msgid ""
 "Los casos de comportamiento abusivo, acosador o inaceptable de otro modo "
 "podrán ser denunciados a las personas administradoras de la comunidad "
 "responsables del cumplimiento:"
 msgstr ""
+"Os casos de comportamento abusivo, acosador ou inaceptable doutro xeito "
+"poderán ser denunciados ás persoas administradoras da comunidade "
+"responsables do cumprimento:"
 
-#: templates/code_conduct.html:163
+#: (dynamic)
 msgid ""
 "Si es un evento presencial, ponte en contacto directamente con las personas "
 "organizadoras del evento. Es muy probable que hayan publicando un código de "
 "conducta específico del evento con instrucciones de a quién acudir; te "
 "proporcionarán un espacio seguro para ayudarte."
 msgstr ""
+"Se é un evento presencial, ponche en contacto directamente coas persoas "
+"organizadoras do evento. É moi probable que haxan publicando un código de "
+"conduta específico do evento con instrucións da quen acudir; "
+"proporcionaranche un espazo seguro para axudarche."
 
-#: templates/code_conduct.html:168
+#: (dynamic)
 msgid ""
 "Si se trata de un espacio en línea, ponte en contacto con las personas "
 "moderadoras de ese espacio."
 msgstr ""
+"Se se trata dun espazo en liña, ponche en contacto coas persoas moderadoras "
+"dese espazo."
+
+#: (dynamic)
+msgid ""
+"En el foro de Discourse puedes denunciar publicaciones individuales o "
+"contactar con el"
+msgstr ""
+
+#: (dynamic)
+msgid "grupo de moderación"
+msgstr "grupo de moderación"
+
+#: (dynamic)
+msgid ""
+"En Telegram, a la persona propietaria del grupo u otras administradoras."
+msgstr "En Telegram, á persoa propietaria do grupo ou outras administradoras."
+
+#: (dynamic)
+msgid ""
+"Para otros espacios o de forma alternativa, ponte en contacto con la Junta "
+"Directiva en"
+msgstr ""
+
+#: (dynamic)
+msgid ""
+"Todas las personas administradoras de la comunidad están obligadas a "
+"respetar la privacidad y la seguridad de quienes denuncien incidentes."
+msgstr ""
+"Todas as persoas administradoras da comunidade están obrigadas a respectar a "
+"privacidade e a seguridade de quen denuncie incidentes."
+
+#: (dynamic)
+msgid "Atribución"
+msgstr "Atribución"
+
+#: (dynamic)
+msgid ""
+"Este código de conducta extiende el ya existente con aportaciones de otros "
+"códigos:"
+msgstr ""
+"Este código de conduta estende o xa existente con achegas doutros códigos:"
+
+#: (dynamic)
+msgid "versión en español del Contributor Covenant 2.0"
+msgstr "versión en español do Contributor Covenant 2.0"
+
+#: (dynamic)
+msgid "código de conducta de DjangoCon Europe 2020"
+msgstr "código de conduta de DjangoCon Europe 2020"
 
 #: templates/code_conduct.html:171
 msgid ""
 "En el foro de Discourse puedes denunciar publicaciones individuales o "
 "contactar con el "
 msgstr ""
-
-#: templates/code_conduct.html:173
-msgid "grupo de moderación"
-msgstr ""
-
-#: templates/code_conduct.html:177
-msgid ""
-"En Telegram, a la persona propietaria del grupo u otras administradoras."
-msgstr ""
+"No foro de Discourse podes denunciar publicacións individuais ou contactar "
+"co "
 
 #: templates/code_conduct.html:180
 msgid ""
 "Para otros espacios o de forma alternativa, ponte en contacto con la Junta "
 "Directiva en "
 msgstr ""
-
-#: templates/code_conduct.html:185
-msgid ""
-"Todas las personas administradoras de la comunidad están obligadas a "
-"respetar la privacidad y la seguridad de quienes denuncien incidentes."
-msgstr ""
-
-#: templates/code_conduct.html:192
-msgid "Atribución"
-msgstr ""
-
-#: templates/code_conduct.html:195
-msgid ""
-"Este código de conducta extiende el ya existente con aportaciones de otros "
-"códigos:"
-msgstr ""
-
-#: templates/code_conduct.html:200
-msgid "versión en español del Contributor Covenant 2.0"
-msgstr ""
-
-#: templates/code_conduct.html:205
-msgid "código de conducta de DjangoCon Europe 2020"
-msgstr ""
+"Para outros espazos ou de forma alternativa, ponche en contacto coa Xunta "
+"Directiva en "
