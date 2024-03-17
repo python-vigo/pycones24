@@ -5,7 +5,9 @@
 #    pip-compile requirements.in
 #
 babel==2.14.0
-    # via lektor
+    # via
+    #   -r requirements.in
+    #   lektor
 blinker==1.7.0
     # via flask
 certifi==2023.11.17
@@ -30,6 +32,7 @@ itsdangerous==2.1.2
     # via flask
 jinja2==3.1.2
     # via
+    #   -r requirements.in
     #   flask
     #   lektor
 lektor==3.3.10

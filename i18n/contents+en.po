@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pycones 24\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-03-12 00:38+CET\n"
-"PO-Revision-Date: 2024-03-12 00:37+0100\n"
+"POT-Creation-Date: 2024-03-14 01:11+CET\n"
+"PO-Revision-Date: 2024-03-13 01:30+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: en\n"
@@ -35,6 +35,341 @@ msgstr ""
 #: https://2024.es.pycon.org/ (content/contents+es.lr:page.description_text)
 msgid "con una agenda increíble en la mejor localización posible."
 msgstr "with an incredible agenda in the best possible location."
+
+#: (dynamic)
+msgid "Código conducta"
+msgstr "Code of Conduct"
+
+#: (dynamic)
+msgid ""
+"Python España, como asociación en torno a la que se organizan eventos de "
+"distintos tipos, quiere asegurar que todas las personas que participen en "
+"dichos eventos o comunicaciones tengan una experiencia profesional y "
+"positiva de aprendizaje, colaboración u ocio. Para ello, se espera que quien "
+"participe en la comunidad muestre respeto y cortesía hacia el resto."
+msgstr ""
+"Python Spain, as an association around which different types of events are "
+"organized, wants to ensure that all the people who participate in said "
+"events or communications have a professional and positive learning, "
+"collaboration or leisure experience. For this, it is expected that whoever "
+"participates in the community shows respect and courtesy towards the rest."
+
+#: (dynamic)
+msgid ""
+"Al participar en la comunidad de Python España, te comprometes a fomentar "
+"una experiencia libre de acoso para todo el mundo, independientemente de la "
+"edad, dimensión corporal, discapacidad visible o invisible, etnicidad, "
+"características sexuales, identidad y expresión de género, nivel de "
+"experiencia, educación, nivel socio-económico, nacionalidad, apariencia "
+"personal, raza, religión, o identidad u orientación sexual."
+msgstr ""
+"By participating in the Python Spain community, you commit to promoting a "
+"harassment-free experience for everyone, regardless of age, body size, "
+"visible or invisible disability, ethnicity, sexual characteristics, gender "
+"identity and expression, level of experience , education, socioeconomic "
+"status, national origin, personal appearance, race, religion, or sexual "
+"identity or orientation."
+
+#: (dynamic)
+msgid ""
+"Este Código de Conducta detalla qué comportamientos se esperan, cuáles se "
+"rechazan y qué mecanismos hay para ayudar a una persona que esté siendo "
+"objeto de comportamientos inadecuados."
+msgstr ""
+"This Code of Conduct details what behaviors are expected, what is rejected "
+"and what mechanisms exist to help a person who is being subjected to "
+"inappropriate behavior."
+
+#: (dynamic)
+msgid "¿Por qué un código de conducta?"
+msgstr "Why a code of conduct?"
+
+#: (dynamic)
+msgid ""
+"Siguiendo con el zen de Python, explícito mejor que implícito. Explicitar "
+"qué se espera del ambiente en cualquier evento de Python España:"
+msgstr ""
+"Sticking with Python zen, explicit better than implicit. Explain what is "
+"expected of the environment in any Python Spain event:"
+
+#: (dynamic)
+msgid "Favorece que más personas sepan que son bienvenidas"
+msgstr "Let more people know they are welcome"
+
+#: (dynamic)
+msgid "Evita ambigüedades"
+msgstr "Avoid ambiguities"
+
+#: (dynamic)
+msgid ""
+"Construye un clima de confianza, donde si alguien quiere reportar un "
+"incidente, sabrá que no empezaremos por cuestionarle (victim blaming)."
+msgstr ""
+"Build a climate of trust, where if someone wants to report an incident, they "
+"know that we will not start by questioning them (victim blaming)."
+
+#: (dynamic)
+msgid "Alcance"
+msgstr "Scope"
+
+#: (dynamic)
+msgid ""
+"Este código de conducta es aplicable a todas las personas que participen en "
+"espacios de la comunidad de Python España, ya sean en línea o presenciales. "
+"También se aplica a espacios públicos donde una persona esté en "
+"representación de la comunidad. Ejemplos de esto último incluyen el uso de "
+"la cuenta oficial de correo electrónico, publicaciones a través de las redes "
+"sociales oficiales, o presentaciones con personas designadas en eventos en "
+"línea o no."
+msgstr ""
+"This code of conduct is applicable to all people who participate in spaces "
+"of the Python Spain community, whether online or in person. It also applies "
+"to public spaces where a person is representing the community. Examples of "
+"the latter include the use of the official email account, publications "
+"through official social networks, or presentations with designated persons "
+"at online or offline events. Our standards."
+
+#: (dynamic)
+msgid "Nuestros estándares"
+msgstr "Our standards"
+
+#: (dynamic)
+msgid ""
+"Ejemplos de comportamiento que contribuyen a crear un ambiente positivo para "
+"nuestra comunidad:"
+msgstr ""
+"Examples of behavior that contribute to creating a positive environment for "
+"our community:"
+
+#: (dynamic)
+msgid ""
+"Demostrar empatía y amabilidad ante otras personas. No insultes o humilles a "
+"otros asistentes. Recuerda que las bromas sexistas, racistas o "
+"discriminatorias no son apropiadas. Nunca lo son."
+msgstr ""
+"Show empathy and kindness to other people. Do not insult or humiliate other "
+"attendees. Remember that sexist, racist or discriminatory jokes are not "
+"appropriate. They never are."
+
+#: (dynamic)
+msgid "Respetar las diferentes opiniones, puntos de vista y experiencias"
+msgstr "Respect different opinions, points of view and experiences"
+
+#: (dynamic)
+msgid "Dar y aceptar adecuadamente críticas constructivas"
+msgstr "Appropriately give and accept constructive criticism"
+
+#: (dynamic)
+msgid ""
+"Aceptar la responsabilidad y disculparse ante quienes se vean afectados por "
+"nuestros errores, aprendiendo de la experiencia"
+msgstr ""
+"Accept responsibility and apologize to those affected by our mistakes, "
+"learning from experience"
+
+#: (dynamic)
+msgid ""
+"Centrarse en lo que sea mejor no sólo para nosotros como individuos, sino "
+"para la comunidad en general"
+msgstr ""
+"Focus on what is best for not only us as individuals, but for the community "
+"as a whole"
+
+#: (dynamic)
+msgid "Usar un lenguaje inclusivo y que dé cabida a una audiencia diversa"
+msgstr "Use language that is inclusive and accommodates a diverse audience"
+
+#: (dynamic)
+msgid ""
+"Prestar especial atención a las personas que recién llegan a la comunidad"
+msgstr "Pay special attention to people who are new to the community"
+
+#: (dynamic)
+msgid ""
+"Presentarte con tus pronombres y preguntarle a otra persona los suyos para "
+"que exista una comunicación clara y sin sesgo"
+msgstr ""
+"Introduce yourself with your pronouns and ask another person for theirs so "
+"that there is clear and unbiased communication"
+
+#: (dynamic)
+msgid "Ejemplos de comportamiento inaceptable"
+msgstr "Examples of unacceptable behavior"
+
+#: (dynamic)
+msgid ""
+"El uso de lenguaje o imágenes sexualizadas, y aproximaciones o atenciones "
+"sexuales de cualquier tipo"
+msgstr ""
+"The use of sexualized language or images, and sexual approaches or attention "
+"of any kind"
+
+#: (dynamic)
+msgid ""
+"Comentarios despectivos trolling, insultantes o derogatorios, y ataques "
+"personales o políticos"
+msgstr ""
+"Derogatory trolling, insulting or derogatory comments, and personal or "
+"political attacks"
+
+#: (dynamic)
+msgid "Bromas racistas, sexistas o excluyentes"
+msgstr "Racist, sexist or exclusionary jokes"
+
+#: (dynamic)
+msgid "El acoso en público o privado"
+msgstr "Harassment in public or private"
+
+#: (dynamic)
+msgid ""
+"Publicar información privada de otras personas, tales como direcciones "
+"físicas o de correo electrónico, sin su permiso explícito"
+msgstr ""
+"Posting other people's private information, such as physical or email "
+"addresses, without their explicit permission"
+
+#: (dynamic)
+msgid ""
+"Otras conductas que puedan ser razonablemente consideradas como inapropiadas "
+"en un entorno profesional"
+msgstr ""
+"Other conduct that may reasonably be considered inappropriate in a "
+"professional setting"
+
+#: (dynamic)
+msgid ""
+"Por acoso se entiende comentarios ofensivos relacionados con género, "
+"orientación sexual, discapacidad, apariencia física, tamaño corporal, etnia "
+"o religión, pornografía en espacios públicos, intimidación deliberada, "
+"acecho, persecución, acoso por fotografías o grabaciones, constante "
+"interrupción de charlas u otros eventos, contacto físico inapropiado y "
+"atención sexual no deseada."
+msgstr ""
+"Harassment means offensive comments related to gender, sexual orientation, "
+"disability, physical appearance, body size, ethnicity or religion, "
+"pornography in public spaces, deliberate intimidation, stalking, "
+"persecution, harassment by photographs or recordings, constant interruption "
+"of talks or other events , inappropriate physical contact and unwanted "
+"sexual attention."
+
+#: (dynamic)
+msgid "Cumplimiento"
+msgstr "Compliance"
+
+#: (dynamic)
+msgid ""
+"La administración de la comunidad es responsable de aclarar y hacer cumplir "
+"este código de conducta; en caso de que se determine un comportamiento "
+"inadecuado, tomará las acciones que considere oportunas. Éstas van desde "
+"exigir el cese del comportamiento, hasta la expulsión de una persona de un "
+"evento o de la Asociación, sin derecho a reembolso. La administración de la "
+"comunidad tendrá el derecho y la responsabilidad de eliminar, editar o "
+"rechazar mensajes, comentarios, código, ediciones de páginas de wiki, "
+"tickets y otras contribuciones que no se alineen con este código de "
+"conducta, y comunicará las razones para sus decisiones de moderación cuando "
+"sea apropiado."
+msgstr ""
+"The community administration is responsible for clarifying and enforcing "
+"this code of conduct; In the event that inappropriate behavior is "
+"determined, it will take the actions it deems appropriate. These range from "
+"demanding the cessation of the behavior, to the expulsion of a person from "
+"an event or from the Association, without the right to reimbursement. "
+"Community management shall have the right and responsibility to remove, "
+"edit, or reject messages, comments, code, wiki page edits, tickets, and "
+"other contributions that do not align with this code of conduct, and "
+"communicate the reasons for their decisions. moderation when appropriate."
+
+#: (dynamic)
+msgid "Denuncia e información de contacto"
+msgstr "Complaint and contact information"
+
+#: (dynamic)
+msgid ""
+"Los casos de comportamiento abusivo, acosador o inaceptable de otro modo "
+"podrán ser denunciados a las personas administradoras de la comunidad "
+"responsables del cumplimiento:"
+msgstr ""
+"Cases of abusive, harassing or otherwise unacceptable behavior may be "
+"reported to the community managers responsible for compliance:"
+
+#: (dynamic)
+msgid ""
+"Si es un evento presencial, ponte en contacto directamente con las personas "
+"organizadoras del evento. Es muy probable que hayan publicando un código de "
+"conducta específico del evento con instrucciones de a quién acudir; te "
+"proporcionarán un espacio seguro para ayudarte."
+msgstr ""
+"If it is an in-person event, contact the event organizers directly. They "
+"most likely have posted an event-specific code of conduct with instructions "
+"on who to go to; they will provide you with a safe space to help you."
+
+#: (dynamic)
+msgid ""
+"Si se trata de un espacio en línea, ponte en contacto con las personas "
+"moderadoras de ese espacio."
+msgstr ""
+"If it's an online space, get in touch with the moderators of that space."
+
+#: (dynamic)
+msgid ""
+"En el foro de Discourse puedes denunciar publicaciones individuales o "
+"contactar con el"
+msgstr "In the Discourse forum you can report individual posts or contact the"
+
+#: (dynamic)
+msgid "grupo de moderación"
+msgstr "moderation group"
+
+#: (dynamic)
+msgid ""
+"En Telegram, a la persona propietaria del grupo u otras administradoras."
+msgstr "In Telegram, to the person who owns the group or other administrators."
+
+#: (dynamic)
+msgid ""
+"Para otros espacios o de forma alternativa, ponte en contacto con la Junta "
+"Directiva en"
+msgstr "For other spaces or alternatively, contact the Board of Directors at"
+
+#: (dynamic)
+msgid ""
+"Todas las personas administradoras de la comunidad están obligadas a "
+"respetar la privacidad y la seguridad de quienes denuncien incidentes."
+msgstr ""
+"All community administrators are required to respect the privacy and "
+"security of those who report incidents."
+
+#: (dynamic)
+msgid "Atribución"
+msgstr "Attribution"
+
+#: (dynamic)
+msgid ""
+"Este código de conducta extiende el ya existente con aportaciones de otros "
+"códigos:"
+msgstr ""
+"This code of conduct extends the existing one with contributions from other "
+"codes:"
+
+#: (dynamic)
+msgid "versión en español del Contributor Covenant 2.0"
+msgstr "spanish version of Contributor Covenant 2.0"
+
+#: (dynamic)
+msgid "código de conducta de DjangoCon Europe 2020"
+msgstr "djangoCon Europe 2020 code of conduct"
+
+#: templates/code_conduct.html:171
+msgid ""
+"En el foro de Discourse puedes denunciar publicaciones individuales o "
+"contactar con el "
+msgstr "In the Discourse forum you can report individual posts or contact the"
+
+#: templates/code_conduct.html:180
+msgid ""
+"Para otros espacios o de forma alternativa, ponte en contacto con la Junta "
+"Directiva en "
+msgstr "For other spaces or alternatively, contact the Board of Directors at"
 
 #~ msgid ""
 #~ "ágina web de la PyConES 2024 en Vigo, Galicia. La conferencia de Python "
