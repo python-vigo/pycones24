@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pycones 24\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-03-21 20:20+CET\n"
+"POT-Creation-Date: 2024-03-21 20:53+CET\n"
 "PO-Revision-Date: 2024-03-13 01:30+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -35,6 +35,10 @@ msgstr ""
 #: https://2024.es.pycon.org/ (content/contents+es.lr:page.description_text)
 msgid "con una agenda increíble en la mejor localización posible."
 msgstr "with an incredible agenda in the best possible location."
+
+#: (dynamic)
+msgid "Entradas"
+msgstr ""
 
 #: (dynamic)
 msgid "Preguntas Frecuentes"
@@ -438,10 +442,6 @@ msgstr "spanish version of Contributor Covenant 2.0"
 #: (dynamic)
 msgid "código de conducta de DjangoCon Europe 2020"
 msgstr "djangoCon Europe 2020 code of conduct"
-
-#: (dynamic)
-msgid "Entradas"
-msgstr ""
 
 #: templates/code_conduct.html:171
 msgid ""
