@@ -1,3 +1,7 @@
-{% macro render_logo() %}
-    <img class="w-9/12 md:w-fit" src="{{ '/static/logo/horz-whitebackground.png'|asseturl }}" alt="Logo PyConES 24">
+{% macro render_logo(color) %}
+    {% if color == 'red' %}
+        <img class="w-9/12 md:w-fit" src="{{ '/static/logo/horz-whitebackground.png'|asseturl }}" alt="Logo PyConES 24">
+    {% elif color == 'white' %}
+        <img class="w-9/12 md:w-fit" src="{{ '/static/logo/logo-white.svg'|asseturl }}" alt="Logo PyConES 24">
+    {% endif %}
 {% endmacro %}
