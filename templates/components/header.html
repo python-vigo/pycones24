@@ -1,7 +1,9 @@
 {% from "macros/logo.html" import render_logo %}
 
-<header class="mt-12 mb-10 lg:mb-16">
+<header class="flex mt-12 mb-10 lg:mb-16 bg-primary">
   <figure class="flex justify-center lg:justify-start lg:ml-24 xl:ml-36">
     {{ render_logo() }}
   </figure>
+
+  <button class="mt-4 mr-32 ml-auto w-28 h-10 text-lg font-bold text-white bg-transparent rounded border-2 hover:bg-white bg-primary hover:text-primary">{{ _("Entradas") }}</button>
 </header>
