@@ -1,7 +1,7 @@
 {% from "macros/logo.html" import render_logo %}
 
-<header class="flex mb-10 lg:mb-16 bg-primary mt-0">
-  <figure class="flex justify-center lg:justify-start lg:ml-24 xl:ml-36 mt-4 mb-4">
+<header class="flex mt-0 mb-10 lg:mb-16 bg-primary">
+  <figure class="flex justify-center mt-4 mb-4 lg:justify-start lg:ml-24 xl:ml-36">
     {{ render_logo('white') }}
   </figure>
 
@@ -9,7 +9,7 @@
       {{ _("Entradas") }}
   </a>
 
-  <button class="flex justify-center items-center mt-4 ml-auto h-10 text-lg mr-12 ml-4">
+  <button class="flex justify-center items-center mt-4 mr-12 ml-4 ml-auto h-10 text-lg">
       <img src="/static/images/ham-icon.svg" alt="Menu" />
   </button>
 </header>
