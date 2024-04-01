@@ -429,10 +429,13 @@ msgstr "versión en español do Contributor Covenant 2.0"
 msgid "código de conducta de DjangoCon Europe 2020"
 msgstr "código de conduta de DjangoCon Europe 2020"
 
+<<<<<<< HEAD
 #: templates/faq.html:7
 msgid "Preguntas Frecuentes"
 msgstr ""
 
+=======
+>>>>>>> 4b2b022 (Primera versión CFP)
 #: templates/faq.html:8
 msgid "¿Cómo accedo al streaming?"
 msgstr ""
