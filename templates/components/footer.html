@@ -1,0 +1,39 @@
+{% from "macros/load_icon.html" import load_icon %}
+
+<footer class="flex flex-col justify-around gap-12 px-5 py-6 md:flex-row bg-secondary">
+    <nav class="text-xl text-white md:text-lg">
+        <ul>
+            <li>
+                <a href="{{ '/codigo-conducta'|url }}" class="cursor-pointer hover:underline">{{ _("Código de conducta") }}</a>
+            </li>
+        </ul>
+    </nav>
+    <div>
+        <ul class="grid grid-cols-6 gap-3 md:gap-5">
+            <li>
+                <a href="mailto:contacto@2024.es.pycon.org" target="_blank" class="fill-white hover:opacity-70">{{
+                    load_icon("icons/rrss-email-icon.html", "w-5") }}</a>
+            </li>
+            <li>
+                <a href="https://es.linkedin.com/company/python-espa%C3%B1a" target="_blank" class="w-2 fill-white hover:opacity-70">{{
+                    load_icon("icons/rrss-linkedin-icon.html", "w-5") }}</a>
+            </li>
+            <li>
+                <a href="https://fosstodon.org/@pycones" target="_blank" class="w-6 fill-white hover:opacity-70">{{
+                    load_icon("icons/rrss-mastodon-icon.html", "w-5") }}</a>
+            </li>
+            <li>
+                <a href="https://twitter.com/PyConES" target="_blank" class="w-6 fill-white hover:opacity-70">{{
+                    load_icon("icons/rrss-twitter-icon.html", "w-5") }}</a>
+            </li>
+            <li>
+                <a href="https://instagram.com/pycon_es" target="_blank" class="w-6 fill-white hover:opacity-70">{{
+                    load_icon("icons/rrss-instagram-icon.html", "w-5") }}</a>
+            </li>
+            <li>
+                <a href="https://www.youtube.com/@PythonES" target="_blank" class="w-6 fill-white hover:opacity-70">{{
+                    load_icon("icons/rrss-youtube-icon.html", "w-5") }}</a>
+            </li>
+        </ul>
+    </div>
+</footer>
