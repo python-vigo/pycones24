@@ -24,9 +24,12 @@
     <meta name="google-site-verification" content="ggr-BOSKTnIjcxjkkreUx5oqxBWojqS-iDhnE8ovQAk" />
   </head>
   <body >
-    {% include "components/header.html" %}
-    <main>
-      {% block body %}{% endblock %}
-    </main>
+    {% block body %}
+    <header class="flex mt-0 mb-10 lg:mb-16 bg-primary">
+      {% include "components/header.html" %}
+    </header>
+    <main>{% block main_content %} {% endblock main_content %}</main>
+    {% endblock %}
+    {% include "components/footer.html" %}
   </body>
 </html>

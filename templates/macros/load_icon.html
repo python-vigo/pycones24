@@ -1,0 +1,5 @@
+{% macro load_icon(name_template, class_size) %}
+    <div class="{{ class_size }}">
+        {% include name_template %}
+    </div>
+{% endmacro %}

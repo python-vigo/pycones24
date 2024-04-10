@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pycones 24\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-03-21 21:20+CET\n"
+"POT-Creation-Date: 2024-04-09 00:39+CET\n"
 "PO-Revision-Date: 2024-03-13 01:30+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -12,6 +12,69 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Poedit 3.4.2\n"
+
+#: (dynamic)
+msgid "Entradas"
+msgstr ""
+
+#: (dynamic)
+msgid "Cronograma del evento"
+msgstr ""
+
+#: (dynamic)
+msgid ""
+"A continuación podrás ver algunos de los hitos más importantes de la "
+"conferencia. En caso de que la fecha exacta no esté disponible, se "
+"confirmará desde que podamos."
+msgstr ""
+
+#: (dynamic)
+msgid "Presentamos la PyConES"
+msgstr ""
+
+#: (dynamic)
+msgid "Marzo"
+msgstr ""
+
+#: (dynamic)
+msgid "Apertura para el envió de ponencias y talleres"
+msgstr ""
+
+#: (dynamic)
+msgid "Abril"
+msgstr ""
+
+#: (dynamic)
+msgid "Apertura para la venta de entradas"
+msgstr ""
+
+#: (dynamic)
+msgid "Mayo"
+msgstr ""
+
+#: (dynamic)
+msgid "Cierre del llamado a ponencias y talleres"
+msgstr ""
+
+#: (dynamic)
+msgid "Apertura para la postulación de becas"
+msgstr ""
+
+#: (dynamic)
+msgid "Junio"
+msgstr ""
+
+#: (dynamic)
+msgid "¡Empieza el espectáculo!"
+msgstr ""
+
+#: (dynamic)
+msgid "Octubre"
+msgstr ""
+
+#: (dynamic)
+msgid "Código de conducta"
+msgstr ""
 
 #: https://2024.es.pycon.org/ (content/contents+es.lr:page.dates_event)
 msgid "4, 5 y 6 de octubre"
@@ -36,11 +99,11 @@ msgstr ""
 msgid "con una agenda increíble en la mejor localización posible."
 msgstr "with an incredible agenda in the best possible location."
 
-#: templates/code_conduct.html:7
+#: (dynamic)
 msgid "Código conducta"
 msgstr "Code of Conduct"
 
-#: templates/code_conduct.html:10
+#: (dynamic)
 msgid ""
 "Python España, como asociación en torno a la que se organizan eventos de "
 "distintos tipos, quiere asegurar que todas las personas que participen en "
@@ -54,7 +117,7 @@ msgstr ""
 "collaboration or leisure experience. For this, it is expected that whoever "
 "participates in the community shows respect and courtesy towards the rest."
 
-#: templates/code_conduct.html:20
+#: (dynamic)
 msgid ""
 "Al participar en la comunidad de Python España, te comprometes a fomentar "
 "una experiencia libre de acoso para todo el mundo, independientemente de la "
@@ -70,7 +133,7 @@ msgstr ""
 "status, national origin, personal appearance, race, religion, or sexual "
 "identity or orientation."
 
-#: templates/code_conduct.html:29
+#: (dynamic)
 msgid ""
 "Este Código de Conducta detalla qué comportamientos se esperan, cuáles se "
 "rechazan y qué mecanismos hay para ayudar a una persona que esté siendo "
@@ -80,11 +143,11 @@ msgstr ""
 "and what mechanisms exist to help a person who is being subjected to "
 "inappropriate behavior."
 
-#: templates/code_conduct.html:38
+#: (dynamic)
 msgid "¿Por qué un código de conducta?"
 msgstr "Why a code of conduct?"
 
-#: templates/code_conduct.html:43
+#: (dynamic)
 msgid ""
 "Siguiendo con el zen de Python, explícito mejor que implícito. Explicitar "
 "qué se espera del ambiente en cualquier evento de Python España:"
@@ -92,15 +155,15 @@ msgstr ""
 "Sticking with Python zen, explicit better than implicit. Explain what is "
 "expected of the environment in any Python Spain event:"
 
-#: templates/code_conduct.html:49
+#: (dynamic)
 msgid "Favorece que más personas sepan que son bienvenidas"
 msgstr "Let more people know they are welcome"
 
-#: templates/code_conduct.html:50
+#: (dynamic)
 msgid "Evita ambigüedades"
 msgstr "Avoid ambiguities"
 
-#: templates/code_conduct.html:53
+#: (dynamic)
 msgid ""
 "Construye un clima de confianza, donde si alguien quiere reportar un "
 "incidente, sabrá que no empezaremos por cuestionarle (victim blaming)."
@@ -108,11 +171,11 @@ msgstr ""
 "Build a climate of trust, where if someone wants to report an incident, they "
 "know that we will not start by questioning them (victim blaming)."
 
-#: templates/code_conduct.html:63
+#: (dynamic)
 msgid "Alcance"
 msgstr "Scope"
 
-#: templates/code_conduct.html:67
+#: (dynamic)
 msgid ""
 "Este código de conducta es aplicable a todas las personas que participen en "
 "espacios de la comunidad de Python España, ya sean en línea o presenciales. "
@@ -129,11 +192,11 @@ msgstr ""
 "through official social networks, or presentations with designated persons "
 "at online or offline events. Our standards."
 
-#: templates/code_conduct.html:78
+#: (dynamic)
 msgid "Nuestros estándares"
 msgstr "Our standards"
 
-#: templates/code_conduct.html:81
+#: (dynamic)
 msgid ""
 "Ejemplos de comportamiento que contribuyen a crear un ambiente positivo para "
 "nuestra comunidad:"
@@ -141,7 +204,7 @@ msgstr ""
 "Examples of behavior that contribute to creating a positive environment for "
 "our community:"
 
-#: templates/code_conduct.html:84
+#: (dynamic)
 msgid ""
 "Demostrar empatía y amabilidad ante otras personas. No insultes o humilles a "
 "otros asistentes. Recuerda que las bromas sexistas, racistas o "
@@ -151,15 +214,15 @@ msgstr ""
 "attendees. Remember that sexist, racist or discriminatory jokes are not "
 "appropriate. They never are."
 
-#: templates/code_conduct.html:88
+#: (dynamic)
 msgid "Respetar las diferentes opiniones, puntos de vista y experiencias"
 msgstr "Respect different opinions, points of view and experiences"
 
-#: templates/code_conduct.html:89
+#: (dynamic)
 msgid "Dar y aceptar adecuadamente críticas constructivas"
 msgstr "Appropriately give and accept constructive criticism"
 
-#: templates/code_conduct.html:91
+#: (dynamic)
 msgid ""
 "Aceptar la responsabilidad y disculparse ante quienes se vean afectados por "
 "nuestros errores, aprendiendo de la experiencia"
@@ -167,7 +230,7 @@ msgstr ""
 "Accept responsibility and apologize to those affected by our mistakes, "
 "learning from experience"
 
-#: templates/code_conduct.html:96
+#: (dynamic)
 msgid ""
 "Centrarse en lo que sea mejor no sólo para nosotros como individuos, sino "
 "para la comunidad en general"
@@ -175,16 +238,16 @@ msgstr ""
 "Focus on what is best for not only us as individuals, but for the community "
 "as a whole"
 
-#: templates/code_conduct.html:100
+#: (dynamic)
 msgid "Usar un lenguaje inclusivo y que dé cabida a una audiencia diversa"
 msgstr "Use language that is inclusive and accommodates a diverse audience"
 
-#: templates/code_conduct.html:101
+#: (dynamic)
 msgid ""
 "Prestar especial atención a las personas que recién llegan a la comunidad"
 msgstr "Pay special attention to people who are new to the community"
 
-#: templates/code_conduct.html:103
+#: (dynamic)
 msgid ""
 "Presentarte con tus pronombres y preguntarle a otra persona los suyos para "
 "que exista una comunicación clara y sin sesgo"
@@ -192,11 +255,11 @@ msgstr ""
 "Introduce yourself with your pronouns and ask another person for theirs so "
 "that there is clear and unbiased communication"
 
-#: templates/code_conduct.html:108
+#: (dynamic)
 msgid "Ejemplos de comportamiento inaceptable"
 msgstr "Examples of unacceptable behavior"
 
-#: templates/code_conduct.html:111
+#: (dynamic)
 msgid ""
 "El uso de lenguaje o imágenes sexualizadas, y aproximaciones o atenciones "
 "sexuales de cualquier tipo"
@@ -204,7 +267,7 @@ msgstr ""
 "The use of sexualized language or images, and sexual approaches or attention "
 "of any kind"
 
-#: templates/code_conduct.html:114
+#: (dynamic)
 msgid ""
 "Comentarios despectivos trolling, insultantes o derogatorios, y ataques "
 "personales o políticos"
@@ -212,15 +275,15 @@ msgstr ""
 "Derogatory trolling, insulting or derogatory comments, and personal or "
 "political attacks"
 
-#: templates/code_conduct.html:117
+#: (dynamic)
 msgid "Bromas racistas, sexistas o excluyentes"
 msgstr "Racist, sexist or exclusionary jokes"
 
-#: templates/code_conduct.html:120
+#: (dynamic)
 msgid "El acoso en público o privado"
 msgstr "Harassment in public or private"
 
-#: templates/code_conduct.html:123
+#: (dynamic)
 msgid ""
 "Publicar información privada de otras personas, tales como direcciones "
 "físicas o de correo electrónico, sin su permiso explícito"
@@ -228,7 +291,7 @@ msgstr ""
 "Posting other people's private information, such as physical or email "
 "addresses, without their explicit permission"
 
-#: templates/code_conduct.html:127
+#: (dynamic)
 msgid ""
 "Otras conductas que puedan ser razonablemente consideradas como inapropiadas "
 "en un entorno profesional"
@@ -236,7 +299,7 @@ msgstr ""
 "Other conduct that may reasonably be considered inappropriate in a "
 "professional setting"
 
-#: templates/code_conduct.html:130
+#: (dynamic)
 msgid ""
 "Por acoso se entiende comentarios ofensivos relacionados con género, "
 "orientación sexual, discapacidad, apariencia física, tamaño corporal, etnia "
@@ -252,11 +315,11 @@ msgstr ""
 "of talks or other events , inappropriate physical contact and unwanted "
 "sexual attention."
 
-#: templates/code_conduct.html:139
+#: (dynamic)
 msgid "Cumplimiento"
 msgstr "Compliance"
 
-#: templates/code_conduct.html:142
+#: (dynamic)
 msgid ""
 "La administración de la comunidad es responsable de aclarar y hacer cumplir "
 "este código de conducta; en caso de que se determine un comportamiento "
@@ -279,11 +342,11 @@ msgstr ""
 "other contributions that do not align with this code of conduct, and "
 "communicate the reasons for their decisions. moderation when appropriate."
 
-#: templates/code_conduct.html:154
+#: (dynamic)
 msgid "Denuncia e información de contacto"
 msgstr "Complaint and contact information"
 
-#: templates/code_conduct.html:158
+#: (dynamic)
 msgid ""
 "Los casos de comportamiento abusivo, acosador o inaceptable de otro modo "
 "podrán ser denunciados a las personas administradoras de la comunidad "
@@ -292,7 +355,7 @@ msgstr ""
 "Cases of abusive, harassing or otherwise unacceptable behavior may be "
 "reported to the community managers responsible for compliance:"
 
-#: templates/code_conduct.html:163
+#: (dynamic)
 msgid ""
 "Si es un evento presencial, ponte en contacto directamente con las personas "
 "organizadoras del evento. Es muy probable que hayan publicando un código de "
@@ -303,35 +366,35 @@ msgstr ""
 "most likely have posted an event-specific code of conduct with instructions "
 "on who to go to; they will provide you with a safe space to help you."
 
-#: templates/code_conduct.html:168
+#: (dynamic)
 msgid ""
 "Si se trata de un espacio en línea, ponte en contacto con las personas "
 "moderadoras de ese espacio."
 msgstr ""
 "If it's an online space, get in touch with the moderators of that space."
 
-#: templates/code_conduct.html:171
+#: (dynamic)
 msgid ""
 "En el foro de Discourse puedes denunciar publicaciones individuales o "
-"contactar con el "
+"contactar con el"
 msgstr "In the Discourse forum you can report individual posts or contact the"
 
-#: templates/code_conduct.html:173
+#: (dynamic)
 msgid "grupo de moderación"
 msgstr "moderation group"
 
-#: templates/code_conduct.html:177
+#: (dynamic)
 msgid ""
 "En Telegram, a la persona propietaria del grupo u otras administradoras."
 msgstr "In Telegram, to the person who owns the group or other administrators."
 
-#: templates/code_conduct.html:180
+#: (dynamic)
 msgid ""
 "Para otros espacios o de forma alternativa, ponte en contacto con la Junta "
-"Directiva en "
+"Directiva en"
 msgstr "For other spaces or alternatively, contact the Board of Directors at"
 
-#: templates/code_conduct.html:185
+#: (dynamic)
 msgid ""
 "Todas las personas administradoras de la comunidad están obligadas a "
 "respetar la privacidad y la seguridad de quienes denuncien incidentes."
@@ -339,11 +402,11 @@ msgstr ""
 "All community administrators are required to respect the privacy and "
 "security of those who report incidents."
 
-#: templates/code_conduct.html:192
+#: (dynamic)
 msgid "Atribución"
 msgstr "Attribution"
 
-#: templates/code_conduct.html:195
+#: (dynamic)
 msgid ""
 "Este código de conducta extiende el ya existente con aportaciones de otros "
 "códigos:"
@@ -351,48 +414,46 @@ msgstr ""
 "This code of conduct extends the existing one with contributions from other "
 "codes:"
 
-#: templates/code_conduct.html:200
+#: (dynamic)
 msgid "versión en español del Contributor Covenant 2.0"
 msgstr "spanish version of Contributor Covenant 2.0"
 
-#: templates/code_conduct.html:205
+#: (dynamic)
 msgid "código de conducta de DjangoCon Europe 2020"
 msgstr "djangoCon Europe 2020 code of conduct"
 
-#: templates/faq.html:7
+#: (dynamic)
 msgid "Preguntas Frecuentes"
 msgstr ""
 
-#: templates/faq.html:8
+#: (dynamic)
 msgid "¿Cómo accedo al streaming?"
 msgstr ""
 
-#: templates/faq.html:8 templates/faq.html:9 templates/faq.html:10
-#: templates/faq.html:20 templates/faq.html:21 templates/faq.html:22
-#: templates/faq.html:23
+#: (dynamic)
 msgid "Próximamente"
 msgstr ""
 
-#: templates/faq.html:9
+#: (dynamic)
 msgid "¿Qué días son los tutoriales y charlas?"
 msgstr ""
 
-#: templates/faq.html:10
+#: (dynamic)
 msgid "¿En qué lugar se realizará la conferencia?"
 msgstr ""
 
-#: templates/faq.html:12
+#: (dynamic)
 msgid "¿La conferencia es sólo en Español?"
 msgstr ""
 
-#: templates/faq.html:13
+#: (dynamic)
 msgid ""
 "La conferencia se realizará principalmente en Español, y dependiendo de las "
 "charlas aceptadas en Inglés se realizará un track completo durante los días "
 "de charlas."
 msgstr ""
 
-#: templates/faq.html:15
+#: (dynamic)
 msgid ""
 "Las ponencias principales, apertura y cierre del evento serán en Español, de "
 "todas formas, todas las personas de la organización hablan Español e Inglés, "
@@ -400,27 +461,27 @@ msgid ""
 "dos idiomas."
 msgstr ""
 
-#: templates/faq.html:20
+#: (dynamic)
 msgid "¿Qué Aeropuerto es más cercano a la conferencia?"
 msgstr ""
 
-#: templates/faq.html:21
+#: (dynamic)
 msgid "Quiero presentar una charla ¿Cómo lo hago?"
 msgstr ""
 
-#: templates/faq.html:22
+#: (dynamic)
 msgid "Quiero patrocinar pero ¿Cómo funcionan los add-ons?"
 msgstr ""
 
-#: templates/faq.html:23
+#: (dynamic)
 msgid "Soy patrocinante ¿Cómo y Cuántas entradas consigo?"
 msgstr ""
 
-#: templates/faq.html:25
+#: (dynamic)
 msgid "He comprado mi entrada y necesito una factura ¿Cómo la consigo?"
 msgstr ""
 
-#: templates/faq.html:26
+#: (dynamic)
 msgid ""
 "Si en tu caso necesitas una factura para presentarla a la entidad que está "
 "cubriendo tu asistencia al evento, generaremos tu factura cuando se realice "
@@ -429,11 +490,11 @@ msgid ""
 "dichos documentos en nuestra infraestructura."
 msgstr ""
 
-#: templates/faq.html:33
+#: (dynamic)
 msgid "Soy Ponente, ¿tengo que comprar la entrada?"
 msgstr ""
 
-#: templates/faq.html:34
+#: (dynamic)
 msgid ""
 "Todas las personas que sean ponentes, tienen asegurada su participación en "
 "la conferencia, es decir no necesitan una entrada. En caso de que tengas "
@@ -441,21 +502,17 @@ msgid ""
 "aceptada o no, te recomendamos adquirir una entrada."
 msgstr ""
 
-#: templates/components/header.html:9
-msgid "Entradas"
-msgstr ""
+#: templates/code_conduct.html:171
+msgid ""
+"En el foro de Discourse puedes denunciar publicaciones individuales o "
+"contactar con el "
+msgstr "In the Discourse forum you can report individual posts or contact the"
 
-#~ msgid ""
-#~ "En el foro de Discourse puedes denunciar publicaciones individuales o "
-#~ "contactar con el"
-#~ msgstr ""
-#~ "In the Discourse forum you can report individual posts or contact the"
-
-#~ msgid ""
-#~ "Para otros espacios o de forma alternativa, ponte en contacto con la "
-#~ "Junta Directiva en"
-#~ msgstr ""
-#~ "For other spaces or alternatively, contact the Board of Directors at"
+#: templates/code_conduct.html:180
+msgid ""
+"Para otros espacios o de forma alternativa, ponte en contacto con la Junta "
+"Directiva en "
+msgstr "For other spaces or alternatively, contact the Board of Directors at"
 
 #~ msgid ""
 #~ "ágina web de la PyConES 2024 en Vigo, Galicia. La conferencia de Python "

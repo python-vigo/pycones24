@@ -1,0 +1,49 @@
+{% from "macros/schedule_tag.html" import render_schedule_tag %}
+
+
+<section>
+    <header>
+        <img src="{{ '/static/images/header-event-schedule-image.jpg'|asseturl }}" alt="Vigo PF" class="w-full">
+    </header>
+    <article class="mt-20 mb-20">
+        <h2 class="text-5xl text-center text-primary">{{ _("Cronograma del evento") }}</h2>
+        <p class="mt-6 text-xl text-center text-secondary">
+            {{
+            _("A continuación podrás ver algunos de los hitos más importantes de la conferencia. En caso de que la "
+            "fecha exacta no esté disponible, se confirmará el cambio lo antes posible.")
+            }}
+        </p>
+        <section class="flex gap-5 justify-center items-center mt-5 md:flex-row flex-cols">
+            <figure class="w-[534px]">
+                <img src="{{ '/static/images/cronograma.png'|asseturl }}" alt="Trisquel">
+            </figure>
+            <ol class="relative h-full border-secondary border-s w-[534px]">
+                {{ render_schedule_tag(
+                    _("Presentamos la PyConES"),
+                    _("Marzo")
+                ) }}
+                {{ render_schedule_tag(
+                    _("Apertura para el envió de ponencias/charlas"),
+                    _("Abril")
+                ) }}
+                {{ render_schedule_tag(
+                    _("Apertura para la venta de entradas"),
+                    _("Mayo")
+                ) }}
+                {{ render_schedule_tag(
+                    _("Cierre del llamado a ponencias/charlas"),
+                    _("Mayo")
+                ) }}
+                {{ render_schedule_tag(
+                    _("Apertura para la postulación de becas"),
+                    _("Junio")
+                ) }}
+                 {{ render_schedule_tag(
+                    _("¡Empieza el espectáculo!"),
+                    _("Octubre"),
+                    "text-primary"
+                ) }}
+            </ol>
+        </section>
+    </article>
+</section>
