@@ -1,6 +1,22 @@
 {% extends "layout.html" %}
 
 {% block body %}
+<style>
+    ul {
+        list-style-type: none;
+        padding:0;
+        margin:0;
+        color: #003A5D;
+    }
+
+    tbody {
+        color: #003A5D;
+    }
+
+    sup {
+        color: #003A5D;
+    }
+</style>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
 
 <section class="grid grid-flow-row gap-y-8 pb-10 mx-auto w-10/12">
@@ -9,74 +25,112 @@
     <h1 class="mb-3 text-5xl" style="color: #E30613">Patrocinios</h1>
 </div>
 
-<div class="container mx-auto px-4">
-    <table class="table-auto w-full mt-5 border border-white">
+<div class="container px-4 mx-auto">
+    <table class="mt-5 w-full border border-white table-auto">
         <thead class="text-white">
             <tr style="background-color: #E30613; opacity: 0.5;" class="border-white">
-                <th class="pl-10 px-4 py-2 bg-white"></th>
-                <th class="py-2" colspan="4">Niveles</th>
+                <th class="py-2 px-4 pl-10 bg-white"></th>
+                <th class="py-2" colspan="4">Niveles<sup class="text-white">(1)</sup></th>
             </tr>
             <tr style="background-color: #E30613" class="border-white">
-                <th class="border border-white pl-10 px-6 py-5 text-left">Beneficios</th>
-                <th class="border border-white px-6 py-5">Cíes</th>
-                <th class="border border-white px-6 py-5">Ons</th>
-                <th class="border border-white px-6 py-5">Sálvora</th>
-                <th class="border border-white px-6 py-5">Cortegada</th>
+                <th class="py-5 px-6 pl-10 text-left border border-white">Beneficios</th>
+                <th class="py-5 px-6 border border-white">Cíes</th>
+                <th class="py-5 px-6 border border-white">Ons</th>
+                <th class="py-5 px-6 border border-white">Sálvora</th>
+                <th class="py-5 px-6 border border-white">Cortegada</th>
             </tr>
         </thead>
         <tbody>
             <tr class="bg-white">
-                <td class="border border-black pl-10 px-4 py-2 font-bold" style="color: #E30613">Precio</td>
-                <td class="border border-black px-4 py-2 text-center">6.500 €</td>
-                <td class="border border-black px-4 py-2 text-center">4.750 €</td>
-                <td class="border border-black px-4 py-2 text-center">3.200 €</td>
-                <td class="border border-black px-4 py-2 text-center">1.000 €</td>
+                <td class="py-2 px-4 pl-10 font-bold border border-black" style="color: #E30613">Precio</td>
+                <td class="py-2 px-4 text-center border border-black">6.500 €</td>
+                <td class="py-2 px-4 text-center border border-black">4.750 €</td>
+                <td class="py-2 px-4 text-center border border-black">3.200 €</td>
+                <td class="py-2 px-4 text-center border border-black">1.000 €</td>
             </tr>
             <tr class="bg-white">
-                <td class="border border-black pl-10 px-4 py-2 font-bold" style="color: #E30613">Entradas incluídas</td>
-                <td class="border border-black px-4 py-2 text-center">6(+2)</td>
-                <td class="border border-black px-4 py-2 text-center">3(+1)</td>
-                <td class="border border-black px-4 py-2 text-center">2</td>
-                <td class="border border-black px-4 py-2 text-center">1</td>
+                <td class="py-2 px-4 pl-10 font-bold border border-black" style="color: #E30613">Entradas incluídas<sup>(2)</sup></td>
+                <td class="py-2 px-4 text-center border border-black">6(+2)</td>
+                <td class="py-2 px-4 text-center border border-black">3(+1)</td>
+                <td class="py-2 px-4 text-center border border-black">2</td>
+                <td class="py-2 px-4 text-center border border-black">1</td>
             </tr>
             <tr class="bg-white">
-                <td class="border border-black pl-10 px-4 py-2 font-bold" style="color: #E30613">Logo en web</td>
-                <td class="border border-black px-4 py-2 text-center"><i class="fa-solid fa-check font-bold" style="color: #1AB723"></i></td>
-                <td class="border border-black px-4 py-2 text-center"><i class="fa-solid fa-check font-bold" style="color: #1AB723"></i></td>
-                <td class="border border-black px-4 py-2 text-center"><i class="fa-solid fa-check font-bold" style="color: #1AB723"></i></td>
-                <td class="border border-black px-4 py-2 text-center"><i class="fa-solid fa-check font-bold" style="color: #1AB723"></i></td>
+                <td class="py-2 px-4 pl-10 font-bold border border-black" style="color: #E30613">Logo en web</td>
+                <td class="py-2 px-4 text-center border border-black"><i class="font-bold fa-solid fa-check" style="color: #1AB723"></i></td>
+                <td class="py-2 px-4 text-center border border-black"><i class="font-bold fa-solid fa-check" style="color: #1AB723"></i></td>
+                <td class="py-2 px-4 text-center border border-black"><i class="font-bold fa-solid fa-check" style="color: #1AB723"></i></td>
+                <td class="py-2 px-4 text-center border border-black"><i class="font-bold fa-solid fa-check" style="color: #1AB723"></i></td>
             </tr>
             <tr class="bg-white">
-                <td class="border border-black pl-10 px-4 py-2 font-bold" style="color: #E30613">Obsequio en welcome pack</td>
-                <td class="border border-black px-4 py-2 text-center"><i class="fa-solid fa-check font-bold" style="color: #1AB723"></i></td>
-                <td class="border border-black px-4 py-2 text-center"><i class="fa-solid fa-check font-bold" style="color: #1AB723"></i></td>
-                <td class="border border-black px-4 py-2 text-center"><i class="fa-solid fa-check font-bold" style="color: #1AB723"></i></td>
-                <td class="border border-black px-4 py-2 text-center"><i class="fa-solid fa-check font-bold" style="color: #1AB723"></i></td>
+                <td class="py-2 px-4 pl-10 font-bold border border-black" style="color: #E30613">Obsequio en welcome pack</td>
+                <td class="py-2 px-4 text-center border border-black"><i class="font-bold fa-solid fa-check" style="color: #1AB723"></i></td>
+                <td class="py-2 px-4 text-center border border-black"><i class="font-bold fa-solid fa-check" style="color: #1AB723"></i></td>
+                <td class="py-2 px-4 text-center border border-black"><i class="font-bold fa-solid fa-check" style="color: #1AB723"></i></td>
+                <td class="py-2 px-4 text-center border border-black"><i class="font-bold fa-solid fa-check" style="color: #1AB723"></i></td>
             </tr>
             <tr class="bg-white">
-                <td class="border border-black pl-10 px-4 py-2 font-bold" style="color: #E30613">Folleto en welcome pack</td>
-                <td class="border border-black px-4 py-2 text-center"><i class="fa-solid fa-check font-bold" style="color: #1AB723"></i></td>
-                <td class="border border-black px-4 py-2 text-center"><i class="fa-solid fa-check font-bold" style="color: #1AB723"></i></td>
-                <td class="border border-black px-4 py-2 text-center"><i class="fa-solid fa-xmark font-bold" style="color: #E30613"></i></td>
-                <td class="border border-black px-4 py-2 text-center"><i class="fa-solid fa-xmark font-bold" style="color: #E30613"></i></td>
+                <td class="py-2 px-4 pl-10 font-bold border border-black" style="color: #E30613">Folleto en welcome pack</td>
+                <td class="py-2 px-4 text-center border border-black"><i class="font-bold fa-solid fa-check" style="color: #1AB723"></i></td>
+                <td class="py-2 px-4 text-center border border-black"><i class="font-bold fa-solid fa-check" style="color: #1AB723"></i></td>
+                <td class="py-2 px-4 text-center border border-black"><i class="font-bold fa-solid fa-xmark" style="color: #E30613"></i></td>
+                <td class="py-2 px-4 text-center border border-black"><i class="font-bold fa-solid fa-xmark" style="color: #E30613"></i></td>
             </tr>
             <tr class="bg-white">
-                <td class="border border-black pl-10 px-4 py-2 font-bold" style="color: #E30613">Stand</td>
-                <td class="border border-black px-4 py-2 text-center">2,4 m x 3,2 m</td>
-                <td class="border border-black px-4 py-2 text-center">1,2 m x 2,00 m</td>
-                <td class="border border-black px-4 py-2 text-center">1,2 m x 2,00 m</td>
-                <td class="border border-black px-4 py-2 text-center"><i class="fa-solid fa-xmark font-bold" style="color: #E30613"></i></td>
+                <td class="py-2 px-4 pl-10 font-bold border border-black" style="color: #E30613">Stand</td>
+                <td class="py-2 px-4 text-center border border-black">2,4 m x 3,2 m</td>
+                <td class="py-2 px-4 text-center border border-black">1,2 m x 2,00 m</td>
+                <td class="py-2 px-4 text-center border border-black">1,2 m x 2,00 m</td>
+                <td class="py-2 px-4 text-center border border-black"><i class="font-bold fa-solid fa-xmark" style="color: #E30613"></i></td>
             </tr>
-            <tr class="bg-white">
-                <td class="border border-black pl-10 px-4 py-2 font-bold" style="color: #E30613">Folleto en welcome pack</td>
-                <td class="border border-black px-4 py-2 text-center"><i class="fa-solid fa-check font-bold" style="color: #1AB723"></i></td>
-                <td class="border border-black px-4 py-2 text-center"><i class="fa-solid fa-check font-bold" style="color: #1AB723"></i></td>
-                <td class="border border-black px-4 py-2 text-center"><i class="fa-solid fa-xmark font-bold" style="color: #E30613"></i></td>
-                <td class="border border-black px-4 py-2 text-center"><i class="fa-solid fa-xmark font-bold" style="color: #E30613"></i></td>
+            <tr cl1ass="bg-white">
+                <td class="py-2 px-4 pl-10 font-bold border border-black" style="color: #E30613">Folleto en welcome pack</td>
+                <td class="py-2 px-4 text-center border border-black"><i class="font-bold fa-solid fa-check" style="color: #1AB723"></i></td>
+                <td class="py-2 px-4 text-center border border-black"><i class="font-bold fa-solid fa-check" style="color: #1AB723"></i></td>
+                <td class="py-2 px-4 text-center border border-black"><i class="font-bold fa-solid fa-xmark" style="color: #E30613"></i></td>
+                <td class="py-2 px-4 text-center border border-black"><i class="font-bold fa-solid fa-xmark" style="color: #E30613"></i></td>
             </tr>
         </tbody>
     </table>
+    <div>
+        <ul class="px-5 pt-10">
+        <li><sup>(1)</sup><span class="pl-5">La cantidad de patrocinios es limitada (excepto de nivel Cortegada). La organización se reserva el derecho de modificar dicha cantidad a conveniencia, siempre velando por los intereses de la conferencia.</span> </li>
+        <li><sup>(2)</sup><span class="pl-4"><strong>Cíes</strong>: 2 entradas, una por la charla patrocinada y otra por el taller patrocinado. Las entradas solo se otorgan si se imparten la charla y el taller, respectivamente.<span>
+        <p><span class="pl-8"><strong>Ons</strong>: 1 entrada por la charla patrocinada. La entrada solo se otorga si se imparte la charla. </span></p></li>
+        <li><sup>(3)</sup><span class="pl-4">Las medidas del stand son orientativas.</span></li>
+        <li><sup>(4)</sup><span class="pl-4">Aparición en soportes físicos impresos supeditada a la producción de los mismos.</span></li>
+        </ul>
+    </div>
 </div>
-    </article>
-    </section>
+</article>
+</section>
+
+<section class="grid grid-flow-row gap-y-8 pb-10 mx-auto w-10/12">
+    <article class="text-lg">
+<div>
+    <h1 class="mb-3 text-5xl" style="color: #E30613">Add-ons</h1>
+</div>
+<table class="mt-5 w-full border border-white table-auto">
+    <thead class="text-white">
+        <tr style="background-color: #E30613" class="border-white">
+            <th class="py-5 px-6 pl-10 text-left border border-white">Add-on</th>
+            <th class="py-5 px-6 text-left border border-white">Descripción</th>
+            <th class="py-5 px-6 border border-white">Precio</th>
+            <th class="py-5 px-6 border border-white">Cantidad</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr class="bg-white">
+            <td class="py-2 px-4 pl-10 w-28 font-bold border border-black" style="color: #E30613">Nombre de sala</td>
+            <td class="py-2 px-4 w-48 border border-black">Una sala tiene tu nombre. Aparecerá así en todos los folletos, documentos y avisos. Además, podrás colocar roll-ups dentro de la sala durante todo el fin de semana.</td>
+            <td class="py-2 px-4 w-28 text-center border border-black">1.000 €</td>
+            <td class="py-2 px-4 w-28 text-center border border-black">4</td>
+        </tr>
+    </tbody>
+    </table>
+</article>
+</section>
+{% endblock %}
+
+{% block scripts %}
 {% endblock %}
