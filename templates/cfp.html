@@ -1,0 +1,165 @@
+{% extends "layouts/layout_detail.html" %}
+
+{% block content %}
+<section class="grid grid-cols-1 gap-y-5 pb-10 mx-auto w-10/12">
+    <h1 class="mb-12 text-5xl text-primary">{{ _("Convocatoria de propuestas (CFP)") }}</h1>
+    <h2 class="mt-2 mb-5 text-md">
+        {{ _("Esta página contiene toda la información sobre el proceso de propuesta para PyConES 2024 – "
+        "la actualizaremos regularmente a medida que haya nueva información disponible.") }}
+    </h2>
+    <h3 class="text-2xl">
+        {{ _("La convocatoria de propuestas (CFP) es hasta las 23:59 (UTC) del 31 de "
+        "mayo. Mejor no dejarlo para el último minuto.") }}
+    </h3>
+    <div class="my-10">
+        <a href="https://pretalx.com/pycones-2024/" target="_blank"
+            class="p-3 px-6 text-xl font-bold text-white bg-primary hover:bg-secondary">
+            PyConES 2024, Vigo CFP
+        </a>
+    </div>
+    <article class="mb-5 text-xl">
+        <p>
+            {{ _("Estamos buscando una variedad de charlas sobre temas técnicos y no técnicos. Buscamos charlas "
+            "accesibles para todos los niveles de habilidad, y buscamos propuestas de oradores nuevos y "
+            "experimentados.")
+            }}
+        </p>
+        <p class="font-semibold text-secondary">
+            {{ _("Si te estás preguntando, ¿puedo hacer esto? La respuesta es sí. Si tienes un tema que te interesa, "
+            "entonces nos interesa a nosotros.") }}
+        </p>
+    </article>
+    <article id="recomendaciones" class="text-lg">
+        <h4 class="mb-3 text-2xl font-bold text-secondary">{{ _("Recomendaciones para tu propuesta")}}</h4>
+        <p>
+            {{ _("Queremos motivar a personas con distintos niveles de experiencia en ponencias a participar en la "
+            "conferencia. Sabemos que para personas que recién comienzan, el presentar una idea que refleje todos los "
+            "detalles geniales que tu charla incluirá puede ser confuso.") }}
+        </p>
+        <p>{{ _("Es importante que presentes tu idea de manera clara, pero que también puedas dar la información "
+            "necesaria para que quienes revisen, entiendan tu propuesta.") }}</p>
+        <h5 class="mt-3 mb-1 text-xl font-bold">{{ _("Estructura de tu abstract") }}</h5>
+        <p>
+            {{ _("Una estructura simple que puedes seguir, es poder contemplar los siguientes puntos en tu propuesta:")
+            }}
+        </p>
+        <ul class="mt-2 ml-8 text-xl list-disc">
+            <li>
+                {{ _("Contexto de tu charla o problema") }}
+            </li>
+            <li>
+                {{ _("Definición del problema") }}
+            </li>
+            <li>
+                {{ _("¿Por qué es importante buscar una solución a ese problema?") }}
+            </li>
+            <li>
+                {{ _("¿Qué se hablará y que aprenderá la gente que asista?") }}
+            </li>
+            <li>
+                {{ _("Requerimientos previos o comentarios adicionales de tu charla") }}
+            </li>
+        </ul>
+        <p class="mt-3 mb-1">{{ _("Evita los abstract de una o dos líneas que repitan la idea que ya se presenta en el "
+            "título, e intenta incluir factores que hacen tu propuesta ¡especial y única!.") }}</p>
+    </article>
+    <article class="text-lg">
+        <h4 class="mb-3 text-2xl font-bold text-secondary">{{ _("Tipos de propuestas")}}</h4>
+        <ul class="ml-8 text-xl list-disc">
+            <li>
+                {{ _("Charlas: 35 min (30 min + 5 min QA)") }}
+            </li>
+            <li>
+                {{ _("Talleres: de hasta 90 min") }}
+            </li>
+        </ul>
+        <p class="mt-1 mb-2">
+            {{ _("Si tu taller dira más o menos tiempo no dudes en comunicarlo a la organización para tenerlo en cuenta "
+            "en la configuración del programa. Esto nos dará la oportunidad de crear un planificación variada y ajustada "
+            "a los tres días de conferencia.") }}
+        </p>
+        <p class="mt-3 mb-1">{{ _("Valoramos mucho las propuestas:") }}</p>
+        <ul class="ml-8 text-xl list-disc">
+            <li>{{ _("Con un enfoque social") }}</li>
+            <li>{{ _("Saltos entre distintos campos profesionales") }}</li>
+            <li>{{ _("O simplemente Sobre tu experiencia de Python y el impacto en tu vida") }}</li>
+        </ul>
+    </article>
+    <article class="text-lg">
+        <h4 class="mb-3 text-2xl font-bold text-secondary">{{ _("Temáticas")}}</h4>
+        <p class="mb-1">{{ _("La temática es abierta siempre y cuando tenga relación con Python. Aquí te dejamos "
+            "algunas ideas:") }}
+        </p>
+        <ul class="ml-8 text-xl list-disc">
+            <li>
+                {{ _("Desarrollo Web") }}
+            </li>
+            <li>
+                {{ _("Análisis, ingeniería y ciencia de datos") }}
+            </li>
+            <li>
+                {{ _("DevOps / Administración de sistemas / Scripts de automatización") }}
+            </li>
+            <li>
+                {{ _("Educación") }}
+            </li>
+            <li>
+                {{ _("Machine learning e inteligencia artificial") }}
+            </li>
+            <li>
+                {{ _("Aplicaciones de escritorio") }}
+            </li>
+            <li>
+                {{ _("Internet de las cosas") }}
+            </li>
+            <li>
+                {{ _("Seguridad y redes") }}
+            </li>
+            <li>
+                {{ _("Aplicaciones móviles, multimedia, embebidos") }}
+            </li>
+            <li>
+                {{ _("Comunidad, sociedad y cultura") }}
+            </li>
+            <li>
+                {{ _("¡Y muchos más!") }}
+            </li>
+        </ul>
+    </article>
+    <article>
+        <h4 class="mb-3 text-2xl font-bold text-secondary">{{ _("Consideraciones adicionales")}}</h4>
+        </p>
+        <ul class="ml-8 text-xl list-disc">
+            <li>
+                {{ _("Es posible enviar más de una propuesta por persona") }}
+            </li>
+            <li>
+                {{ _("Se aceptan charlas con varias personas como ponentes") }}
+            </li>
+            <li>
+                {{ _("Te notificaremos tanto si tu propuesta es aceptada, como si no lo es") }}
+            </li>
+        </ul>
+    </article>
+    <article>
+        <h4 class="mb-3 text-2xl font-bold text-secondary">{{ _("¿Preguntas o sugerencias?")}}</h4>
+        <p class="text-xl">{{ _("Nuestro equipo está aquí para ayudarte. Si tienes alguna pregunta o sugerencia, no "
+            "dudes en contactarnos en ") }}
+            <a href="mailto:contacto@2024.es.pycon.org"
+                class="font-bold text-primary hover:text-secondary">charlas@2024.es.pycon.org</a>.
+            {{ _("Estamos comprometidos a hacer de PyConES 2024 un evento inclusivo, atractivo e inolvidable para "
+            "todos.") }}
+        </p>
+    </article>
+    <article class="mt-10 text-xl">
+        <p>
+            {{ _("Nos vemos en Vigo!") }}
+        </p>
+        <p class="mt-5">
+            {{ _("No olvides seguirnos en twitter") }}
+            <a href="https://twitter.com/PyConES" class="font-bold text-primary hover:text-secondary">@PyConES</a>
+            {{ _("para obtener la información más reciente y actualizada!") }}
+        </p>
+    </article>
+</section>
+{% endblock content %}

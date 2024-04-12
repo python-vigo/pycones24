@@ -350,10 +350,13 @@ msgstr ""
 msgid "código de conducta de DjangoCon Europe 2020"
 msgstr ""
 
+<<<<<<< HEAD
 #: templates/faq.html:7
 msgid "Preguntas Frecuentes"
 msgstr ""
 
+=======
+>>>>>>> 4b2b022 (Primera versión CFP)
 #: templates/faq.html:8
 msgid "¿Cómo accedo al streaming?"
 msgstr ""
