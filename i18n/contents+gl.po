@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pycones 24\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-04-09 00:44+CET\n"
+"POT-Creation-Date: 2024-04-15 01:37+CET\n"
 "PO-Revision-Date: 2024-03-14 01:10+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -11,69 +11,6 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Poedit 3.4.2\n"
-
-#: (dynamic)
-msgid "Entradas"
-msgstr ""
-
-#: (dynamic)
-msgid "Cronograma del evento"
-msgstr ""
-
-#: (dynamic)
-msgid ""
-"A continuación podrás ver algunos de los hitos más importantes de la "
-"conferencia. En caso de que la fecha exacta no esté disponible, se "
-"confirmará desde que podamos."
-msgstr ""
-
-#: (dynamic)
-msgid "Presentamos la PyConES"
-msgstr ""
-
-#: (dynamic)
-msgid "Marzo"
-msgstr ""
-
-#: (dynamic)
-msgid "Apertura para el envió de ponencias y talleres"
-msgstr ""
-
-#: (dynamic)
-msgid "Abril"
-msgstr ""
-
-#: (dynamic)
-msgid "Apertura para la venta de entradas"
-msgstr ""
-
-#: (dynamic)
-msgid "Mayo"
-msgstr ""
-
-#: (dynamic)
-msgid "Cierre del llamado a ponencias y talleres"
-msgstr ""
-
-#: (dynamic)
-msgid "Apertura para la postulación de becas"
-msgstr ""
-
-#: (dynamic)
-msgid "Junio"
-msgstr ""
-
-#: (dynamic)
-msgid "¡Empieza el espectáculo!"
-msgstr ""
-
-#: (dynamic)
-msgid "Octubre"
-msgstr ""
-
-#: (dynamic)
-msgid "Código de conducta"
-msgstr ""
 
 #: https://2024.es.pycon.org/ (content/contents+es.lr:page.dates_event)
 msgid "4, 5 y 6 de octubre"
@@ -98,6 +35,238 @@ msgstr ""
 #: https://2024.es.pycon.org/ (content/contents+es.lr:page.description_text)
 msgid "con una agenda increíble en la mejor localización posible."
 msgstr "cunha axenda incrible na mellor localización posible."
+
+#: (dynamic)
+msgid "Entradas"
+msgstr ""
+
+#: (dynamic)
+msgid "Ediciones anteriores"
+msgstr ""
+
+#: (dynamic)
+msgid "Código de conducta"
+msgstr ""
+
+#: templates/cfp.html:5
+msgid "Convocatoria de propuestas (CFP)"
+msgstr ""
+
+#: templates/cfp.html:7
+msgid ""
+"Esta página contiene toda la información sobre el proceso de propuesta para "
+"PyConES 2024 – la actualizaremos regularmente a medida que haya nueva "
+"información disponible."
+msgstr ""
+
+#: templates/cfp.html:11
+msgid ""
+"La convocatoria de propuestas (CFP) es hasta las 23:59 (UTC) del 31 de mayo. "
+"Mejor no dejarlo para el último minuto."
+msgstr ""
+
+#: templates/cfp.html:22
+msgid ""
+"Estamos buscando una variedad de charlas sobre temas técnicos y no técnicos. "
+"Buscamos charlas accesibles para todos los niveles de habilidad, y buscamos "
+"propuestas de oradores nuevos y experimentados."
+msgstr ""
+
+#: templates/cfp.html:28
+msgid ""
+"Si te estás preguntando, ¿puedo hacer esto? La respuesta es sí. Si tienes un "
+"tema que te interesa, entonces nos interesa a nosotros."
+msgstr ""
+
+#: templates/cfp.html:33
+msgid "Recomendaciones para tu propuesta"
+msgstr ""
+
+#: templates/cfp.html:35
+msgid ""
+"Queremos motivar a personas con distintos niveles de experiencia en "
+"ponencias a participar en la conferencia. Sabemos que para personas que "
+"recién comienzan, el presentar una idea que refleje todos los detalles "
+"geniales que tu charla incluirá puede ser confuso."
+msgstr ""
+
+#: templates/cfp.html:39
+msgid ""
+"Es importante que presentes tu idea de manera clara, pero que también puedas "
+"dar la información necesaria para que quienes revisen, entiendan tu "
+"propuesta."
+msgstr ""
+
+#: templates/cfp.html:41
+msgid "Estructura de tu abstract"
+msgstr ""
+
+#: templates/cfp.html:43
+msgid ""
+"Una estructura simple que puedes seguir, es poder contemplar los siguientes "
+"puntos en tu propuesta:"
+msgstr ""
+
+#: templates/cfp.html:48
+msgid "Contexto de tu charla o problema"
+msgstr ""
+
+#: templates/cfp.html:51
+msgid "Definición del problema"
+msgstr ""
+
+#: templates/cfp.html:54
+msgid "¿Por qué es importante buscar una solución a ese problema?"
+msgstr ""
+
+#: templates/cfp.html:57
+msgid "¿Qué se hablará y que aprenderá la gente que asista?"
+msgstr ""
+
+#: templates/cfp.html:60
+msgid "Requerimientos previos o comentarios adicionales de tu charla"
+msgstr ""
+
+#: templates/cfp.html:63
+msgid ""
+"Evita los abstract de una o dos líneas que repitan la idea que ya se "
+"presenta en el título, e intenta incluir factores que hacen tu propuesta "
+"¡especial y única!."
+msgstr ""
+
+#: templates/cfp.html:67
+msgid "Tipos de propuestas"
+msgstr ""
+
+#: templates/cfp.html:70
+msgid "Charlas: 35 min (30 min + 5 min QA)"
+msgstr ""
+
+#: templates/cfp.html:73
+msgid "Talleres: de hasta 90 min"
+msgstr ""
+
+#: templates/cfp.html:77
+msgid ""
+"Si tu taller dira más o menos tiempo no dudes en comunicarlo a la "
+"organización para tenerlo en cuenta en la configuración del programa. Esto "
+"nos dará la oportunidad de crear un planificación variada y ajustada a los "
+"tres días de conferencia."
+msgstr ""
+
+#: templates/cfp.html:81
+msgid "Valoramos mucho las propuestas:"
+msgstr ""
+
+#: templates/cfp.html:83
+msgid "Con un enfoque social"
+msgstr ""
+
+#: templates/cfp.html:84
+msgid "Saltos entre distintos campos profesionales"
+msgstr ""
+
+#: templates/cfp.html:85
+msgid "O simplemente Sobre tu experiencia de Python y el impacto en tu vida"
+msgstr ""
+
+#: templates/cfp.html:89
+msgid "Temáticas"
+msgstr ""
+
+#: templates/cfp.html:90
+msgid ""
+"La temática es abierta siempre y cuando tenga relación con Python. Aquí te "
+"dejamos algunas ideas:"
+msgstr ""
+
+#: templates/cfp.html:95
+msgid "Desarrollo Web"
+msgstr ""
+
+#: templates/cfp.html:98
+msgid "Análisis, ingeniería y ciencia de datos"
+msgstr ""
+
+#: templates/cfp.html:101
+msgid "DevOps / Administración de sistemas / Scripts de automatización"
+msgstr ""
+
+#: templates/cfp.html:104
+msgid "Educación"
+msgstr ""
+
+#: templates/cfp.html:107
+msgid "Machine learning e inteligencia artificial"
+msgstr ""
+
+#: templates/cfp.html:110
+msgid "Aplicaciones de escritorio"
+msgstr ""
+
+#: templates/cfp.html:113
+msgid "Internet de las cosas"
+msgstr ""
+
+#: templates/cfp.html:116
+msgid "Seguridad y redes"
+msgstr ""
+
+#: templates/cfp.html:119
+msgid "Aplicaciones móviles, multimedia, embebidos"
+msgstr ""
+
+#: templates/cfp.html:122
+msgid "Comunidad, sociedad y cultura"
+msgstr ""
+
+#: templates/cfp.html:125
+msgid "¡Y muchos más!"
+msgstr ""
+
+#: templates/cfp.html:130
+msgid "Consideraciones adicionales"
+msgstr ""
+
+#: templates/cfp.html:134
+msgid "Es posible enviar más de una propuesta por persona"
+msgstr ""
+
+#: templates/cfp.html:137
+msgid "Se aceptan charlas con varias personas como ponentes"
+msgstr ""
+
+#: templates/cfp.html:140
+msgid "Te notificaremos tanto si tu propuesta es aceptada, como si no lo es"
+msgstr ""
+
+#: templates/cfp.html:145
+msgid "¿Preguntas o sugerencias?"
+msgstr ""
+
+#: templates/cfp.html:146
+msgid ""
+"Nuestro equipo está aquí para ayudarte. Si tienes alguna pregunta o "
+"sugerencia, no dudes en contactarnos en "
+msgstr ""
+
+#: templates/cfp.html:150
+msgid ""
+"Estamos comprometidos a hacer de PyConES 2024 un evento inclusivo, atractivo "
+"e inolvidable para todos."
+msgstr ""
+
+#: templates/cfp.html:156
+msgid "Nos vemos en Vigo!"
+msgstr ""
+
+#: templates/cfp.html:159
+msgid "No olvides seguirnos en twitter"
+msgstr ""
+
+#: templates/cfp.html:161
+msgid "para obtener la información más reciente y actualizada!"
+msgstr ""
 
 #: templates/code_conduct.html:7
 msgid "Código conducta"
@@ -429,13 +598,10 @@ msgstr "versión en español do Contributor Covenant 2.0"
 msgid "código de conducta de DjangoCon Europe 2020"
 msgstr "código de conduta de DjangoCon Europe 2020"
 
-<<<<<<< HEAD
 #: templates/faq.html:7
 msgid "Preguntas Frecuentes"
 msgstr ""
 
-=======
->>>>>>> 4b2b022 (Primera versión CFP)
 #: templates/faq.html:8
 msgid "¿Cómo accedo al streaming?"
 msgstr ""
@@ -512,4 +678,60 @@ msgid ""
 "la conferencia, es decir no necesitan una entrada. En caso de que tengas "
 "pensado presentarte como ponente, independiente de si tu propuesta es "
 "aceptada o no, te recomendamos adquirir una entrada."
+msgstr ""
+
+#: templates/components/event_schedule_section.html:9
+msgid "Cronograma del evento"
+msgstr ""
+
+#: templates/components/event_schedule_section.html:12
+msgid ""
+"A continuación podrás ver algunos de los hitos más importantes de la "
+"conferencia. En caso de que la fecha exacta no esté disponible, se "
+"confirmará el cambio lo antes posible."
+msgstr ""
+
+#: templates/components/event_schedule_section.html:22
+msgid "Presentamos la PyConES"
+msgstr ""
+
+#: templates/components/event_schedule_section.html:23
+msgid "Marzo"
+msgstr ""
+
+#: templates/components/event_schedule_section.html:26
+msgid "Apertura para el envió de ponencias/charlas"
+msgstr ""
+
+#: templates/components/event_schedule_section.html:27
+msgid "Abril"
+msgstr ""
+
+#: templates/components/event_schedule_section.html:30
+msgid "Apertura para la venta de entradas"
+msgstr ""
+
+#: templates/components/event_schedule_section.html:31
+#: templates/components/event_schedule_section.html:35
+msgid "Mayo"
+msgstr ""
+
+#: templates/components/event_schedule_section.html:34
+msgid "Cierre del llamado a ponencias/charlas"
+msgstr ""
+
+#: templates/components/event_schedule_section.html:38
+msgid "Apertura para la postulación de becas"
+msgstr ""
+
+#: templates/components/event_schedule_section.html:39
+msgid "Junio"
+msgstr ""
+
+#: templates/components/event_schedule_section.html:42
+msgid "¡Empieza el espectáculo!"
+msgstr ""
+
+#: templates/components/event_schedule_section.html:43
+msgid "Octubre"
 msgstr ""

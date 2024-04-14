@@ -2,11 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pycones 24\n"
 "Report-Msgid-Bugs-To: \n"
-<<<<<<< HEAD
-"POT-Creation-Date: 2024-04-09 00:44+CET\n"
-=======
 "POT-Creation-Date: 2024-04-02 00:37+CET\n"
->>>>>>> 4b2b022 (Primera versión CFP)
 "PO-Revision-Date: 2024-03-13 01:30+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"

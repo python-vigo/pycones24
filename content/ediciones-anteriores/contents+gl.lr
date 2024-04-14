@@ -1,0 +1,32 @@
+_model: previous_editions
+---
+content.blocks: hoa
+---
+my_list.blocks.fields.text:
+
+hola
+Project-Id-Version: pycones 24
+Report-Msgid-Bugs-To:
+PO-Revision-Date: 2024-03-14 01:10+0100
+Last-Translator: Automatically generated
+Language-Team: none
+Language: gl
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+X-Generator: Poedit 3.4.2
+
+---
+_hidden: no
+Project-Id-Version: pycones 24
+Report-Msgid-Bugs-To:
+PO-Revision-Date: 2024-03-14 01:10+0100
+Last-Translator: Automatically generated
+Language-Team: none
+Language: gl
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+X-Generator: Poedit 3.4.2
+---
+_template: previous_editions/previous_editions.html

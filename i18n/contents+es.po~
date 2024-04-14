@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pycones 24\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-04-09 00:39+CET\n"
+"POT-Creation-Date: 2024-04-15 01:31+CET\n"
 "PO-Revision-Date: 2024-03-11 00:54+CET\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -24,7 +24,7 @@ msgstr ""
 msgid ""
 "A continuación podrás ver algunos de los hitos más importantes de la "
 "conferencia. En caso de que la fecha exacta no esté disponible, se "
-"confirmará desde que podamos."
+"confirmará el cambio lo antes posible."
 msgstr ""
 
 #: (dynamic)
@@ -36,7 +36,7 @@ msgid "Marzo"
 msgstr ""
 
 #: (dynamic)
-msgid "Apertura para el envió de ponencias y talleres"
+msgid "Apertura para el envió de ponencias/charlas"
 msgstr ""
 
 #: (dynamic)
@@ -52,7 +52,7 @@ msgid "Mayo"
 msgstr ""
 
 #: (dynamic)
-msgid "Cierre del llamado a ponencias y talleres"
+msgid "Cierre del llamado a ponencias/charlas"
 msgstr ""
 
 #: (dynamic)
@@ -73,6 +73,10 @@ msgstr ""
 
 #: (dynamic)
 msgid "Código de conducta"
+msgstr ""
+
+#: (dynamic)
+msgid "Ediciones anteriores"
 msgstr ""
 
 #: https://2024.es.pycon.org/ (content/contents+es.lr:page.dates_event)
@@ -428,6 +432,232 @@ msgid ""
 "la conferencia, es decir no necesitan una entrada. En caso de que tengas "
 "pensado presentarte como ponente, independiente de si tu propuesta es "
 "aceptada o no, te recomendamos adquirir una entrada."
+msgstr ""
+
+#: (dynamic)
+msgid "Convocatoria de propuestas (CFP)"
+msgstr ""
+
+#: (dynamic)
+msgid ""
+"Esta página contiene toda la información sobre el proceso de propuesta para "
+"PyConES 2024 – la actualizaremos regularmente a medida que haya nueva "
+"información disponible."
+msgstr ""
+
+#: (dynamic)
+msgid ""
+"La convocatoria de propuestas (CFP) es hasta las 23:59 (UTC) del 31 de mayo. "
+"Mejor no dejarlo para el último minuto."
+msgstr ""
+
+#: (dynamic)
+msgid ""
+"Estamos buscando una variedad de charlas sobre temas técnicos y no técnicos. "
+"Buscamos charlas accesibles para todos los niveles de habilidad, y buscamos "
+"propuestas de oradores nuevos y experimentados."
+msgstr ""
+
+#: (dynamic)
+msgid ""
+"Si te estás preguntando, ¿puedo hacer esto? La respuesta es sí. Si tienes un "
+"tema que te interesa, entonces nos interesa a nosotros."
+msgstr ""
+
+#: (dynamic)
+msgid "Recomendaciones para tu propuesta"
+msgstr ""
+
+#: (dynamic)
+msgid ""
+"Queremos motivar a personas con distintos niveles de experiencia en "
+"ponencias a participar en la conferencia. Sabemos que para personas que "
+"recién comienzan, el presentar una idea que refleje todos los detalles "
+"geniales que tu charla incluirá puede ser confuso."
+msgstr ""
+
+#: (dynamic)
+msgid ""
+"Es importante que presentes tu idea de manera clara, pero que también puedas "
+"dar la información necesaria para que quienes revisen, entiendan tu "
+"propuesta."
+msgstr ""
+
+#: (dynamic)
+msgid "Estructura de tu abstract"
+msgstr ""
+
+#: (dynamic)
+msgid ""
+"Una estructura simple que puedes seguir, es poder contemplar los siguientes "
+"puntos en tu propuesta:"
+msgstr ""
+
+#: (dynamic)
+msgid "Contexto de tu charla o problema"
+msgstr ""
+
+#: (dynamic)
+msgid "Definición del problema"
+msgstr ""
+
+#: (dynamic)
+msgid "¿Por qué es importante buscar una solución a ese problema?"
+msgstr ""
+
+#: (dynamic)
+msgid "¿Qué se hablará y que aprenderá la gente que asista?"
+msgstr ""
+
+#: (dynamic)
+msgid "Requerimientos previos o comentarios adicionales de tu charla"
+msgstr ""
+
+#: (dynamic)
+msgid ""
+"Evita los abstract de una o dos líneas que repitan la idea que ya se "
+"presenta en el título, e intenta incluir factores que hacen tu propuesta "
+"¡especial y única!."
+msgstr ""
+
+#: (dynamic)
+msgid "Tipos de propuestas"
+msgstr ""
+
+#: (dynamic)
+msgid "Charlas: 35 min (30 min + 5 min QA)"
+msgstr ""
+
+#: (dynamic)
+msgid "Talleres: de hasta 90 min"
+msgstr ""
+
+#: (dynamic)
+msgid ""
+"Si tu taller dira más o menos tiempo no dudes en comunicarlo a la "
+"organización para tenerlo en cuenta en la configuración del programa. Esto "
+"nos dará la oportunidad de crear un planificación variada y ajustada a los "
+"tres días de conferencia."
+msgstr ""
+
+#: (dynamic)
+msgid "Valoramos mucho las propuestas:"
+msgstr ""
+
+#: (dynamic)
+msgid "Con un enfoque social"
+msgstr ""
+
+#: (dynamic)
+msgid "Saltos entre distintos campos profesionales"
+msgstr ""
+
+#: (dynamic)
+msgid "O simplemente Sobre tu experiencia de Python y el impacto en tu vida"
+msgstr ""
+
+#: (dynamic)
+msgid "Temáticas"
+msgstr ""
+
+#: (dynamic)
+msgid ""
+"La temática es abierta siempre y cuando tenga relación con Python. Aquí te "
+"dejamos algunas ideas:"
+msgstr ""
+
+#: (dynamic)
+msgid "Desarrollo Web"
+msgstr ""
+
+#: (dynamic)
+msgid "Análisis, ingeniería y ciencia de datos"
+msgstr ""
+
+#: (dynamic)
+msgid "DevOps / Administración de sistemas / Scripts de automatización"
+msgstr ""
+
+#: (dynamic)
+msgid "Educación"
+msgstr ""
+
+#: (dynamic)
+msgid "Machine learning e inteligencia artificial"
+msgstr ""
+
+#: (dynamic)
+msgid "Aplicaciones de escritorio"
+msgstr ""
+
+#: (dynamic)
+msgid "Internet de las cosas"
+msgstr ""
+
+#: (dynamic)
+msgid "Seguridad y redes"
+msgstr ""
+
+#: (dynamic)
+msgid "Aplicaciones móviles, multimedia, embebidos"
+msgstr ""
+
+#: (dynamic)
+msgid "Comunidad, sociedad y cultura"
+msgstr ""
+
+#: (dynamic)
+msgid "¡Y muchos más!"
+msgstr ""
+
+#: (dynamic)
+msgid "Consideraciones adicionales"
+msgstr ""
+
+#: (dynamic)
+msgid "Es posible enviar más de una propuesta por persona"
+msgstr ""
+
+#: (dynamic)
+msgid "Se aceptan charlas con varias personas como ponentes"
+msgstr ""
+
+#: (dynamic)
+msgid "Te notificaremos tanto si tu propuesta es aceptada, como si no lo es"
+msgstr ""
+
+#: (dynamic)
+msgid "¿Preguntas o sugerencias?"
+msgstr ""
+
+#: (dynamic)
+msgid ""
+"Nuestro equipo está aquí para ayudarte. Si tienes alguna pregunta o "
+"sugerencia, no dudes en contactarnos en"
+msgstr ""
+
+#: (dynamic)
+msgid ""
+"Estamos comprometidos a hacer de PyConES 2024 un evento inclusivo, atractivo "
+"e inolvidable para todos."
+msgstr ""
+
+#: (dynamic)
+msgid "Nos vemos en Vigo!"
+msgstr ""
+
+#: (dynamic)
+msgid "No olvides seguirnos en twitter"
+msgstr ""
+
+#: (dynamic)
+msgid "para obtener la información más reciente y actualizada!"
+msgstr ""
+
+#: templates/cfp.html:146
+msgid ""
+"Nuestro equipo está aquí para ayudarte. Si tienes alguna pregunta o "
+"sugerencia, no dudes en contactarnos en "
 msgstr ""
 
 #: templates/code_conduct.html:171
