@@ -22,13 +22,14 @@
     <link rel="icon" type="image/png" sizes="16x16" href="{{ '/static/favicon/favicon-16x16.png'|asseturl }}">
     <link rel="manifest" href="{{ '/static/favicon/site.webmanifest'|asseturl }}">
     <meta name="google-site-verification" content="ggr-BOSKTnIjcxjkkreUx5oqxBWojqS-iDhnE8ovQAk" />
+    <script src="{{ '/static/js/htmx.min.js'|url }}"></script>
   </head>
-  <body >
+  <body data-hx-boost="true" class="flex flex-col min-h-screen">
     {% block body %}
-    <header class="flex mt-0 mb-10 lg:mb-16 bg-primary">
+    <header class="flex mt-0 bg-primary">
       {% include "components/header.html" %}
     </header>
-    <main>{% block main_content %} {% endblock main_content %}</main>
+    <main class="flex-grow">{% block main_content %} {% endblock main_content %}</main>
     {% endblock %}
     {% include "components/footer.html" %}
   </body>

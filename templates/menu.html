@@ -1,0 +1,21 @@
+{% extends "layout.html" %}
+
+{% block title %}{{ this.title }}{% endblock %}
+{% block body %}
+  <header class="flex mt-0 bg-secondary">
+      {% include "components/header.html" %}
+  </header>
+  <nav class="flex-grow pt-10 pb-96 text-white bg-secondary">
+      <ul class="flex flex-col gap-10 mx-auto w-11/12 text-5xl text-center">
+          <li class="pb-1 hover:border-b-2">
+              <a href="{{ '/'|url }}">{{ _("Inicio") }}</a>
+          </li>
+          <li class="pb-1 hover:border-b-2">
+              <a href="{{ '/c4p/'|url }}">{{ _("Convocatoría de propuestas (CFP)") }}</a>
+          </li>
+          <li class="pb-1 hover:border-b-2">
+              <a href="{{ '/faq/'|url }}">{{ _("FAQ") }}</a>
+          </li>
+      </ul>
+  </nav>
+{% endblock %}
