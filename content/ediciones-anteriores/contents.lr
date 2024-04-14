@@ -1,0 +1,12 @@
+_model: previous_editions
+---
+content.blocks: hoa
+---
+my_list.blocks.fields.text:
+
+hola
+
+---
+_hidden: no
+---
+_template: previous_editions/previous_editions.html

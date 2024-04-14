@@ -2,8 +2,8 @@
 
 {% from "macros/faq_item.html" import faq_item %}
 
-{% block main_content %}
-<section class="mx-auto w-10/12">
+{% block content %}
+<section class="w-10/12 mx-auto">
     <h1 class="mb-12 text-5xl text-primary">{{ _("Preguntas Frecuentes") }}</h1>
     {{ faq_item(_("¿Cómo accedo al streaming?"), _("Próximamente")) }}
     {{ faq_item(_("¿Qué días son los tutoriales y charlas?"), _("Próximamente")) }}
@@ -37,4 +37,4 @@
     )
     }}
 </section>
-{% endblock main_content %}
+{% endblock content %}
