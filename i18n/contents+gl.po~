@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pycones 24\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-04-15 01:31+CET\n"
+"POT-Creation-Date: 2024-04-15 20:39+CET\n"
 "PO-Revision-Date: 2024-03-14 01:10+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -381,15 +381,7 @@ msgstr ""
 "Se se trata dun espazo en liña, ponche en contacto coas persoas moderadoras "
 "dese espazo."
 
-#: (dynamic)
-msgid ""
-"En el foro de Discourse puedes denunciar publicaciones individuales o "
-"contactar con el"
-msgstr ""
 
-#: (dynamic)
-msgid "grupo de moderación"
-msgstr "grupo de moderación"
 
 #: (dynamic)
 msgid ""
@@ -727,6 +719,18 @@ msgstr ""
 
 #: (dynamic)
 msgid "para obtener la información más reciente y actualizada!"
+msgstr ""
+
+#: (dynamic)
+msgid "Inicio"
+msgstr ""
+
+#: (dynamic)
+msgid "Convocatoría de propuestas (CFP)"
+msgstr ""
+
+#: (dynamic)
+msgid "FAQ"
 msgstr ""
 
 #: templates/cfp.html:146
