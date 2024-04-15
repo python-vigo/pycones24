@@ -15,7 +15,7 @@ jobs:
       - name: Install requirements
         run: |
           ./scripts/install
-          .venv/bin/python -m pip install babel
+          sudo apt-get -y install gettext python3-babel
       - name: Build lektor website
         run: |
           source .venv/bin/activate
