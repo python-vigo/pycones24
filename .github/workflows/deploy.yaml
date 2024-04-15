@@ -14,7 +14,7 @@ jobs:
           python-version: "3.10"
       - name: Install requirements
         run: |
-          apt install gettext python3-babel
+          apt install -y gettext python3-babel
           ./scripts/install
       - name: Build lektor website
         run: |
