@@ -1,19 +1,28 @@
 {% from "macros/logo.html" import render_logo %}
 
-<a href="{{ '/'|url }}" class="cursor-pointer">
-  <figure class="flex justify-center mt-4 mb-4 lg:justify-start lg:ml-24 xl:ml-36">
-    {{ render_logo('white') }}
-  </figure>
-</a>
+<nav class="flex justify-center items-center mx-auto mt-6 w-11/12 md:justify-around">
+  <a href="{{ '/'|url }}" class="cursor-pointer">
+    <figure>
+      {{ render_logo('white') }}
+    </figure>
+  </a>
 
-<a href="{{ '/c4p/'|url }}" class="flex justify-center items-center px-5 mt-4 ml-auto h-10 text-lg font-bold text-white bg-transparent rounded border-2 hover:bg-white bg-primary hover:text-primary">
-    {{ _("Convocatoria de propuestas") }}
-</a>
-
-<a
-  href="{{ '/menu'|url }}"
-  data-hx-push-url="false"
-  class="flex justify-center items-center mt-4 mr-12 ml-4 h-10 text-lg"
->
-    <img src="/static/images/ham-icon.svg" alt="Menu" />
-</a>
+  <div class="flex gap-x-10 items-center">
+    <a href="{{ '/'|url }}" class="hidden text-lg font-bold text-white lg:block hover:underline">
+      {{ _("Inicio") }}
+    </a>
+    <a href="{{ '/c4p/'|url }}" class="hidden text-lg font-bold text-white lg:block hover:underline">
+      {{ _("Convocatoria de propuestas (CFP)") }}
+    </a>
+    <a href="{{ '/faq/'|url }}" class="hidden text-lg font-bold text-white lg:block hover:underline">
+      {{ _("FAQ") }}
+    </a>
+    <a href="https://pretix.eu/python-spain/"
+      class="hidden py-1 px-6 ml-auto text-lg font-bold text-center text-white bg-transparent rounded border-2 md:block hover:bg-white bg-primary hover:text-primary">
+      {{ _("Entradas") }}
+    </a>
+    <a href="{{ '/menu'|url }}" data-hx-push-url="false" class="lg:hidden">
+      <img src="/static/images/ham-icon.svg" alt="Menu" />
+    </a>
+  </div>
+</nav>
