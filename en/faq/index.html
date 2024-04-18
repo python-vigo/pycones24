@@ -22,30 +22,39 @@
   </head>
   <body data-hx-boost="true" class="flex flex-col min-h-screen">
     
-    <header class="flex mt-0 bg-primary">
+    <header class="mt-0 bg-primary">
       
 
-<a href="../" class="cursor-pointer">
-  <figure class="flex justify-center mt-4 mb-4 lg:justify-start lg:ml-24 xl:ml-36">
-    
+<nav class="flex justify-center items-center mx-auto mt-6 w-11/12 md:justify-around">
+  <a href="../" class="cursor-pointer">
+    <figure>
+      
     
         <img class="w-9/12 md:w-fit" src="../../static/logo/logo-white.svg?h=ded0d086" alt="Logo PyConES 24">
     
 
-  </figure>
-</a>
+    </figure>
+  </a>
 
-<a href="../../c4p/" class="flex justify-center items-center px-5 mt-4 ml-auto h-10 text-lg font-bold text-white bg-transparent rounded border-2 hover:bg-white bg-primary hover:text-primary">
-    Convocatoria de propuestas
-</a>
-
-<a
-  href="../menu/"
-  data-hx-push-url="false"
-  class="flex justify-center items-center mt-4 mr-12 ml-4 h-10 text-lg"
->
-    <img src="/static/images/ham-icon.svg" alt="Menu" />
-</a>
+  <div class="flex gap-x-10 items-center">
+    <a href="../" class="hidden text-lg font-bold text-white lg:block hover:underline">
+      Inicio
+    </a>
+    <a href="../../c4p/" class="hidden text-lg font-bold text-white lg:block hover:underline">
+      Convocatoria de propuestas (CFP)
+    </a>
+    <a href="./" class="hidden text-lg font-bold text-white lg:block hover:underline">
+      FAQ
+    </a>
+    <a href="https://pretix.eu/python-spain/"
+      class="hidden py-1 px-6 ml-auto text-lg font-bold text-center text-white bg-transparent rounded border-2 md:block hover:bg-white bg-primary hover:text-primary">
+      Entradas
+    </a>
+    <a href="../menu/" data-hx-push-url="false" class="lg:hidden">
+      <img src="/static/images/ham-icon.svg" alt="Menu" />
+    </a>
+  </div>
+</nav>
     </header>
     <main class="flex-grow">
     

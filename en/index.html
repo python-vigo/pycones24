@@ -22,30 +22,39 @@
   </head>
   <body data-hx-boost="true" class="flex flex-col min-h-screen">
     
-  <header class="flex mt-0 bg-primary">
+  <header class="mt-0 bg-primary">
     
 
-<a href="./" class="cursor-pointer">
-  <figure class="flex justify-center mt-4 mb-4 lg:justify-start lg:ml-24 xl:ml-36">
-    
+<nav class="flex justify-center items-center mx-auto mt-6 w-11/12 md:justify-around">
+  <a href="./" class="cursor-pointer">
+    <figure>
+      
     
         <img class="w-9/12 md:w-fit" src="../static/logo/logo-white.svg?h=ded0d086" alt="Logo PyConES 24">
     
 
-  </figure>
-</a>
+    </figure>
+  </a>
 
-<a href="../c4p/" class="flex justify-center items-center px-5 mt-4 ml-auto h-10 text-lg font-bold text-white bg-transparent rounded border-2 hover:bg-white bg-primary hover:text-primary">
-    Convocatoria de propuestas
-</a>
-
-<a
-  href="menu/"
-  data-hx-push-url="false"
-  class="flex justify-center items-center mt-4 mr-12 ml-4 h-10 text-lg"
->
-    <img src="/static/images/ham-icon.svg" alt="Menu" />
-</a>
+  <div class="flex gap-x-10 items-center">
+    <a href="./" class="hidden text-lg font-bold text-white lg:block hover:underline">
+      Inicio
+    </a>
+    <a href="../c4p/" class="hidden text-lg font-bold text-white lg:block hover:underline">
+      Convocatoria de propuestas (CFP)
+    </a>
+    <a href="faq/" class="hidden text-lg font-bold text-white lg:block hover:underline">
+      FAQ
+    </a>
+    <a href="https://pretix.eu/python-spain/"
+      class="hidden py-1 px-6 ml-auto text-lg font-bold text-center text-white bg-transparent rounded border-2 md:block hover:bg-white bg-primary hover:text-primary">
+      Entradas
+    </a>
+    <a href="menu/" data-hx-push-url="false" class="lg:hidden">
+      <img src="/static/images/ham-icon.svg" alt="Menu" />
+    </a>
+  </div>
+</nav>
   </header>
   <main class="pb-0">
     <section class="relative pt-10 text-white h-[800px] bg-primary">
@@ -65,16 +74,16 @@ with an incredible agenda in the best possible location.</p>
     <header>
         <img src="../static/images/header-event-schedule-image.jpg?h=a94b0d67" alt="Vigo PF" class="w-full">
     </header>
-    <article class="mt-20 mb-20">
+    <article class="mx-auto mt-20 mb-20 w-11/12 md:w-full">
         <h2 class="text-5xl text-center text-primary">Cronograma del evento</h2>
         <p class="mt-6 text-xl text-center text-secondary">
             A continuación podrás ver algunos de los hitos más importantes de la conferencia. En caso de que la fecha exacta no esté disponible, se confirmará el cambio lo antes posible.
         </p>
-        <section class="flex gap-5 justify-center items-center mt-5 md:flex-row flex-cols">
-            <figure class="w-[534px]">
+        <section class="flex flex-col gap-12 justify-center items-center mx-auto mt-5 md:flex-row">
+            <figure class="w-11/12 md:w-10/12 xl:w-[534px]">
                 <img src="../static/images/cronograma.png?h=1ecec744" alt="Trisquel">
             </figure>
-            <ol class="relative h-full border-secondary border-s w-[534px]">
+            <ol class="relative w-10/12 h-full border-secondary border-s xl:w-[534px]">
                 
     <li class="flex flex-col mb-4 ms-4">
         <div class="absolute mt-1.5 w-3 h-3 bg-white rounded-full border-2 border -start-1.5 border-primary"></div>
