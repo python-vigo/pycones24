@@ -5,7 +5,7 @@
     <header>
         <img src="{{ '/static/images/header-event-schedule-image.jpg'|asseturl }}" alt="Vigo PF" class="w-full">
     </header>
-    <article class="mt-20 mb-20">
+    <article class="mx-auto mt-20 mb-20 w-11/12 md:w-full">
         <h2 class="text-5xl text-center text-primary">{{ _("Cronograma del evento") }}</h2>
         <p class="mt-6 text-xl text-center text-secondary">
             {{
@@ -13,11 +13,11 @@
             "fecha exacta no esté disponible, se confirmará el cambio lo antes posible.")
             }}
         </p>
-        <section class="flex gap-5 justify-center items-center mt-5 md:flex-row flex-cols">
-            <figure class="w-[534px]">
+        <section class="flex flex-col gap-12 justify-center items-center mx-auto mt-5 md:flex-row">
+            <figure class="w-11/12 md:w-10/12 xl:w-[534px]">
                 <img src="{{ '/static/images/cronograma.png'|asseturl }}" alt="Trisquel">
             </figure>
-            <ol class="relative h-full border-secondary border-s w-[534px]">
+            <ol class="relative w-10/12 h-full border-secondary border-s xl:w-[534px]">
                 {{ render_schedule_tag(
                     _("Presentamos la PyConES"),
                     _("Marzo")
