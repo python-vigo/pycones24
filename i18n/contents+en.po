@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pycones 24\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-04-15 20:56+CET\n"
+"POT-Creation-Date: 2024-04-15 20:49+CET\n"
 "PO-Revision-Date: 2024-04-15 20:52+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -534,7 +534,7 @@ msgstr ""
 msgid ""
 "En el foro de Discourse puedes denunciar publicaciones individuales o "
 "contactar con el "
-msgstr ""
+msgstr "In the Discourse forum you can report individual posts or contact the"
 
 #: templates/code_conduct.html:173
 msgid "grupo de moderación"
@@ -581,29 +581,29 @@ msgstr "djangoCon Europe 2020 code of conduct"
 
 #: templates/faq.html:7
 msgid "Preguntas Frecuentes"
-msgstr ""
+msgstr "Frequently Asked Questions"
 
 #: templates/faq.html:8
 msgid "¿Cómo accedo al streaming?"
-msgstr ""
+msgstr "How can I watch the streaming?"
 
 #: templates/faq.html:8 templates/faq.html:9 templates/faq.html:10
 #: templates/faq.html:20 templates/faq.html:21 templates/faq.html:22
 #: templates/faq.html:23
 msgid "Próximamente"
-msgstr ""
+msgstr "Coming Next"
 
 #: templates/faq.html:9
 msgid "¿Qué días son los tutoriales y charlas?"
-msgstr ""
+msgstr "When are workshops and talks taking place?"
 
 #: templates/faq.html:10
 msgid "¿En qué lugar se realizará la conferencia?"
-msgstr ""
+msgstr "Where is the conference taking place?"
 
 #: templates/faq.html:12
 msgid "¿La conferencia es sólo en Español?"
-msgstr ""
+msgstr "Is the conference in Spanish only?"
 
 #: templates/faq.html:13
 msgid ""
@@ -611,6 +611,8 @@ msgid ""
 "charlas aceptadas en Inglés se realizará un track completo durante los días "
 "de charlas."
 msgstr ""
+"The conference will be mainly in Spanish, and depending on how many talks in "
+"English are accepted, there may be a complete track during talk days."
 
 #: templates/faq.html:15
 msgid ""
@@ -619,26 +621,29 @@ msgid ""
 "en caso que de que personas que asistan necesiten información en uno de los "
 "dos idiomas."
 msgstr ""
+"The main talks, as well as the opening and closing keynotes, will be in "
+"Spanish. However, everyone in the organization speaks both Spanish and "
+"English, in case any attendee needs information in either language."
 
 #: templates/faq.html:20
 msgid "¿Qué Aeropuerto es más cercano a la conferencia?"
-msgstr ""
+msgstr "Which airport is closest to the conference?"
 
 #: templates/faq.html:21
 msgid "Quiero presentar una charla ¿Cómo lo hago?"
-msgstr ""
+msgstr "How can I submit a talk?"
 
 #: templates/faq.html:22
 msgid "Quiero patrocinar pero ¿Cómo funcionan los add-ons?"
-msgstr ""
+msgstr "I want to sponsor, how to add-ons work?"
 
 #: templates/faq.html:23
 msgid "Soy patrocinante ¿Cómo y Cuántas entradas consigo?"
-msgstr ""
+msgstr "I am a sponsor, how many tickets do I get, and how?"
 
 #: templates/faq.html:25
 msgid "He comprado mi entrada y necesito una factura ¿Cómo la consigo?"
-msgstr ""
+msgstr "I bought a ticket and I need an invoice, how can I get it?"
 
 #: templates/faq.html:26
 msgid ""
@@ -648,10 +653,14 @@ msgid ""
 "tickets de la conferencia. Principalmente, por la complejidad de cancelar "
 "dichos documentos en nuestra infraestructura."
 msgstr ""
+"If you need an invoice for the entity that sponsors your attendance to the "
+"event, we will generate your invoice once the event is held, or once "
+"conference ticket details can no longer be changed. Mainly because of how "
+"complex it is to cancel those documents in our framework."
 
 #: templates/faq.html:33
 msgid "Soy Ponente, ¿tengo que comprar la entrada?"
-msgstr ""
+msgstr "I am a speaker, do I have to buy a ticket?"
 
 #: templates/faq.html:34
 msgid ""
@@ -660,6 +669,9 @@ msgid ""
 "pensado presentarte como ponente, independiente de si tu propuesta es "
 "aceptada o no, te recomendamos adquirir una entrada."
 msgstr ""
+"Every talker is granted entry to the conference, i.e. they do not need a "
+"ticket. If you are thinking of submitting a talk, you are encouraged to get "
+"a ticket, regardless of whether or not your submission is accepted."
 
 #: templates/menu.html:11
 msgid "Inicio"
@@ -742,7 +754,6 @@ msgstr ""
 msgid "Entradas"
 msgstr ""
 
-#, fuzzy
 #~ msgid ""
 #~ "En el foro de Discourse puedes denunciar publicaciones individuales o "
 #~ "contactar con el"
@@ -754,3 +765,10 @@ msgstr ""
 #~ "Junta Directiva en"
 #~ msgstr ""
 #~ "For other spaces or alternatively, contact the Board of Directors at"
+
+#~ msgid ""
+#~ "ágina web de la PyConES 2024 en Vigo, Galicia. La conferencia de Python "
+#~ "más importante de España."
+#~ msgstr ""
+#~ "ágina web de la PyConES 2024 en Vigo, Galicia. La conferencia de Python "
+#~ "más importante de España."
