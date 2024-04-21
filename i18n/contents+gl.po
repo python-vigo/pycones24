@@ -4,14 +4,14 @@ msgstr ""
 "Project-Id-Version: pycones 24\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-04-15 20:49+CET\n"
-"PO-Revision-Date: 2024-04-18 21:48+0200\n"
+"PO-Revision-Date: 2024-04-21 15:27+0200\n"
 "Last-Translator: Adrián Chaves (Gallaecio) <adrian@chaves.io>\n"
 "Language-Team: Proxecto Trasno (proxecto@trasno.gal)\n"
 "Language: gl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Lokalize 24.02.0\n"
+"X-Generator: Lokalize 24.02.2\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
 #: https://2024.es.pycon.org/ (content/contents+es.lr:page.dates_event)
@@ -286,7 +286,7 @@ msgstr "Non esquezas seguirnos en Twitter"
 
 #: templates/cfp.html:161
 msgid "para obtener la información más reciente y actualizada!"
-msgstr ""
+msgstr "para obter a información máis recente e actualizada!"
 
 #: templates/code_conduct.html:7
 msgid "Código conducta"
@@ -717,19 +717,19 @@ msgstr ""
 
 #: templates/menu.html:11
 msgid "Inicio"
-msgstr ""
+msgstr "Inicio"
 
 #: templates/menu.html:14
 msgid "Convocatoría de propuestas (CFP)"
-msgstr ""
+msgstr "Convocatoria de propostas (CfP)"
 
 #: templates/menu.html:17
 msgid "FAQ"
-msgstr ""
+msgstr "Preguntas frecuentes"
 
 #: templates/components/event_schedule_section.html:9
 msgid "Cronograma del evento"
-msgstr ""
+msgstr "Cronograma do evento"
 
 #: templates/components/event_schedule_section.html:12
 msgid ""
@@ -737,62 +737,66 @@ msgid ""
 "conferencia. En caso de que la fecha exacta no esté disponible, se "
 "confirmará el cambio lo antes posible."
 msgstr ""
+"A continuación poderás ver algúns dos hitos máis importantes da conferencia."
+" En caso de que a data exacta non estea dispoñíbel, confirmarase o cambio o"
+" antes posíbel."
 
 #: templates/components/event_schedule_section.html:22
 msgid "Presentamos la PyConES"
-msgstr ""
+msgstr "Presentamos a PyConES"
 
 #: templates/components/event_schedule_section.html:23
 msgid "Marzo"
-msgstr ""
+msgstr "Marzo"
 
 #: templates/components/event_schedule_section.html:26
 msgid "Apertura para el envió de ponencias/charlas"
-msgstr ""
+msgstr "Apertura para o envío de ponencias/charlas"
 
 #: templates/components/event_schedule_section.html:27
 msgid "Abril"
-msgstr ""
+msgstr "Abril"
 
 #: templates/components/event_schedule_section.html:30
 msgid "Apertura para la venta de entradas"
-msgstr ""
+msgstr "Apertura da venda de entradas"
 
 #: templates/components/event_schedule_section.html:31
 #: templates/components/event_schedule_section.html:35
 msgid "Mayo"
-msgstr ""
+msgstr "Maio"
 
 #: templates/components/event_schedule_section.html:34
 msgid "Cierre del llamado a ponencias/charlas"
-msgstr ""
+msgstr "Peche do envío de ponencias/charlas"
 
 #: templates/components/event_schedule_section.html:38
 msgid "Apertura para la postulación de becas"
-msgstr ""
+msgstr "Apertura da postulación de bolsas"
 
 #: templates/components/event_schedule_section.html:39
 msgid "Junio"
-msgstr ""
+msgstr "Xuño"
 
 #: templates/components/event_schedule_section.html:42
 msgid "¡Empieza el espectáculo!"
-msgstr ""
+msgstr "Empeza o espectáculo!"
 
 #: templates/components/event_schedule_section.html:43
 msgid "Octubre"
-msgstr ""
+msgstr "Outubro"
 
 #: templates/components/footer.html:7
 msgid "Código de conducta"
-msgstr ""
+msgstr "Código de conduta"
 
 #: templates/components/footer.html:10
 #: templates/previous_editions/previous_editions.html:5
 msgid "Ediciones anteriores"
-msgstr ""
+msgstr "Edicións anteriores"
 
 #: templates/components/header.html:10
 msgid "Entradas"
-msgstr ""
+msgstr "Entradas"
+
 
