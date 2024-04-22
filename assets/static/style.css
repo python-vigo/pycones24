@@ -56,18 +56,3 @@
       font-family: "Dosis", system-ui, sans-serif;
     }
   }
-
-ul {
-  list-style-type: none;
-  padding:0;
-  margin:0;
-  color: #003A5D;
-}
-
-tbody {
-    color: #003A5D;
-}
-
-sup {
-    color: #003A5D;
-}
