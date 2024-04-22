@@ -798,5 +798,3 @@ msgstr "Edicións anteriores"
 #: templates/components/header.html:10
 msgid "Entradas"
 msgstr "Entradas"
-
-
