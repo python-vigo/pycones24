@@ -1,16 +1,18 @@
+# SPDX-FileCopyrightText: 2024 Adrián Chaves (Gallaecio)
 msgid ""
 msgstr ""
 "Project-Id-Version: pycones 24\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-04-15 20:49+CET\n"
-"PO-Revision-Date: 2024-03-14 01:10+0100\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2024-04-21 15:27+0200\n"
+"Last-Translator: Adrián Chaves (Gallaecio) <adrian@chaves.io>\n"
+"Language-Team: Proxecto Trasno (proxecto@trasno.gal)\n"
 "Language: gl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 3.4.2\n"
+"X-Generator: Lokalize 24.02.2\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
 
 #: https://2024.es.pycon.org/ (content/contents+es.lr:page.dates_event)
 msgid "4, 5 y 6 de octubre"
@@ -38,7 +40,7 @@ msgstr "cunha axenda incrible na mellor localización posible."
 
 #: templates/cfp.html:5
 msgid "Convocatoria de propuestas (CFP)"
-msgstr ""
+msgstr "Convocatoria de propostas (CfP)"
 
 #: templates/cfp.html:7
 msgid ""
@@ -46,12 +48,16 @@ msgid ""
 "PyConES 2024 – la actualizaremos regularmente a medida que haya nueva "
 "información disponible."
 msgstr ""
+"Esta páxina contén toda a información sobre o proceso de proposta para"
+" PyConES 2024. Actualizarémola a medida que haxa nova información dispoñíbel."
 
 #: templates/cfp.html:11
 msgid ""
 "La convocatoria de propuestas (CFP) es hasta las 23:59 (UTC) del 31 de mayo. "
 "Mejor no dejarlo para el último minuto."
 msgstr ""
+"A convocatoria de propostas (CfP) acaba o 31 de maio ás 23:59 UTC. Mellor non"
+" deixalo para última hora."
 
 #: templates/cfp.html:22
 msgid ""
@@ -59,16 +65,21 @@ msgid ""
 "Buscamos charlas accesibles para todos los niveles de habilidad, y buscamos "
 "propuestas de oradores nuevos y experimentados."
 msgstr ""
+"Buscamos unha variedade de charlas sobre temas técnicos e non técnicos."
+" Buscamos charlas accesíbeis para todos os niveis de habilidade, e buscamos"
+" propostas de persoas con e sen experiencia en dar ponencias."
 
 #: templates/cfp.html:28
 msgid ""
 "Si te estás preguntando, ¿puedo hacer esto? La respuesta es sí. Si tienes un "
 "tema que te interesa, entonces nos interesa a nosotros."
 msgstr ""
+"Se te preguntas se podes facelo, a resposta é «si». Se tes un tema que te"
+" interesa, tamén nos interesa a nós."
 
 #: templates/cfp.html:33
 msgid "Recomendaciones para tu propuesta"
-msgstr ""
+msgstr "Recomendacións para propostas"
 
 #: templates/cfp.html:35
 msgid ""
@@ -77,6 +88,10 @@ msgid ""
 "recién comienzan, el presentar una idea que refleje todos los detalles "
 "geniales que tu charla incluirá puede ser confuso."
 msgstr ""
+"Queremos motivar a persoas con distintos niveis de experiencia en ponencias a"
+" participar na conferencia. Sabemos que para persoas que están comezando,"
+" pode resultar confuso o proceso de presentar unha idea que reflicta todos os"
+" detalles interesantes sobre a túa charla."
 
 #: templates/cfp.html:39
 msgid ""
@@ -84,36 +99,39 @@ msgid ""
 "dar la información necesaria para que quienes revisen, entiendan tu "
 "propuesta."
 msgstr ""
+"É importante que presentes a túa idea de maneira clara, pero que tamén poidas"
+" fornecer a información necesaria para que quen a revise poida entendela."
 
 #: templates/cfp.html:41
 msgid "Estructura de tu abstract"
-msgstr ""
+msgstr "Estrutura do resumo"
 
 #: templates/cfp.html:43
 msgid ""
 "Una estructura simple que puedes seguir, es poder contemplar los siguientes "
 "puntos en tu propuesta:"
 msgstr ""
+"Unha estrutura simple e fácil de seguir, que contemple os seguintes aspectos:"
 
 #: templates/cfp.html:48
 msgid "Contexto de tu charla o problema"
-msgstr ""
+msgstr "Contexto da charla ou problema"
 
 #: templates/cfp.html:51
 msgid "Definición del problema"
-msgstr ""
+msgstr "Definición do problema"
 
 #: templates/cfp.html:54
 msgid "¿Por qué es importante buscar una solución a ese problema?"
-msgstr ""
+msgstr "Por que é importante buscar unha solución a ese problema?"
 
 #: templates/cfp.html:57
 msgid "¿Qué se hablará y que aprenderá la gente que asista?"
-msgstr ""
+msgstr "Sobre que se falará e que aprenderá a xente que asista?"
 
 #: templates/cfp.html:60
 msgid "Requerimientos previos o comentarios adicionales de tu charla"
-msgstr ""
+msgstr "Requisitos previos ou comentarios adicionais sobre a charla"
 
 #: templates/cfp.html:63
 msgid ""
@@ -121,18 +139,21 @@ msgid ""
 "presenta en el título, e intenta incluir factores que hacen tu propuesta "
 "¡especial y única!."
 msgstr ""
+"Que o teu resumo non sexan unha ou dúas liñas que repiten a idea que xa se"
+" presenta no título. Intenta incluír factores que fan da túa charla algo"
+" especial e único."
 
 #: templates/cfp.html:67
 msgid "Tipos de propuestas"
-msgstr ""
+msgstr "Tipos de propostas"
 
 #: templates/cfp.html:70
 msgid "Charlas: 35 min (30 min + 5 min QA)"
-msgstr ""
+msgstr "Charlas: 35 minutos (30 minutos + 5 minutos de preguntas)"
 
 #: templates/cfp.html:73
 msgid "Talleres: de hasta 90 min"
-msgstr ""
+msgstr "Talleres: de ata 90 minutos"
 
 #: templates/cfp.html:77
 msgid ""
@@ -141,120 +162,131 @@ msgid ""
 "nos dará la oportunidad de crear un planificación variada y ajustada a los "
 "tres días de conferencia."
 msgstr ""
+"Se o teu taller dura máis ou menos tempo, non dubides en comunicarllo á"
+" organización para que o teñan en conta á hora de configurar o programa. Isto"
+" daranos a oportunidade de crear unha planificación variada e axustada aos"
+" tres días da conferencia."
 
 #: templates/cfp.html:81
 msgid "Valoramos mucho las propuestas:"
-msgstr ""
+msgstr "Valoramos moito as propostas:"
 
 #: templates/cfp.html:83
 msgid "Con un enfoque social"
-msgstr ""
+msgstr "Cun enfoque social"
 
 #: templates/cfp.html:84
 msgid "Saltos entre distintos campos profesionales"
-msgstr ""
+msgstr "Saltos entre distintos campos profesionais"
 
 #: templates/cfp.html:85
 msgid "O simplemente Sobre tu experiencia de Python y el impacto en tu vida"
 msgstr ""
+"Ou simplemente sobre a túa experiencia de Python e o seu impacto na túa vida"
 
 #: templates/cfp.html:89
 msgid "Temáticas"
-msgstr ""
+msgstr "Temáticas"
 
 #: templates/cfp.html:90
 msgid ""
 "La temática es abierta siempre y cuando tenga relación con Python. Aquí te "
 "dejamos algunas ideas:"
 msgstr ""
+"A temática é aberta sempre e cando teña relación con Python. Aquí deixámoste"
+" algunhas ideas:"
 
 #: templates/cfp.html:95
 msgid "Desarrollo Web"
-msgstr ""
+msgstr "Desenvolvemento web"
 
 #: templates/cfp.html:98
 msgid "Análisis, ingeniería y ciencia de datos"
-msgstr ""
+msgstr "Análise, enxeñaría e ciencia de datos"
 
 #: templates/cfp.html:101
 msgid "DevOps / Administración de sistemas / Scripts de automatización"
-msgstr ""
+msgstr "DevOps, administración de sistemas, guións de automatización"
 
 #: templates/cfp.html:104
 msgid "Educación"
-msgstr ""
+msgstr "Educación"
 
 #: templates/cfp.html:107
 msgid "Machine learning e inteligencia artificial"
-msgstr ""
+msgstr "Aprendizaxe artificial e intelixencia artificial"
 
 #: templates/cfp.html:110
 msgid "Aplicaciones de escritorio"
-msgstr ""
+msgstr "Aplicacións de escritorio"
 
 #: templates/cfp.html:113
 msgid "Internet de las cosas"
-msgstr ""
+msgstr "Internet das cousas"
 
 #: templates/cfp.html:116
 msgid "Seguridad y redes"
-msgstr ""
+msgstr "Seguridade e redes"
 
 #: templates/cfp.html:119
 msgid "Aplicaciones móviles, multimedia, embebidos"
-msgstr ""
+msgstr "Aplicacións móbiles, multimedia e incrustación"
 
 #: templates/cfp.html:122
 msgid "Comunidad, sociedad y cultura"
-msgstr ""
+msgstr "Comunidade, sociedade e cultura"
 
 #: templates/cfp.html:125
 msgid "¡Y muchos más!"
-msgstr ""
+msgstr "E moitos máis!"
 
 #: templates/cfp.html:130
 msgid "Consideraciones adicionales"
-msgstr ""
+msgstr "Consideracións adicionais"
 
 #: templates/cfp.html:134
 msgid "Es posible enviar más de una propuesta por persona"
-msgstr ""
+msgstr "Pódense enviar varias propostas por persoa"
 
 #: templates/cfp.html:137
 msgid "Se aceptan charlas con varias personas como ponentes"
-msgstr ""
+msgstr "Acéptanse charlas con varias persoas como ponentes"
 
 #: templates/cfp.html:140
 msgid "Te notificaremos tanto si tu propuesta es aceptada, como si no lo es"
-msgstr ""
+msgstr "Notificarémoste tanto se aceptamos a túa proposta como se non"
 
 #: templates/cfp.html:145
 msgid "¿Preguntas o sugerencias?"
-msgstr ""
+msgstr "Preguntas ou suxestións?"
 
 #: templates/cfp.html:146
 msgid ""
 "Nuestro equipo está aquí para ayudarte. Si tienes alguna pregunta o "
 "sugerencia, no dudes en contactarnos en "
 msgstr ""
+"O noso equipo está aquí para axudarte. Se tes algunha pregunta ou suxestión,"
+" non dubides en contactarnos en "
 
 #: templates/cfp.html:150
 msgid ""
 "Estamos comprometidos a hacer de PyConES 2024 un evento inclusivo, atractivo "
 "e inolvidable para todos."
 msgstr ""
+"Estamos comprometidos con facer de PyConES 2024 un evento inclusivo,"
+" atractivo e inesquecíbel para toda a xente."
 
 #: templates/cfp.html:156
 msgid "Nos vemos en Vigo!"
-msgstr ""
+msgstr "Vémonos en Vigo!"
 
 #: templates/cfp.html:159
 msgid "No olvides seguirnos en twitter"
-msgstr ""
+msgstr "Non esquezas seguirnos en Twitter"
 
 #: templates/cfp.html:161
 msgid "para obtener la información más reciente y actualizada!"
-msgstr ""
+msgstr "para obter a información máis recente e actualizada!"
 
 #: templates/code_conduct.html:7
 msgid "Código conducta"
@@ -588,29 +620,29 @@ msgstr "código de conduta de DjangoCon Europe 2020"
 
 #: templates/faq.html:7
 msgid "Preguntas Frecuentes"
-msgstr ""
+msgstr "Preguntas frecuentes"
 
 #: templates/faq.html:8
 msgid "¿Cómo accedo al streaming?"
-msgstr ""
+msgstr "Como acceso á emisión?"
 
 #: templates/faq.html:8 templates/faq.html:9 templates/faq.html:10
 #: templates/faq.html:20 templates/faq.html:21 templates/faq.html:22
 #: templates/faq.html:23
 msgid "Próximamente"
-msgstr ""
+msgstr "Proximamente"
 
 #: templates/faq.html:9
 msgid "¿Qué días son los tutoriales y charlas?"
-msgstr ""
+msgstr "Que dias son os titoriais e as charlas?"
 
 #: templates/faq.html:10
 msgid "¿En qué lugar se realizará la conferencia?"
-msgstr ""
+msgstr "En que lugar se realizará a conferencia?"
 
 #: templates/faq.html:12
 msgid "¿La conferencia es sólo en Español?"
-msgstr ""
+msgstr "É a conferencia só en castelán?"
 
 #: templates/faq.html:13
 msgid ""
@@ -618,6 +650,9 @@ msgid ""
 "charlas aceptadas en Inglés se realizará un track completo durante los días "
 "de charlas."
 msgstr ""
+"A conferencia será principalmente en castelán, e dependendo das charlas que "
+"se acepten en inglés, podería haber unha pista completa en inglés durante os "
+"días de charlas."
 
 #: templates/faq.html:15
 msgid ""
@@ -626,26 +661,29 @@ msgid ""
 "en caso que de que personas que asistan necesiten información en uno de los "
 "dos idiomas."
 msgstr ""
+"As principais ponencias, a apertura e o peche do evento serán en castelán. "
+"En calquera caso, todas as persoas da organización falan castelán e inglés, "
+"en caso de que persoas que asistan necesiten información nun deses idiomas."
 
 #: templates/faq.html:20
 msgid "¿Qué Aeropuerto es más cercano a la conferencia?"
-msgstr ""
+msgstr "Cal é o aeroporto máis próximo á conferencia?"
 
 #: templates/faq.html:21
 msgid "Quiero presentar una charla ¿Cómo lo hago?"
-msgstr ""
+msgstr "Quero presentar unha charla, como fago?"
 
 #: templates/faq.html:22
 msgid "Quiero patrocinar pero ¿Cómo funcionan los add-ons?"
-msgstr ""
+msgstr "Quero patrocinar pero… como funcionan os complementos?"
 
 #: templates/faq.html:23
 msgid "Soy patrocinante ¿Cómo y Cuántas entradas consigo?"
-msgstr ""
+msgstr "Patrocino, como e cantas entradas consigo?"
 
 #: templates/faq.html:25
 msgid "He comprado mi entrada y necesito una factura ¿Cómo la consigo?"
-msgstr ""
+msgstr "Comprei entrada e necesito unha factura, como a consigo?"
 
 #: templates/faq.html:26
 msgid ""
@@ -655,10 +693,15 @@ msgid ""
 "tickets de la conferencia. Principalmente, por la complejidad de cancelar "
 "dichos documentos en nuestra infraestructura."
 msgstr ""
+"Se necesitas unha factura para presentarlla á entidade que cubre a túa "
+"asistencia ao evento, xeraremos a túa factura cando se realice o evento ou "
+"ata cando se peche o prazo para cambiar os detalles dos tickets da "
+"conferencia. Principalmente, pola complexidade de cancelar eses documentos "
+"na nosa infraestrutura."
 
 #: templates/faq.html:33
 msgid "Soy Ponente, ¿tengo que comprar la entrada?"
-msgstr ""
+msgstr "Son ponente, teño que mercar entrada?"
 
 #: templates/faq.html:34
 msgid ""
@@ -667,22 +710,26 @@ msgid ""
 "pensado presentarte como ponente, independiente de si tu propuesta es "
 "aceptada o no, te recomendamos adquirir una entrada."
 msgstr ""
+"Todas as ponentes teñen asegurada a súa participación na conferencia, é "
+"dicir, non necesitan entrada. Se tes pensado presentarte como ponente, "
+"independentemente de que a túa proposta se acepte ou non, recomendámoste "
+"adquirir unha entrada."
 
 #: templates/menu.html:11
 msgid "Inicio"
-msgstr ""
+msgstr "Inicio"
 
 #: templates/menu.html:14
 msgid "Convocatoría de propuestas (CFP)"
-msgstr ""
+msgstr "Convocatoria de propostas (CfP)"
 
 #: templates/menu.html:17
 msgid "FAQ"
-msgstr ""
+msgstr "Preguntas frecuentes"
 
 #: templates/components/event_schedule_section.html:9
 msgid "Cronograma del evento"
-msgstr ""
+msgstr "Cronograma do evento"
 
 #: templates/components/event_schedule_section.html:12
 msgid ""
@@ -690,61 +737,66 @@ msgid ""
 "conferencia. En caso de que la fecha exacta no esté disponible, se "
 "confirmará el cambio lo antes posible."
 msgstr ""
+"A continuación poderás ver algúns dos hitos máis importantes da conferencia."
+" En caso de que a data exacta non estea dispoñíbel, confirmarase o cambio o"
+" antes posíbel."
 
 #: templates/components/event_schedule_section.html:22
 msgid "Presentamos la PyConES"
-msgstr ""
+msgstr "Presentamos a PyConES"
 
 #: templates/components/event_schedule_section.html:23
 msgid "Marzo"
-msgstr ""
+msgstr "Marzo"
 
 #: templates/components/event_schedule_section.html:26
 msgid "Apertura para el envió de ponencias/charlas"
-msgstr ""
+msgstr "Apertura para o envío de ponencias/charlas"
 
 #: templates/components/event_schedule_section.html:27
 msgid "Abril"
-msgstr ""
+msgstr "Abril"
 
 #: templates/components/event_schedule_section.html:30
 msgid "Apertura para la venta de entradas"
-msgstr ""
+msgstr "Apertura da venda de entradas"
 
 #: templates/components/event_schedule_section.html:31
 #: templates/components/event_schedule_section.html:35
 msgid "Mayo"
-msgstr ""
+msgstr "Maio"
 
 #: templates/components/event_schedule_section.html:34
 msgid "Cierre del llamado a ponencias/charlas"
-msgstr ""
+msgstr "Peche do envío de ponencias/charlas"
 
 #: templates/components/event_schedule_section.html:38
 msgid "Apertura para la postulación de becas"
-msgstr ""
+msgstr "Apertura da postulación de bolsas"
 
 #: templates/components/event_schedule_section.html:39
 msgid "Junio"
-msgstr ""
+msgstr "Xuño"
 
 #: templates/components/event_schedule_section.html:42
 msgid "¡Empieza el espectáculo!"
-msgstr ""
+msgstr "Empeza o espectáculo!"
 
 #: templates/components/event_schedule_section.html:43
 msgid "Octubre"
-msgstr ""
+msgstr "Outubro"
 
 #: templates/components/footer.html:7
 msgid "Código de conducta"
-msgstr ""
+msgstr "Código de conduta"
 
 #: templates/components/footer.html:10
 #: templates/previous_editions/previous_editions.html:5
 msgid "Ediciones anteriores"
-msgstr ""
+msgstr "Edicións anteriores"
 
 #: templates/components/header.html:10
 msgid "Entradas"
-msgstr ""
+msgstr "Entradas"
+
+
