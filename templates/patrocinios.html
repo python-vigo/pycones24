@@ -1,23 +1,8 @@
+{% from "macros/load_icon.html" import load_icon %}
+
 {% extends "layout.html" %}
 
 {% block main_content %}
-<style>
-    ul {
-        list-style-type: none;
-        padding:0;
-        margin:0;
-        color: #003A5D;
-    }
-
-    tbody {
-        color: #003A5D;
-    }
-
-    sup {
-        color: #003A5D;
-    }
-</style>
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
 
 <section class="grid grid-cols-1 gap-y-5 pb-10 mx-auto w-10/12">
     <h1 class="my-10 text-5xl text-primary" style="color: #E30613">Patrocinios</h1>
@@ -68,122 +53,374 @@
                     </tr>
                     <tr class="bg-white">
                         <td class="py-2 px-4 pl-10 font-bold border border-black" style="color: #E30613">Logo en web</td>
-                        <td class="py-2 px-4 text-center border border-black"><i class="font-bold fa-solid fa-check" style="color: #1AB723"></i></td>
-                        <td class="py-2 px-4 text-center border border-black"><i class="font-bold fa-solid fa-check" style="color: #1AB723"></i></td>
-                        <td class="py-2 px-4 text-center border border-black"><i class="font-bold fa-solid fa-check" style="color: #1AB723"></i></td>
-                        <td class="py-2 px-4 text-center border border-black"><i class="font-bold fa-solid fa-check" style="color: #1AB723"></i></td>
+                        <td class="py-2 px-4 border border-black">
+                            <div style="display: flex; justify-content: center;">
+                                {{ load_icon("icons/check-circle.svg", "w-5", "fill-green-500") }}
+                            </div>
+                        </td>
+                        <td class="py-2 px-4 text-center border border-black">
+                            <div style="display: flex; justify-content: center;">
+                                {{ load_icon("icons/check-circle.svg", "w-5", "fill-green-500") }}
+                            </div>
+                        </td>
+                        <td class="py-2 px-4 text-center border border-black">
+                            <div style="display: flex; justify-content: center;">
+                                {{ load_icon("icons/check-circle.svg", "w-5", "fill-green-500") }}
+                            </div>
+                        </td>
+                        <td class="py-2 px-4 text-center border border-black">
+                            <div style="display: flex; justify-content: center;">
+                                {{ load_icon("icons/check-circle.svg", "w-5", "fill-green-500") }}
+                            </div>
+                        </td>
                     </tr>
                     <tr class="bg-white">
                         <td class="py-2 px-4 pl-10 font-bold border border-black" style="color: #E30613">Obsequio en welcome pack</td>
-                        <td class="py-2 px-4 text-center border border-black"><i class="font-bold fa-solid fa-check" style="color: #1AB723"></i></td>
-                        <td class="py-2 px-4 text-center border border-black"><i class="font-bold fa-solid fa-check" style="color: #1AB723"></i></td>
-                        <td class="py-2 px-4 text-center border border-black"><i class="font-bold fa-solid fa-check" style="color: #1AB723"></i></td>
-                        <td class="py-2 px-4 text-center border border-black"><i class="font-bold fa-solid fa-check" style="color: #1AB723"></i></td>
+                        <td class="py-2 px-4 text-center border border-black">
+                            <div style="display: flex; justify-content: center;">
+                                {{ load_icon("icons/check-circle.svg", "w-5", "fill-green-500") }}
+                            </div>
+                        </td>
+                        <td class="py-2 px-4 text-center border border-black">
+                            <div style="display: flex; justify-content: center;">
+                                {{ load_icon("icons/check-circle.svg", "w-5", "fill-green-500") }}
+                            </div>
+                        </td>
+                        <td class="py-2 px-4 text-center border border-black">
+                            <div style="display: flex; justify-content: center;">
+                                {{ load_icon("icons/check-circle.svg", "w-5", "fill-green-500") }}
+                            </div>
+                        </td>
+                        <td class="py-2 px-4 text-center border border-black">
+                            <div style="display: flex; justify-content: center;">
+                                {{ load_icon("icons/check-circle.svg", "w-5", "fill-green-500") }}
+                            </div>
+                        </td>
                     </tr>
                     <tr class="bg-white">
                         <td class="py-2 px-4 pl-10 font-bold border border-black" style="color: #E30613">Folleto en welcome pack</td>
-                        <td class="py-2 px-4 text-center border border-black"><i class="font-bold fa-solid fa-check" style="color: #1AB723"></i></td>
-                        <td class="py-2 px-4 text-center border border-black"><i class="font-bold fa-solid fa-check" style="color: #1AB723"></i></td>
-                        <td class="py-2 px-4 text-center border border-black"><i class="font-bold fa-solid fa-xmark" style="color: #E30613"></i></td>
-                        <td class="py-2 px-4 text-center border border-black"><i class="font-bold fa-solid fa-xmark" style="color: #E30613"></i></td>
+                        <td class="py-2 px-4 text-center border border-black">
+                            <div style="display: flex; justify-content: center;">
+                                {{ load_icon("icons/check-circle.svg", "w-5", "fill-green-500") }}
+                            </div>
+                        </td>
+                        <td class="py-2 px-4 text-center border border-black">
+                            <div style="display: flex; justify-content: center;">
+                                {{ load_icon("icons/check-circle.svg", "w-5", "fill-green-500") }}
+                            </div>
+                        </td>
+                        <td class="py-2 px-4 text-center border border-black">
+                            <div style="display: flex; justify-content: center;">
+                                {{ load_icon("icons/x-circle.svg", "w-5", "fill-red-500") }}
+                            </div>
+                        </td>
+                        <td class="py-2 px-4 text-center border border-black">
+                            <div style="display: flex; justify-content: center;">
+                                {{ load_icon("icons/x-circle.svg", "w-5", "fill-red-500") }}
+                            </div>
+                        </td>
                     </tr>
                     <tr class="bg-white">
                         <td class="py-2 px-4 pl-10 font-bold border border-black" style="color: #E30613">Stand<sup>(3)</sup></td>
                         <td class="py-2 px-4 text-center border border-black">2,4 m x 3,2 m</td>
                         <td class="py-2 px-4 text-center border border-black">1,2 m x 2,00 m</td>
                         <td class="py-2 px-4 text-center border border-black">1,2 m x 2,00 m</td>
-                        <td class="py-2 px-4 text-center border border-black"><i class="font-bold fa-solid fa-xmark" style="color: #E30613"></i></td>
+                        <td class="py-2 px-4 text-center border border-black">
+                            <div style="display: flex; justify-content: center;">
+                                {{ load_icon("icons/x-circle.svg", "w-5", "fill-red-500") }}
+                            </div>
+                        </td>
                     </tr>
                     <tr cl1ass="bg-white">
                         <td class="py-2 px-4 pl-10 font-bold border border-black" style="color: #E30613">Add-ons</td>
-                        <td class="py-2 px-4 text-center border border-black"><i class="font-bold fa-solid fa-check" style="color: #1AB723"></i></td>
-                        <td class="py-2 px-4 text-center border border-black"><i class="font-bold fa-solid fa-check" style="color: #1AB723"></i></td>
-                        <td class="py-2 px-4 text-center border border-black"><i class="font-bold fa-solid fa-check" style="color: #1AB723"></i></td>
-                        <td class="py-2 px-4 text-center border border-black"><i class="font-bold fa-solid fa-check" style="color: #1AB723"></i></td>
+                        <td class="py-2 px-4 text-center border border-black">
+                            <div style="display: flex; justify-content: center;">
+                                {{ load_icon("icons/check-circle.svg", "w-5", "fill-green-500") }}
+                            </div>
+                        </td>
+                        <td class="py-2 px-4 text-center border border-black">
+                            <div style="display: flex; justify-content: center;">
+                                {{ load_icon("icons/check-circle.svg", "w-5", "fill-green-500") }}
+                            </div>
+                        </td>
+                        <td class="py-2 px-4 text-center border border-black">
+                            <div style="display: flex; justify-content: center;">
+                                {{ load_icon("icons/check-circle.svg", "w-5", "fill-green-500") }}
+                            </div>
+                        </td>
+                        <td class="py-2 px-4 text-center border border-black">
+                            <div style="display: flex; justify-content: center;">
+                                {{ load_icon("icons/check-circle.svg", "w-5", "fill-green-500") }}
+                            </div>
+                        </td>
                     </tr>
                     <tr cl1ass="bg-white">
                         <td class="py-2 px-4 pl-10 font-bold border border-black" style="color: #E30613">Logo cartelería</td>
-                        <td class="py-2 px-4 text-center border border-black"><i class="font-bold fa-solid fa-check" style="color: #1AB723"></i></td>
-                        <td class="py-2 px-4 text-center border border-black"><i class="font-bold fa-solid fa-check" style="color: #1AB723"></i></td>
-                        <td class="py-2 px-4 text-center border border-black"><i class="font-bold fa-solid fa-check" style="color: #1AB723"></i></td>
-                        <td class="py-2 px-4 text-center border border-black"><i class="font-bold fa-solid fa-xmark" style="color: #E30613"></i></td>
+                        <td class="py-2 px-4 text-center border border-black">
+                            <div style="display: flex; justify-content: center;">
+                                {{ load_icon("icons/check-circle.svg", "w-5", "fill-green-500") }}
+                            </div>
+                        </td>
+                        <td class="py-2 px-4 text-center border border-black">
+                            <div style="display: flex; justify-content: center;">
+                                {{ load_icon("icons/check-circle.svg", "w-5", "fill-green-500") }}
+                            </div>
+                        </td>
+                        <td class="py-2 px-4 text-center border border-black">
+                            <div style="display: flex; justify-content: center;">
+                                {{ load_icon("icons/check-circle.svg", "w-5", "fill-green-500") }}
+                            </div>
+                        </td>
+                        <td class="py-2 px-4 text-center border border-black">
+                            <div style="display: flex; justify-content: center;">
+                                {{ load_icon("icons/x-circle.svg", "w-5", "fill-red-500") }}
+                            </div>
+                        </td>
                     </tr>
                     <tr cl1ass="bg-white">
                         <td class="py-2 px-4 pl-10 font-bold border border-black" style="color: #E30613">Logo en pausas</td>
-                        <td class="py-2 px-4 text-center border border-black"><i class="font-bold fa-solid fa-check" style="color: #1AB723"></i></td>
-                        <td class="py-2 px-4 text-center border border-black"><i class="font-bold fa-solid fa-check" style="color: #1AB723"></i></td>
-                        <td class="py-2 px-4 text-center border border-black"><i class="font-bold fa-solid fa-xmark" style="color: #E30613"></i></td>
-                        <td class="py-2 px-4 text-center border border-black"><i class="font-bold fa-solid fa-xmark" style="color: #E30613"></i></td>
+                        <td class="py-2 px-4 text-center border border-black">
+                            <div style="display: flex; justify-content: center;">
+                                {{ load_icon("icons/check-circle.svg", "w-5", "fill-green-500") }}
+                            </div>
+                        </td>
+                        <td class="py-2 px-4 text-center border border-black">
+                            <div style="display: flex; justify-content: center;">
+                                {{ load_icon("icons/check-circle.svg", "w-5", "fill-green-500") }}
+                            </div>
+                        </td>
+                        <td class="py-2 px-4 text-center border border-black">
+                            <div style="display: flex; justify-content: center;">
+                                {{ load_icon("icons/x-circle.svg", "w-5", "fill-red-500") }}
+                            </div>
+                        </td>
+                        <td class="py-2 px-4 text-center border border-black">
+                            <div style="display: flex; justify-content: center;">
+                                {{ load_icon("icons/x-circle.svg", "w-5", "fill-red-500") }}
+                            </div>
+                        </td>
                     </tr>
                     <tr cl1ass="bg-white">
                         <td class="py-2 px-4 pl-10 font-bold border border-black" style="color: #E30613">Publicación en redes sociales</td>
-                        <td class="py-2 px-4 text-center border border-black"><i class="font-bold fa-solid fa-check" style="color: #1AB723"></i></td>
-                        <td class="py-2 px-4 text-center border border-black"><i class="font-bold fa-solid fa-check" style="color: #1AB723"></i></td>
-                        <td class="py-2 px-4 text-center border border-black"><i class="font-bold fa-solid fa-check" style="color: #1AB723"></i></td>
-                        <td class="py-2 px-4 text-center border border-black"><i class="font-bold fa-solid fa-check" style="color: #1AB723"></i></td>
+                        <td class="py-2 px-4 text-center border border-black">
+                            <div style="display: flex; justify-content: center;">
+                                {{ load_icon("icons/check-circle.svg", "w-5", "fill-green-500") }}
+                            </div>
+                        </td>
+                        <td class="py-2 px-4 text-center border border-black">
+                            <div style="display: flex; justify-content: center;">
+                                {{ load_icon("icons/check-circle.svg", "w-5", "fill-green-500") }}
+                            </div>
+                        </td>
+                        <td class="py-2 px-4 text-center border border-black">
+                            <div style="display: flex; justify-content: center;">
+                                {{ load_icon("icons/check-circle.svg", "w-5", "fill-green-500") }}
+                            </div>
+                        </td>
+                        <td class="py-2 px-4 text-center border border-black">
+                            <div style="display: flex; justify-content: center;">
+                                {{ load_icon("icons/check-circle.svg", "w-5", "fill-green-500") }}
+                            </div>
+                        </td>
                     </tr>
                     <tr cl1ass="bg-white">
                         <td class="py-2 px-4 pl-10 font-bold border border-black" style="color: #E30613">Ofertas de trabajo</td>
-                        <td class="py-2 px-4 text-center border border-black"><i class="font-bold fa-solid fa-check" style="color: #1AB723"></i></td>
-                        <td class="py-2 px-4 text-center border border-black"><i class="font-bold fa-solid fa-check" style="color: #1AB723"></i></td>
-                        <td class="py-2 px-4 text-center border border-black"><i class="font-bold fa-solid fa-check" style="color: #1AB723"></i></td>
-                        <td class="py-2 px-4 text-center border border-black"><i class="font-bold fa-solid fa-xmark" style="color: #E30613"></i></td>
+                        <td class="py-2 px-4 text-center border border-black">
+                            <div style="display: flex; justify-content: center;">
+                                {{ load_icon("icons/check-circle.svg", "w-5", "fill-green-500") }}
+                            </div>
+                        </td>
+                        <td class="py-2 px-4 text-center border border-black">
+                            <div style="display: flex; justify-content: center;">
+                                {{ load_icon("icons/check-circle.svg", "w-5", "fill-green-500") }}
+                            </div>
+                        </td>
+                        <td class="py-2 px-4 text-center border border-black">
+                            <div style="display: flex; justify-content: center;">
+                                {{ load_icon("icons/check-circle.svg", "w-5", "fill-green-500") }}
+                            </div>
+                        </td>
+                        <td class="py-2 px-4 text-center border border-black">
+                            <div style="display: flex; justify-content: center;">
+                                {{ load_icon("icons/x-circle.svg", "w-5", "fill-red-500") }}
+                            </div>
+                        </td>
                     </tr>
                     <tr cl1ass="bg-white">
                         <td class="py-2 px-4 pl-10 font-bold border border-black" style="color: #E30613">Logo newsletter<sup>(4)</sup></td>
-                        <td class="py-2 px-4 text-center border border-black"><i class="font-bold fa-solid fa-check" style="color: #1AB723"></i></td>
-                        <td class="py-2 px-4 text-center border border-black"><i class="font-bold fa-solid fa-check" style="color: #1AB723"></i></td>
-                        <td class="py-2 px-4 text-center border border-black"><i class="font-bold fa-solid fa-check" style="color: #1AB723"></i></td>
-                        <td class="py-2 px-4 text-center border border-black"><i class="font-bold fa-solid fa-xmark" style="color: #E30613"></i></td>
+                        <td class="py-2 px-4 text-center border border-black">
+                            <div style="display: flex; justify-content: center;">
+                                {{ load_icon("icons/check-circle.svg", "w-5", "fill-green-500") }}
+                            </div>
+                        </td>
+                        <td class="py-2 px-4 text-center border border-black">
+                            <div style="display: flex; justify-content: center;">
+                                {{ load_icon("icons/check-circle.svg", "w-5", "fill-green-500") }}
+                            </div>
+                        </td>
+                        <td class="py-2 px-4 text-center border border-black">
+                            <div style="display: flex; justify-content: center;">
+                                {{ load_icon("icons/check-circle.svg", "w-5", "fill-green-500") }}
+                            </div>
+                        </td>
+                        <td class="py-2 px-4 text-center border border-black">
+                            <div style="display: flex; justify-content: center;">
+                                {{ load_icon("icons/x-circle.svg", "w-5", "fill-red-500") }}
+                            </div>
+                        </td>
                     </tr>
                     <tr cl1ass="bg-white">
                         <td class="py-2 px-4 pl-10 font-bold border border-black" style="color: #E30613">Charla patrocinada</td>
-                        <td class="py-2 px-4 text-center border border-black"><i class="font-bold fa-solid fa-check" style="color: #1AB723"></i></td>
-                        <td class="py-2 px-4 text-center border border-black"><i class="font-bold fa-solid fa-check" style="color: #1AB723"></i></td>
-                        <td class="py-2 px-4 text-center border border-black"><i class="font-bold fa-solid fa-xmark" style="color: #E30613"></i></td>
-                        <td class="py-2 px-4 text-center border border-black"><i class="font-bold fa-solid fa-xmark" style="color: #E30613"></i></td>
+                        <td class="py-2 px-4 text-center border border-black">
+                            <div style="display: flex; justify-content: center;">
+                                {{ load_icon("icons/check-circle.svg", "w-5", "fill-green-500") }}
+                            </div>
+                        </td>
+                        <td class="py-2 px-4 text-center border border-black">
+                            <div style="display: flex; justify-content: center;">
+                                {{ load_icon("icons/check-circle.svg", "w-5", "fill-green-500") }}
+                            </div>
+                        </td>
+                        <td class="py-2 px-4 text-center border border-black">
+                            <div style="display: flex; justify-content: center;">
+                                {{ load_icon("icons/x-circle.svg", "w-5", "fill-red-500") }}
+                            </div>
+                        </td>
+                        <td class="py-2 px-4 text-center border border-black">
+                            <div style="display: flex; justify-content: center;">
+                                {{ load_icon("icons/x-circle.svg", "w-5", "fill-red-500") }}
+                            </div>
+                        </td>
                     </tr>
                     <tr cl1ass="bg-white">
                         <td class="py-2 px-4 pl-10 font-bold border border-black" style="color: #E30613">Agradecimiento en vivo</td>
-                        <td class="py-2 px-4 text-center border border-black"><i class="font-bold fa-solid fa-check" style="color: #1AB723"></i></td>
-                        <td class="py-2 px-4 text-center border border-black"><i class="font-bold fa-solid fa-check" style="color: #1AB723"></i></td>
-                        <td class="py-2 px-4 text-center border border-black"><i class="font-bold fa-solid fa-xmark" style="color: #E30613"></i></td>
-                        <td class="py-2 px-4 text-center border border-black"><i class="font-bold fa-solid fa-xmark" style="color: #E30613"></i></td>
+                        <td class="py-2 px-4 text-center border border-black">
+                            <div style="display: flex; justify-content: center;">
+                                {{ load_icon("icons/check-circle.svg", "w-5", "fill-green-500") }}
+                            </div>
+                        </td>
+                        <td class="py-2 px-4 text-center border border-black">
+                            <div style="display: flex; justify-content: center;">
+                                {{ load_icon("icons/check-circle.svg", "w-5", "fill-green-500") }}
+                            </div>
+                        </td>
+                        <td class="py-2 px-4 text-center border border-black">
+                            <div style="display: flex; justify-content: center;">
+                                {{ load_icon("icons/x-circle.svg", "w-5", "fill-red-500") }}
+                            </div>
+                        </td>
+                        <td class="py-2 px-4 text-center border border-black">
+                            <div style="display: flex; justify-content: center;">
+                                {{ load_icon("icons/x-circle.svg", "w-5", "fill-red-500") }}
+                            </div>
+                        </td>
                     </tr>
                     <tr cl1ass="bg-white">
                         <td class="py-2 px-4 pl-10 font-bold border border-black" style="color: #E30613">Anuncio en programa</td>
-                        <td class="py-2 px-4 text-center border border-black"><i class="font-bold fa-solid fa-check" style="color: #1AB723"></i></td>
-                        <td class="py-2 px-4 text-center border border-black"><i class="font-bold fa-solid fa-check" style="color: #1AB723"></i></td>
-                        <td class="py-2 px-4 text-center border border-black"><i class="font-bold fa-solid fa-check" style="color: #1AB723"></i></td>
-                        <td class="py-2 px-4 text-center border border-black"><i class="font-bold fa-solid fa-xmark" style="color: #E30613"></i></td>
+                        <td class="py-2 px-4 text-center border border-black">
+                            <div style="display: flex; justify-content: center;">
+                                {{ load_icon("icons/check-circle.svg", "w-5", "fill-green-500") }}
+                            </div>
+                        </td>
+                        <td class="py-2 px-4 text-center border border-black">
+                            <div style="display: flex; justify-content: center;">
+                                {{ load_icon("icons/check-circle.svg", "w-5", "fill-green-500") }}
+                            </div>
+                        </td>
+                        <td class="py-2 px-4 text-center border border-black">
+                            <div style="display: flex; justify-content: center;">
+                                {{ load_icon("icons/check-circle.svg", "w-5", "fill-green-500") }}
+                            </div>
+                        </td>
+                        <td class="py-2 px-4 text-center border border-black">
+                            <div style="display: flex; justify-content: center;">
+                                {{ load_icon("icons/x-circle.svg", "w-5", "fill-red-500") }}
+                            </div>
+                        </td>
                     </tr>
                     <tr cl1ass="bg-white">
                         <td class="py-2 px-4 pl-10 font-bold border border-black" style="color: #E30613">Nota de prensa<sup>(4)</sup></td>
-                        <td class="py-2 px-4 text-center border border-black"><i class="font-bold fa-solid fa-check" style="color: #1AB723"></i></td>
-                        <td class="py-2 px-4 text-center border border-black"><i class="font-bold fa-solid fa-check" style="color: #1AB723"></i></td>
-                        <td class="py-2 px-4 text-center border border-black"><i class="font-bold fa-solid fa-xmark" style="color: #E30613"></i></td>
-                        <td class="py-2 px-4 text-center border border-black"><i class="font-bold fa-solid fa-xmark" style="color: #E30613"></i></td>
+                        <td class="py-2 px-4 text-center border border-black">
+                            <div style="display: flex; justify-content: center;">
+                                {{ load_icon("icons/check-circle.svg", "w-5", "fill-green-500") }}
+                            </div>
+                        </td>
+                        <td class="py-2 px-4 text-center border border-black">
+                            <div style="display: flex; justify-content: center;">
+                                {{ load_icon("icons/check-circle.svg", "w-5", "fill-green-500") }}
+                            </div>
+                        </td>
+                        <td class="py-2 px-4 text-center border border-black">
+                            <div style="display: flex; justify-content: center;">
+                                {{ load_icon("icons/x-circle.svg", "w-5", "fill-red-500") }}
+                            </div>
+                        </td>
+                        <td class="py-2 px-4 text-center border border-black">
+                            <div style="display: flex; justify-content: center;">
+                                {{ load_icon("icons/x-circle.svg", "w-5", "fill-red-500") }}
+                            </div>
+                        </td>
                     </tr>
                     <tr cl1ass="bg-white">
                         <td class="py-2 px-4 pl-10 font-bold border border-black" style="color: #E30613">Taller patrocinado</td>
-                        <td class="py-2 px-4 text-center border border-black"><i class="font-bold fa-solid fa-check" style="color: #1AB723"></i></td>
-                        <td class="py-2 px-4 text-center border border-black"><i class="font-bold fa-solid fa-xmark" style="color: #E30613"></i></td>
-                        <td class="py-2 px-4 text-center border border-black"><i class="font-bold fa-solid fa-xmark" style="color: #E30613"></i></td>
-                        <td class="py-2 px-4 text-center border border-black"><i class="font-bold fa-solid fa-xmark" style="color: #E30613"></i></td>
+                        <td class="py-2 px-4 text-center border border-black">
+                            <div style="display: flex; justify-content: center;">
+                                {{ load_icon("icons/check-circle.svg", "w-5", "fill-green-500") }}
+                            </div>
+                        </td>
+                        <td class="py-2 px-4 text-center border border-black">
+                            <div style="display: flex; justify-content: center;">
+                                {{ load_icon("icons/x-circle.svg", "w-5", "fill-red-500") }}
+                            </div>
+                        </td>
+                        <td class="py-2 px-4 text-center border border-black">
+                            <div style="display: flex; justify-content: center;">
+                                {{ load_icon("icons/x-circle.svg", "w-5", "fill-red-500") }}
+                            </div>
+                        </td>
+                        <td class="py-2 px-4 text-center border border-black">
+                            <div style="display: flex; justify-content: center;">
+                                {{ load_icon("icons/x-circle.svg", "w-5", "fill-red-500") }}
+                            </div>
+                        </td>
                     </tr>
                     <tr cl1ass="bg-white">
                         <td class="py-2 px-4 pl-10 font-bold border border-black" style="color: #E30613">Sesión de contratación</td>
-                        <td class="py-2 px-4 text-center border border-black"><i class="font-bold fa-solid fa-check" style="color: #1AB723"></i></td>
-                        <td class="py-2 px-4 text-center border border-black"><i class="font-bold fa-solid fa-xmark" style="color: #E30613"></i></td>
-                        <td class="py-2 px-4 text-center border border-black"><i class="font-bold fa-solid fa-xmark" style="color: #E30613"></i></td>
-                        <td class="py-2 px-4 text-center border border-black"><i class="font-bold fa-solid fa-xmark" style="color: #E30613"></i></td>
+                        <td class="py-2 px-4 text-center border border-black">
+                            <div style="display: flex; justify-content: center;">
+                                {{ load_icon("icons/check-circle.svg", "w-5", "fill-green-500") }}
+                            </div>
+                        </td>
+                        <td class="py-2 px-4 text-center border border-black">
+                            <div style="display: flex; justify-content: center;">
+                                {{ load_icon("icons/x-circle.svg", "w-5", "fill-red-500") }}
+                            </div>
+                        </td>
+                        <td class="py-2 px-4 text-center border border-black">
+                            <div style="display: flex; justify-content: center;">
+                                {{ load_icon("icons/x-circle.svg", "w-5", "fill-red-500") }}
+                            </div>
+                        </td>
+                        <td class="py-2 px-4 text-center border border-black">
+                            <div style="display: flex; justify-content: center;">
+                                {{ load_icon("icons/x-circle.svg", "w-5", "fill-red-500") }}
+                            </div>
+                        </td>
                     </tr>
                     <tr cl1ass="bg-white">
                         <td class="py-2 px-4 pl-10 font-bold border border-black" style="color: #E30613">Video promocional</td>
                         <td class="py-2 px-4 text-center border border-black">2 veces al día</td>
                         <td class="py-2 px-4 text-center border border-black">1 vez en el fin de semana</td>
-                        <td class="py-2 px-4 text-center border border-black"><i class="font-bold fa-solid fa-xmark" style="color: #E30613"></i></td>
-                        <td class="py-2 px-4 text-center border border-black"><i class="font-bold fa-solid fa-xmark" style="color: #E30613"></i></td>
+                        <td class="py-2 px-4 text-center border border-black">
+                            <div style="display: flex; justify-content: center;">
+                                {{ load_icon("icons/x-circle.svg", "w-5", "fill-red-500") }}
+                            </div>
+                        </td>
+                        <td class="py-2 px-4 text-center border border-black">
+                            <div style="display: flex; justify-content: center;">
+                                {{ load_icon("icons/x-circle.svg", "w-5", "fill-red-500") }}
+                            </div>
+                        </td>
                     </tr>
                 </tbody>
             </table>
