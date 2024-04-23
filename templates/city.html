@@ -16,29 +16,30 @@
             {{ _("Hoy en día es una ciudad industrial pero también con mucha vida, con una gran vida "
             "nocturna y muchas actividades de ocio.") }}
         </p>
+        <iframe class="w-full h-96 lg:w-11/12" src="https://www.youtube.com/embed/yv0QRtUnfHE?si=jdUsevb1zLRa0dfY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
         <p>{{ _("Puede consultar algunos de ellos en los siguientes enlaces:") }}</p>
         <ul class="mt-3 ml-8 list-disc">
             <li>
                 {{ link(
-                    "https://www.turismodevigo.org/es/vigo-en-un-dia",
-                    _("Vigo en un día"))
+                "https://www.turismodevigo.org/es/vigo-en-un-dia",
+                _("Vigo en un día"))
                 }}
             </li>
             <li>
                 {{ link(
-                    "https://www.viajeroscallejeros.com/lugares-que-ver-en-vigo/",
-                    _("10 lugares que ver imprescindibles"))
+                "https://www.viajeroscallejeros.com/lugares-que-ver-en-vigo/",
+                _("10 lugares que ver imprescindibles"))
                 }}
             </li>
         </ul>
-        <article class="grid grid-cols-1 gap-3 mt-4">
+        <article class="grid grid-cols-1 gap-5 mt-4">
             <h2 class="text-4xl text-secondary">{{ _("Cómo llegar a Vigo") }}</h2>
             <p>{{ _("Llegar a Vigo es muy fácil: desde Madrid, A Coruña, Santiago de Compostela o el norte de Portugal "
                 "se puede llegar directamente al centro de la ciudad. Vigo está comunicada por carretera y tren con "
                 "Madrid y otras urbes como Bilbao. Además, el aeropuerto de Peinador está conectado con las ciudades "
                 "españolas más importantes y con varios destinos internacionales.") }}</p>
             <section>
-                <h3 class="mb-3 text-2xl">{{ _("En avión: Aeropuerto de Vigo") }}</h3>
+                <h3 class="mb-3 text-2xl font-bold">{{ _("En avión: Aeropuerto de Vigo") }}</h3>
                 <p>{{ _("El Aeropuerto de Vigo, Peinador, es el aeropuerto del sur de Galicia y está a solo 20 minutos "
                     "del centro de la ciudad.") }}</p>
                 <article class="mt-4">
@@ -60,28 +61,100 @@
                         <li>Tenerife</li>
                     </ul>
                 </article>
-            </section>
-            <p>
-                {{ _("Para obtener información actualizada, le recomendamos que visite la página web de ") }}
-                {{ link(
+                <p>
+                    {{ _("Para obtener información actualizada, le recomendamos que visite la página web de ") }}
+                    {{ link(
                     "https://www.aena.es/es/infovuelos.html",
                     "AENA"
                     )
-                }}
-            </p>
-            <section>
-                <h3>{{ _("Otros aeropuertos cercanos") }}</h3>
-                <ul class="mt-2 ml-8 list-disc">
-                    <li>
-                        {{ _("Aeropuerto de Santiago-Rosalía de Castro") }} (approx. 100 km.)
-                        {{ link("https://www.aena.es/es/santiago-rosalia-de-castro.html", _("Más informacion")) }}
-                    </li>
-                    <li>
-                        {{ _("Aeropuerto de Porto - Portugal") }} (approx. 150 km.)
-                        {{ link("https://www.aeroportoporto.pt/pt/opo/home", _("Más informacion")) }}
-                    </li>
-                </ul>
+                    }}
+                </p>
+                <article class="mt-4">
+                    <h3>{{ _("Otros aeropuertos cercanos") }}</h3>
+                    <ul class="mt-2 ml-8 list-disc">
+                        <li>
+                            {{ _("Aeropuerto de Santiago-Rosalía de Castro") }} (approx. 100 km.)
+                            {{ link("https://www.aena.es/es/santiago-rosalia-de-castro.html", _("Más informacion")) }}
+                        </li>
+                        <li>
+                            {{ _("Aeropuerto de Porto - Portugal") }} (approx. 150 km.)
+                            {{ link("https://www.aeroportoporto.pt/pt/opo/home", _("Más informacion")) }}
+                        </li>
+                    </ul>
+                </article>
             </section>
+            <section>
+                <h3 class="mb-3 text-2xl font-bold">{{ _("En tren") }}</h3>
+                <p class="mb-5">
+                    {{ _("Vigo cuenta con dos estaciones de ferrocarril: URZAIZ, desde donde sale el AVE, y GUIXAR, "
+                    "situada en la calle Areal, ambas en pleno centro de la ciudad.") }}
+                </p>
+                Web: {{ link("https://www.renfe.com/es/es", "Renfe") }}
+            </section>
+            <section class="grid grid-cols-1 gap-4">
+                <h3 class="mb-3 text-2xl font-bold">{{ _("En coche o bus") }}</h3>
+                <p>
+                    {{ _("La forma más habitual de viajar a Vigo es en coche. Las buenas conexiones de la ciudad "
+                    "facilitan el acceso a Vigo por autopista desde Madrid, Santiago, A Coruña y Oporto.") }}
+                </p>
+                <p>{{ _("Hay tres vías principales de entrada por autopista:") }}</p>
+                <p>
+                    {{ _("La Autovía del Noroeste (A-6) y la Autovía das Rías Baixas (A-52) conectan Vigo y Madrid. Si "
+                    "viaja a Vigo desde Portugal, puede tomar la autopista A-3, que une Oporto, Lisboa y Braga con "
+                    "la frontera española, y después la AP-9 y la A-55, que le llevarán directamente al centro de "
+                    "Vigo.") }}
+                </p>
+                <p>
+                    {{
+                    _("También puede llegar a Vigo en autobús. Hay líneas de autobús directas a Vigo desde Madrid, "
+                    "Barcelona y muchas otras ciudades españolas. La estación de autobuses se encuentra en el "
+                    "centro de la ciudad, en la calle Travesía de Vigo. ")
+                    }}
+                </p>
+                <div>
+                    {{ _("Más informacion en los siguientes enlaces: ") }}
+                    <ul class="ml-8 list-disc">
+                        <li>{{ link("https://www.omio.es/autobuses", "Omio") }}</li>
+                        <li>{{ link("https://www.alsa.es/", "Alsa") }}</li>
+                    </ul>
+                </div>
+            </section>
+        </article>
+        <article class="grid grid-cols-1 gap-5 mt-4">
+            <h2 class="text-4xl text-secondary">{{ _("Cómo desplazarse") }}</h2>
+            <p>
+                {{ _("Vigo es una ciudad pequeña y se puede ir andando a casi todas partes, aunque Vigo es conocida "
+                "por sus cuestas (¡así que prepárate para subir y bajar!). Hoy en día, hay muchas escaleras mecánicas "
+                "y ascensores que te ayudarán con eso.") }}
+            </p>
+            <p>{{ _("Para moverte por Vigo y si quieres ir a las playas cercanas, la mejor opción es el "
+                "transporte público, autobús o taxi") }}</p>
+            <article>
+                <h3 class="mb-3 text-2xl font-bold">{{ _("Autobus") }}</h3>
+                <p>
+                    {{ _("Vitrasa es el autobús urbano público de Vigo. Puedes utilizar las siguientes aplicaciones o "
+                    "webs para planificar tu viaje y estar informado:") }}
+                </p>
+                <ul class="ml-8 list-disc">
+                    <li>{{ link("https://moovitapp.com/", "App Moovit") }}</li>
+                    <li>{{ link("https://datos.vigo.org/es/app-vigo/?doing_wp_cron=1713912592.2706019878387451171875",
+                        "App oficial de la ciudad de Vigo") }}</li>
+                    <li>{{ link("https://vitrasa.es/php/index.php", "Web Vitrasa") }}</li>
+                </ul>
+            </article>
+            <article>
+                <h3 class="mb-3 text-2xl font-bold">{{ _("Taxi") }}</h3>
+                <p>
+                    {{ _("Si prefieres un poco más de flexibilidad, no te costará encontrar un taxi en Vigo. Es una "
+                    "opción muy cómoda para moverse por el centro de Vigo y sus barrios. Tienen tarifas razonables "
+                    "y te permitirán desplazarte rápidamente.") }}
+                </p>
+                <ul class="ml-8 list-disc">
+                    <li>{{ link("https://radiotaxi470000.com/w/", "Radio Taxi - Tlf 984700000 ") }}</li>
+                    <li>{{ link("https://datos.vigo.org/es/app-vigo/?doing_wp_cron=1713912592.2706019878387451171875", "App oficial de la ciudad de Vigo") }}</li>
+                    <li>{{ link("https://hoxe.vigo.org/movemonos/trafico_taxis.php?lang=cas", "Web Concello de Vigo") }}</li>
+                </ul>
+            </article>
         </article>
     </div>
 </section>
