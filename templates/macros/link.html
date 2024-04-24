@@ -1,0 +1,9 @@
+{% macro link(href, text, target="_blank") %}
+  <a
+    href="{{  href }}"
+    target="{{ target }}"
+    class="underline text-primary hover:text-secondary"
+  >
+    {{ text }}
+  </a>
+{% endmacro %}
