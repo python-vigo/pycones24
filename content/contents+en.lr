@@ -1,4 +1,4 @@
-hero_text: Welcome to **PyConES**, the **most important Python conference in Spain**.
+hero_text: Welcome to <strong>PyConES</strong>, the <strong>most important Python conference in Spain.</strong>
 ---
 dates_event: October 4th, 5th and 6th
 ---
@@ -6,4 +6,4 @@ description_text: Un evento que reunirá a cientos de entusiastas del lenguaje d
 ---
 sponsors_text: Si quieres formar parte de nuestros patrocinadores para hacer esta conferencia aún más impresionante puedes disponer de un espacio dentro del eventos
 ---
-sponsors_button_text: Quiero patrocinar
+sponsors_button_text: I want to sponsor
