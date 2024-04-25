@@ -2,21 +2,8 @@ hero_text: Welcome to **PyConES**, the **most important Python conference in Spa
 ---
 dates_event: October 4th, 5th and 6th
 ---
-sponsors_text: If you would like to be one of our sponsors to make this conference even more impressive, you can have a space at the event.
+description_text: Un evento que reunirá a cientos de entusiastas del lenguaje de programación Python, con una agenda increíble en la mejor localización posible.
 ---
-description_text:
-
-An event that will bring together hundreds of enthusiasts of the Python programming language,
-with an incredible agenda in the best possible location.
+sponsors_text: Si quieres formar parte de nuestros patrocinadores para hacer esta conferencia aún más impresionante puedes disponer de un espacio dentro del eventos
 ---
-Project-Id-Version: pycones 24
-Report-Msgid-Bugs-To: 
-PO-Revision-Date: 2024-04-21 15:55+0200
-Last-Translator: Adrián Chaves (Gallaecio) <adrian@chaves.io>
-Language-Team: Proxecto Trasno (proxecto@trasno.gal)
-Language: en
-MIME-Version: 1.0
-Content-Type: text/plain; charset=UTF-8
-Content-Transfer-Encoding: 8bit
-Plural-Forms: nplurals=2; plural=(n != 1);
-X-Generator: Lokalize 24.02.2
+sponsors_button_text: Quiero patrocinar
