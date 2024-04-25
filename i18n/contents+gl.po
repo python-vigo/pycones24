@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pycones 24\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-04-25 22:16+CET\n"
+"POT-Creation-Date: 2024-04-25 23:25+CET\n"
 "PO-Revision-Date: 2024-04-25 22:19+0200\n"
 "Last-Translator: Adrián Chaves (Gallaecio) <adrian@chaves.io>\n"
 "Language-Team: Proxecto Trasno (proxecto@trasno.gal)\n"
@@ -13,6 +13,88 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Poedit 3.4.2\n"
+
+#: (dynamic)
+msgid "Inicio"
+msgstr "Inicio"
+
+#: (dynamic)
+msgid "Convocatoria de propuestas (CFP)"
+msgstr "Convocatoria de propostas (CfP)"
+
+#: (dynamic)
+msgid "FAQ"
+msgstr "Preguntas frecuentes"
+
+#: (dynamic)
+msgid "Entradas"
+msgstr "Entradas"
+
+#: (dynamic)
+msgid "Cronograma del evento"
+msgstr "Cronograma do evento"
+
+#: (dynamic)
+msgid ""
+"A continuación podrás ver algunos de los hitos más importantes de la "
+"conferencia. En caso de que la fecha exacta no esté disponible, se "
+"confirmará el cambio lo antes posible."
+msgstr ""
+"A continuación poderás ver algúns dos hitos máis importantes da conferencia. "
+"En caso de que a data exacta non estea dispoñíbel, confirmarase o cambio o "
+"antes posíbel."
+
+#: (dynamic)
+msgid "Presentamos la PyConES"
+msgstr "Presentamos a PyConES"
+
+#: (dynamic)
+msgid "Marzo"
+msgstr "Marzo"
+
+#: (dynamic)
+msgid "Apertura para el envío de ponencias/charlas"
+msgstr ""
+
+#: (dynamic)
+msgid "Abril"
+msgstr "Abril"
+
+#: (dynamic)
+msgid "Apertura para la venta de entradas"
+msgstr "Apertura da venda de entradas"
+
+#: (dynamic)
+msgid "Mayo"
+msgstr "Maio"
+
+#: (dynamic)
+msgid "Cierre del llamado a ponencias/charlas"
+msgstr "Peche do envío de ponencias/charlas"
+
+#: (dynamic)
+msgid "Apertura para la postulación de becas"
+msgstr "Apertura da postulación de bolsas"
+
+#: (dynamic)
+msgid "Junio"
+msgstr "Xuño"
+
+#: (dynamic)
+msgid "¡Empieza el espectáculo!"
+msgstr "Empeza o espectáculo!"
+
+#: (dynamic)
+msgid "Octubre"
+msgstr "Outubro"
+
+#: (dynamic)
+msgid "Código de conducta"
+msgstr "Código de conduta"
+
+#: (dynamic)
+msgid "Ediciones anteriores"
+msgstr "Edicións anteriores"
 
 #: https://2024.es.pycon.org/ (content/contents+es.lr:page.dates_event)
 msgid "4, 5 y 6 de octubre"
@@ -44,258 +126,11 @@ msgstr ""
 msgid "Quiero patrocinar"
 msgstr "Quero patrocinar"
 
-#: templates/cfp.html:5 templates/components/header.html:15
-msgid "Convocatoria de propuestas (CFP)"
-msgstr "Convocatoria de propostas (CfP)"
-
-#: templates/cfp.html:7
-msgid ""
-"Esta página contiene toda la información sobre el proceso de propuesta para "
-"PyConES 2024 – la actualizaremos regularmente a medida que haya nueva "
-"información disponible."
-msgstr ""
-"Esta páxina contén toda a información sobre o proceso de proposta para "
-"PyConES 2024. Actualizarémola a medida que haxa nova información dispoñíbel."
-
-#: templates/cfp.html:11
-msgid ""
-"La convocatoria de propuestas (CFP) es hasta las 23:59 (UTC) del 31 de mayo. "
-"Mejor no dejarlo para el último minuto."
-msgstr ""
-"A convocatoria de propostas (CfP) acaba o 31 de maio ás 23:59 UTC. Mellor "
-"non deixalo para última hora."
-
-#: templates/cfp.html:22
-msgid ""
-"Estamos buscando una variedad de charlas sobre temas técnicos y no técnicos. "
-"Buscamos charlas accesibles para todos los niveles de habilidad, y buscamos "
-"propuestas de oradores nuevos y experimentados."
-msgstr ""
-"Buscamos unha variedade de charlas sobre temas técnicos e non técnicos. "
-"Buscamos charlas accesíbeis para todos os niveis de habilidade, e buscamos "
-"propostas de persoas con e sen experiencia en dar ponencias."
-
-#: templates/cfp.html:28
-msgid ""
-"Si te estás preguntando, ¿puedo hacer esto? La respuesta es sí. Si tienes un "
-"tema que te interesa, entonces nos interesa a nosotros."
-msgstr ""
-"Se te preguntas se podes facelo, a resposta é «si». Se tes un tema que te "
-"interesa, tamén nos interesa a nós."
-
-#: templates/cfp.html:33
-msgid "Recomendaciones para tu propuesta"
-msgstr "Recomendacións para propostas"
-
-#: templates/cfp.html:35
-msgid ""
-"Queremos motivar a personas con distintos niveles de experiencia en "
-"ponencias a participar en la conferencia. Sabemos que para personas que "
-"recién comienzan, el presentar una idea que refleje todos los detalles "
-"geniales que tu charla incluirá puede ser confuso."
-msgstr ""
-"Queremos motivar a persoas con distintos niveis de experiencia en ponencias "
-"a participar na conferencia. Sabemos que para persoas que están comezando, "
-"pode resultar confuso o proceso de presentar unha idea que reflicta todos os "
-"detalles interesantes sobre a túa charla."
-
-#: templates/cfp.html:39
-msgid ""
-"Es importante que presentes tu idea de manera clara, pero que también puedas "
-"dar la información necesaria para que quienes revisen, entiendan tu "
-"propuesta."
-msgstr ""
-"É importante que presentes a túa idea de maneira clara, pero que tamén "
-"poidas fornecer a información necesaria para que quen a revise poida "
-"entendela."
-
-#: templates/cfp.html:41
-msgid "Estructura de tu abstract"
-msgstr "Estrutura do resumo"
-
-#: templates/cfp.html:43
-msgid ""
-"Una estructura simple que puedes seguir, es poder contemplar los siguientes "
-"puntos en tu propuesta:"
-msgstr ""
-"Unha estrutura simple e fácil de seguir, que contemple os seguintes aspectos:"
-
-#: templates/cfp.html:48
-msgid "Contexto de tu charla o problema"
-msgstr "Contexto da charla ou problema"
-
-#: templates/cfp.html:51
-msgid "Definición del problema"
-msgstr "Definición do problema"
-
-#: templates/cfp.html:54
-msgid "¿Por qué es importante buscar una solución a ese problema?"
-msgstr "Por que é importante buscar unha solución a ese problema?"
-
-#: templates/cfp.html:57
-msgid "¿Qué se hablará y que aprenderá la gente que asista?"
-msgstr "Sobre que se falará e que aprenderá a xente que asista?"
-
-#: templates/cfp.html:60
-msgid "Requerimientos previos o comentarios adicionales de tu charla"
-msgstr "Requisitos previos ou comentarios adicionais sobre a charla"
-
-#: templates/cfp.html:63
-msgid ""
-"Evita los abstract de una o dos líneas que repitan la idea que ya se "
-"presenta en el título, e intenta incluir factores que hacen tu propuesta "
-"¡especial y única!."
-msgstr ""
-"Que o teu resumo non sexan unha ou dúas liñas que repiten a idea que xa se "
-"presenta no título. Intenta incluír factores que fan da túa charla algo "
-"especial e único."
-
-#: templates/cfp.html:67
-msgid "Tipos de propuestas"
-msgstr "Tipos de propostas"
-
-#: templates/cfp.html:70
-msgid "Charlas: 35 min (30 min + 5 min QA)"
-msgstr "Charlas: 35 minutos (30 minutos + 5 minutos de preguntas)"
-
-#: templates/cfp.html:73
-msgid "Talleres: de hasta 90 min"
-msgstr "Talleres: de ata 90 minutos"
-
-#: templates/cfp.html:77
-msgid ""
-"Si tu taller dura más o menos tiempo no dudes en comunicarlo a la "
-"organización para tenerlo en cuenta en la configuración del programa. Esto "
-"nos dará la oportunidad de crear un planificación variada y ajustada a los "
-"tres días de conferencia."
-msgstr ""
-
-#: templates/cfp.html:81
-msgid "Valoramos mucho las propuestas:"
-msgstr "Valoramos moito as propostas:"
-
-#: templates/cfp.html:83
-msgid "Con un enfoque social"
-msgstr "Cun enfoque social"
-
-#: templates/cfp.html:84
-msgid "Saltos entre distintos campos profesionales"
-msgstr "Saltos entre distintos campos profesionais"
-
-#: templates/cfp.html:85
-msgid "O simplemente Sobre tu experiencia de Python y el impacto en tu vida"
-msgstr ""
-"Ou simplemente sobre a túa experiencia de Python e o seu impacto na túa vida"
-
-#: templates/cfp.html:89
-msgid "Temáticas"
-msgstr "Temáticas"
-
-#: templates/cfp.html:90
-msgid ""
-"La temática es abierta siempre y cuando tenga relación con Python. Aquí te "
-"dejamos algunas ideas:"
-msgstr ""
-"A temática é aberta sempre e cando teña relación con Python. Aquí deixámoste "
-"algunhas ideas:"
-
-#: templates/cfp.html:95
-msgid "Desarrollo Web"
-msgstr "Desenvolvemento web"
-
-#: templates/cfp.html:98
-msgid "Análisis, ingeniería y ciencia de datos"
-msgstr "Análise, enxeñaría e ciencia de datos"
-
-#: templates/cfp.html:101
-msgid "DevOps / Administración de sistemas / Scripts de automatización"
-msgstr "DevOps, administración de sistemas, guións de automatización"
-
-#: templates/cfp.html:104
-msgid "Educación"
-msgstr "Educación"
-
-#: templates/cfp.html:107
-msgid "Machine learning e inteligencia artificial"
-msgstr "Aprendizaxe artificial e intelixencia artificial"
-
-#: templates/cfp.html:110
-msgid "Aplicaciones de escritorio"
-msgstr "Aplicacións de escritorio"
-
-#: templates/cfp.html:113
-msgid "Internet de las cosas"
-msgstr "Internet das cousas"
-
-#: templates/cfp.html:116
-msgid "Seguridad y redes"
-msgstr "Seguridade e redes"
-
-#: templates/cfp.html:119
-msgid "Aplicaciones móviles, multimedia, embebidos"
-msgstr "Aplicacións móbiles, multimedia e incrustación"
-
-#: templates/cfp.html:122
-msgid "Comunidad, sociedad y cultura"
-msgstr "Comunidade, sociedade e cultura"
-
-#: templates/cfp.html:125
-msgid "¡Y muchos más!"
-msgstr "E moitos máis!"
-
-#: templates/cfp.html:130
-msgid "Consideraciones adicionales"
-msgstr "Consideracións adicionais"
-
-#: templates/cfp.html:134
-msgid "Es posible enviar más de una propuesta por persona"
-msgstr "Pódense enviar varias propostas por persoa"
-
-#: templates/cfp.html:137
-msgid "Se aceptan charlas con varias personas como ponentes"
-msgstr "Acéptanse charlas con varias persoas como ponentes"
-
-#: templates/cfp.html:140
-msgid "Te notificaremos tanto si tu propuesta es aceptada, como si no lo es"
-msgstr "Notificarémoste tanto se aceptamos a túa proposta como se non"
-
-#: templates/cfp.html:145
-msgid "¿Preguntas o sugerencias?"
-msgstr "Preguntas ou suxestións?"
-
-#: templates/cfp.html:146
-msgid ""
-"Nuestro equipo está aquí para ayudarte. Si tienes alguna pregunta o "
-"sugerencia, no dudes en contactarnos en "
-msgstr ""
-"O noso equipo está aquí para axudarte. Se tes algunha pregunta ou suxestión, "
-"non dubides en contactarnos en "
-
-#: templates/cfp.html:150
-msgid ""
-"Estamos comprometidos a hacer de PyConES 2024 un evento inclusivo, atractivo "
-"e inolvidable para todos."
-msgstr ""
-"Estamos comprometidos con facer de PyConES 2024 un evento inclusivo, "
-"atractivo e inesquecíbel para toda a xente."
-
-#: templates/cfp.html:156
-msgid "Nos vemos en Vigo!"
-msgstr "Vémonos en Vigo!"
-
-#: templates/cfp.html:159
-msgid "No olvides seguirnos en twitter"
-msgstr "Non esquezas seguirnos en Twitter"
-
-#: templates/cfp.html:161
-msgid "para obtener la información más reciente y actualizada!"
-msgstr "para obter a información máis recente e actualizada!"
-
-#: templates/city.html:7
+#: (dynamic)
 msgid "Vigo"
 msgstr ""
 
-#: templates/city.html:10
+#: (dynamic)
 msgid ""
 "En el corazón de las Rías Baixas, Vigo es la mayor ciudad de Galicia. "
 "Originalmente un pueblo de pescadores, ahora es conocida como la “Puerta del "
@@ -304,29 +139,29 @@ msgid ""
 "mejores mariscos del mundo."
 msgstr ""
 
-#: templates/city.html:16
+#: (dynamic)
 msgid ""
 "Hoy en día es una ciudad industrial pero también con mucha vida, con una "
 "gran vida nocturna y muchas actividades de ocio."
 msgstr ""
 
-#: templates/city.html:20
+#: (dynamic)
 msgid "Puede consultar algunos de ellos en los siguientes enlaces:"
 msgstr ""
 
-#: templates/city.html:25
+#: (dynamic)
 msgid "Vigo en un día"
 msgstr ""
 
-#: templates/city.html:31
+#: (dynamic)
 msgid "10 lugares que ver imprescindibles"
 msgstr ""
 
-#: templates/city.html:36
+#: (dynamic)
 msgid "Cómo llegar a Vigo"
 msgstr ""
 
-#: templates/city.html:37
+#: (dynamic)
 msgid ""
 "Llegar a Vigo es muy fácil: desde Madrid, A Coruña, Santiago de Compostela o "
 "el norte de Portugal se puede llegar directamente al centro de la ciudad. "
@@ -335,84 +170,84 @@ msgid ""
 "españolas más importantes y con varios destinos internacionales."
 msgstr ""
 
-#: templates/city.html:42
+#: (dynamic)
 msgid "En avión: Aeropuerto de Vigo"
 msgstr ""
 
-#: templates/city.html:43
+#: (dynamic)
 msgid ""
 "El Aeropuerto de Vigo, Peinador, es el aeropuerto del sur de Galicia y está "
 "a solo 20 minutos del centro de la ciudad."
 msgstr ""
 
-#: templates/city.html:46
+#: (dynamic)
 msgid "Principales destinos internacionales:"
 msgstr ""
 
-#: templates/city.html:48
+#: (dynamic)
 msgid "Londres"
 msgstr ""
 
-#: templates/city.html:49
+#: (dynamic)
 msgid "Bruselas"
 msgstr ""
 
-#: templates/city.html:50
+#: (dynamic)
 msgid "Paris"
 msgstr ""
 
-#: templates/city.html:54
+#: (dynamic)
 msgid "Principales destinos nacionales:"
 msgstr ""
 
-#: templates/city.html:65
+#: (dynamic)
 msgid ""
 "Para obtener información actualizada, le recomendamos que visite la página "
-"web de "
+"web de"
 msgstr ""
 
-#: templates/city.html:73
+#: (dynamic)
 msgid "Otros aeropuertos cercanos"
 msgstr ""
 
-#: templates/city.html:76
+#: (dynamic)
 msgid "Aeropuerto de Santiago-Rosalía de Castro"
 msgstr ""
 
-#: templates/city.html:77 templates/city.html:81
+#: (dynamic)
 msgid "Más informacion"
 msgstr ""
 
-#: templates/city.html:80
+#: (dynamic)
 msgid "Aeropuerto de Porto - Portugal"
 msgstr ""
 
-#: templates/city.html:87
+#: (dynamic)
 msgid "En tren"
 msgstr ""
 
-#: templates/city.html:89
+#: (dynamic)
 msgid ""
 "Vigo cuenta con dos estaciones de ferrocarril: URZAIZ, desde donde sale el "
 "AVE, y GUIXAR, situada en la calle Areal, ambas en pleno centro de la ciudad."
 msgstr ""
 
-#: templates/city.html:95
+#: (dynamic)
 msgid "En coche o bus"
 msgstr ""
 
-#: templates/city.html:97
+#: (dynamic)
 msgid ""
 "La forma más habitual de viajar a Vigo es en coche. Las buenas conexiones de "
 "la ciudad facilitan el acceso a Vigo por autopista desde Madrid, Santiago, A "
 "Coruña y Oporto."
 msgstr ""
 
-#: templates/city.html:100
+#: (dynamic)
 msgid "Hay tres vías principales de entrada por autopista:"
 msgstr ""
 
-#: templates/city.html:102
+#: (dynamic)
 msgid ""
 "La Autovía del Noroeste (A-6) y la Autovía das Rías Baixas (A-52) conectan "
 "Vigo y Madrid. Si viaja a Vigo desde Portugal, puede tomar la autopista A-3, "
@@ -420,23 +255,23 @@ msgid ""
 "la A-55, que le llevarán directamente al centro de Vigo."
 msgstr ""
 
-#: templates/city.html:109
+#: (dynamic)
 msgid ""
 "También puede llegar a Vigo en autobús. Hay líneas de autobús directas a "
 "Vigo desde Madrid, Barcelona y muchas otras ciudades españolas. La estación "
 "de autobuses se encuentra en el centro de la ciudad, en la calle Travesía de "
-"Vigo. "
+"Vigo."
 msgstr ""
 
-#: templates/city.html:115
-msgid "Más informacion en los siguientes enlaces: "
+#: (dynamic)
+msgid "Más informacion en los siguientes enlaces:"
 msgstr ""
 
-#: templates/city.html:124
+#: (dynamic)
 msgid "Cómo desplazarse"
 msgstr ""
 
-#: templates/city.html:126
+#: (dynamic)
 msgid ""
 "Vigo es una ciudad pequeña y se puede ir andando a casi todas partes, aunque "
 "Vigo es conocida por sus cuestas (¡así que prepárate para subir y bajar!). "
@@ -444,38 +279,162 @@ msgid ""
 "eso."
 msgstr ""
 
-#: templates/city.html:130
+#: (dynamic)
 msgid ""
 "Para moverte por Vigo y si quieres ir a las playas cercanas, la mejor opción "
 "es el transporte público, autobús o taxi"
 msgstr ""
 
-#: templates/city.html:133
+#: (dynamic)
 msgid "Autobus"
 msgstr ""
 
-#: templates/city.html:135
+#: (dynamic)
 msgid ""
 "Vitrasa es el autobús urbano público de Vigo. Puedes utilizar las siguientes "
 "aplicaciones o webs para planificar tu viaje y estar informado:"
 msgstr ""
 
-#: templates/city.html:146
+#: (dynamic)
 msgid "Taxi"
 msgstr ""
 
-#: templates/city.html:148
+#: (dynamic)
 msgid ""
 "Si prefieres un poco más de flexibilidad, no te costará encontrar un taxi en "
 "Vigo. Es una opción muy cómoda para moverse por el centro de Vigo y sus "
 "barrios. Tienen tarifas razonables y te permitirán desplazarte rápidamente."
 msgstr ""
 
-#: templates/code_conduct.html:7
+#: (dynamic)
+msgid "Patrocinios"
+msgstr ""
+
+#: (dynamic)
+msgid ""
+"¿Te gustaría patrocinar la próxima edición del evento mas importante sobre "
+"desarrollo software con Python? No lo dudes y ponte ya mismo en contacto con "
+"la organización escribiendo al correo"
+msgstr ""
+
+#: (dynamic)
+msgid ""
+"Para conocer todas las ventajas que te ofrecen nuestros distintos niveles de "
+"patrocinio puedes descargar el folleto informativo:"
+msgstr ""
+
+#: (dynamic)
+msgid "/static/dossier/2024ES - Dossier - PyConES Vigo - Patrocinadores.pdf"
+msgstr ""
+
+#: (dynamic)
+msgid "Descargar dosier completo (ES)"
+msgstr ""
+
+#: (dynamic)
+msgid "Descargar dosier resumido (ES)"
+msgstr ""
+
+#: (dynamic)
+msgid "Preguntas Frecuentes"
+msgstr "Preguntas frecuentes"
+
+#: (dynamic)
+msgid "¿Cómo accedo al streaming?"
+msgstr "Como acceso á emisión?"
+
+#: (dynamic)
+msgid "Próximamente"
+msgstr "Proximamente"
+
+#: (dynamic)
+msgid "¿Qué días son los tutoriales y charlas?"
+msgstr "Que dias son os titoriais e as charlas?"
+
+#: (dynamic)
+msgid "¿En qué lugar se realizará la conferencia?"
+msgstr "En que lugar se realizará a conferencia?"
+
+#: (dynamic)
+msgid "¿La conferencia es sólo en Español?"
+msgstr "É a conferencia só en castelán?"
+
+#: (dynamic)
+msgid ""
+"La conferencia se realizará principalmente en Español, y dependiendo de las "
+"charlas aceptadas en Inglés se realizará un track completo durante los días "
+"de charlas."
+msgstr ""
+"A conferencia será principalmente en castelán, e dependendo das charlas que "
+"se acepten en inglés, podería haber unha pista completa en inglés durante os "
+"días de charlas."
+
+#: (dynamic)
+msgid ""
+"Las ponencias principales, apertura y cierre del evento serán en Español, de "
+"todas formas, todas las personas de la organización hablan Español e Inglés, "
+"en caso que de que personas que asistan necesiten información en uno de los "
+"dos idiomas."
+msgstr ""
+"As principais ponencias, a apertura e o peche do evento serán en castelán. "
+"En calquera caso, todas as persoas da organización falan castelán e inglés, "
+"en caso de que persoas que asistan necesiten información nun deses idiomas."
+
+#: (dynamic)
+msgid "¿Qué Aeropuerto es más cercano a la conferencia?"
+msgstr "Cal é o aeroporto máis próximo á conferencia?"
+
+#: (dynamic)
+msgid "Quiero presentar una charla ¿Cómo lo hago?"
+msgstr "Quero presentar unha charla, como fago?"
+
+#: (dynamic)
+msgid "Quiero patrocinar pero ¿Cómo funcionan los add-ons?"
+msgstr "Quero patrocinar pero… como funcionan os complementos?"
+
+#: (dynamic)
+msgid "Soy patrocinante ¿Cómo y Cuántas entradas consigo?"
+msgstr "Patrocino, como e cantas entradas consigo?"
+
+#: (dynamic)
+msgid "He comprado mi entrada y necesito una factura ¿Cómo la consigo?"
+msgstr "Comprei entrada e necesito unha factura, como a consigo?"
+
+#: (dynamic)
+msgid ""
+"Si en tu caso necesitas una factura para presentarla a la entidad que está "
+"cubriendo tu asistencia al evento, generaremos tu factura cuando se realice "
+"el evento o hasta cuando se cierre el plazo para cambiar los detalles de los "
+"tickets de la conferencia. Principalmente, por la complejidad de cancelar "
+"dichos documentos en nuestra infraestructura."
+msgstr ""
+"Se necesitas unha factura para presentarlla á entidade que cubre a túa "
+"asistencia ao evento, xeraremos a túa factura cando se realice o evento ou "
+"ata cando se peche o prazo para cambiar os detalles dos tickets da "
+"conferencia. Principalmente, pola complexidade de cancelar eses documentos "
+"na nosa infraestrutura."
+
+#: (dynamic)
+msgid "Soy Ponente, ¿tengo que comprar la entrada?"
+msgstr "Son ponente, teño que mercar entrada?"
+
+#: (dynamic)
+msgid ""
+"Todas las personas que sean ponentes, tienen asegurada su participación en "
+"la conferencia, es decir no necesitan una entrada. En caso de que tengas "
+"pensado presentarte como ponente, independiente de si tu propuesta es "
+"aceptada o no, te recomendamos adquirir una entrada."
+msgstr ""
+"Todas as ponentes teñen asegurada a súa participación na conferencia, é "
+"dicir, non necesitan entrada. Se tes pensado presentarte como ponente, "
+"independentemente de que a túa proposta se acepte ou non, recomendámoste "
+"adquirir unha entrada."
+
+#: (dynamic)
 msgid "Código conducta"
 msgstr "Código conduta"
 
-#: templates/code_conduct.html:10
+#: (dynamic)
 msgid ""
 "Python España, como asociación en torno a la que se organizan eventos de "
 "distintos tipos, quiere asegurar que todas las personas que participen en "
@@ -489,7 +448,7 @@ msgstr ""
 "positiva de aprendizaxe, colaboración ou lecer. Para iso, espérase que quen "
 "participe na comunidade mostre respecto e cortesía cara ao resto."
 
-#: templates/code_conduct.html:20
+#: (dynamic)
 msgid ""
 "Al participar en la comunidad de Python España, te comprometes a fomentar "
 "una experiencia libre de acoso para todo el mundo, independientemente de la "
@@ -505,7 +464,7 @@ msgstr ""
 "experiencia, educación, nivel socio-económico, nacionalidade, aparencia "
 "persoal, raza, relixión, ou identidade ou orientación sexual."
 
-#: templates/code_conduct.html:29
+#: (dynamic)
 msgid ""
 "Este Código de Conducta detalla qué comportamientos se esperan, cuáles se "
 "rechazan y qué mecanismos hay para ayudar a una persona que esté siendo "
@@ -515,11 +474,11 @@ msgstr ""
 "rexeitan e que mecanismos hai para axudar a unha persoa que estea a ser "
 "obxecto de comportamentos inadecuados."
 
-#: templates/code_conduct.html:38
+#: (dynamic)
 msgid "¿Por qué un código de conducta?"
 msgstr "Por que un código de conduta?"
 
-#: templates/code_conduct.html:43
+#: (dynamic)
 msgid ""
 "Siguiendo con el zen de Python, explícito mejor que implícito. Explicitar "
 "qué se espera del ambiente en cualquier evento de Python España:"
@@ -527,15 +486,15 @@ msgstr ""
 "Seguindo co zen de Python, explícito mellor que implícito. Explicitar que se "
 "espera do ambiente en calquera evento de Python España:"
 
-#: templates/code_conduct.html:49
+#: (dynamic)
 msgid "Favorece que más personas sepan que son bienvenidas"
 msgstr "Favorece que máis persoas saiban que son benvidas"
 
-#: templates/code_conduct.html:50
+#: (dynamic)
 msgid "Evita ambigüedades"
 msgstr "Evita ambigüidades"
 
-#: templates/code_conduct.html:53
+#: (dynamic)
 msgid ""
 "Construye un clima de confianza, donde si alguien quiere reportar un "
 "incidente, sabrá que no empezaremos por cuestionarle (victim blaming)."
@@ -543,11 +502,11 @@ msgstr ""
 "Constrúe un clima de confianza, onde se alguén quere reportar un incidente, "
 "saberá que non empezaremos por cuestionarlle (victim blaming)."
 
-#: templates/code_conduct.html:63
+#: (dynamic)
 msgid "Alcance"
 msgstr "Alcance"
 
-#: templates/code_conduct.html:67
+#: (dynamic)
 msgid ""
 "Este código de conducta es aplicable a todas las personas que participen en "
 "espacios de la comunidad de Python España, ya sean en línea o presenciales. "
@@ -564,11 +523,11 @@ msgstr ""
 "correo electrónico, publicacións a través das redes sociais oficiais, ou "
 "presentacións con persoas designadas en eventos en liña ou non."
 
-#: templates/code_conduct.html:78
+#: (dynamic)
 msgid "Nuestros estándares"
 msgstr "Os nosos estándares"
 
-#: templates/code_conduct.html:81
+#: (dynamic)
 msgid ""
 "Ejemplos de comportamiento que contribuyen a crear un ambiente positivo para "
 "nuestra comunidad:"
@@ -576,7 +535,7 @@ msgstr ""
 "Exemplos de comportamento que contribúen a crear un ambiente positivo para a "
 "nosa comunidade:"
 
-#: templates/code_conduct.html:84
+#: (dynamic)
 msgid ""
 "Demostrar empatía y amabilidad ante otras personas. No insultes o humilles a "
 "otros asistentes. Recuerda que las bromas sexistas, racistas o "
@@ -586,15 +545,15 @@ msgstr ""
 "humilles a outros asistentes. Lembra que as bromas sexistas, racistas ou "
 "discriminatorias non son apropiadas. Nunca o son."
 
-#: templates/code_conduct.html:88
+#: (dynamic)
 msgid "Respetar las diferentes opiniones, puntos de vista y experiencias"
 msgstr "Respectar as diferentes opinións, puntos de vista e experiencias"
 
-#: templates/code_conduct.html:89
+#: (dynamic)
 msgid "Dar y aceptar adecuadamente críticas constructivas"
 msgstr "Dar e aceptar adecuadamente críticas construtivas"
 
-#: templates/code_conduct.html:91
+#: (dynamic)
 msgid ""
 "Aceptar la responsabilidad y disculparse ante quienes se vean afectados por "
 "nuestros errores, aprendiendo de la experiencia"
@@ -602,7 +561,7 @@ msgstr ""
 "Aceptar a responsabilidade e desculparse ante quen se vexa afectados polos "
 "nosos erros, aprendendo da experiencia"
 
-#: templates/code_conduct.html:96
+#: (dynamic)
 msgid ""
 "Centrarse en lo que sea mejor no sólo para nosotros como individuos, sino "
 "para la comunidad en general"
@@ -610,17 +569,17 @@ msgstr ""
 "Centrarse no que sexa mellor non só para nós como individuos, senón para a "
 "comunidade en xeral"
 
-#: templates/code_conduct.html:100
+#: (dynamic)
 msgid "Usar un lenguaje inclusivo y que dé cabida a una audiencia diversa"
 msgstr "Usar unha linguaxe inclusiva e que dea cabida a unha audiencia diversa"
 
-#: templates/code_conduct.html:101
+#: (dynamic)
 msgid ""
 "Prestar especial atención a las personas que recién llegan a la comunidad"
 msgstr ""
 "Prestar especial atención ás persoas que recentemente chegan á comunidade"
 
-#: templates/code_conduct.html:103
+#: (dynamic)
 msgid ""
 "Presentarte con tus pronombres y preguntarle a otra persona los suyos para "
 "que exista una comunicación clara y sin sesgo"
@@ -628,11 +587,11 @@ msgstr ""
 "Presentarche cos teus pronomes e preguntarlle a outra persoa os seus para "
 "que exista unha comunicación clara e sen rumbo"
 
-#: templates/code_conduct.html:108
+#: (dynamic)
 msgid "Ejemplos de comportamiento inaceptable"
 msgstr "Exemplos de comportamento inaceptable"
 
-#: templates/code_conduct.html:111
+#: (dynamic)
 msgid ""
 "El uso de lenguaje o imágenes sexualizadas, y aproximaciones o atenciones "
 "sexuales de cualquier tipo"
@@ -640,7 +599,7 @@ msgstr ""
 "O uso de linguaxe ou imaxes sexualizadas, e aproximacións ou atencións "
 "sexuais de calquera tipo"
 
-#: templates/code_conduct.html:114
+#: (dynamic)
 msgid ""
 "Comentarios despectivos trolling, insultantes o derogatorios, y ataques "
 "personales o políticos"
@@ -648,15 +607,15 @@ msgstr ""
 "Comentarios despectivos trolling, insultantes ou derrogatorios, e ataques "
 "persoais ou políticos"
 
-#: templates/code_conduct.html:117
+#: (dynamic)
 msgid "Bromas racistas, sexistas o excluyentes"
 msgstr "Bromas racistas, sexistas ou excluíntes"
 
-#: templates/code_conduct.html:120
+#: (dynamic)
 msgid "El acoso en público o privado"
 msgstr "O acoso en público ou privado"
 
-#: templates/code_conduct.html:123
+#: (dynamic)
 msgid ""
 "Publicar información privada de otras personas, tales como direcciones "
 "físicas o de correo electrónico, sin su permiso explícito"
@@ -664,7 +623,7 @@ msgstr ""
 "Publicar información privada doutras persoas, tales como direccións físicas "
 "ou de correo electrónico, sen o seu permiso explícito"
 
-#: templates/code_conduct.html:127
+#: (dynamic)
 msgid ""
 "Otras conductas que puedan ser razonablemente consideradas como inapropiadas "
 "en un entorno profesional"
@@ -672,7 +631,7 @@ msgstr ""
 "Outras condutas que poidan ser razoablemente consideradas como inapropiadas "
 "nunha contorna profesional"
 
-#: templates/code_conduct.html:130
+#: (dynamic)
 msgid ""
 "Por acoso se entiende comentarios ofensivos relacionados con género, "
 "orientación sexual, discapacidad, apariencia física, tamaño corporal, etnia "
@@ -688,11 +647,11 @@ msgstr ""
 "interrupción de charlas ou outros eventos, contacto físico inapropiado e "
 "atención sexual non desexada."
 
-#: templates/code_conduct.html:139
+#: (dynamic)
 msgid "Cumplimiento"
 msgstr "Cumprimento"
 
-#: templates/code_conduct.html:142
+#: (dynamic)
 msgid ""
 "La administración de la comunidad es responsable de aclarar y hacer cumplir "
 "este código de conducta; en caso de que se determine un comportamiento "
@@ -715,11 +674,11 @@ msgstr ""
 "contribucións que non se aliñen con este código de conduta, e comunicará as "
 "razóns para as súas decisións de moderación cando sexa apropiado."
 
-#: templates/code_conduct.html:154
+#: (dynamic)
 msgid "Denuncia e información de contacto"
 msgstr "Denuncia e información de contacto"
 
-#: templates/code_conduct.html:158
+#: (dynamic)
 msgid ""
 "Los casos de comportamiento abusivo, acosador o inaceptable de otro modo "
 "podrán ser denunciados a las personas administradoras de la comunidad "
@@ -729,7 +688,7 @@ msgstr ""
 "poderán ser denunciados ás persoas administradoras da comunidade "
 "responsables do cumprimento:"
 
-#: templates/code_conduct.html:163
+#: (dynamic)
 msgid ""
 "Si es un evento presencial, ponte en contacto directamente con las personas "
 "organizadoras del evento. Es muy probable que hayan publicando un código de "
@@ -741,13 +700,454 @@ msgstr ""
 "conduta específico do evento con instrucións da quen acudir; "
 "proporcionaranche un espazo seguro para axudarche."
 
-#: templates/code_conduct.html:168
+#: (dynamic)
 msgid ""
 "Si se trata de un espacio en línea, ponte en contacto con las personas "
 "moderadoras de ese espacio."
 msgstr ""
 "Se se trata dun espazo en liña, ponche en contacto coas persoas moderadoras "
 "dese espazo."
+
+#: (dynamic)
+msgid ""
+"En el foro de Discourse puedes denunciar publicaciones individuales o "
+"contactar con el"
+msgstr ""
+
+#: (dynamic)
+msgid "grupo de moderación"
+msgstr "grupo de moderación"
+
+#: (dynamic)
+msgid ""
+"En Telegram, a la persona propietaria del grupo u otras administradoras."
+msgstr "En Telegram, á persoa propietaria do grupo ou outras administradoras."
+
+#: (dynamic)
+msgid ""
+"Para otros espacios o de forma alternativa, ponte en contacto con la Junta "
+"Directiva en"
+msgstr ""
+
+#: (dynamic)
+msgid ""
+"Todas las personas administradoras de la comunidad están obligadas a "
+"respetar la privacidad y la seguridad de quienes denuncien incidentes."
+msgstr ""
+"Todas as persoas administradoras da comunidade están obrigadas a respectar a "
+"privacidade e a seguridade de quen denuncie incidentes."
+
+#: (dynamic)
+msgid "Atribución"
+msgstr "Atribución"
+
+#: (dynamic)
+msgid ""
+"Este código de conducta extiende el ya existente con aportaciones de otros "
+"códigos:"
+msgstr ""
+"Este código de conduta estende o xa existente con achegas doutros códigos:"
+
+#: (dynamic)
+msgid "versión en español del Contributor Covenant 2.0"
+msgstr "versión en español do Contributor Covenant 2.0"
+
+#: (dynamic)
+msgid "código de conducta de DjangoCon Europe 2020"
+msgstr "código de conduta de DjangoCon Europe 2020"
+
+#: (dynamic)
+msgid "Convocatoría de propuestas (CFP)"
+msgstr "Convocatoria de propostas (CfP)"
+
+#: (dynamic)
+msgid ""
+"Esta página contiene toda la información sobre el proceso de propuesta para "
+"PyConES 2024 – la actualizaremos regularmente a medida que haya nueva "
+"información disponible."
+msgstr ""
+"Esta páxina contén toda a información sobre o proceso de proposta para "
+"PyConES 2024. Actualizarémola a medida que haxa nova información dispoñíbel."
+
+#: (dynamic)
+msgid ""
+"La convocatoria de propuestas (CFP) es hasta las 23:59 (UTC) del 31 de mayo. "
+"Mejor no dejarlo para el último minuto."
+msgstr ""
+"A convocatoria de propostas (CfP) acaba o 31 de maio ás 23:59 UTC. Mellor "
+"non deixalo para última hora."
+
+#: (dynamic)
+msgid ""
+"Estamos buscando una variedad de charlas sobre temas técnicos y no técnicos. "
+"Buscamos charlas accesibles para todos los niveles de habilidad, y buscamos "
+"propuestas de oradores nuevos y experimentados."
+msgstr ""
+"Buscamos unha variedade de charlas sobre temas técnicos e non técnicos. "
+"Buscamos charlas accesíbeis para todos os niveis de habilidade, e buscamos "
+"propostas de persoas con e sen experiencia en dar ponencias."
+
+#: (dynamic)
+msgid ""
+"Si te estás preguntando, ¿puedo hacer esto? La respuesta es sí. Si tienes un "
+"tema que te interesa, entonces nos interesa a nosotros."
+msgstr ""
+"Se te preguntas se podes facelo, a resposta é «si». Se tes un tema que te "
+"interesa, tamén nos interesa a nós."
+
+#: (dynamic)
+msgid "Recomendaciones para tu propuesta"
+msgstr "Recomendacións para propostas"
+
+#: (dynamic)
+msgid ""
+"Queremos motivar a personas con distintos niveles de experiencia en "
+"ponencias a participar en la conferencia. Sabemos que para personas que "
+"recién comienzan, el presentar una idea que refleje todos los detalles "
+"geniales que tu charla incluirá puede ser confuso."
+msgstr ""
+"Queremos motivar a persoas con distintos niveis de experiencia en ponencias "
+"a participar na conferencia. Sabemos que para persoas que están comezando, "
+"pode resultar confuso o proceso de presentar unha idea que reflicta todos os "
+"detalles interesantes sobre a túa charla."
+
+#: (dynamic)
+msgid ""
+"Es importante que presentes tu idea de manera clara, pero que también puedas "
+"dar la información necesaria para que quienes revisen, entiendan tu "
+"propuesta."
+msgstr ""
+"É importante que presentes a túa idea de maneira clara, pero que tamén "
+"poidas fornecer a información necesaria para que quen a revise poida "
+"entendela."
+
+#: (dynamic)
+msgid "Estructura de tu abstract"
+msgstr "Estrutura do resumo"
+
+#: (dynamic)
+msgid ""
+"Una estructura simple que puedes seguir, es poder contemplar los siguientes "
+"puntos en tu propuesta:"
+msgstr ""
+"Unha estrutura simple e fácil de seguir, que contemple os seguintes aspectos:"
+
+#: (dynamic)
+msgid "Contexto de tu charla o problema"
+msgstr "Contexto da charla ou problema"
+
+#: (dynamic)
+msgid "Definición del problema"
+msgstr "Definición do problema"
+
+#: (dynamic)
+msgid "¿Por qué es importante buscar una solución a ese problema?"
+msgstr "Por que é importante buscar unha solución a ese problema?"
+
+#: (dynamic)
+msgid "¿Qué se hablará y que aprenderá la gente que asista?"
+msgstr "Sobre que se falará e que aprenderá a xente que asista?"
+
+#: (dynamic)
+msgid "Requerimientos previos o comentarios adicionales de tu charla"
+msgstr "Requisitos previos ou comentarios adicionais sobre a charla"
+
+#: (dynamic)
+msgid ""
+"Evita los abstract de una o dos líneas que repitan la idea que ya se "
+"presenta en el título, e intenta incluir factores que hacen tu propuesta "
+"¡especial y única!."
+msgstr ""
+"Que o teu resumo non sexan unha ou dúas liñas que repiten a idea que xa se "
+"presenta no título. Intenta incluír factores que fan da túa charla algo "
+"especial e único."
+
+#: (dynamic)
+msgid "Tipos de propuestas"
+msgstr "Tipos de propostas"
+
+#: (dynamic)
+msgid "Charlas: 35 min (30 min + 5 min QA)"
+msgstr "Charlas: 35 minutos (30 minutos + 5 minutos de preguntas)"
+
+#: (dynamic)
+msgid "Talleres: de hasta 90 min"
+msgstr "Talleres: de ata 90 minutos"
+
+#: (dynamic)
+msgid ""
+"Si tu taller dura más o menos tiempo no dudes en comunicarlo a la "
+"organización para tenerlo en cuenta en la configuración del programa. Esto "
+"nos dará la oportunidad de crear un planificación variada y ajustada a los "
+"tres días de conferencia."
+msgstr ""
+
+#: (dynamic)
+msgid "Valoramos mucho las propuestas:"
+msgstr "Valoramos moito as propostas:"
+
+#: (dynamic)
+msgid "Con un enfoque social"
+msgstr "Cun enfoque social"
+
+#: (dynamic)
+msgid "Saltos entre distintos campos profesionales"
+msgstr "Saltos entre distintos campos profesionais"
+
+#: (dynamic)
+msgid "O simplemente Sobre tu experiencia de Python y el impacto en tu vida"
+msgstr ""
+"Ou simplemente sobre a túa experiencia de Python e o seu impacto na túa vida"
+
+#: (dynamic)
+msgid "Temáticas"
+msgstr "Temáticas"
+
+#: (dynamic)
+msgid ""
+"La temática es abierta siempre y cuando tenga relación con Python. Aquí te "
+"dejamos algunas ideas:"
+msgstr ""
+"A temática é aberta sempre e cando teña relación con Python. Aquí deixámoste "
+"algunhas ideas:"
+
+#: (dynamic)
+msgid "Desarrollo Web"
+msgstr "Desenvolvemento web"
+
+#: (dynamic)
+msgid "Análisis, ingeniería y ciencia de datos"
+msgstr "Análise, enxeñaría e ciencia de datos"
+
+#: (dynamic)
+msgid "DevOps / Administración de sistemas / Scripts de automatización"
+msgstr "DevOps, administración de sistemas, guións de automatización"
+
+#: (dynamic)
+msgid "Educación"
+msgstr "Educación"
+
+#: (dynamic)
+msgid "Machine learning e inteligencia artificial"
+msgstr "Aprendizaxe artificial e intelixencia artificial"
+
+#: (dynamic)
+msgid "Aplicaciones de escritorio"
+msgstr "Aplicacións de escritorio"
+
+#: (dynamic)
+msgid "Internet de las cosas"
+msgstr "Internet das cousas"
+
+#: (dynamic)
+msgid "Seguridad y redes"
+msgstr "Seguridade e redes"
+
+#: (dynamic)
+msgid "Aplicaciones móviles, multimedia, embebidos"
+msgstr "Aplicacións móbiles, multimedia e incrustación"
+
+#: (dynamic)
+msgid "Comunidad, sociedad y cultura"
+msgstr "Comunidade, sociedade e cultura"
+
+#: (dynamic)
+msgid "¡Y muchos más!"
+msgstr "E moitos máis!"
+
+#: (dynamic)
+msgid "Consideraciones adicionales"
+msgstr "Consideracións adicionais"
+
+#: (dynamic)
+msgid "Es posible enviar más de una propuesta por persona"
+msgstr "Pódense enviar varias propostas por persoa"
+
+#: (dynamic)
+msgid "Se aceptan charlas con varias personas como ponentes"
+msgstr "Acéptanse charlas con varias persoas como ponentes"
+
+#: (dynamic)
+msgid "Te notificaremos tanto si tu propuesta es aceptada, como si no lo es"
+msgstr "Notificarémoste tanto se aceptamos a túa proposta como se non"
+
+#: (dynamic)
+msgid "¿Preguntas o sugerencias?"
+msgstr "Preguntas ou suxestións?"
+
+#: (dynamic)
+msgid ""
+"Nuestro equipo está aquí para ayudarte. Si tienes alguna pregunta o "
+"sugerencia, no dudes en contactarnos en"
+msgstr ""
+
+#: (dynamic)
+msgid ""
+"Estamos comprometidos a hacer de PyConES 2024 un evento inclusivo, atractivo "
+"e inolvidable para todos."
+msgstr ""
+"Estamos comprometidos con facer de PyConES 2024 un evento inclusivo, "
+"atractivo e inesquecíbel para toda a xente."
+
+#: (dynamic)
+msgid "Nos vemos en Vigo!"
+msgstr "Vémonos en Vigo!"
+
+#: (dynamic)
+msgid "No olvides seguirnos en twitter"
+msgstr "Non esquezas seguirnos en Twitter"
+
+#: (dynamic)
+msgid "para obtener la información más reciente y actualizada!"
+msgstr "para obter a información máis recente e actualizada!"
+
+#: (dynamic)
+msgid "Niveles"
+msgstr ""
+
+#: (dynamic)
+msgid "Beneficios"
+msgstr ""
+
+#: (dynamic)
+msgid "Precio"
+msgstr ""
+
+#: (dynamic)
+msgid "Entradas incluídas"
+msgstr ""
+
+#: (dynamic)
+msgid "Logo en web"
+msgstr ""
+
+#: (dynamic)
+msgid "Obsequio en welcome pack"
+msgstr ""
+
+#: (dynamic)
+msgid "Folleto en welcome pack"
+msgstr ""
+
+#: (dynamic)
+msgid "Stand"
+msgstr ""
+
+#: (dynamic)
+msgid "Add-ons"
+msgstr ""
+
+#: (dynamic)
+msgid "Logo cartelería"
+msgstr ""
+
+#: (dynamic)
+msgid "Logo en pausas"
+msgstr ""
+
+#: (dynamic)
+msgid "Publicación en redes sociales"
+msgstr ""
+
+#: (dynamic)
+msgid "Ofertas de trabajo"
+msgstr ""
+
+#: (dynamic)
+msgid "Logo newsletter"
+msgstr ""
+
+#: (dynamic)
+msgid "Charla patrocinada"
+msgstr ""
+
+#: (dynamic)
+msgid "Agradecimiento en vivo"
+msgstr ""
+
+#: (dynamic)
+msgid "Anuncio en programa"
+msgstr ""
+
+#: (dynamic)
+msgid "Nota de prensa"
+msgstr ""
+
+#: (dynamic)
+msgid "Taller patrocinado"
+msgstr ""
+
+#: (dynamic)
+msgid "Sesión de contratación"
+msgstr ""
+
+#: (dynamic)
+msgid "Video promocional"
+msgstr ""
+
+#: (dynamic)
+msgid "2 veces al día"
+msgstr ""
+
+#: (dynamic)
+msgid "1 vez en el fin de semana"
+msgstr ""
+
+#: (dynamic)
+msgid ""
+"La cantidad de patrocinios es limitada (excepto de nivel Cortegada). La "
+"organización se reserva el derecho de modificar dicha cantidad a "
+"conveniencia, siempre velando por los intereses de la conferencia."
+msgstr ""
+
+#: (dynamic)
+msgid "Las medidas del stand son orientativas."
+msgstr ""
+
+#: (dynamic)
+msgid ""
+"Aparición en soportes físicos impresos supeditada a la producción de los "
+"mismos."
+msgstr ""
+
+#: (dynamic)
+msgid ""
+"2 entradas, una por la charla patrocinada y otra por el taller patrocinado. "
+"Las entradas solo se otorgan si se imparten la charla y el taller, "
+"respectivamente."
+msgstr ""
+
+#: (dynamic)
+msgid ""
+"1 entrada por la charla patrocinada. La entrada solo se otorga si se imparte "
+"la charla."
+msgstr ""
+
+#: templates/cfp.html:146
+msgid ""
+"Nuestro equipo está aquí para ayudarte. Si tienes alguna pregunta o "
+"sugerencia, no dudes en contactarnos en "
+msgstr ""
+"O noso equipo está aquí para axudarte. Se tes algunha pregunta ou suxestión, "
+"non dubides en contactarnos en "
+
+#: templates/city.html:65
+msgid ""
+"Para obtener información actualizada, le recomendamos que visite la página "
+"web de "
+msgstr ""
+
+#: templates/city.html:109
+msgid ""
+"También puede llegar a Vigo en autobús. Hay líneas de autobús directas a "
+"Vigo desde Madrid, Barcelona y muchas otras ciudades españolas. La estación "
+"de autobuses se encuentra en el centro de la ciudad, en la calle Travesía de "
+"Vigo. "
+msgstr ""
+
+#: templates/city.html:115
+msgid "Más informacion en los siguientes enlaces: "
+msgstr ""
 
 #: templates/code_conduct.html:171
 msgid ""
@@ -757,15 +1157,6 @@ msgstr ""
 "No foro de Discourse podes denunciar publicacións individuais ou contactar "
 "co "
 
-#: templates/code_conduct.html:173
-msgid "grupo de moderación"
-msgstr "grupo de moderación"
-
-#: templates/code_conduct.html:177
-msgid ""
-"En Telegram, a la persona propietaria del grupo u otras administradoras."
-msgstr "En Telegram, á persoa propietaria do grupo ou outras administradoras."
-
 #: templates/code_conduct.html:180
 msgid ""
 "Para otros espacios o de forma alternativa, ponte en contacto con la Junta "
@@ -773,214 +1164,6 @@ msgid ""
 msgstr ""
 "Para outros espazos ou de forma alternativa, ponche en contacto coa Xunta "
 "Directiva en "
-
-#: templates/code_conduct.html:185
-msgid ""
-"Todas las personas administradoras de la comunidad están obligadas a "
-"respetar la privacidad y la seguridad de quienes denuncien incidentes."
-msgstr ""
-"Todas as persoas administradoras da comunidade están obrigadas a respectar a "
-"privacidade e a seguridade de quen denuncie incidentes."
-
-#: templates/code_conduct.html:192
-msgid "Atribución"
-msgstr "Atribución"
-
-#: templates/code_conduct.html:195
-msgid ""
-"Este código de conducta extiende el ya existente con aportaciones de otros "
-"códigos:"
-msgstr ""
-"Este código de conduta estende o xa existente con achegas doutros códigos:"
-
-#: templates/code_conduct.html:200
-msgid "versión en español del Contributor Covenant 2.0"
-msgstr "versión en español do Contributor Covenant 2.0"
-
-#: templates/code_conduct.html:205
-msgid "código de conducta de DjangoCon Europe 2020"
-msgstr "código de conduta de DjangoCon Europe 2020"
-
-#: templates/faq.html:7
-msgid "Preguntas Frecuentes"
-msgstr "Preguntas frecuentes"
-
-#: templates/faq.html:8
-msgid "¿Cómo accedo al streaming?"
-msgstr "Como acceso á emisión?"
-
-#: templates/faq.html:8 templates/faq.html:9 templates/faq.html:10
-#: templates/faq.html:20 templates/faq.html:21 templates/faq.html:22
-#: templates/faq.html:23
-msgid "Próximamente"
-msgstr "Proximamente"
-
-#: templates/faq.html:9
-msgid "¿Qué días son los tutoriales y charlas?"
-msgstr "Que dias son os titoriais e as charlas?"
-
-#: templates/faq.html:10
-msgid "¿En qué lugar se realizará la conferencia?"
-msgstr "En que lugar se realizará a conferencia?"
-
-#: templates/faq.html:12
-msgid "¿La conferencia es sólo en Español?"
-msgstr "É a conferencia só en castelán?"
-
-#: templates/faq.html:13
-msgid ""
-"La conferencia se realizará principalmente en Español, y dependiendo de las "
-"charlas aceptadas en Inglés se realizará un track completo durante los días "
-"de charlas."
-msgstr ""
-"A conferencia será principalmente en castelán, e dependendo das charlas que "
-"se acepten en inglés, podería haber unha pista completa en inglés durante os "
-"días de charlas."
-
-#: templates/faq.html:15
-msgid ""
-"Las ponencias principales, apertura y cierre del evento serán en Español, de "
-"todas formas, todas las personas de la organización hablan Español e Inglés, "
-"en caso que de que personas que asistan necesiten información en uno de los "
-"dos idiomas."
-msgstr ""
-"As principais ponencias, a apertura e o peche do evento serán en castelán. "
-"En calquera caso, todas as persoas da organización falan castelán e inglés, "
-"en caso de que persoas que asistan necesiten información nun deses idiomas."
-
-#: templates/faq.html:20
-msgid "¿Qué Aeropuerto es más cercano a la conferencia?"
-msgstr "Cal é o aeroporto máis próximo á conferencia?"
-
-#: templates/faq.html:21
-msgid "Quiero presentar una charla ¿Cómo lo hago?"
-msgstr "Quero presentar unha charla, como fago?"
-
-#: templates/faq.html:22
-msgid "Quiero patrocinar pero ¿Cómo funcionan los add-ons?"
-msgstr "Quero patrocinar pero… como funcionan os complementos?"
-
-#: templates/faq.html:23
-msgid "Soy patrocinante ¿Cómo y Cuántas entradas consigo?"
-msgstr "Patrocino, como e cantas entradas consigo?"
-
-#: templates/faq.html:25
-msgid "He comprado mi entrada y necesito una factura ¿Cómo la consigo?"
-msgstr "Comprei entrada e necesito unha factura, como a consigo?"
-
-#: templates/faq.html:26
-msgid ""
-"Si en tu caso necesitas una factura para presentarla a la entidad que está "
-"cubriendo tu asistencia al evento, generaremos tu factura cuando se realice "
-"el evento o hasta cuando se cierre el plazo para cambiar los detalles de los "
-"tickets de la conferencia. Principalmente, por la complejidad de cancelar "
-"dichos documentos en nuestra infraestructura."
-msgstr ""
-"Se necesitas unha factura para presentarlla á entidade que cubre a túa "
-"asistencia ao evento, xeraremos a túa factura cando se realice o evento ou "
-"ata cando se peche o prazo para cambiar os detalles dos tickets da "
-"conferencia. Principalmente, pola complexidade de cancelar eses documentos "
-"na nosa infraestrutura."
-
-#: templates/faq.html:33
-msgid "Soy Ponente, ¿tengo que comprar la entrada?"
-msgstr "Son ponente, teño que mercar entrada?"
-
-#: templates/faq.html:34
-msgid ""
-"Todas las personas que sean ponentes, tienen asegurada su participación en "
-"la conferencia, es decir no necesitan una entrada. En caso de que tengas "
-"pensado presentarte como ponente, independiente de si tu propuesta es "
-"aceptada o no, te recomendamos adquirir una entrada."
-msgstr ""
-"Todas as ponentes teñen asegurada a súa participación na conferencia, é "
-"dicir, non necesitan entrada. Se tes pensado presentarte como ponente, "
-"independentemente de que a túa proposta se acepte ou non, recomendámoste "
-"adquirir unha entrada."
-
-#: templates/components/header.html:12 templates/menu.html:11
-msgid "Inicio"
-msgstr "Inicio"
-
-#: templates/menu.html:14
-msgid "Convocatoría de propuestas (CFP)"
-msgstr "Convocatoria de propostas (CfP)"
-
-#: templates/components/header.html:18 templates/menu.html:17
-msgid "FAQ"
-msgstr "Preguntas frecuentes"
-
-#: templates/components/event_schedule_section.html:9
-msgid "Cronograma del evento"
-msgstr "Cronograma do evento"
-
-#: templates/components/event_schedule_section.html:12
-msgid ""
-"A continuación podrás ver algunos de los hitos más importantes de la "
-"conferencia. En caso de que la fecha exacta no esté disponible, se "
-"confirmará el cambio lo antes posible."
-msgstr ""
-"A continuación poderás ver algúns dos hitos máis importantes da conferencia. "
-"En caso de que a data exacta non estea dispoñíbel, confirmarase o cambio o "
-"antes posíbel."
-
-#: templates/components/event_schedule_section.html:22
-msgid "Presentamos la PyConES"
-msgstr "Presentamos a PyConES"
-
-#: templates/components/event_schedule_section.html:23
-msgid "Marzo"
-msgstr "Marzo"
-
-#: templates/components/event_schedule_section.html:26
-msgid "Apertura para el envío de ponencias/charlas"
-msgstr ""
-
-#: templates/components/event_schedule_section.html:27
-msgid "Abril"
-msgstr "Abril"
-
-#: templates/components/event_schedule_section.html:30
-msgid "Apertura para la venta de entradas"
-msgstr "Apertura da venda de entradas"
-
-#: templates/components/event_schedule_section.html:31
-#: templates/components/event_schedule_section.html:35
-msgid "Mayo"
-msgstr "Maio"
-
-#: templates/components/event_schedule_section.html:34
-msgid "Cierre del llamado a ponencias/charlas"
-msgstr "Peche do envío de ponencias/charlas"
-
-#: templates/components/event_schedule_section.html:38
-msgid "Apertura para la postulación de becas"
-msgstr "Apertura da postulación de bolsas"
-
-#: templates/components/event_schedule_section.html:39
-msgid "Junio"
-msgstr "Xuño"
-
-#: templates/components/event_schedule_section.html:42
-msgid "¡Empieza el espectáculo!"
-msgstr "Empeza o espectáculo!"
-
-#: templates/components/event_schedule_section.html:43
-msgid "Octubre"
-msgstr "Outubro"
-
-#: templates/components/footer.html:7
-msgid "Código de conducta"
-msgstr "Código de conduta"
-
-#: templates/components/footer.html:10
-#: templates/previous_editions/previous_editions.html:5
-msgid "Ediciones anteriores"
-msgstr "Edicións anteriores"
-
-#: templates/components/header.html:22
-msgid "Entradas"
-msgstr "Entradas"
 
 #~ msgid ""
 #~ "Os damos la bienvenida a la **PyConES**, la **conferencia de Python más "
