@@ -5,31 +5,30 @@
 {% block main_content %}
 
 <section class="grid grid-cols-1 gap-y-5 pb-10 mx-auto w-10/12">
-    <h1 class="my-10 text-5xl text-primary" style="color: #E30613">Patrocinios</h1>
+    <h1 class="my-10 text-5xl text-primary" style="color: #E30613">{{ _("Patrocinios") }}</h1>
     <article class="text-lg">
             <div class="">
                 <p class="text-xl leading-8 text-gray-700">
-                    ¿Te gustaría patrocinar la próxima edición del evento mas importante sobre desarrollo software con Python?
-                    No lo dudes y ponte ya mismo en contacto con la organización escribiendo al correo <a href="mailto:sponsors@2024.es.pycon.org">sponsors@2024.es.pycon.org</a>
-                    Para conocer todas las ventajas que te ofrecen nuestros distintos niveles de patrocinio puedes descargar el folleto informativo:
+                    {{ _("¿Te gustaría patrocinar la próxima edición del evento mas importante sobre desarrollo software con Python? No lo dudes y ponte ya mismo en contacto con la organización escribiendo al correo" ) }} <a href="mailto:sponsors@2024.es.pycon.org">sponsors@2024.es.pycon.org</a>.
+                    {{ _("Para conocer todas las ventajas que te ofrecen nuestros distintos niveles de patrocinio puedes descargar el folleto informativo:") }}
                 </p>
             </div>
             <div class="grid grid-cols-2 gap-4 content-center my-5 h-20">
-                <a href="{{ '/static/dossier/2024ES - Dossier - PyConES Vigo - Patrocinadores.pdf'|asseturl }}" target="_blank" class="py-1 px-4 font-semibold text-center text-red-600 border border-red-200 hover:text-white hover:bg-red-600 hover:border-transparent focus:ring-2 focus:ring-purple-600 focus:ring-offset-2 focus:outline-none">
-                    Descargar dosier completo (ES)
+                <a href="{{ _("/static/dossier/2024ES - Dossier - PyConES Vigo - Patrocinadores.pdf") | asseturl }}" target="_blank" class="py-1 px-4 font-semibold text-center text-red-600 border border-red-200 hover:text-white hover:bg-red-600 hover:border-transparent focus:ring-2 focus:ring-purple-600 focus:ring-offset-2 focus:outline-none">
+                    {{ _("Descargar dosier completo (ES)") }}
                 </a>
                 <a href="{{ '/static/dossier/2024ES - Dossier - PyConES Vigo - Patrocinadores - resumido.pdf'|asseturl }}" target="_blank" class="py-1 px-4 font-semibold text-center text-red-600 border border-red-200 hover:text-white hover:bg-red-600 hover:border-transparent focus:ring-2 focus:ring-purple-600 focus:ring-offset-2 focus:outline-none">
-                    Descargar dosier resumido (ES)
+                    {{ _("Descargar dosier resumido (ES)") }}
                 </a>
             </div>
             <table class="mt-5 w-full border border-white table-auto">
                 <thead class="text-white">
                     <tr style="background-color: #E30613; opacity: 0.5;" class="border-white">
                         <th class="py-2 px-4 pl-10 bg-white"></th>
-                        <th class="py-2" colspan="4">Niveles<sup class="text-white">(1)</sup></th>
+                        <th class="py-2" colspan="4">{{ _("Niveles") }}<sup class="text-white">(1)</sup></th>
                     </tr>
                     <tr style="background-color: #E30613" class="border-white">
-                        <th class="py-5 px-6 pl-10 text-left border border-white">Beneficios</th>
+                        <th class="py-5 px-6 pl-10 text-left border border-white">{{ _("Beneficios") }}</th>
                         <th class="py-5 px-6 border border-white">Cíes</th>
                         <th class="py-5 px-6 border border-white">Ons</th>
                         <th class="py-5 px-6 border border-white">Sálvora</th>
@@ -38,21 +37,21 @@
                 </thead>
                 <tbody>
                     <tr class="bg-white">
-                        <td class="py-2 px-4 pl-10 font-bold border border-black" style="color: #E30613">Precio</td>
+                        <td class="py-2 px-4 pl-10 font-bold border border-black" style="color: #E30613">{{ _("Precio") }}</td>
                         <td class="py-2 px-4 text-center border border-black">6.500 €</td>
                         <td class="py-2 px-4 text-center border border-black">4.750 €</td>
                         <td class="py-2 px-4 text-center border border-black">3.200 €</td>
                         <td class="py-2 px-4 text-center border border-black">1.000 €</td>
                     </tr>
                     <tr class="bg-white">
-                        <td class="py-2 px-4 pl-10 font-bold border border-black" style="color: #E30613">Entradas incluídas<sup>(2)</sup></td>
+                        <td class="py-2 px-4 pl-10 font-bold border border-black" style="color: #E30613">{{ _("Entradas incluídas") }}<sup>(2)</sup></td>
                         <td class="py-2 px-4 text-center border border-black">6(+2)</td>
                         <td class="py-2 px-4 text-center border border-black">3(+1)</td>
                         <td class="py-2 px-4 text-center border border-black">2</td>
                         <td class="py-2 px-4 text-center border border-black">1</td>
                     </tr>
                     <tr class="bg-white">
-                        <td class="py-2 px-4 pl-10 font-bold border border-black" style="color: #E30613">Logo en web</td>
+                        <td class="py-2 px-4 pl-10 font-bold border border-black" style="color: #E30613">{{ _("Logo en web") }}</td>
                         <td class="py-2 px-4 border border-black">
                             <div style="display: flex; justify-content: center;">
                                 {{ load_icon("icons/check-circle.svg", "w-5", "fill-green-500") }}
@@ -75,7 +74,7 @@
                         </td>
                     </tr>
                     <tr class="bg-white">
-                        <td class="py-2 px-4 pl-10 font-bold border border-black" style="color: #E30613">Obsequio en welcome pack</td>
+                        <td class="py-2 px-4 pl-10 font-bold border border-black" style="color: #E30613">{{ _("Obsequio en welcome pack") }}</td>
                         <td class="py-2 px-4 text-center border border-black">
                             <div style="display: flex; justify-content: center;">
                                 {{ load_icon("icons/check-circle.svg", "w-5", "fill-green-500") }}
@@ -98,7 +97,7 @@
                         </td>
                     </tr>
                     <tr class="bg-white">
-                        <td class="py-2 px-4 pl-10 font-bold border border-black" style="color: #E30613">Folleto en welcome pack</td>
+                        <td class="py-2 px-4 pl-10 font-bold border border-black" style="color: #E30613">{{ _("Folleto en welcome pack") }}</td>
                         <td class="py-2 px-4 text-center border border-black">
                             <div style="display: flex; justify-content: center;">
                                 {{ load_icon("icons/check-circle.svg", "w-5", "fill-green-500") }}
@@ -121,7 +120,7 @@
                         </td>
                     </tr>
                     <tr class="bg-white">
-                        <td class="py-2 px-4 pl-10 font-bold border border-black" style="color: #E30613">Stand<sup>(3)</sup></td>
+                        <td class="py-2 px-4 pl-10 font-bold border border-black" style="color: #E30613">{{ _("Stand") }}<sup>(3)</sup></td>
                         <td class="py-2 px-4 text-center border border-black">2,4 m x 3,2 m</td>
                         <td class="py-2 px-4 text-center border border-black">1,2 m x 2,00 m</td>
                         <td class="py-2 px-4 text-center border border-black">1,2 m x 2,00 m</td>
@@ -132,7 +131,7 @@
                         </td>
                     </tr>
                     <tr cl1ass="bg-white">
-                        <td class="py-2 px-4 pl-10 font-bold border border-black" style="color: #E30613">Add-ons</td>
+                        <td class="py-2 px-4 pl-10 font-bold border border-black" style="color: #E30613">{{ _("Add-ons") }}</td>
                         <td class="py-2 px-4 text-center border border-black">
                             <div style="display: flex; justify-content: center;">
                                 {{ load_icon("icons/check-circle.svg", "w-5", "fill-green-500") }}
@@ -155,7 +154,7 @@
                         </td>
                     </tr>
                     <tr cl1ass="bg-white">
-                        <td class="py-2 px-4 pl-10 font-bold border border-black" style="color: #E30613">Logo cartelería</td>
+                        <td class="py-2 px-4 pl-10 font-bold border border-black" style="color: #E30613">{{ _("Logo cartelería") }}</td>
                         <td class="py-2 px-4 text-center border border-black">
                             <div style="display: flex; justify-content: center;">
                                 {{ load_icon("icons/check-circle.svg", "w-5", "fill-green-500") }}
@@ -178,7 +177,7 @@
                         </td>
                     </tr>
                     <tr cl1ass="bg-white">
-                        <td class="py-2 px-4 pl-10 font-bold border border-black" style="color: #E30613">Logo en pausas</td>
+                        <td class="py-2 px-4 pl-10 font-bold border border-black" style="color: #E30613">{{ _("Logo en pausas") }}</td>
                         <td class="py-2 px-4 text-center border border-black">
                             <div style="display: flex; justify-content: center;">
                                 {{ load_icon("icons/check-circle.svg", "w-5", "fill-green-500") }}
@@ -201,7 +200,7 @@
                         </td>
                     </tr>
                     <tr cl1ass="bg-white">
-                        <td class="py-2 px-4 pl-10 font-bold border border-black" style="color: #E30613">Publicación en redes sociales</td>
+                        <td class="py-2 px-4 pl-10 font-bold border border-black" style="color: #E30613">{{ _("Publicación en redes sociales") }}</td>
                         <td class="py-2 px-4 text-center border border-black">
                             <div style="display: flex; justify-content: center;">
                                 {{ load_icon("icons/check-circle.svg", "w-5", "fill-green-500") }}
@@ -224,7 +223,7 @@
                         </td>
                     </tr>
                     <tr cl1ass="bg-white">
-                        <td class="py-2 px-4 pl-10 font-bold border border-black" style="color: #E30613">Ofertas de trabajo</td>
+                        <td class="py-2 px-4 pl-10 font-bold border border-black" style="color: #E30613">{{ _("Ofertas de trabajo") }}</td>
                         <td class="py-2 px-4 text-center border border-black">
                             <div style="display: flex; justify-content: center;">
                                 {{ load_icon("icons/check-circle.svg", "w-5", "fill-green-500") }}
@@ -247,7 +246,7 @@
                         </td>
                     </tr>
                     <tr cl1ass="bg-white">
-                        <td class="py-2 px-4 pl-10 font-bold border border-black" style="color: #E30613">Logo newsletter<sup>(4)</sup></td>
+                        <td class="py-2 px-4 pl-10 font-bold border border-black" style="color: #E30613">{{ _("Logo newsletter") }}<sup>(4)</sup></td>
                         <td class="py-2 px-4 text-center border border-black">
                             <div style="display: flex; justify-content: center;">
                                 {{ load_icon("icons/check-circle.svg", "w-5", "fill-green-500") }}
@@ -270,7 +269,7 @@
                         </td>
                     </tr>
                     <tr cl1ass="bg-white">
-                        <td class="py-2 px-4 pl-10 font-bold border border-black" style="color: #E30613">Charla patrocinada</td>
+                        <td class="py-2 px-4 pl-10 font-bold border border-black" style="color: #E30613">{{ _("Charla patrocinada") }}</td>
                         <td class="py-2 px-4 text-center border border-black">
                             <div style="display: flex; justify-content: center;">
                                 {{ load_icon("icons/check-circle.svg", "w-5", "fill-green-500") }}
@@ -293,7 +292,7 @@
                         </td>
                     </tr>
                     <tr cl1ass="bg-white">
-                        <td class="py-2 px-4 pl-10 font-bold border border-black" style="color: #E30613">Agradecimiento en vivo</td>
+                        <td class="py-2 px-4 pl-10 font-bold border border-black" style="color: #E30613">{{ _("Agradecimiento en vivo") }}</td>
                         <td class="py-2 px-4 text-center border border-black">
                             <div style="display: flex; justify-content: center;">
                                 {{ load_icon("icons/check-circle.svg", "w-5", "fill-green-500") }}
@@ -316,7 +315,7 @@
                         </td>
                     </tr>
                     <tr cl1ass="bg-white">
-                        <td class="py-2 px-4 pl-10 font-bold border border-black" style="color: #E30613">Anuncio en programa</td>
+                        <td class="py-2 px-4 pl-10 font-bold border border-black" style="color: #E30613">{{ _("Anuncio en programa") }}</td>
                         <td class="py-2 px-4 text-center border border-black">
                             <div style="display: flex; justify-content: center;">
                                 {{ load_icon("icons/check-circle.svg", "w-5", "fill-green-500") }}
@@ -339,7 +338,7 @@
                         </td>
                     </tr>
                     <tr cl1ass="bg-white">
-                        <td class="py-2 px-4 pl-10 font-bold border border-black" style="color: #E30613">Nota de prensa<sup>(4)</sup></td>
+                        <td class="py-2 px-4 pl-10 font-bold border border-black" style="color: #E30613">{{ _("Nota de prensa") }}<sup>(4)</sup></td>
                         <td class="py-2 px-4 text-center border border-black">
                             <div style="display: flex; justify-content: center;">
                                 {{ load_icon("icons/check-circle.svg", "w-5", "fill-green-500") }}
@@ -362,7 +361,7 @@
                         </td>
                     </tr>
                     <tr cl1ass="bg-white">
-                        <td class="py-2 px-4 pl-10 font-bold border border-black" style="color: #E30613">Taller patrocinado</td>
+                        <td class="py-2 px-4 pl-10 font-bold border border-black" style="color: #E30613">{{ _("Taller patrocinado") }}</td>
                         <td class="py-2 px-4 text-center border border-black">
                             <div style="display: flex; justify-content: center;">
                                 {{ load_icon("icons/check-circle.svg", "w-5", "fill-green-500") }}
@@ -385,7 +384,7 @@
                         </td>
                     </tr>
                     <tr cl1ass="bg-white">
-                        <td class="py-2 px-4 pl-10 font-bold border border-black" style="color: #E30613">Sesión de contratación</td>
+                        <td class="py-2 px-4 pl-10 font-bold border border-black" style="color: #E30613">{{ _("Sesión de contratación") }}</td>
                         <td class="py-2 px-4 text-center border border-black">
                             <div style="display: flex; justify-content: center;">
                                 {{ load_icon("icons/check-circle.svg", "w-5", "fill-green-500") }}
@@ -408,9 +407,9 @@
                         </td>
                     </tr>
                     <tr cl1ass="bg-white">
-                        <td class="py-2 px-4 pl-10 font-bold border border-black" style="color: #E30613">Video promocional</td>
-                        <td class="py-2 px-4 text-center border border-black">2 veces al día</td>
-                        <td class="py-2 px-4 text-center border border-black">1 vez en el fin de semana</td>
+                        <td class="py-2 px-4 pl-10 font-bold border border-black" style="color: #E30613">{{ _("Video promocional") }}</td>
+                        <td class="py-2 px-4 text-center border border-black">{{ _("2 veces al día") }}</td>
+                        <td class="py-2 px-4 text-center border border-black">{{ _("1 vez en el fin de semana") }}</td>
                         <td class="py-2 px-4 text-center border border-black">
                             <div style="display: flex; justify-content: center;">
                                 {{ load_icon("icons/x-circle.svg", "w-5", "fill-red-500") }}
@@ -426,11 +425,11 @@
             </table>
             <div>
                 <ul class="px-5 pt-10">
-                <li><sup>(1)</sup><span class="pl-5">La cantidad de patrocinios es limitada (excepto de nivel Cortegada). La organización se reserva el derecho de modificar dicha cantidad a conveniencia, siempre velando por los intereses de la conferencia.</span> </li>
-                <li><sup>(2)</sup><span class="pl-4"><strong>Cíes</strong>: 2 entradas, una por la charla patrocinada y otra por el taller patrocinado. Las entradas solo se otorgan si se imparten la charla y el taller, respectivamente.<span>
-                <p><span class="pl-8"><strong>Ons</strong>: 1 entrada por la charla patrocinada. La entrada solo se otorga si se imparte la charla. </span></p></li>
-                <li><sup>(3)</sup><span class="pl-4">Las medidas del stand son orientativas.</span></li>
-                <li><sup>(4)</sup><span class="pl-4">Aparición en soportes físicos impresos supeditada a la producción de los mismos.</span></li>
+                <li><sup>(1)</sup><span class="pl-5">{{ _("La cantidad de patrocinios es limitada (excepto de nivel Cortegada). La organización se reserva el derecho de modificar dicha cantidad a conveniencia, siempre velando por los intereses de la conferencia.") }}</span> </li>
+                <li><sup>(2)</sup><span class="pl-4"><strong>Cíes</strong>: {{ _("2 entradas, una por la charla patrocinada y otra por el taller patrocinado. Las entradas solo se otorgan si se imparten la charla y el taller, respectivamente.") }}<span>
+                <p><span class="pl-8"><strong>Ons</strong>: {{ _("1 entrada por la charla patrocinada. La entrada solo se otorga si se imparte la charla.") }}</span></p></li>
+                <li><sup>(3)</sup><span class="pl-4">{{ _("Las medidas del stand son orientativas.") }}</span></li>
+                <li><sup>(4)</sup><span class="pl-4">{{ _("Aparición en soportes físicos impresos supeditada a la producción de los mismos.") }}</span></li>
                 </ul>
             </div>
     </article>
