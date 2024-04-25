@@ -2,18 +2,21 @@ hero_text: Dámosvos a benvida á **PyConES**, a **conferencia de Python máis i
 ---
 dates_event: 4, 5 e 6 de outubro
 ---
+sponsors_text: Se queres formar parte dos nosos patrocinadores para facer esta conferencia aínda máis impresionante, podes dispoñer dun espazo dentro do evento.
+---
 description_text:
 
 Un evento que reunirá a centos de entusiastas da linguaxe de programación Python,
 cunha axenda incrible na mellor localización posible.
 ---
 Project-Id-Version: pycones 24
-Report-Msgid-Bugs-To:
-PO-Revision-Date: 2024-03-14 01:10+0100
-Last-Translator: Automatically generated
-Language-Team: none
+Report-Msgid-Bugs-To: 
+PO-Revision-Date: 2024-04-21 15:27+0200
+Last-Translator: Adrián Chaves (Gallaecio) <adrian@chaves.io>
+Language-Team: Proxecto Trasno (proxecto@trasno.gal)
 Language: gl
 MIME-Version: 1.0
 Content-Type: text/plain; charset=UTF-8
 Content-Transfer-Encoding: 8bit
-X-Generator: Poedit 3.4.2
+X-Generator: Lokalize 24.02.2
+Plural-Forms: nplurals=2; plural=n != 1;

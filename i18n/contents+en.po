@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pycones 24\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-04-15 20:49+CET\n"
+"POT-Creation-Date: 2024-04-25 20:47+CET\n"
 "PO-Revision-Date: 2024-04-21 15:55+0200\n"
 "Last-Translator: Adrián Chaves (Gallaecio) <adrian@chaves.io>\n"
 "Language-Team: Proxecto Trasno (proxecto@trasno.gal)\n"
@@ -37,7 +37,16 @@ msgstr ""
 msgid "con una agenda increíble en la mejor localización posible."
 msgstr "with an incredible agenda in the best possible location."
 
-#: templates/cfp.html:5
+#: https://2024.es.pycon.org/ (content/contents+es.lr:page.sponsors_text)
+msgid ""
+"Si quieres formar parte de nuestros patrocinadores para hacer esta "
+"conferencia aún más impresionante puedes disponer de un espacio dentro del "
+"eventos."
+msgstr ""
+"If you would like to be one of our sponsors to make this conference even "
+"more impressive, you can have a space at the event."
+
+#: templates/cfp.html:5 templates/components/header.html:15
 msgid "Convocatoria de propuestas (CFP)"
 msgstr "Call for Papers (CfP)"
 
@@ -47,17 +56,17 @@ msgid ""
 "PyConES 2024 – la actualizaremos regularmente a medida que haya nueva "
 "información disponible."
 msgstr ""
-"This page contains all the information about the procedure to propose a talk"
-" or workshop for PyConES 2024. We will update it constantly as new"
-" information becomes available."
+"This page contains all the information about the procedure to propose a talk "
+"or workshop for PyConES 2024. We will update it constantly as new "
+"information becomes available."
 
 #: templates/cfp.html:11
 msgid ""
 "La convocatoria de propuestas (CFP) es hasta las 23:59 (UTC) del 31 de mayo. "
 "Mejor no dejarlo para el último minuto."
 msgstr ""
-"The call for papers (CfP) closes at 23:59 UTC on May 31th. Do not leave it"
-" for the very last minute!"
+"The call for papers (CfP) closes at 23:59 UTC on May 31th. Do not leave it "
+"for the very last minute!"
 
 #: templates/cfp.html:22
 msgid ""
@@ -65,17 +74,17 @@ msgid ""
 "Buscamos charlas accesibles para todos los niveles de habilidad, y buscamos "
 "propuestas de oradores nuevos y experimentados."
 msgstr ""
-"We are looking for diverse talks about both technical and non-technical"
-" topics. We want talks for all skill levels from both new and experienced"
-" speakers."
+"We are looking for diverse talks about both technical and non-technical "
+"topics. We want talks for all skill levels from both new and experienced "
+"speakers."
 
 #: templates/cfp.html:28
 msgid ""
 "Si te estás preguntando, ¿puedo hacer esto? La respuesta es sí. Si tienes un "
 "tema que te interesa, entonces nos interesa a nosotros."
 msgstr ""
-"If you are wondering if you can do this, the answer is yes. If you are"
-" interested in a topic, we are interested as well."
+"If you are wondering if you can do this, the answer is yes. If you are "
+"interested in a topic, we are interested as well."
 
 #: templates/cfp.html:33
 msgid "Recomendaciones para tu propuesta"
@@ -88,10 +97,10 @@ msgid ""
 "recién comienzan, el presentar una idea que refleje todos los detalles "
 "geniales que tu charla incluirá puede ser confuso."
 msgstr ""
-"We want to encourage people with different levels of experience in giving"
-" talks to participate in this conference. We know that, for first-timers,"
-" presenting an idea that reflects every cool detail about your talk can be"
-" confusing."
+"We want to encourage people with different levels of experience in giving "
+"talks to participate in this conference. We know that, for first-timers, "
+"presenting an idea that reflects every cool detail about your talk can be "
+"confusing."
 
 #: templates/cfp.html:39
 msgid ""
@@ -99,9 +108,9 @@ msgid ""
 "dar la información necesaria para que quienes revisen, entiendan tu "
 "propuesta."
 msgstr ""
-"It is important that you present your idea clearly, and that you are"
-" available to answer any feedback that the people reviewing your proposal"
-" might have."
+"It is important that you present your idea clearly, and that you are "
+"available to answer any feedback that the people reviewing your proposal "
+"might have."
 
 #: templates/cfp.html:41
 msgid "Estructura de tu abstract"
@@ -112,8 +121,8 @@ msgid ""
 "Una estructura simple que puedes seguir, es poder contemplar los siguientes "
 "puntos en tu propuesta:"
 msgstr ""
-"A simple layout that you could follow is to cover the following aspects in"
-" your proposal:"
+"A simple layout that you could follow is to cover the following aspects in "
+"your proposal:"
 
 #: templates/cfp.html:48
 msgid "Contexto de tu charla o problema"
@@ -141,9 +150,9 @@ msgid ""
 "presenta en el título, e intenta incluir factores que hacen tu propuesta "
 "¡especial y única!."
 msgstr ""
-"Avoid abstracts with 1-2 lines that repeat the idea already featured in the"
-" title, and try and include aspects that make your proposal special and"
-" unique."
+"Avoid abstracts with 1-2 lines that repeat the idea already featured in the "
+"title, and try and include aspects that make your proposal special and "
+"unique."
 
 #: templates/cfp.html:67
 msgid "Tipos de propuestas"
@@ -159,15 +168,11 @@ msgstr "Workshops: up to 90 min"
 
 #: templates/cfp.html:77
 msgid ""
-"Si tu taller dira más o menos tiempo no dudes en comunicarlo a la "
+"Si tu taller dura más o menos tiempo no dudes en comunicarlo a la "
 "organización para tenerlo en cuenta en la configuración del programa. Esto "
 "nos dará la oportunidad de crear un planificación variada y ajustada a los "
 "tres días de conferencia."
 msgstr ""
-"If the time needed for your workshop is longer or shorted do not hesitate to"
-" let the organization know, so that they can take it into account as they"
-" compose the schedule. This will allow us to build a diverse schedule that"
-" fits into the 3-day conference."
 
 #: templates/cfp.html:81
 msgid "Valoramos mucho las propuestas:"
@@ -194,8 +199,8 @@ msgid ""
 "La temática es abierta siempre y cuando tenga relación con Python. Aquí te "
 "dejamos algunas ideas:"
 msgstr ""
-"There are no limits for topics as long as they are related to Python. Here"
-" are some ideas:"
+"There are no limits for topics as long as they are related to Python. Here "
+"are some ideas:"
 
 #: templates/cfp.html:95
 msgid "Desarrollo Web"
@@ -266,16 +271,16 @@ msgid ""
 "Nuestro equipo está aquí para ayudarte. Si tienes alguna pregunta o "
 "sugerencia, no dudes en contactarnos en "
 msgstr ""
-"Our team is here to help you. If you have any question or feedback, do not"
-" hesitate to contact us at "
+"Our team is here to help you. If you have any question or feedback, do not "
+"hesitate to contact us at "
 
 #: templates/cfp.html:150
 msgid ""
 "Estamos comprometidos a hacer de PyConES 2024 un evento inclusivo, atractivo "
 "e inolvidable para todos."
 msgstr ""
-"We are committed to make of PyConES 2024 an inclusive, attractive and"
-" unforgettable event for everyone."
+"We are committed to make of PyConES 2024 an inclusive, attractive and "
+"unforgettable event for everyone."
 
 #: templates/cfp.html:156
 msgid "Nos vemos en Vigo!"
@@ -288,6 +293,186 @@ msgstr "Do not forget to follow us in Twitter"
 #: templates/cfp.html:161
 msgid "para obtener la información más reciente y actualizada!"
 msgstr "to get the latest updates!"
+
+#: templates/city.html:7
+msgid "Vigo"
+msgstr ""
+
+#: templates/city.html:10
+msgid ""
+"En el corazón de las Rías Baixas, Vigo es la mayor ciudad de Galicia. "
+"Originalmente un pueblo de pescadores, ahora es conocida como la “Puerta del "
+"Atlántico”. Es una ciudad con una gran oferta cultural y gastronómica, con "
+"una amplia variedad de restaurantes y bares donde degustar algunos de los "
+"mejores mariscos del mundo."
+msgstr ""
+
+#: templates/city.html:16
+msgid ""
+"Hoy en día es una ciudad industrial pero también con mucha vida, con una "
+"gran vida nocturna y muchas actividades de ocio."
+msgstr ""
+
+#: templates/city.html:20
+msgid "Puede consultar algunos de ellos en los siguientes enlaces:"
+msgstr ""
+
+#: templates/city.html:25
+msgid "Vigo en un día"
+msgstr ""
+
+#: templates/city.html:31
+msgid "10 lugares que ver imprescindibles"
+msgstr ""
+
+#: templates/city.html:36
+msgid "Cómo llegar a Vigo"
+msgstr ""
+
+#: templates/city.html:37
+msgid ""
+"Llegar a Vigo es muy fácil: desde Madrid, A Coruña, Santiago de Compostela o "
+"el norte de Portugal se puede llegar directamente al centro de la ciudad. "
+"Vigo está comunicada por carretera y tren con Madrid y otras urbes como "
+"Bilbao. Además, el aeropuerto de Peinador está conectado con las ciudades "
+"españolas más importantes y con varios destinos internacionales."
+msgstr ""
+
+#: templates/city.html:42
+msgid "En avión: Aeropuerto de Vigo"
+msgstr ""
+
+#: templates/city.html:43
+msgid ""
+"El Aeropuerto de Vigo, Peinador, es el aeropuerto del sur de Galicia y está "
+"a solo 20 minutos del centro de la ciudad."
+msgstr ""
+
+#: templates/city.html:46
+msgid "Principales destinos internacionales:"
+msgstr ""
+
+#: templates/city.html:48
+msgid "Londres"
+msgstr ""
+
+#: templates/city.html:49
+msgid "Bruselas"
+msgstr ""
+
+#: templates/city.html:50
+msgid "Paris"
+msgstr ""
+
+#: templates/city.html:54
+msgid "Principales destinos nacionales:"
+msgstr ""
+
+#: templates/city.html:65
+msgid ""
+"Para obtener información actualizada, le recomendamos que visite la página "
+"web de "
+msgstr ""
+
+#: templates/city.html:73
+msgid "Otros aeropuertos cercanos"
+msgstr ""
+
+#: templates/city.html:76
+msgid "Aeropuerto de Santiago-Rosalía de Castro"
+msgstr ""
+
+#: templates/city.html:77 templates/city.html:81
+msgid "Más informacion"
+msgstr ""
+
+#: templates/city.html:80
+msgid "Aeropuerto de Porto - Portugal"
+msgstr ""
+
+#: templates/city.html:87
+msgid "En tren"
+msgstr ""
+
+#: templates/city.html:89
+msgid ""
+"Vigo cuenta con dos estaciones de ferrocarril: URZAIZ, desde donde sale el "
+"AVE, y GUIXAR, situada en la calle Areal, ambas en pleno centro de la ciudad."
+msgstr ""
+
+#: templates/city.html:95
+msgid "En coche o bus"
+msgstr ""
+
+#: templates/city.html:97
+msgid ""
+"La forma más habitual de viajar a Vigo es en coche. Las buenas conexiones de "
+"la ciudad facilitan el acceso a Vigo por autopista desde Madrid, Santiago, A "
+"Coruña y Oporto."
+msgstr ""
+
+#: templates/city.html:100
+msgid "Hay tres vías principales de entrada por autopista:"
+msgstr ""
+
+#: templates/city.html:102
+msgid ""
+"La Autovía del Noroeste (A-6) y la Autovía das Rías Baixas (A-52) conectan "
+"Vigo y Madrid. Si viaja a Vigo desde Portugal, puede tomar la autopista A-3, "
+"que une Oporto, Lisboa y Braga con la frontera española, y después la AP-9 y "
+"la A-55, que le llevarán directamente al centro de Vigo."
+msgstr ""
+
+#: templates/city.html:109
+msgid ""
+"También puede llegar a Vigo en autobús. Hay líneas de autobús directas a "
+"Vigo desde Madrid, Barcelona y muchas otras ciudades españolas. La estación "
+"de autobuses se encuentra en el centro de la ciudad, en la calle Travesía de "
+"Vigo. "
+msgstr ""
+
+#: templates/city.html:115
+msgid "Más informacion en los siguientes enlaces: "
+msgstr ""
+
+#: templates/city.html:124
+msgid "Cómo desplazarse"
+msgstr ""
+
+#: templates/city.html:126
+msgid ""
+"Vigo es una ciudad pequeña y se puede ir andando a casi todas partes, aunque "
+"Vigo es conocida por sus cuestas (¡así que prepárate para subir y bajar!). "
+"Hoy en día, hay muchas escaleras mecánicas y ascensores que te ayudarán con "
+"eso."
+msgstr ""
+
+#: templates/city.html:130
+msgid ""
+"Para moverte por Vigo y si quieres ir a las playas cercanas, la mejor opción "
+"es el transporte público, autobús o taxi"
+msgstr ""
+
+#: templates/city.html:133
+msgid "Autobus"
+msgstr ""
+
+#: templates/city.html:135
+msgid ""
+"Vitrasa es el autobús urbano público de Vigo. Puedes utilizar las siguientes "
+"aplicaciones o webs para planificar tu viaje y estar informado:"
+msgstr ""
+
+#: templates/city.html:146
+msgid "Taxi"
+msgstr ""
+
+#: templates/city.html:148
+msgid ""
+"Si prefieres un poco más de flexibilidad, no te costará encontrar un taxi en "
+"Vigo. Es una opción muy cómoda para moverse por el centro de Vigo y sus "
+"barrios. Tienen tarifas razonables y te permitirán desplazarte rápidamente."
+msgstr ""
 
 #: templates/code_conduct.html:7
 msgid "Código conducta"
@@ -706,7 +891,7 @@ msgstr ""
 "ticket. If you are thinking of submitting a talk, you are encouraged to get "
 "a ticket, regardless of whether or not your submission is accepted."
 
-#: templates/menu.html:11
+#: templates/components/header.html:12 templates/menu.html:11
 msgid "Inicio"
 msgstr "Home"
 
@@ -714,7 +899,7 @@ msgstr "Home"
 msgid "Convocatoría de propuestas (CFP)"
 msgstr "Call for Papers (CfP)"
 
-#: templates/menu.html:17
+#: templates/components/header.html:18 templates/menu.html:17
 msgid "FAQ"
 msgstr "FAQ"
 
@@ -728,9 +913,9 @@ msgid ""
 "conferencia. En caso de que la fecha exacta no esté disponible, se "
 "confirmará el cambio lo antes posible."
 msgstr ""
-"See below some of the most important milestones of the conference. If the"
-" exact date is unavailable, we will try and confirm that date as soon as"
-" possible."
+"See below some of the most important milestones of the conference. If the "
+"exact date is unavailable, we will try and confirm that date as soon as "
+"possible."
 
 #: templates/components/event_schedule_section.html:22
 msgid "Presentamos la PyConES"
@@ -741,8 +926,8 @@ msgid "Marzo"
 msgstr "March"
 
 #: templates/components/event_schedule_section.html:26
-msgid "Apertura para el envió de ponencias/charlas"
-msgstr "The call for papers opens"
+msgid "Apertura para el envío de ponencias/charlas"
+msgstr ""
 
 #: templates/components/event_schedule_section.html:27
 msgid "Abril"
@@ -786,7 +971,7 @@ msgstr "Code of Conduct"
 msgid "Ediciones anteriores"
 msgstr "Previous editions"
 
-#: templates/components/header.html:10
+#: templates/components/header.html:22
 msgid "Entradas"
 msgstr "Tickets"
 
@@ -801,6 +986,20 @@ msgstr "Tickets"
 #~ "Junta Directiva en"
 #~ msgstr ""
 #~ "For other spaces or alternatively, contact the Board of Directors at"
+
+#~ msgid ""
+#~ "Si tu taller dira más o menos tiempo no dudes en comunicarlo a la "
+#~ "organización para tenerlo en cuenta en la configuración del programa. "
+#~ "Esto nos dará la oportunidad de crear un planificación variada y ajustada "
+#~ "a los tres días de conferencia."
+#~ msgstr ""
+#~ "If the time needed for your workshop is longer or shorted do not hesitate "
+#~ "to let the organization know, so that they can take it into account as "
+#~ "they compose the schedule. This will allow us to build a diverse schedule "
+#~ "that fits into the 3-day conference."
+
+#~ msgid "Apertura para el envió de ponencias/charlas"
+#~ msgstr "The call for papers opens"
 
 #~ msgid ""
 #~ "ágina web de la PyConES 2024 en Vigo, Galicia. La conferencia de Python "
