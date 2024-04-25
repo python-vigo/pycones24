@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+
+sed -i 's/^enable = True$/enable = False/' configs/i18n.ini
+lektor server
+sed -i 's/^enable = False$/enable = True/' configs/i18n.ini
