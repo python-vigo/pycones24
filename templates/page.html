@@ -13,8 +13,8 @@
         <p class="text-lg sm:text-4xl lg:text-xl">{{ this.description_text }}</p>
       </div>
       <div class="pl-4 my-10 mx-auto w-11/12 border-l-4 border-white lg:ml-24 lg:w-[534px] xl:ml-[276px]">
-        <p class="mb-4">Si quieres formar parte de nuestros patrocinadores para hacer esta conferencia aún más impresionante puedes disponer de un espacio dentro del evento</p>
-        <a href="{{ '/patrocinios'|url }}" class="inline-block py-3 px-6 font-bold bg-white rounded border-2 hover:text-white text-primary bg-secondary hover:bg-primary">Quiero patrocinar</a>
+        <p class="mb-4">{{ this.sponsors_text }}</p>
+        <a href="{{ '/patrocinios'|url }}" class="inline-block py-3 px-6 font-bold bg-white rounded border-2 hover:text-white text-primary bg-secondary hover:bg-primary">{{ this.sponsors_button_text }}</a>
       </div>
       <img src="{{ '/static/images/trisquel-down.png'|asseturl }}" alt="Trisquel" class="absolute right-0 -bottom-0 w-1/5 sm:w-40 md:w-72 lg:bottom-0 lg:w-6/12 xl:w-4/12 min-[380px]:w-48 2xl:w-[600px]">
     </section>

@@ -6,10 +6,10 @@ my_list.blocks.fields.text:
 
 hola
 Project-Id-Version: pycones 24
-Report-Msgid-Bugs-To:
-PO-Revision-Date: 2024-03-13 01:30+0100
-Last-Translator: Automatically generated
-Language-Team: none
+Report-Msgid-Bugs-To: 
+PO-Revision-Date: 2024-04-25 22:18+0200
+Last-Translator: Adrián Chaves (Gallaecio) <adrian@chaves.io>
+Language-Team: Proxecto Trasno (proxecto@trasno.gal)
 Language: en
 MIME-Version: 1.0
 Content-Type: text/plain; charset=UTF-8
@@ -20,10 +20,10 @@ X-Generator: Poedit 3.4.2
 ---
 _hidden: no
 Project-Id-Version: pycones 24
-Report-Msgid-Bugs-To:
-PO-Revision-Date: 2024-03-13 01:30+0100
-Last-Translator: Automatically generated
-Language-Team: none
+Report-Msgid-Bugs-To: 
+PO-Revision-Date: 2024-04-25 22:18+0200
+Last-Translator: Adrián Chaves (Gallaecio) <adrian@chaves.io>
+Language-Team: Proxecto Trasno (proxecto@trasno.gal)
 Language: en
 MIME-Version: 1.0
 Content-Type: text/plain; charset=UTF-8

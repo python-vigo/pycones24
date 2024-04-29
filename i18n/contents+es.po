@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pycones 24\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-04-15 20:49+CET\n"
+"POT-Creation-Date: 2024-04-25 22:16+CET\n"
 "PO-Revision-Date: 2024-03-11 00:54+CET\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -18,21 +18,29 @@ msgstr ""
 
 #: https://2024.es.pycon.org/ (content/contents+es.lr:page.hero_text)
 msgid ""
-"Os damos la bienvenida a la **PyConES**, la **conferencia de Python más "
-"importante de España**."
+"Os damos la bienvenida a la <strong>PyConES</strong>, la <strong>conferencia "
+"de Python más importante de España.</strong>"
 msgstr ""
 
 #: https://2024.es.pycon.org/ (content/contents+es.lr:page.description_text)
 msgid ""
 "Un evento que reunirá a cientos de entusiastas del lenguaje de programación "
-"Python,"
+"Python, con una agenda increíble en la mejor localización posible."
 msgstr ""
 
-#: https://2024.es.pycon.org/ (content/contents+es.lr:page.description_text)
-msgid "con una agenda increíble en la mejor localización posible."
+#: https://2024.es.pycon.org/ (content/contents+es.lr:page.sponsors_text)
+msgid ""
+"Si quieres formar parte de nuestros patrocinadores para hacer esta "
+"conferencia aún más impresionante puedes disponer de un espacio dentro del "
+"eventos"
 msgstr ""
 
-#: templates/cfp.html:5
+#: https://2024.es.pycon.org/
+#: (content/contents+es.lr:page.sponsors_button_text)
+msgid "Quiero patrocinar"
+msgstr ""
+
+#: templates/cfp.html:5 templates/components/header.html:15
 msgid "Convocatoria de propuestas (CFP)"
 msgstr ""
 
@@ -132,7 +140,7 @@ msgstr ""
 
 #: templates/cfp.html:77
 msgid ""
-"Si tu taller dira más o menos tiempo no dudes en comunicarlo a la "
+"Si tu taller dura más o menos tiempo no dudes en comunicarlo a la "
 "organización para tenerlo en cuenta en la configuración del programa. Esto "
 "nos dará la oportunidad de crear un planificación variada y ajustada a los "
 "tres días de conferencia."
@@ -250,6 +258,186 @@ msgstr ""
 
 #: templates/cfp.html:161
 msgid "para obtener la información más reciente y actualizada!"
+msgstr ""
+
+#: templates/city.html:7
+msgid "Vigo"
+msgstr ""
+
+#: templates/city.html:10
+msgid ""
+"En el corazón de las Rías Baixas, Vigo es la mayor ciudad de Galicia. "
+"Originalmente un pueblo de pescadores, ahora es conocida como la “Puerta del "
+"Atlántico”. Es una ciudad con una gran oferta cultural y gastronómica, con "
+"una amplia variedad de restaurantes y bares donde degustar algunos de los "
+"mejores mariscos del mundo."
+msgstr ""
+
+#: templates/city.html:16
+msgid ""
+"Hoy en día es una ciudad industrial pero también con mucha vida, con una "
+"gran vida nocturna y muchas actividades de ocio."
+msgstr ""
+
+#: templates/city.html:20
+msgid "Puede consultar algunos de ellos en los siguientes enlaces:"
+msgstr ""
+
+#: templates/city.html:25
+msgid "Vigo en un día"
+msgstr ""
+
+#: templates/city.html:31
+msgid "10 lugares que ver imprescindibles"
+msgstr ""
+
+#: templates/city.html:36
+msgid "Cómo llegar a Vigo"
+msgstr ""
+
+#: templates/city.html:37
+msgid ""
+"Llegar a Vigo es muy fácil: desde Madrid, A Coruña, Santiago de Compostela o "
+"el norte de Portugal se puede llegar directamente al centro de la ciudad. "
+"Vigo está comunicada por carretera y tren con Madrid y otras urbes como "
+"Bilbao. Además, el aeropuerto de Peinador está conectado con las ciudades "
+"españolas más importantes y con varios destinos internacionales."
+msgstr ""
+
+#: templates/city.html:42
+msgid "En avión: Aeropuerto de Vigo"
+msgstr ""
+
+#: templates/city.html:43
+msgid ""
+"El Aeropuerto de Vigo, Peinador, es el aeropuerto del sur de Galicia y está "
+"a solo 20 minutos del centro de la ciudad."
+msgstr ""
+
+#: templates/city.html:46
+msgid "Principales destinos internacionales:"
+msgstr ""
+
+#: templates/city.html:48
+msgid "Londres"
+msgstr ""
+
+#: templates/city.html:49
+msgid "Bruselas"
+msgstr ""
+
+#: templates/city.html:50
+msgid "Paris"
+msgstr ""
+
+#: templates/city.html:54
+msgid "Principales destinos nacionales:"
+msgstr ""
+
+#: templates/city.html:65
+msgid ""
+"Para obtener información actualizada, le recomendamos que visite la página "
+"web de "
+msgstr ""
+
+#: templates/city.html:73
+msgid "Otros aeropuertos cercanos"
+msgstr ""
+
+#: templates/city.html:76
+msgid "Aeropuerto de Santiago-Rosalía de Castro"
+msgstr ""
+
+#: templates/city.html:77 templates/city.html:81
+msgid "Más informacion"
+msgstr ""
+
+#: templates/city.html:80
+msgid "Aeropuerto de Porto - Portugal"
+msgstr ""
+
+#: templates/city.html:87
+msgid "En tren"
+msgstr ""
+
+#: templates/city.html:89
+msgid ""
+"Vigo cuenta con dos estaciones de ferrocarril: URZAIZ, desde donde sale el "
+"AVE, y GUIXAR, situada en la calle Areal, ambas en pleno centro de la ciudad."
+msgstr ""
+
+#: templates/city.html:95
+msgid "En coche o bus"
+msgstr ""
+
+#: templates/city.html:97
+msgid ""
+"La forma más habitual de viajar a Vigo es en coche. Las buenas conexiones de "
+"la ciudad facilitan el acceso a Vigo por autopista desde Madrid, Santiago, A "
+"Coruña y Oporto."
+msgstr ""
+
+#: templates/city.html:100
+msgid "Hay tres vías principales de entrada por autopista:"
+msgstr ""
+
+#: templates/city.html:102
+msgid ""
+"La Autovía del Noroeste (A-6) y la Autovía das Rías Baixas (A-52) conectan "
+"Vigo y Madrid. Si viaja a Vigo desde Portugal, puede tomar la autopista A-3, "
+"que une Oporto, Lisboa y Braga con la frontera española, y después la AP-9 y "
+"la A-55, que le llevarán directamente al centro de Vigo."
+msgstr ""
+
+#: templates/city.html:109
+msgid ""
+"También puede llegar a Vigo en autobús. Hay líneas de autobús directas a "
+"Vigo desde Madrid, Barcelona y muchas otras ciudades españolas. La estación "
+"de autobuses se encuentra en el centro de la ciudad, en la calle Travesía de "
+"Vigo. "
+msgstr ""
+
+#: templates/city.html:115
+msgid "Más informacion en los siguientes enlaces: "
+msgstr ""
+
+#: templates/city.html:124
+msgid "Cómo desplazarse"
+msgstr ""
+
+#: templates/city.html:126
+msgid ""
+"Vigo es una ciudad pequeña y se puede ir andando a casi todas partes, aunque "
+"Vigo es conocida por sus cuestas (¡así que prepárate para subir y bajar!). "
+"Hoy en día, hay muchas escaleras mecánicas y ascensores que te ayudarán con "
+"eso."
+msgstr ""
+
+#: templates/city.html:130
+msgid ""
+"Para moverte por Vigo y si quieres ir a las playas cercanas, la mejor opción "
+"es el transporte público, autobús o taxi"
+msgstr ""
+
+#: templates/city.html:133
+msgid "Autobus"
+msgstr ""
+
+#: templates/city.html:135
+msgid ""
+"Vitrasa es el autobús urbano público de Vigo. Puedes utilizar las siguientes "
+"aplicaciones o webs para planificar tu viaje y estar informado:"
+msgstr ""
+
+#: templates/city.html:146
+msgid "Taxi"
+msgstr ""
+
+#: templates/city.html:148
+msgid ""
+"Si prefieres un poco más de flexibilidad, no te costará encontrar un taxi en "
+"Vigo. Es una opción muy cómoda para moverse por el centro de Vigo y sus "
+"barrios. Tienen tarifas razonables y te permitirán desplazarte rápidamente."
 msgstr ""
 
 #: templates/code_conduct.html:7
@@ -589,7 +777,7 @@ msgid ""
 "aceptada o no, te recomendamos adquirir una entrada."
 msgstr ""
 
-#: templates/menu.html:11
+#: templates/components/header.html:12 templates/menu.html:11
 msgid "Inicio"
 msgstr ""
 
@@ -597,7 +785,7 @@ msgstr ""
 msgid "Convocatoría de propuestas (CFP)"
 msgstr ""
 
-#: templates/menu.html:17
+#: templates/components/header.html:18 templates/menu.html:17
 msgid "FAQ"
 msgstr ""
 
@@ -621,7 +809,7 @@ msgid "Marzo"
 msgstr ""
 
 #: templates/components/event_schedule_section.html:26
-msgid "Apertura para el envió de ponencias/charlas"
+msgid "Apertura para el envío de ponencias/charlas"
 msgstr ""
 
 #: templates/components/event_schedule_section.html:27
@@ -666,6 +854,6 @@ msgstr ""
 msgid "Ediciones anteriores"
 msgstr ""
 
-#: templates/components/header.html:10
+#: templates/components/header.html:22
 msgid "Entradas"
 msgstr ""
