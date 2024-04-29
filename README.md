@@ -27,7 +27,7 @@ Página web de la conferencia nacional de Python 2024 · Vigo · Galicia
 4. Arranca el servidor de desarrollo
 
 ```bash
-   lektor server
+   scripts/server
 ```
 
 Una vez que el servidor de desarrollo está en marcha, visita la url [127.0.0.1:5000](http://127.0.0.1:5000) o [127.0.0.1:5000/admin](http://127.0.0.1:5000/admin) para acceder a la interfaz del admin.
