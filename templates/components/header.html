@@ -24,5 +24,38 @@
     <a href="{{ '/menu'|url }}" data-hx-push-url="false">
       <img src="/static/images/ham-icon.svg" alt="Menu" />
     </a>
+    <div>
+      <form
+        data-hx-target="body"
+        data-hx-push-url="true"
+        class="mx-auto"
+      >
+        <select class="text-white bg-transparent">
+          <option
+            data-hx-get="{{ '.'|url(alt='es') }}"
+            data-hx-trigger="click"
+            value="ES"
+            {% if this.alt == 'es' %}selected{% endif %}
+          >
+            ES
+          </option>
+          <option
+            data-hx-get="{{ '.'|url(alt='en') }}"
+            data-hx-trigger="click"
+            value="EN"
+            {% if this.alt == 'en' %}selected{% endif %}
+          >
+            EN
+          </option>
+          <option
+            data-hx-get="{{ '.'|url(alt='gl') }}"
+            value="GAL"
+            {% if this.alt == 'gl' %}selected{% endif %}
+          >
+            GAL
+          </option>
+        </select>
+      </form>
+    </div>
   </div>
 </nav>
