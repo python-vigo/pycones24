@@ -55,35 +55,13 @@
     </a>
     <div>
       <form
-        data-hx-target="body"
-        data-hx-push-url="true"
         class="mx-auto"
       >
-        <select class="text-white bg-transparent">
-          <option
-            data-hx-get="../../ediciones-anteriores/"
-            data-hx-trigger="click"
-            value="ES"
-            
-          >
-            ES
-          </option>
-          <option
-            data-hx-get="../../en/ediciones-anteriores/"
-            data-hx-trigger="click"
-            value="EN"
-            
-          >
-            EN
-          </option>
-          <option
-            data-hx-get="./"
-            value="GAL"
-            selected
-          >
-            GAL
-          </option>
-        </select>
+      <select class="text-white bg-transparent" onchange="location = this.options[this.selectedIndex].value;">
+        <option value="../../ediciones-anteriores/" >ES</option>
+        <option value="../../en/ediciones-anteriores/" >EN</option>
+        <option value="./" selected>GAL</option>
+      </select>
       </form>
     </div>
   </div>

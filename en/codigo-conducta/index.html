@@ -55,35 +55,13 @@
     </a>
     <div>
       <form
-        data-hx-target="body"
-        data-hx-push-url="true"
         class="mx-auto"
       >
-        <select class="text-white bg-transparent">
-          <option
-            data-hx-get="../../codigo-conducta/"
-            data-hx-trigger="click"
-            value="ES"
-            
-          >
-            ES
-          </option>
-          <option
-            data-hx-get="./"
-            data-hx-trigger="click"
-            value="EN"
-            selected
-          >
-            EN
-          </option>
-          <option
-            data-hx-get="../../gal/codigo-conducta/"
-            value="GAL"
-            
-          >
-            GAL
-          </option>
-        </select>
+      <select class="text-white bg-transparent" onchange="location = this.options[this.selectedIndex].value;">
+        <option value="../../codigo-conducta/" >ES</option>
+        <option value="./" selected>EN</option>
+        <option value="../../gal/codigo-conducta/" >GAL</option>
+      </select>
       </form>
     </div>
   </div>
