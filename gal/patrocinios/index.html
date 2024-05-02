@@ -55,6 +55,39 @@
     <a href="../menu/" data-hx-push-url="false">
       <img src="/static/images/ham-icon.svg" alt="Menu" />
     </a>
+    <div>
+      <form
+        data-hx-target="body"
+        data-hx-push-url="true"
+        class="mx-auto"
+      >
+        <select class="text-white bg-transparent">
+          <option
+            data-hx-get="../../patrocinios/"
+            data-hx-trigger="click"
+            value="ES"
+            
+          >
+            ES
+          </option>
+          <option
+            data-hx-get="../../en/patrocinios/"
+            data-hx-trigger="click"
+            value="EN"
+            
+          >
+            EN
+          </option>
+          <option
+            data-hx-get="./"
+            value="GAL"
+            selected
+          >
+            GAL
+          </option>
+        </select>
+      </form>
+    </div>
   </div>
 </nav>
     </header>
