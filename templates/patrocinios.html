@@ -1,4 +1,5 @@
 {% from "macros/load_icon.html" import load_icon %}
+{% from "macros/carousel.html" import carousel %}
 
 {% extends "layout.html" %}
 
@@ -21,6 +22,9 @@
                     {{ _("Descargar dosier resumido (ES)") }}
                 </a>
             </div>
+            <section>
+                {{ carousel(this.attachments) }}
+            </section>
             <table class="mt-5 w-full border border-white table-auto">
                 <thead class="text-white">
                     <tr style="background-color: #E30613; opacity: 0.5;" class="border-white">
