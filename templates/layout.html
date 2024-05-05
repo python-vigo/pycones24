@@ -23,6 +23,28 @@
     <link rel="manifest" href="{{ '/static/favicon/site.webmanifest'|asseturl }}">
     <meta name="google-site-verification" content="ggr-BOSKTnIjcxjkkreUx5oqxBWojqS-iDhnE8ovQAk" />
     <script src="{{ '/static/js/htmx.min.js'|url }}"></script>
+    <script>
+      // Define dataLayer and the gtag function.
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+
+      // Set default consent to 'denied' as a placeholder
+      // Determine actual values based on your own requirements
+      gtag('consent', 'default', {
+        'ad_storage': 'denied',
+        'ad_user_data': 'denied',
+        'ad_personalization': 'denied',
+        'analytics_storage': 'denied'
+      });
+      </script>
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-0S8NHNQV57"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'G-0S8NHNQV57');
+    </script>
   </head>
   <body class="flex flex-col min-h-screen">
     {% block body %}
@@ -31,6 +53,13 @@
     </header>
     <main class="flex-grow">{% block main_content %} {% endblock main_content %}</main>
     {% endblock %}
+    <div class="fixed bottom-0 right-0 max-w-sm p-3 m-4 text-right bg-white rounded-lg shadow-md">
+      <p class="text-sm text-gray-700">Utilizamos cookies para mejorar su experiencia. Al continuar, acepta nuestra <a href="/politica-de-privacidad" class="text-blue-500 hover:text-blue-600">Política de Privacidad</a>.</p>
+      <div class="flex justify-end gap-5">
+        <button class="mt-2 text-sm text-black hover:text-secondary" onclick="this.parentElement.style.display='none';">Aceptar</button>
+        <button class="mt-2 text-sm text-primary hover:text-secondary" onclick="this.parentElement.style.display='none';">Rechazar</button>
+      </div>
+    </div>
     {% include "components/footer.html" %}
   </body>
 </html>
