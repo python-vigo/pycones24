@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: pycones 24\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-04-25 23:25+CET\n"
-"PO-Revision-Date: 2024-04-25 22:19+0200\n"
+"PO-Revision-Date: 2024-05-06 21:03+0200\n"
 "Last-Translator: Adrián Chaves (Gallaecio) <adrian@chaves.io>\n"
 "Language-Team: Proxecto Trasno (proxecto@trasno.gal)\n"
 "Language: gl\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Poedit 3.4.2\n"
+"X-Generator: Lokalize 24.02.2\n"
 
 #: (dynamic)
 msgid "Inicio"
@@ -54,7 +54,7 @@ msgstr "Marzo"
 
 #: (dynamic)
 msgid "Apertura para el envío de ponencias/charlas"
-msgstr ""
+msgstr "Apertura para o envío de ponencias/charlas"
 
 #: (dynamic)
 msgid "Abril"
@@ -113,6 +113,8 @@ msgid ""
 "Un evento que reunirá a cientos de entusiastas del lenguaje de programación "
 "Python, con una agenda increíble en la mejor localización posible."
 msgstr ""
+"Un evento que reunirá a centos de entusiastas da linguaxe de programación"
+" Python, cunha axenda incríbel na mellor localización posíbel."
 
 #: https://2024.es.pycon.org/ (content/contents+es.lr:page.sponsors_text)
 msgid ""
@@ -120,6 +122,8 @@ msgid ""
 "conferencia aún más impresionante puedes disponer de un espacio dentro del "
 "eventos"
 msgstr ""
+"Se queres formar parte dos nosos patrocinadores para facer esta conferencia"
+" aínda máis impresionante, podes dispoñer dun espazo dentro do evento."
 
 #: https://2024.es.pycon.org/
 #: (content/contents+es.lr:page.sponsors_button_text)
@@ -128,7 +132,7 @@ msgstr "Quero patrocinar"
 
 #: (dynamic)
 msgid "Vigo"
-msgstr ""
+msgstr "Vigo"
 
 #: (dynamic)
 msgid ""
@@ -138,28 +142,34 @@ msgid ""
 "una amplia variedad de restaurantes y bares donde degustar algunos de los "
 "mejores mariscos del mundo."
 msgstr ""
+"No corazón das Rías Baixas, Vigo é a maior cidade de Galicia. Orixinalmente"
+" unha aldea pesqueira, agora coñécese como a «Porta do Atlántico». É unha"
+" cidade cunha gran oferta cultural e gastronómica, cunha ampla variedade de"
+" restaurantes e bares onde degustar algúns dos mellores mariscos do mundo."
 
 #: (dynamic)
 msgid ""
 "Hoy en día es una ciudad industrial pero también con mucha vida, con una "
 "gran vida nocturna y muchas actividades de ocio."
 msgstr ""
+"A día de hoxe é unha cidade industrial pero tamén con moita vida, cunha gran"
+" vida nocturna e moitas actividades de lecer."
 
 #: (dynamic)
 msgid "Puede consultar algunos de ellos en los siguientes enlaces:"
-msgstr ""
+msgstr "Pode consultar algúns deles nas seguintes ligazóns:"
 
 #: (dynamic)
 msgid "Vigo en un día"
-msgstr ""
+msgstr "Vigo nun día"
 
 #: (dynamic)
 msgid "10 lugares que ver imprescindibles"
-msgstr ""
+msgstr "10 lugares imprescindíbeis para ver"
 
 #: (dynamic)
 msgid "Cómo llegar a Vigo"
-msgstr ""
+msgstr "Como chegar a Vigo"
 
 #: (dynamic)
 msgid ""
@@ -169,72 +179,82 @@ msgid ""
 "Bilbao. Además, el aeropuerto de Peinador está conectado con las ciudades "
 "españolas más importantes y con varios destinos internacionales."
 msgstr ""
+"Chegar a Vigo é moi doado: desde Madrid, A Coruña, Santiago de Compostela ou"
+" o norte de Portugal pode chegar directamente ao centro da cidade. Vigo está"
+" comunicada por carretera e tren con Madrid e outras urbes como Bilbao."
+" Ademais, o aeroporto de Peinador está conectado coas cidades españolas máis"
+" importantes e con varios destinos internacionais."
 
 #: (dynamic)
 msgid "En avión: Aeropuerto de Vigo"
-msgstr ""
+msgstr "En avión: Aeroporto de Vigo"
 
 #: (dynamic)
 msgid ""
 "El Aeropuerto de Vigo, Peinador, es el aeropuerto del sur de Galicia y está "
 "a solo 20 minutos del centro de la ciudad."
 msgstr ""
+"O aeroporto de Vigo, Peinador, é o aeroporto do sur de Galicia e está a só 20"
+" minutos do centro da cidade."
 
 #: (dynamic)
 msgid "Principales destinos internacionales:"
-msgstr ""
+msgstr "Principais destinos internacionais:"
 
 #: (dynamic)
 msgid "Londres"
-msgstr ""
+msgstr "Londres"
 
 #: (dynamic)
 msgid "Bruselas"
-msgstr ""
+msgstr "Bruselas"
 
 #: (dynamic)
 msgid "Paris"
-msgstr ""
+msgstr "París"
 
 #: (dynamic)
 msgid "Principales destinos nacionales:"
-msgstr ""
+msgstr "Principais destinos nacionais:"
 
 #: (dynamic)
 msgid ""
 "Para obtener información actualizada, le recomendamos que visite la página "
 "web de"
 msgstr ""
+"Para obter información actualizada, recomendámoslle que visite a páxina web de"
 
 #: (dynamic)
 msgid "Otros aeropuertos cercanos"
-msgstr ""
+msgstr "Outros aeroportos próximos"
 
 #: (dynamic)
 msgid "Aeropuerto de Santiago-Rosalía de Castro"
-msgstr ""
+msgstr "Aeroporto de Santiago-Rosalía de Castro"
 
 #: (dynamic)
 msgid "Más informacion"
-msgstr ""
+msgstr "Máis informacion"
 
 #: (dynamic)
 msgid "Aeropuerto de Porto - Portugal"
-msgstr ""
+msgstr "Aeroporto de Porto — Portugal"
 
 #: (dynamic)
 msgid "En tren"
-msgstr ""
+msgstr "En tren"
 
 #: (dynamic)
 msgid ""
 "Vigo cuenta con dos estaciones de ferrocarril: URZAIZ, desde donde sale el "
 "AVE, y GUIXAR, situada en la calle Areal, ambas en pleno centro de la ciudad."
 msgstr ""
+"Vigo conta con dúas estacións de ferrocarril: Urzaiz, desde onde sae o AVE, e"
+" Guixar, situada na rúa Areal, ambas en pleno centro da cidade."
 
 #: (dynamic)
 msgid "En coche o bus"
-msgstr ""
+msgstr "En coche ou bus"
 
 #: (dynamic)
 msgid ""
@@ -242,10 +262,13 @@ msgid ""
 "la ciudad facilitan el acceso a Vigo por autopista desde Madrid, Santiago, A "
 "Coruña y Oporto."
 msgstr ""
+"A forma máis habitual de viaxar a Vigo é en coche. As boas conexións da"
+" cidade facilitan o acceso a Vigo por autopista desde Madrid, Santiago, A"
+" Coruña e Porto."
 
 #: (dynamic)
 msgid "Hay tres vías principales de entrada por autopista:"
-msgstr ""
+msgstr "Hai tres vías principais de entrada por autopista:"
 
 #: (dynamic)
 msgid ""
@@ -254,6 +277,10 @@ msgid ""
 "que une Oporto, Lisboa y Braga con la frontera española, y después la AP-9 y "
 "la A-55, que le llevarán directamente al centro de Vigo."
 msgstr ""
+"A Autovía do Noroeste (A-6) e a Autovía das Rías Baixas (A-52) conectan "
+"Vigo e Madrid. Se viaxa a Vigo desde Portugal, pode tomar a autopista A-3, "
+"que une Porto, Lisboa e Braga coa fronteira española, e despois a AP-9 e "
+"a A-55, que lle levarán directamente ao centro de Vigo."
 
 #: (dynamic)
 msgid ""
@@ -262,14 +289,17 @@ msgid ""
 "de autobuses se encuentra en el centro de la ciudad, en la calle Travesía de "
 "Vigo."
 msgstr ""
+"Tamén podes chegar a Vigo en autobús. Hai liñas de autobús directas a Vigo"
+" desde Madrid, Barcelona e moitas outras cidades españolas. A estación de"
+" autobuses atópase no centro da cidade, na rúa Travesía de Vigo."
 
 #: (dynamic)
 msgid "Más informacion en los siguientes enlaces:"
-msgstr ""
+msgstr "Máis información nas seguintes ligazóns:"
 
 #: (dynamic)
 msgid "Cómo desplazarse"
-msgstr ""
+msgstr "Como desprazarse"
 
 #: (dynamic)
 msgid ""
@@ -278,26 +308,33 @@ msgid ""
 "Hoy en día, hay muchas escaleras mecánicas y ascensores que te ayudarán con "
 "eso."
 msgstr ""
+"Vigo é unha cidade pequena e pode irse andando a case todas partes, aínda que"
+" Vigo é coñecida polas súas costas (así que prepárate para subir e baixar!)."
+" Hoxe en día hai moitas escaleiras mecánicas e ascensores que te axudarán."
 
 #: (dynamic)
 msgid ""
 "Para moverte por Vigo y si quieres ir a las playas cercanas, la mejor opción "
 "es el transporte público, autobús o taxi"
 msgstr ""
+"Para moverte por Vigo e se queres ir ás praias próximas, a mellor opción é o"
+" transporte público, autobús ou taxi."
 
 #: (dynamic)
 msgid "Autobus"
-msgstr ""
+msgstr "Autobús"
 
 #: (dynamic)
 msgid ""
 "Vitrasa es el autobús urbano público de Vigo. Puedes utilizar las siguientes "
 "aplicaciones o webs para planificar tu viaje y estar informado:"
 msgstr ""
+"Vitrasa é o autobús urbano público de Vigo. Podes utilizar as seguintes"
+" aplicacións ou webs para planificar a túa viaxe e ter a última información:"
 
 #: (dynamic)
 msgid "Taxi"
-msgstr ""
+msgstr "Taxi"
 
 #: (dynamic)
 msgid ""
@@ -305,10 +342,13 @@ msgid ""
 "Vigo. Es una opción muy cómoda para moverse por el centro de Vigo y sus "
 "barrios. Tienen tarifas razonables y te permitirán desplazarte rápidamente."
 msgstr ""
+"Se prefires un pouco máis de flexibilidade, non te custará atopar un taxi en"
+" Vigo. É unha opción moi cómoda para moverse polo centro de Vigo e os seus"
+" barrios. Teñen tarifas razoábeis e permitirante desprazarte rapidamente."
 
 #: (dynamic)
 msgid "Patrocinios"
-msgstr ""
+msgstr "Patrocinios"
 
 #: (dynamic)
 msgid ""
@@ -316,24 +356,29 @@ msgid ""
 "desarrollo software con Python? No lo dudes y ponte ya mismo en contacto con "
 "la organización escribiendo al correo"
 msgstr ""
+"Gustaríache patrocinar a próxima edición do evento máis importante sobre o"
+" desenvolvemento de software con Python? Non o dubides e ponte xa en contacto"
+" coa organización escribindo ao enderezo de correo electrónico"
 
 #: (dynamic)
 msgid ""
 "Para conocer todas las ventajas que te ofrecen nuestros distintos niveles de "
 "patrocinio puedes descargar el folleto informativo:"
 msgstr ""
+"Para coñecer todas as vantaxes que ofrecen os distintos niveis de patrocinio"
+" podes descargar o folleto informativo:"
 
 #: (dynamic)
 msgid "/static/dossier/2024ES - Dossier - PyConES Vigo - Patrocinadores.pdf"
-msgstr ""
+msgstr "/static/dossier/2024ES - Dossier - PyConES Vigo - Patrocinadores.pdf"
 
 #: (dynamic)
 msgid "Descargar dosier completo (ES)"
-msgstr ""
+msgstr "Descargar o dosier completo (castelán)"
 
 #: (dynamic)
 msgid "Descargar dosier resumido (ES)"
-msgstr ""
+msgstr "Descargar o dosier resumido (castelán)"
 
 #: (dynamic)
 msgid "Preguntas Frecuentes"
@@ -713,6 +758,7 @@ msgid ""
 "En el foro de Discourse puedes denunciar publicaciones individuales o "
 "contactar con el"
 msgstr ""
+"No foro de Discourse podes denunciar publicacións individuais ou contactar co"
 
 #: (dynamic)
 msgid "grupo de moderación"
@@ -728,6 +774,8 @@ msgid ""
 "Para otros espacios o de forma alternativa, ponte en contacto con la Junta "
 "Directiva en"
 msgstr ""
+"Para outros espazos ou de forma alternativa, ponte en contacto coa Xunta"
+" Directiva en"
 
 #: (dynamic)
 msgid ""
@@ -881,6 +929,10 @@ msgid ""
 "nos dará la oportunidad de crear un planificación variada y ajustada a los "
 "tres días de conferencia."
 msgstr ""
+"Se o teu taller dura máis ou menos tempo, non dubides en comunicarllo á"
+" organización para telo en conta na configuración do programa. Isto non dará"
+" a oportunidade de crear unha planificación variada e axustada aos tres días"
+" da conferencia."
 
 #: (dynamic)
 msgid "Valoramos mucho las propuestas:"
@@ -980,6 +1032,8 @@ msgid ""
 "Nuestro equipo está aquí para ayudarte. Si tienes alguna pregunta o "
 "sugerencia, no dudes en contactarnos en"
 msgstr ""
+"O noso equipo está aquí para axudarte. Se tes algunha pregunta ou suxestión,"
+" non dubides en contactar connosco en"
 
 #: (dynamic)
 msgid ""
@@ -1003,95 +1057,95 @@ msgstr "para obter a información máis recente e actualizada!"
 
 #: (dynamic)
 msgid "Niveles"
-msgstr ""
+msgstr "Niveis"
 
 #: (dynamic)
 msgid "Beneficios"
-msgstr ""
+msgstr "Beneficios"
 
 #: (dynamic)
 msgid "Precio"
-msgstr ""
+msgstr "Prezo"
 
 #: (dynamic)
 msgid "Entradas incluídas"
-msgstr ""
+msgstr "Entradas incluídas"
 
 #: (dynamic)
 msgid "Logo en web"
-msgstr ""
+msgstr "Logo en web"
 
 #: (dynamic)
 msgid "Obsequio en welcome pack"
-msgstr ""
+msgstr "Obsequio no paquete de benvida"
 
 #: (dynamic)
 msgid "Folleto en welcome pack"
-msgstr ""
+msgstr "Folleto no paquete de benvida"
 
 #: (dynamic)
 msgid "Stand"
-msgstr ""
+msgstr "Posto"
 
 #: (dynamic)
 msgid "Add-ons"
-msgstr ""
+msgstr "Complementos"
 
 #: (dynamic)
 msgid "Logo cartelería"
-msgstr ""
+msgstr "Logo na cartelaría"
 
 #: (dynamic)
 msgid "Logo en pausas"
-msgstr ""
+msgstr "Logo nas pausas"
 
 #: (dynamic)
 msgid "Publicación en redes sociales"
-msgstr ""
+msgstr "Publicación nas redes sociais"
 
 #: (dynamic)
 msgid "Ofertas de trabajo"
-msgstr ""
+msgstr "Ofertas de traballo"
 
 #: (dynamic)
 msgid "Logo newsletter"
-msgstr ""
+msgstr "Logo no boletín informativo"
 
 #: (dynamic)
 msgid "Charla patrocinada"
-msgstr ""
+msgstr "Charla patrocinada"
 
 #: (dynamic)
 msgid "Agradecimiento en vivo"
-msgstr ""
+msgstr "Agradecemento en directo"
 
 #: (dynamic)
 msgid "Anuncio en programa"
-msgstr ""
+msgstr "Anuncio no programa"
 
 #: (dynamic)
 msgid "Nota de prensa"
-msgstr ""
+msgstr "Nota de prensa"
 
 #: (dynamic)
 msgid "Taller patrocinado"
-msgstr ""
+msgstr "Taller de patrocinio"
 
 #: (dynamic)
 msgid "Sesión de contratación"
-msgstr ""
+msgstr "Sesión de contratación"
 
 #: (dynamic)
 msgid "Video promocional"
-msgstr ""
+msgstr "Vídeo promocional"
 
 #: (dynamic)
 msgid "2 veces al día"
-msgstr ""
+msgstr "2 veces ao día"
 
 #: (dynamic)
 msgid "1 vez en el fin de semana"
-msgstr ""
+msgstr "1 vez na fin de semana"
 
 #: (dynamic)
 msgid ""
@@ -1099,16 +1153,19 @@ msgid ""
 "organización se reserva el derecho de modificar dicha cantidad a "
 "conveniencia, siempre velando por los intereses de la conferencia."
 msgstr ""
+"A cantidade de patrocinios é limitada (excepto o nivel Cortegada). A"
+" organización resérvase o dereito a modificar a cantidade a conveniencia,"
+" sempre velando polos intereses da conferencia."
 
 #: (dynamic)
 msgid "Las medidas del stand son orientativas."
-msgstr ""
+msgstr "As medidas do posto son orientativas."
 
 #: (dynamic)
 msgid ""
 "Aparición en soportes físicos impresos supeditada a la producción de los "
 "mismos."
-msgstr ""
+msgstr "Aparición en soportes físicos impresos supeditada á súa produción."
 
 #: (dynamic)
 msgid ""
@@ -1116,12 +1173,16 @@ msgid ""
 "Las entradas solo se otorgan si se imparten la charla y el taller, "
 "respectivamente."
 msgstr ""
+"2 entradas, unha por charla patrocinada e outra polo taller patrocinado. As"
+" estradas só se otorgan se se imparten a charla e o taller, respectivamente."
 
 #: (dynamic)
 msgid ""
 "1 entrada por la charla patrocinada. La entrada solo se otorga si se imparte "
 "la charla."
 msgstr ""
+"1 entrada pola charla patrocinada. A entrada só se otorga se se imparte a"
+" charla."
 
 #: templates/cfp.html:146
 msgid ""
@@ -1136,6 +1197,8 @@ msgid ""
 "Para obtener información actualizada, le recomendamos que visite la página "
 "web de "
 msgstr ""
+"Para obter información actualizada, recomendámoslle que visite a páxina web"
+" de "
 
 #: templates/city.html:109
 msgid ""
@@ -1144,10 +1207,13 @@ msgid ""
 "de autobuses se encuentra en el centro de la ciudad, en la calle Travesía de "
 "Vigo. "
 msgstr ""
+"Tamén podes chegar a Vigo en autobús. Hai liñas de autobús directas a Vigo"
+" desde Madrid, Barcelona e moitas outras cidades españolas. A estación de"
+" autobuses atópase no centro da cidade, na rúa Travesía de Vigo. "
 
 #: templates/city.html:115
 msgid "Más informacion en los siguientes enlaces: "
-msgstr ""
+msgstr "Máis información nas seguintes ligazóns: "
 
 #: templates/code_conduct.html:171
 msgid ""
@@ -1204,3 +1270,5 @@ msgstr ""
 
 #~ msgid "Apertura para el envió de ponencias/charlas"
 #~ msgstr "Apertura para o envío de ponencias/charlas"
+
+

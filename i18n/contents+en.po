@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: pycones 24\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-04-25 23:25+CET\n"
-"PO-Revision-Date: 2024-04-25 22:18+0200\n"
+"PO-Revision-Date: 2024-05-06 21:42+0200\n"
 "Last-Translator: Adrián Chaves (Gallaecio) <adrian@chaves.io>\n"
 "Language-Team: Proxecto Trasno (proxecto@trasno.gal)\n"
 "Language: en\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Poedit 3.4.2\n"
+"X-Generator: Lokalize 24.02.2\n"
 
 #: (dynamic)
 msgid "Inicio"
@@ -54,7 +54,7 @@ msgstr "March"
 
 #: (dynamic)
 msgid "Apertura para el envío de ponencias/charlas"
-msgstr ""
+msgstr "Proposals for talks can be sent"
 
 #: (dynamic)
 msgid "Abril"
@@ -113,6 +113,8 @@ msgid ""
 "Un evento que reunirá a cientos de entusiastas del lenguaje de programación "
 "Python, con una agenda increíble en la mejor localización posible."
 msgstr ""
+"An event that will gather hundreds of enthusiasts of the Python programming"
+" language, with an amazing program in the best location possible."
 
 #: https://2024.es.pycon.org/ (content/contents+es.lr:page.sponsors_text)
 msgid ""
@@ -120,6 +122,8 @@ msgid ""
 "conferencia aún más impresionante puedes disponer de un espacio dentro del "
 "eventos"
 msgstr ""
+"If you want to be one of our sponsors, to make this conference even better,"
+" you may enjoy a space within the event."
 
 #: https://2024.es.pycon.org/
 #: (content/contents+es.lr:page.sponsors_button_text)
@@ -128,7 +132,7 @@ msgstr "I want to sponsor"
 
 #: (dynamic)
 msgid "Vigo"
-msgstr ""
+msgstr "Vigo"
 
 #: (dynamic)
 msgid ""
@@ -138,28 +142,34 @@ msgid ""
 "una amplia variedad de restaurantes y bares donde degustar algunos de los "
 "mejores mariscos del mundo."
 msgstr ""
+"At the heart of Rías Baixas, Vigo is the biggest city in Galicia. Originally"
+" a fishing village, now it is known as “Door of the Atlantic”. It is a city"
+" with a wide range of restaurants and bars, where you can enjoy some of the"
+" best seafood in the world."
 
 #: (dynamic)
 msgid ""
 "Hoy en día es una ciudad industrial pero también con mucha vida, con una "
 "gran vida nocturna y muchas actividades de ocio."
 msgstr ""
+"Nowadays it is a industrial city, but also full of life, with a great night"
+" life and lots of leisure activities."
 
 #: (dynamic)
 msgid "Puede consultar algunos de ellos en los siguientes enlaces:"
-msgstr ""
+msgstr "Find some of them in the following links:"
 
 #: (dynamic)
 msgid "Vigo en un día"
-msgstr ""
+msgstr "Vigo in one day"
 
 #: (dynamic)
 msgid "10 lugares que ver imprescindibles"
-msgstr ""
+msgstr "10 locations you must visit"
 
 #: (dynamic)
 msgid "Cómo llegar a Vigo"
-msgstr ""
+msgstr "Getting to Vigo"
 
 #: (dynamic)
 msgid ""
@@ -169,72 +179,81 @@ msgid ""
 "Bilbao. Además, el aeropuerto de Peinador está conectado con las ciudades "
 "españolas más importantes y con varios destinos internacionales."
 msgstr ""
+"Getting to Vigo is very easy: from Madrid, A Coruña, Santiago de Compostela"
+" or from the north of Portugal you can arrive straight to the city center."
+" Vigo is connected by road and train to Madrid and other cities like Bilbao."
+" Moreover, the Peinador Airport is connected to the most important Spanish"
+" cities and many international destinations."
 
 #: (dynamic)
 msgid "En avión: Aeropuerto de Vigo"
-msgstr ""
+msgstr "By plane: Vigo Airport"
 
 #: (dynamic)
 msgid ""
 "El Aeropuerto de Vigo, Peinador, es el aeropuerto del sur de Galicia y está "
 "a solo 20 minutos del centro de la ciudad."
 msgstr ""
+"Vigo’s airport, Peinador, is the airport for the south of Galicia and is only"
+" 20 minutes from the city center."
 
 #: (dynamic)
 msgid "Principales destinos internacionales:"
-msgstr ""
+msgstr "Main international destinations:"
 
 #: (dynamic)
 msgid "Londres"
-msgstr ""
+msgstr "London"
 
 #: (dynamic)
 msgid "Bruselas"
-msgstr ""
+msgstr "Brussels"
 
 #: (dynamic)
 msgid "Paris"
-msgstr ""
+msgstr "Paris"
 
 #: (dynamic)
 msgid "Principales destinos nacionales:"
-msgstr ""
+msgstr "Main national destinations:"
 
 #: (dynamic)
 msgid ""
 "Para obtener información actualizada, le recomendamos que visite la página "
 "web de"
-msgstr ""
+msgstr "For fresh information, please visit the web page of"
 
 #: (dynamic)
 msgid "Otros aeropuertos cercanos"
-msgstr ""
+msgstr "Other nearby airports"
 
 #: (dynamic)
 msgid "Aeropuerto de Santiago-Rosalía de Castro"
-msgstr ""
+msgstr "Santiago-Rosalía de Castro Airport"
 
 #: (dynamic)
 msgid "Más informacion"
-msgstr ""
+msgstr "More information"
 
 #: (dynamic)
 msgid "Aeropuerto de Porto - Portugal"
-msgstr ""
+msgstr "Porto Airport — Portugal"
 
 #: (dynamic)
 msgid "En tren"
-msgstr ""
+msgstr "By train"
 
 #: (dynamic)
 msgid ""
 "Vigo cuenta con dos estaciones de ferrocarril: URZAIZ, desde donde sale el "
 "AVE, y GUIXAR, situada en la calle Areal, ambas en pleno centro de la ciudad."
 msgstr ""
+"Vigo has two trains stations: Urzaiz, with high-speed connections, and"
+" Guixar, at Areal road, both in the very center of the city."
 
 #: (dynamic)
 msgid "En coche o bus"
-msgstr ""
+msgstr "By car or bus"
 
 #: (dynamic)
 msgid ""
@@ -242,10 +261,12 @@ msgid ""
 "la ciudad facilitan el acceso a Vigo por autopista desde Madrid, Santiago, A "
 "Coruña y Oporto."
 msgstr ""
+"The most common way to get to Vigo is by car. Well connected, you can get to"
+" Vigo by highway from Madrid, Santiago, A Coruña and Porto."
 
 #: (dynamic)
 msgid "Hay tres vías principales de entrada por autopista:"
-msgstr ""
+msgstr "There are three main entries by highway:"
 
 #: (dynamic)
 msgid ""
@@ -254,6 +275,10 @@ msgid ""
 "que une Oporto, Lisboa y Braga con la frontera española, y después la AP-9 y "
 "la A-55, que le llevarán directamente al centro de Vigo."
 msgstr ""
+"Autovía del Noroeste (A-6) and Autovía das Rías Baixas (A-52) connect Vigo to"
+" Madrid. From Portugal take the A-3 highway, which connects Porto, Lisbon and"
+" Braga with the Spanish border, and then take AP-9 followed by A-55, and you"
+" will arrive at the city center of Vigo."
 
 #: (dynamic)
 msgid ""
@@ -262,14 +287,17 @@ msgid ""
 "de autobuses se encuentra en el centro de la ciudad, en la calle Travesía de "
 "Vigo."
 msgstr ""
+"You can also get to Vigo by bus. There are direct bus lines from Madrid,"
+" Barcelona and many other Spanish cities. The bus station is in the city"
+" center."
 
 #: (dynamic)
 msgid "Más informacion en los siguientes enlaces:"
-msgstr ""
+msgstr "More information in the following links:"
 
 #: (dynamic)
 msgid "Cómo desplazarse"
-msgstr ""
+msgstr "How to get around"
 
 #: (dynamic)
 msgid ""
@@ -278,26 +306,33 @@ msgid ""
 "Hoy en día, hay muchas escaleras mecánicas y ascensores que te ayudarán con "
 "eso."
 msgstr ""
+"Vigo is a small city and you can walk almost everywhere. However, mind that"
+" Vigo is famous for its slops (get ready to go up and down!). Nowadays there"
+" are many mechanic stairs and elevators to help you out."
 
 #: (dynamic)
 msgid ""
 "Para moverte por Vigo y si quieres ir a las playas cercanas, la mejor opción "
 "es el transporte público, autobús o taxi"
 msgstr ""
+"To get around Vigo and, if you wish, nearby beaches, the best option is"
+" public transport, either bus or taxi."
 
 #: (dynamic)
 msgid "Autobus"
-msgstr ""
+msgstr "Bus"
 
 #: (dynamic)
 msgid ""
 "Vitrasa es el autobús urbano público de Vigo. Puedes utilizar las siguientes "
 "aplicaciones o webs para planificar tu viaje y estar informado:"
 msgstr ""
+"Vitrasa is the name of the public urban bus of Vigo. You can use the"
+" following apps or websites to plan your trip and find up-to-date information:"
 
 #: (dynamic)
 msgid "Taxi"
-msgstr ""
+msgstr "Taxi"
 
 #: (dynamic)
 msgid ""
@@ -305,10 +340,13 @@ msgid ""
 "Vigo. Es una opción muy cómoda para moverse por el centro de Vigo y sus "
 "barrios. Tienen tarifas razonables y te permitirán desplazarte rápidamente."
 msgstr ""
+"If you prefer more flexibility, it should be easy to find a taxi in Vigo. It"
+" is a very convenient to get around the city center and outer neighborhoods."
+" Prices are reasonable, and you will get around pretty quickly."
 
 #: (dynamic)
 msgid "Patrocinios"
-msgstr ""
+msgstr "Sponsorships"
 
 #: (dynamic)
 msgid ""
@@ -316,24 +354,29 @@ msgid ""
 "desarrollo software con Python? No lo dudes y ponte ya mismo en contacto con "
 "la organización escribiendo al correo"
 msgstr ""
+"Would you like to sponsor the next edition of the most important event about"
+" software development with Python? Contact the organization right now by"
+" email at"
 
 #: (dynamic)
 msgid ""
 "Para conocer todas las ventajas que te ofrecen nuestros distintos niveles de "
 "patrocinio puedes descargar el folleto informativo:"
 msgstr ""
+"To know all the advantages that our different levels of sponsorship you can"
+" download the information brochure:"
 
 #: (dynamic)
 msgid "/static/dossier/2024ES - Dossier - PyConES Vigo - Patrocinadores.pdf"
-msgstr ""
+msgstr "/static/dossier/2024ES - Dossier - PyConES Vigo - Patrocinadores.pdf"
 
 #: (dynamic)
 msgid "Descargar dosier completo (ES)"
-msgstr ""
+msgstr "Download the full brochure (Spanish)"
 
 #: (dynamic)
 msgid "Descargar dosier resumido (ES)"
-msgstr ""
+msgstr "Download the summarized brochure (Spanish)"
 
 #: (dynamic)
 msgid "Preguntas Frecuentes"
@@ -877,6 +920,9 @@ msgid ""
 "nos dará la oportunidad de crear un planificación variada y ajustada a los "
 "tres días de conferencia."
 msgstr ""
+"If your workshops takes more or less time, tell the organization so that they"
+" can take it into account when designing the program. This will allow us to"
+" create a diverse program that fits into the three days of the conference."
 
 #: (dynamic)
 msgid "Valoramos mucho las propuestas:"
@@ -975,6 +1021,8 @@ msgid ""
 "Nuestro equipo está aquí para ayudarte. Si tienes alguna pregunta o "
 "sugerencia, no dudes en contactarnos en"
 msgstr ""
+"Our team is here to help you. If you have any question or feedback, contact"
+" us at"
 
 #: (dynamic)
 msgid ""
@@ -998,95 +1046,95 @@ msgstr "to get the latest updates!"
 
 #: (dynamic)
 msgid "Niveles"
-msgstr ""
+msgstr "Levels"
 
 #: (dynamic)
 msgid "Beneficios"
-msgstr ""
+msgstr "Advantages"
 
 #: (dynamic)
 msgid "Precio"
-msgstr ""
+msgstr "Price"
 
 #: (dynamic)
 msgid "Entradas incluídas"
-msgstr ""
+msgstr "Tickets included"
 
 #: (dynamic)
 msgid "Logo en web"
-msgstr ""
+msgstr "Logo on the website"
 
 #: (dynamic)
 msgid "Obsequio en welcome pack"
-msgstr ""
+msgstr "Gift in the welcome pack"
 
 #: (dynamic)
 msgid "Folleto en welcome pack"
-msgstr ""
+msgstr "Brochure in the welcome pack"
 
 #: (dynamic)
 msgid "Stand"
-msgstr ""
+msgstr "Stand"
 
 #: (dynamic)
 msgid "Add-ons"
-msgstr ""
+msgstr "Add-ons"
 
 #: (dynamic)
 msgid "Logo cartelería"
-msgstr ""
+msgstr "Logo on posters"
 
 #: (dynamic)
 msgid "Logo en pausas"
-msgstr ""
+msgstr "Logo during breaks"
 
 #: (dynamic)
 msgid "Publicación en redes sociales"
-msgstr ""
+msgstr "Posting on social networks"
 
 #: (dynamic)
 msgid "Ofertas de trabajo"
-msgstr ""
+msgstr "Job offers"
 
 #: (dynamic)
 msgid "Logo newsletter"
-msgstr ""
+msgstr "Logo on the newsletter"
 
 #: (dynamic)
 msgid "Charla patrocinada"
-msgstr ""
+msgstr "Sponsored talk"
 
 #: (dynamic)
 msgid "Agradecimiento en vivo"
-msgstr ""
+msgstr "Thanks live"
 
 #: (dynamic)
 msgid "Anuncio en programa"
-msgstr ""
+msgstr "Ad on the program"
 
 #: (dynamic)
 msgid "Nota de prensa"
-msgstr ""
+msgstr "Press release"
 
 #: (dynamic)
 msgid "Taller patrocinado"
-msgstr ""
+msgstr "Sponsored workshop"
 
 #: (dynamic)
 msgid "Sesión de contratación"
-msgstr ""
+msgstr "Hiring session"
 
 #: (dynamic)
 msgid "Video promocional"
-msgstr ""
+msgstr "Promotional video"
 
 #: (dynamic)
 msgid "2 veces al día"
-msgstr ""
+msgstr "Twice a day"
 
 #: (dynamic)
 msgid "1 vez en el fin de semana"
-msgstr ""
+msgstr "Once on the weekend"
 
 #: (dynamic)
 msgid ""
@@ -1094,16 +1142,19 @@ msgid ""
 "organización se reserva el derecho de modificar dicha cantidad a "
 "conveniencia, siempre velando por los intereses de la conferencia."
 msgstr ""
+"The number of sponsorships is limited (except Cortegada level). The"
+" organization reserves the right to modify this amount as appropriate, always"
+" in the interest of the conference."
 
 #: (dynamic)
 msgid "Las medidas del stand son orientativas."
-msgstr ""
+msgstr "The measurements of the stand are indicative."
 
 #: (dynamic)
 msgid ""
 "Aparición en soportes físicos impresos supeditada a la producción de los "
 "mismos."
-msgstr ""
+msgstr "Appearance on physical printed media subject to its production."
 
 #: (dynamic)
 msgid ""
@@ -1111,12 +1162,16 @@ msgid ""
 "Las entradas solo se otorgan si se imparten la charla y el taller, "
 "respectivamente."
 msgstr ""
+"2 tickets, one for the sponsored talk and one for the sponsored workshop."
+" Tickets are only granted if the talk and workshop are given, respectively."
 
 #: (dynamic)
 msgid ""
 "1 entrada por la charla patrocinada. La entrada solo se otorga si se imparte "
 "la charla."
 msgstr ""
+"1 ticket for the sponsored talk. The ticket is only granted if the talk is"
+" given."
 
 #: templates/cfp.html:146
 msgid ""
@@ -1130,7 +1185,7 @@ msgstr ""
 msgid ""
 "Para obtener información actualizada, le recomendamos que visite la página "
 "web de "
-msgstr ""
+msgstr "For up-to-date information, visit the website of "
 
 #: templates/city.html:109
 msgid ""
@@ -1139,10 +1194,13 @@ msgid ""
 "de autobuses se encuentra en el centro de la ciudad, en la calle Travesía de "
 "Vigo. "
 msgstr ""
+"You can also get to Vigo by bus. There are direct bus lines from Madrid,"
+" Barcelona and many other Spanish cities. The bus station is in the city"
+" center. "
 
 #: templates/city.html:115
 msgid "Más informacion en los siguientes enlaces: "
-msgstr ""
+msgstr "More information in the following links: "
 
 #: templates/code_conduct.html:171
 msgid ""
@@ -1200,3 +1258,4 @@ msgstr "For other spaces or alternatively, contact the Board of Directors at"
 #~ msgstr ""
 #~ "ágina web de la PyConES 2024 en Vigo, Galicia. La conferencia de Python "
 #~ "más importante de España."
+
