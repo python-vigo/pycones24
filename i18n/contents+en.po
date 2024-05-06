@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: pycones 24\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-05-06 21:49+CET\n"
-"PO-Revision-Date: 2024-05-06 21:42+0200\n"
+"PO-Revision-Date: 2024-05-06 21:51+0200\n"
 "Last-Translator: Adrián Chaves (Gallaecio) <adrian@chaves.io>\n"
 "Language-Team: Proxecto Trasno (proxecto@trasno.gal)\n"
 "Language: en\n"
@@ -258,11 +258,11 @@ msgstr "Download the summarized brochure (Spanish)"
 
 #: (dynamic)
 msgid "Anterior"
-msgstr ""
+msgstr "Previous"
 
 #: (dynamic)
 msgid "Siguiente"
-msgstr ""
+msgstr "Next"
 
 #: (dynamic)
 msgid "Niveles"
@@ -613,7 +613,7 @@ msgstr "Call for Papers (CfP)"
 
 #: (dynamic)
 msgid "Ciudad"
-msgstr ""
+msgstr "City"
 
 #: (dynamic)
 msgid ""
@@ -1270,3 +1270,4 @@ msgstr "For other spaces or alternatively, contact the Board of Directors at"
 #~ msgstr ""
 #~ "ágina web de la PyConES 2024 en Vigo, Galicia. La conferencia de Python "
 #~ "más importante de España."
+

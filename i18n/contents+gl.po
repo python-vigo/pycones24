@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: pycones 24\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-05-06 21:49+CET\n"
-"PO-Revision-Date: 2024-05-06 21:03+0200\n"
+"PO-Revision-Date: 2024-05-06 21:50+0200\n"
 "Last-Translator: Adrián Chaves (Gallaecio) <adrian@chaves.io>\n"
 "Language-Team: Proxecto Trasno (proxecto@trasno.gal)\n"
 "Language: gl\n"
@@ -261,11 +261,11 @@ msgstr "Descargar o dosier resumido (castelán)"
 
 #: (dynamic)
 msgid "Anterior"
-msgstr ""
+msgstr "Anterior"
 
 #: (dynamic)
 msgid "Siguiente"
-msgstr ""
+msgstr "Seguinte"
 
 #: (dynamic)
 msgid "Niveles"
@@ -620,7 +620,7 @@ msgstr "Convocatoria de propostas (CfP)"
 
 #: (dynamic)
 msgid "Ciudad"
-msgstr ""
+msgstr "Cidade"
 
 #: (dynamic)
 msgid ""
@@ -1284,3 +1284,4 @@ msgstr ""
 
 #~ msgid "Apertura para el envió de ponencias/charlas"
 #~ msgstr "Apertura para o envío de ponencias/charlas"
+

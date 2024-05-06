@@ -5,8 +5,28 @@ content.blocks: hoa
 my_list.blocks.fields.text:
 
 hola
+Project-Id-Version: pycones 24
+Report-Msgid-Bugs-To: 
+PO-Revision-Date: 2024-03-11 00:54+CET
+Last-Translator: Automatically generated
+Language-Team: none
+Language: es
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+Plural-Forms: nplurals=2; plural=(n != 1);
 
 ---
 _hidden: no
+Project-Id-Version: pycones 24
+Report-Msgid-Bugs-To: 
+PO-Revision-Date: 2024-03-11 00:54+CET
+Last-Translator: Automatically generated
+Language-Team: none
+Language: es
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+Plural-Forms: nplurals=2; plural=(n != 1);
 ---
 _template: previous_editions/previous_editions.html
