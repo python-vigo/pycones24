@@ -1270,4 +1270,3 @@ msgstr "For other spaces or alternatively, contact the Board of Directors at"
 #~ msgstr ""
 #~ "ágina web de la PyConES 2024 en Vigo, Galicia. La conferencia de Python "
 #~ "más importante de España."
-

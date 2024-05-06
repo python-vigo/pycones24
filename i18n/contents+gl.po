@@ -1284,4 +1284,3 @@ msgstr ""
 
 #~ msgid "Apertura para el envió de ponencias/charlas"
 #~ msgstr "Apertura para o envío de ponencias/charlas"
-
