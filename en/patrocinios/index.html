@@ -1,5 +1,6 @@
 
 
+
 <!doctype html>
 <html lang="en">
   <head>
@@ -22,7 +23,7 @@
     <meta name="google-site-verification" content="ggr-BOSKTnIjcxjkkreUx5oqxBWojqS-iDhnE8ovQAk" />
     <script src="../../static/js/htmx.min.js"></script>
   </head>
-  <body data-hx-boost="true" class="flex flex-col min-h-screen">
+  <body class="flex flex-col min-h-screen">
     
     <header class="mt-0 bg-primary">
       
@@ -88,6 +89,84 @@
                     Descargar dosier resumido (ES)
                 </a>
             </div>
+            <section>
+                
+<section id="default-carousel" class="flex justify-center" data-carousel="slide">
+    <button type="button"
+    class="relative left-16 z-30 px-4 cursor-pointer focus:outline-none group"
+    data-carousel-prev>
+    <span class="inline-flex justify-center items-center w-10 h-10 bg-white rounded-full group-focus:outline-none">
+        <svg class="w-4 h-4 text-primary rtl:rotate-180" aria-hidden="true" xmlns="http://www.w3.org/2000/svg"
+            fill="none" viewBox="0 0 6 10">
+            <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                d="M5 1 1 5l4 4" />
+        </svg>
+        <span class="sr-only">Anterior</span>
+    </span>
+    </button>
+    
+    <figure data-carousel-item class="block">
+        <img id="carousel-image-1" src="../../patrocinios/z8a6000.jpg" alt="...">
+    </figure>
+    
+    <figure data-carousel-item class="hidden">
+        <img id="carousel-image-2" src="../../patrocinios/z8a6318.jpg" alt="...">
+    </figure>
+    
+    <figure data-carousel-item class="hidden">
+        <img id="carousel-image-3" src="../../patrocinios/z8a5415.jpg" alt="...">
+    </figure>
+    
+    <figure data-carousel-item class="hidden">
+        <img id="carousel-image-4" src="../../patrocinios/z8a5320.jpg" alt="...">
+    </figure>
+    
+    <figure data-carousel-item class="hidden">
+        <img id="carousel-image-5" src="../../patrocinios/z8a4981.jpg" alt="...">
+    </figure>
+    
+    <button type="button" class="relative right-16 z-30 px-4 cursor-pointer focus:outline-none group"
+        data-carousel-next>
+        <span class="inline-flex justify-center items-center w-10 h-10 bg-white rounded-full group-focus:outline-none">
+            <svg class="w-4 h-4 text-primary rtl:rotate-180" aria-hidden="true" xmlns="http://www.w3.org/2000/svg"
+                fill="none" viewBox="0 0 6 10">
+                <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                    d="m1 9 4-4-4-4" />
+            </svg>
+            <span class="sr-only">Siguiente</span>
+        </span>
+    </button>
+</section>
+<script>
+    class Carousel {
+        currentPosition = 0
+
+        constructor(images) {
+            this.images = images
+        }
+
+        previous() {
+            this.images[this.currentPosition].classList.replace("block", "hidden")
+            this.currentPosition = (--this.currentPosition > 0) ? this.currentPosition : (this.images.length - 1)
+            this.images[this.currentPosition].classList.replace("hidden", "block")
+        }
+
+        next() {
+            this.images[this.currentPosition].classList.replace("block", "hidden")
+            this.currentPosition = (++this.currentPosition < this.images.length) ? this.currentPosition : 0
+            this.images[this.currentPosition].classList.replace("hidden", "block")
+        }
+
+    }
+
+    document.addEventListener('DOMContentLoaded', function () {
+        let carousel = new Carousel(document.querySelectorAll('[data-carousel-item]'))
+        document.querySelector('[data-carousel-prev]').onclick = carousel.previous.bind(carousel)
+        document.querySelector('[data-carousel-next]').onclick = carousel.next.bind(carousel)
+    });
+</script>
+
+            </section>
             <table class="mt-5 w-full border border-white table-auto">
                 <thead class="text-white">
                     <tr style="background-color: #E30613; opacity: 0.5;" class="border-white">
