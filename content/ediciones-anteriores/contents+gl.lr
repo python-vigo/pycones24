@@ -7,7 +7,7 @@ my_list.blocks.fields.text:
 hola
 Project-Id-Version: pycones 24
 Report-Msgid-Bugs-To: 
-PO-Revision-Date: 2024-04-25 22:19+0200
+PO-Revision-Date: 2024-05-06 21:03+0200
 Last-Translator: Adrián Chaves (Gallaecio) <adrian@chaves.io>
 Language-Team: Proxecto Trasno (proxecto@trasno.gal)
 Language: gl
@@ -15,13 +15,13 @@ MIME-Version: 1.0
 Content-Type: text/plain; charset=UTF-8
 Content-Transfer-Encoding: 8bit
 Plural-Forms: nplurals=2; plural=n != 1;
-X-Generator: Poedit 3.4.2
+X-Generator: Lokalize 24.02.2
 
 ---
 _hidden: no
 Project-Id-Version: pycones 24
 Report-Msgid-Bugs-To: 
-PO-Revision-Date: 2024-04-25 22:19+0200
+PO-Revision-Date: 2024-05-06 21:03+0200
 Last-Translator: Adrián Chaves (Gallaecio) <adrian@chaves.io>
 Language-Team: Proxecto Trasno (proxecto@trasno.gal)
 Language: gl
@@ -29,6 +29,6 @@ MIME-Version: 1.0
 Content-Type: text/plain; charset=UTF-8
 Content-Transfer-Encoding: 8bit
 Plural-Forms: nplurals=2; plural=n != 1;
-X-Generator: Poedit 3.4.2
+X-Generator: Lokalize 24.02.2
 ---
 _template: previous_editions/previous_editions.html
