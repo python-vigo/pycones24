@@ -2,6 +2,7 @@ name: Deploy
 on: workflow_dispatch
 env:
   OUTPUT: build
+  LANG: es_ES.UTF-8
 jobs:
   build:
     name: Build lektor website
@@ -23,7 +24,7 @@ jobs:
       - name: Build lektor website
         run: |
           source .venv/bin/activate
-          LANG=es_ES.UTF-8 lektor build -f webpack -O '${{ env.OUTPUT }}'
+          lektor build -f webpack -O '${{ env.OUTPUT }}'
       - name: Deploy lektor website
         run: |
           source .venv/bin/activate
