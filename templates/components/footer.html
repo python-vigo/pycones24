@@ -1,6 +1,6 @@
 {% from "macros/load_icon.html" import load_icon %}
 
-<footer class="flex flex-col gap-12 justify-around py-6 px-5 md:flex-row bg-secondary">
+<footer class="flex flex-col justify-around gap-12 px-5 py-6 md:flex-row bg-secondary">
     <nav class="text-xl text-white md:text-lg">
         <ul class="grid grid-cols-1 gap-5 md:grid-cols-2 lg:grid-cols-5">
             <li>
@@ -14,28 +14,64 @@
     <div>
         <ul class="grid grid-cols-6 gap-3 md:gap-5">
             <li>
-                <a href="mailto:contacto@2024.es.pycon.org" target="_blank" class="hover:opacity-70 fill-white">{{
-                    load_icon("icons/rrss-email-icon.html", "w-5") }}</a>
+                <a
+                  href="mailto:contacto@2024.es.pycon.org"
+                  target="_blank"
+                  aria-label={{ _("Envíanos un correo electrónico") }}
+                  class="hover:opacity-70 fill-white"
+                >
+                    {{ load_icon("icons/rrss-email-icon.html", "w-5") }}
+               </a>
             </li>
             <li>
-                <a href="https://es.linkedin.com/company/python-espa%C3%B1a" target="_blank" class="w-2 hover:opacity-70 fill-white">{{
-                    load_icon("icons/rrss-linkedin-icon.html", "w-5") }}</a>
+                <a
+                  href="https://es.linkedin.com/company/python-espa%C3%B1a"
+                  target="_blank"
+                  aria-label={{ _("Síguenos en Linkedin") }}
+                  class="w-2 hover:opacity-70 fill-white"
+                >
+                    {{ load_icon("icons/rrss-linkedin-icon.html", "w-5") }}
+                </a>
             </li>
             <li>
-                <a href="https://fosstodon.org/@pycones" target="_blank" class="w-6 hover:opacity-70 fill-white">{{
-                    load_icon("icons/rrss-mastodon-icon.html", "w-5") }}</a>
+                <a
+                  href="https://fosstodon.org/@pycones"
+                  target="_blank"
+                  aria-label={{ _("Síguenos en Mastodon") }}
+                  class="w-6 hover:opacity-70 fill-white"
+                >
+                    {{ load_icon("icons/rrss-mastodon-icon.html", "w-5") }}
+                </a>
             </li>
             <li>
-                <a href="https://twitter.com/PyConES" target="_blank" class="w-6 hover:opacity-70 fill-white">{{
-                    load_icon("icons/rrss-twitter-icon.html", "w-5") }}</a>
+                <a
+                  href="https://twitter.com/PyConES"
+                  target="_blank"
+                  aria-label={{ _("Síguenos en Twitter") }}
+                  class="w-6 hover:opacity-70 fill-white"
+                >
+                    {{ load_icon("icons/rrss-twitter-icon.html", "w-5") }}
+                </a>
             </li>
             <li>
-                <a href="https://instagram.com/pycon_es" target="_blank" class="w-6 hover:opacity-70 fill-white">{{
-                    load_icon("icons/rrss-instagram-icon.html", "w-5") }}</a>
+                <a
+                  href="https://instagram.com/pycon_es"
+                  target="_blank"
+                  aria-label={{ _("Síguenos en Instagram") }}
+                  class="w-6 hover:opacity-70 fill-white"
+                >
+                    {{ load_icon("icons/rrss-instagram-icon.html", "w-5") }}
+                </a>
             </li>
             <li>
-                <a href="https://www.youtube.com/@PythonES" target="_blank" class="w-6 hover:opacity-70 fill-white">{{
-                    load_icon("icons/rrss-youtube-icon.html", "w-5") }}</a>
+                <a
+                  href="https://www.youtube.com/@PythonES"
+                  target="_blank"
+                  aria-label={{ _("Síguenos en Youtube") }}
+                  class="w-6 hover:opacity-70 fill-white"
+                >
+                  {{ load_icon("icons/rrss-youtube-icon.html", "w-5") }}
+                </a>
             </li>
         </ul>
     </div>
