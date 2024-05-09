@@ -1,13 +1,13 @@
 {% from "macros/logo.html" import render_logo %}
 
-<nav class="flex justify-center items-center py-4 mx-auto w-11/12 md:justify-around">
+<nav class="flex items-center justify-center w-11/12 py-4 mx-auto md:justify-around">
   <a href="{{ '/'|url }}" class="cursor-pointer">
     <figure>
       {{ render_logo('white') }}
     </figure>
   </a>
 
-  <div class="flex gap-x-10 items-center">
+  <div class="flex items-center gap-x-10">
     <a href="{{ '/'|url }}" class="hidden text-lg font-bold text-white lg:block hover:underline">
       {{ _("Inicio") }}
     </a>
@@ -18,7 +18,7 @@
       {{ _("FAQ") }}
     </a>
     <a href="https://pretix.eu/python-spain/"
-      class="hidden py-1 px-6 ml-auto text-lg font-bold text-center text-white bg-transparent rounded border-2 md:block hover:bg-white bg-primary hover:text-primary">
+      class="hidden px-6 py-1 ml-auto text-lg font-bold text-center text-white bg-transparent border-2 rounded md:block hover:bg-white bg-primary hover:text-primary">
       {{ _("Entradas") }}
     </a>
     <a href="{{ '/menu'|url }}" data-hx-push-url="false">
@@ -28,7 +28,11 @@
       <form
         class="mx-auto"
       >
-      <select class="text-white bg-transparent *:active:bg-gray-50 *:active:text-black *:dark:active:bg-gray-700 *:dark:active:text-white text-lg" onchange="location = this.options[this.selectedIndex].value;">
+      <select
+        aria-label="{{ _("Selecciona idioma") }}"
+        class="text-white bg-transparent *:active:bg-gray-50 *:active:text-black *:dark:active:bg-gray-700 *:dark:active:text-white text-lg"
+        onchange="location = this.options[this.selectedIndex].value;"
+      >
         <option value="{{ '.'|url(alt='es') }}" {% if this.alt == 'es' %}selected{% endif %}>ES</option>
         <option value="{{ '.'|url(alt='en') }}" {% if this.alt == 'en' %}selected{% endif %}>EN</option>
         <option value="{{ '.'|url(alt='gl') }}" {% if this.alt == 'gl' %}selected{% endif %}>GAL</option>
