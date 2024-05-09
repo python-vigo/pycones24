@@ -24,6 +24,7 @@ jobs:
       - name: Build lektor website
         run: |
           source .venv/bin/activate
+          locale
           lektor build -f webpack -O '${{ env.OUTPUT }}'
       - name: Deploy lektor website
         run: |
