@@ -1,0 +1,5 @@
+#!/bin/bash
+sed -i -e'/POT-Creation-Date:/d' i18n/contents+en.po i18n/contents+es.po i18n/contents+gl.po
+msgattrib --sort-output --no-location --no-obsolete --no-wrap i18n/contents+es.po --output i18n/contents+es.po
+msgattrib --sort-output --no-location --no-obsolete --no-wrap i18n/contents+gl.po --output i18n/contents+gl.po
+msgattrib --sort-output --no-location --no-obsolete --no-wrap i18n/contents+en.po --output i18n/contents+en.po
