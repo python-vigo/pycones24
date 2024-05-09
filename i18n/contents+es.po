@@ -92,6 +92,9 @@ msgstr ""
 msgid "Autobus"
 msgstr ""
 
+msgid "Becas"
+msgstr ""
+
 msgid "Beneficios"
 msgstr ""
 
@@ -122,6 +125,9 @@ msgstr ""
 msgid "Comunidad, sociedad y cultura"
 msgstr ""
 
+msgid "Con las becas, tenemos el objetivo de eliminar las barreras económicas, facilitando la participación de aquellos que podrían enfrentar dificultades financieras para asistir al evento."
+msgstr ""
+
 msgid "Con un enfoque social"
 msgstr ""
 
@@ -129,6 +135,9 @@ msgid "Consideraciones adicionales"
 msgstr ""
 
 msgid "Construye un clima de confianza, donde si alguien quiere reportar un incidente, sabrá que no empezaremos por cuestionarle (victim blaming)."
+msgstr ""
+
+msgid "Contamos con un Código de Conducta para garantizar un ambiente respetuoso y seguro para todas las personas asistentes. Pueden consultarlo en el siguiente enlace: "
 msgstr ""
 
 msgid "Contexto de tu charla o problema"
@@ -149,6 +158,9 @@ msgstr ""
 msgid "Código conducta"
 msgstr ""
 
+msgid "Código de Conducta."
+msgstr ""
+
 msgid "Código de conducta"
 msgstr ""
 
@@ -167,6 +179,9 @@ msgstr ""
 msgid "Demostrar empatía y amabilidad ante otras personas. No insultes o humilles a otros asistentes. Recuerda que las bromas sexistas, racistas o discriminatorias no son apropiadas. Nunca lo son."
 msgstr ""
 
+msgid "Dentro del <a href=\"https://pretalx.com/pycones-2024/\" target=\"_blank\" class=\"text-primary hover:text-secondary\">enlace</a> encontrarás las instrucciones (En Inglés y Español) y luego podrás comenzar a rellenar el formulario para enviar tu propuesta."
+msgstr ""
+
 msgid "Denuncia e información de contacto"
 msgstr ""
 
@@ -179,7 +194,13 @@ msgstr ""
 msgid "Descargar dosier resumido (ES)"
 msgstr ""
 
+msgid "Desde el equipo Organizador: Python Vigo, Python España y personas voluntarias de PyConEs24 secundamos el manifiesto de la PSF[¹] y valoramos la diversidad en todas sus formas y creemos que la inclusión de diferentes perspectivas enriquece nuestra comunidad y mejora nuestro campo. Seguiremos esforzándonos por promover la diversidad y garantizar que todas las personas se sientan bienvenidas y representadas en nuestra conferencia."
+msgstr ""
+
 msgid "DevOps / Administración de sistemas / Scripts de automatización"
+msgstr ""
+
+msgid "Diversidad y becas"
 msgstr ""
 
 msgid "Ediciones anteriores"
@@ -197,10 +218,16 @@ msgstr ""
 msgid "El Aeropuerto de Vigo, Peinador, es el aeropuerto del sur de Galicia y está a solo 20 minutos del centro de la ciudad."
 msgstr ""
 
+msgid "El Aeropuerto de Vigo, Peinador, es el aeropuerto más cercano, a solo 20 minutos del centro de la ciudad. Más información en la sección <a href=\"https://2024.es.pycon.org/ciudad/\" class=\"text-primary hover:text-secondary\">Ciudad</a>."
+msgstr ""
+
 msgid "El acoso en público o privado"
 msgstr ""
 
 msgid "El uso de lenguaje o imágenes sexualizadas, y aproximaciones o atenciones sexuales de cualquier tipo"
+msgstr ""
+
+msgid "En PyConEs 2024, nos comprometemos a promover la diversidad e inclusión en nuestra conferencia. Creemos firmemente en la importancia de crear un entorno inclusivo y respetuoso que fomente la participación de todas las personas, sin importar su raza, etnia, género, edad, habilidades, religión u orientación sexual. También nos preocupamos por brindar un entorno inclusivo para aquellos que tienen responsabilidades parentales."
 msgstr ""
 
 msgid "En Telegram, a la persona propietaria del grupo u otras administradoras."
@@ -215,9 +242,6 @@ msgstr ""
 msgid "En el corazón de las Rías Baixas, Vigo es la mayor ciudad de Galicia. Originalmente un pueblo de pescadores, ahora es conocida como la “Puerta del Atlántico”. Es una ciudad con una gran oferta cultural y gastronómica, con una amplia variedad de restaurantes y bares donde degustar algunos de los mejores mariscos del mundo."
 msgstr ""
 
-msgid "En el foro de Discourse puedes denunciar publicaciones individuales o contactar con el"
-msgstr ""
-
 msgid "En el foro de Discourse puedes denunciar publicaciones individuales o contactar con el "
 msgstr ""
 
@@ -225,6 +249,9 @@ msgid "En tren"
 msgstr ""
 
 msgid "Entradas"
+msgstr ""
+
+msgid "Entradas de diversidad"
 msgstr ""
 
 msgid "Entradas incluídas"
@@ -314,7 +341,7 @@ msgstr ""
 msgid "Las medidas del stand son orientativas."
 msgstr ""
 
-msgid "Las ponencias principales, apertura y cierre del evento serán en Español, de todas formas, todas las personas de la organización hablan Español e Inglés, en caso que de que personas que asistan necesiten información en uno de los dos idiomas."
+msgid "Las ponencias principales, apertura y cierre del evento serán en Español, de todas formas, todas las personas de la organización hablan Español e Inglés, en caso de que personas que asistan necesiten información en uno de los dos idiomas."
 msgstr ""
 
 msgid "Llegar a Vigo es muy fácil: desde Madrid, A Coruña, Santiago de Compostela o el norte de Portugal se puede llegar directamente al centro de la ciudad. Vigo está comunicada por carretera y tren con Madrid y otras urbes como Bilbao. Además, el aeropuerto de Peinador está conectado con las ciudades españolas más importantes y con varios destinos internacionales."
@@ -338,6 +365,12 @@ msgstr ""
 msgid "Los casos de comportamiento abusivo, acosador o inaceptable de otro modo podrán ser denunciados a las personas administradoras de la comunidad responsables del cumplimiento:"
 msgstr ""
 
+msgid "Luego de enviar tu propuesta, tendrás la posibilidad de Editarla, así que no te preocupes si tienes que hacer cambios luego de enviarla."
+msgstr ""
+
+msgid "Luego de seleccionar un plan de patrocinio, podrás elegir adicionalmente elementos para apoyar la conferencia de forma independiente, como por ejemplo, “Entrevistas” o “Sala de lactancia”. Eso quiere decir que estarás apoyando a la conferencia pagando el plan que hayas elegido, más estos elementos independientes (con cupos limitados) para actividades específicas."
+msgstr ""
+
 msgid "Machine learning e inteligencia artificial"
 msgstr ""
 
@@ -353,7 +386,7 @@ msgstr ""
 msgid "Más informacion en los siguientes enlaces:"
 msgstr ""
 
-msgid "Más informacion en los siguientes enlaces: "
+msgid "Más información en la sección de <a href=\"https://2024.es.pycon.org/patrocinios/\" class=\"mt-1 text-primary hover:text-secondary\">patrocinios</a>."
 msgstr ""
 
 msgid "Niveles"
@@ -366,9 +399,6 @@ msgid "Nos vemos en Vigo!"
 msgstr ""
 
 msgid "Nota de prensa"
-msgstr ""
-
-msgid "Nuestro equipo está aquí para ayudarte. Si tienes alguna pregunta o sugerencia, no dudes en contactarnos en"
 msgstr ""
 
 msgid "Nuestro equipo está aquí para ayudarte. Si tienes alguna pregunta o sugerencia, no dudes en contactarnos en "
@@ -389,6 +419,9 @@ msgstr ""
 msgid "Ofertas de trabajo"
 msgstr ""
 
+msgid "Ofrecemos oportunidades para mujeres y personas LGTBQ+ con circunstancias particulares, brindándoles la posibilidad de asistir a PyConES."
+msgstr ""
+
 msgid "Os damos la bienvenida a la <strong>PyConES</strong>, la <strong>conferencia de Python más importante de España.</strong>"
 msgstr ""
 
@@ -398,19 +431,24 @@ msgstr ""
 msgid "Otros aeropuertos cercanos"
 msgstr ""
 
+msgid ""
+"Otros aeropuertos cercanos:\n"
+"<ul class=\"ml-8 list-disc text-secondary\">\n"
+"  <li>Aeropuerto de Santiago-Rosalía de Castro (approx. 100 km.)</li>\n"
+"  <li>Aeropuerto de Porto - Portugal (approx. 150 km.)</li>\n"
+"<ul>"
+msgstr ""
+
 msgid "Para conocer todas las ventajas que te ofrecen nuestros distintos niveles de patrocinio puedes descargar el folleto informativo:"
+msgstr ""
+
+msgid "Para garantizar la diversidad en nuestra conferencia, hemos implementado diversas iniciativas, algunas de las cuales incluyen:"
 msgstr ""
 
 msgid "Para moverte por Vigo y si quieres ir a las playas cercanas, la mejor opción es el transporte público, autobús o taxi"
 msgstr ""
 
-msgid "Para obtener información actualizada, le recomendamos que visite la página web de"
-msgstr ""
-
 msgid "Para obtener información actualizada, le recomendamos que visite la página web de "
-msgstr ""
-
-msgid "Para otros espacios o de forma alternativa, ponte en contacto con la Junta Directiva en"
 msgstr ""
 
 msgid "Para otros espacios o de forma alternativa, ponte en contacto con la Junta Directiva en "
@@ -488,7 +526,23 @@ msgstr ""
 msgid "Se aceptan charlas con varias personas como ponentes"
 msgstr ""
 
+msgid "Se hará en el Auditorio Mar de Vigo, situado en primera línea de mar, frente a las Islas Cíes. <a href=\"https://auditoriomardevigo.com/localizacion/\" target=\"blank\" class=\"text-primary hover:text-secondary\">Más información</a>"
+msgstr ""
+
+msgid "Se otorgan a través de un proceso de solicitud activo hasta el XX de X: "
+msgstr ""
+
 msgid "Seguridad y redes"
+msgstr ""
+
+msgid ""
+"Según el plan elegido tendrías las siguientes entradas:\n"
+"<ul class=\"ml-8 list-disc mt-1 text-secondary\">\n"
+"  <li>Cíes: 6 entradas</li>\n"
+"  <li>Ons: 4 entradas</li>\n"
+"  <li>Sálvora: 2 entradas</li>\n"
+"  <li>Cortegada: 1 entrada</li>\n"
+"</ul>"
 msgstr ""
 
 msgid "Sesión de contratación"
@@ -515,10 +569,19 @@ msgstr ""
 msgid "Si tu taller dura más o menos tiempo no dudes en comunicarlo a la organización para tenerlo en cuenta en la configuración del programa. Esto nos dará la oportunidad de crear un planificación variada y ajustada a los tres días de conferencia."
 msgstr ""
 
+msgid "Si visitas la sección <a href=\"https://2024.es.pycon.org/faq/\" class=\"text-primary hover:text-secondary\">Convocatoria de Propuestas</a> encontrarás instrucciones para crear tu Abstract y también un enlace a la plataforma donde se envían las propuestas, pretalx."
+msgstr ""
+
 msgid "Siguiendo con el zen de Python, explícito mejor que implícito. Explicitar qué se espera del ambiente en cualquier evento de Python España:"
 msgstr ""
 
 msgid "Siguiente"
+msgstr ""
+
+msgid "Solicitar beca"
+msgstr ""
+
+msgid "Solicitar entrada diversidad"
 msgstr ""
 
 msgid "Soy Ponente, ¿tengo que comprar la entrada?"
@@ -539,9 +602,6 @@ msgstr ""
 msgid "También puede llegar a Vigo en autobús. Hay líneas de autobús directas a Vigo desde Madrid, Barcelona y muchas otras ciudades españolas. La estación de autobuses se encuentra en el centro de la ciudad, en la calle Travesía de Vigo."
 msgstr ""
 
-msgid "También puede llegar a Vigo en autobús. Hay líneas de autobús directas a Vigo desde Madrid, Barcelona y muchas otras ciudades españolas. La estación de autobuses se encuentra en el centro de la ciudad, en la calle Travesía de Vigo. "
-msgstr ""
-
 msgid "Taxi"
 msgstr ""
 
@@ -549,6 +609,9 @@ msgid "Te notificaremos tanto si tu propuesta es aceptada, como si no lo es"
 msgstr ""
 
 msgid "Temáticas"
+msgstr ""
+
+msgid "Ten en cuenta, se necesita elegir un plan de patrocinio antes de elegir los Add-ons, desde el más simple (Cortegada) hasta el más completo (Cíes)."
 msgstr ""
 
 msgid "Tipos de propuestas"
@@ -603,6 +666,12 @@ msgid "versión en español del Contributor Covenant 2.0"
 msgstr ""
 
 msgid "¡Empieza el espectáculo!"
+msgstr ""
+
+msgid "¡Quiero solicitar una beca!"
+msgstr ""
+
+msgid "¡Quiero solicitar una entrada de diversidad!"
 msgstr ""
 
 msgid "¡Y muchos más!"
