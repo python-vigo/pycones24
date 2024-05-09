@@ -1,0 +1,23 @@
+title: ¿Qué Aeropuerto es más cercano a la conferencia?
+---
+_template: faq/faq_item.html
+---
+description: El Aeropuerto de Vigo, Peinador, es el aeropuerto más cercano, a solo 20 minutos del centro de la ciudad. Más información en la sección <a href="https://2024.es.pycon.org/ciudad/" class="text-primary hover:text-secondary">Ciudad</a>.
+---
+secondary_description:
+
+Otros aeropuertos cercanos: 
+<ul class="ml-8 list-disc text-secondary">
+  <li>Aeropuerto de Santiago-Rosalía de Castro (approx. 100 km.) </li>
+  <li>Aeropuerto de Porto - Portugal (approx. 150 km.)</li>
+<ul>
+Project-Id-Version: pycones 24
+Report-Msgid-Bugs-To: 
+PO-Revision-Date: 2024-03-11 00:54+CET
+Last-Translator: Automatically generated
+Language-Team: none
+Language: es
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+Plural-Forms: nplurals=2; plural=(n != 1);

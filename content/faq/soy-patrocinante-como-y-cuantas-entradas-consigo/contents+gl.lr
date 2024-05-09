@@ -1,0 +1,26 @@
+title: Soy patrocinante ¿Cómo y Cuántas entradas consigo?"
+---
+_template: faq/faq_item.html
+---
+description:
+
+Según el plan elegido tendrías las siguientes entradas:
+<ul class="ml-8 list-disc mt-1 text-secondary">
+  <li>Cíes: 6 entradas</li>
+  <li>Ons: 4 entradas</li>
+  <li>Sálvora: 2 entradas</li>
+  <li>Cortegada: 1 entrada</li>
+</ul>
+---
+secondary_description: Más información en la sección de <a href="https://2024.es.pycon.org/patrocinios/" class="mt-1 text-primary hover:text-secondary">patrocinios</a>.
+Project-Id-Version: pycones 24
+Report-Msgid-Bugs-To: 
+PO-Revision-Date: 2024-05-06 21:50+0200
+Last-Translator: Adrián Chaves (Gallaecio) <adrian@chaves.io>
+Language-Team: Proxecto Trasno (proxecto@trasno.gal)
+Language: gl
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+Plural-Forms: nplurals=2; plural=n != 1;
+X-Generator: Lokalize 24.02.2

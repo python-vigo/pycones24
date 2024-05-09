@@ -1,10 +1,12 @@
-_model: previous_editions
+title: How can I submit a talk?
 ---
-content.blocks: hoa
+description: Si visitas la sección <a href="https://2024.es.pycon.org/faq/" class="text-primary hover:text-secondary">Convocatoria de Propuestas</a> encontrarás instrucciones para crear tu Abstract y también un enlace a la plataforma donde se envían las propuestas, pretalx.
 ---
-my_list.blocks.fields.text:
+_template: faq/faq_item.html
+---
+secondary_description:
 
-hola
+Dentro del <a href="https://pretalx.com/pycones-2024/" target="_blank" class="text-primary hover:text-secondary">enlace</a> encontrarás las instrucciones (En Inglés y Español) y luego podrás comenzar a rellenar el formulario para enviar tu propuesta.
 Project-Id-Version: pycones 24
 Report-Msgid-Bugs-To: 
 PO-Revision-Date: 2024-05-06 21:51+0200
@@ -17,8 +19,7 @@ Content-Transfer-Encoding: 8bit
 Plural-Forms: nplurals=2; plural=(n != 1);
 X-Generator: Lokalize 24.02.2
 
----
-_hidden: no
+Luego de enviar tu propuesta, tendrás la posibilidad de Editarla, así que no te preocupes si tienes que hacer cambios luego de enviarla.
 Project-Id-Version: pycones 24
 Report-Msgid-Bugs-To: 
 PO-Revision-Date: 2024-05-06 21:51+0200
@@ -30,5 +31,3 @@ Content-Type: text/plain; charset=UTF-8
 Content-Transfer-Encoding: 8bit
 Plural-Forms: nplurals=2; plural=(n != 1);
 X-Generator: Lokalize 24.02.2
----
-_template: previous_editions/previous_editions.html

@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pycones 24\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-05-06 21:49+CET\n"
+"POT-Creation-Date: 2024-05-09 16:19+CET\n"
 "PO-Revision-Date: 2024-03-11 00:54+CET\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -120,87 +120,490 @@ msgid "Quiero patrocinar"
 msgstr ""
 
 #: (dynamic)
+msgid "Código conducta"
+msgstr ""
+
+#: (dynamic)
+msgid ""
+"Python España, como asociación en torno a la que se organizan eventos de "
+"distintos tipos, quiere asegurar que todas las personas que participen en "
+"dichos eventos o comunicaciones tengan una experiencia profesional y "
+"positiva de aprendizaje, colaboración u ocio. Para ello, se espera que quien "
+"participe en la comunidad muestre respeto y cortesía hacia el resto."
+msgstr ""
+
+#: (dynamic)
+msgid ""
+"Al participar en la comunidad de Python España, te comprometes a fomentar "
+"una experiencia libre de acoso para todo el mundo, independientemente de la "
+"edad, dimensión corporal, discapacidad visible o invisible, etnicidad, "
+"características sexuales, identidad y expresión de género, nivel de "
+"experiencia, educación, nivel socio-económico, nacionalidad, apariencia "
+"personal, raza, religión, o identidad u orientación sexual."
+msgstr ""
+
+#: (dynamic)
+msgid ""
+"Este Código de Conducta detalla qué comportamientos se esperan, cuáles se "
+"rechazan y qué mecanismos hay para ayudar a una persona que esté siendo "
+"objeto de comportamientos inadecuados."
+msgstr ""
+
+#: (dynamic)
+msgid "¿Por qué un código de conducta?"
+msgstr ""
+
+#: (dynamic)
+msgid ""
+"Siguiendo con el zen de Python, explícito mejor que implícito. Explicitar "
+"qué se espera del ambiente en cualquier evento de Python España:"
+msgstr ""
+
+#: (dynamic)
+msgid "Favorece que más personas sepan que son bienvenidas"
+msgstr ""
+
+#: (dynamic)
+msgid "Evita ambigüedades"
+msgstr ""
+
+#: (dynamic)
+msgid ""
+"Construye un clima de confianza, donde si alguien quiere reportar un "
+"incidente, sabrá que no empezaremos por cuestionarle (victim blaming)."
+msgstr ""
+
+#: (dynamic)
+msgid "Alcance"
+msgstr ""
+
+#: (dynamic)
+msgid ""
+"Este código de conducta es aplicable a todas las personas que participen en "
+"espacios de la comunidad de Python España, ya sean en línea o presenciales. "
+"También se aplica a espacios públicos donde una persona esté en "
+"representación de la comunidad. Ejemplos de esto último incluyen el uso de "
+"la cuenta oficial de correo electrónico, publicaciones a través de las redes "
+"sociales oficiales, o presentaciones con personas designadas en eventos en "
+"línea o no."
+msgstr ""
+
+#: (dynamic)
+msgid "Nuestros estándares"
+msgstr ""
+
+#: (dynamic)
+msgid ""
+"Ejemplos de comportamiento que contribuyen a crear un ambiente positivo para "
+"nuestra comunidad:"
+msgstr ""
+
+#: (dynamic)
+msgid ""
+"Demostrar empatía y amabilidad ante otras personas. No insultes o humilles a "
+"otros asistentes. Recuerda que las bromas sexistas, racistas o "
+"discriminatorias no son apropiadas. Nunca lo son."
+msgstr ""
+
+#: (dynamic)
+msgid "Respetar las diferentes opiniones, puntos de vista y experiencias"
+msgstr ""
+
+#: (dynamic)
+msgid "Dar y aceptar adecuadamente críticas constructivas"
+msgstr ""
+
+#: (dynamic)
+msgid ""
+"Aceptar la responsabilidad y disculparse ante quienes se vean afectados por "
+"nuestros errores, aprendiendo de la experiencia"
+msgstr ""
+
+#: (dynamic)
+msgid ""
+"Centrarse en lo que sea mejor no sólo para nosotros como individuos, sino "
+"para la comunidad en general"
+msgstr ""
+
+#: (dynamic)
+msgid "Usar un lenguaje inclusivo y que dé cabida a una audiencia diversa"
+msgstr ""
+
+#: (dynamic)
+msgid ""
+"Prestar especial atención a las personas que recién llegan a la comunidad"
+msgstr ""
+
+#: (dynamic)
+msgid ""
+"Presentarte con tus pronombres y preguntarle a otra persona los suyos para "
+"que exista una comunicación clara y sin sesgo"
+msgstr ""
+
+#: (dynamic)
+msgid "Ejemplos de comportamiento inaceptable"
+msgstr ""
+
+#: (dynamic)
+msgid ""
+"El uso de lenguaje o imágenes sexualizadas, y aproximaciones o atenciones "
+"sexuales de cualquier tipo"
+msgstr ""
+
+#: (dynamic)
+msgid ""
+"Comentarios despectivos trolling, insultantes o derogatorios, y ataques "
+"personales o políticos"
+msgstr ""
+
+#: (dynamic)
+msgid "Bromas racistas, sexistas o excluyentes"
+msgstr ""
+
+#: (dynamic)
+msgid "El acoso en público o privado"
+msgstr ""
+
+#: (dynamic)
+msgid ""
+"Publicar información privada de otras personas, tales como direcciones "
+"físicas o de correo electrónico, sin su permiso explícito"
+msgstr ""
+
+#: (dynamic)
+msgid ""
+"Otras conductas que puedan ser razonablemente consideradas como inapropiadas "
+"en un entorno profesional"
+msgstr ""
+
+#: (dynamic)
+msgid ""
+"Por acoso se entiende comentarios ofensivos relacionados con género, "
+"orientación sexual, discapacidad, apariencia física, tamaño corporal, etnia "
+"o religión, pornografía en espacios públicos, intimidación deliberada, "
+"acecho, persecución, acoso por fotografías o grabaciones, constante "
+"interrupción de charlas u otros eventos, contacto físico inapropiado y "
+"atención sexual no deseada."
+msgstr ""
+
+#: (dynamic)
+msgid "Cumplimiento"
+msgstr ""
+
+#: (dynamic)
+msgid ""
+"La administración de la comunidad es responsable de aclarar y hacer cumplir "
+"este código de conducta; en caso de que se determine un comportamiento "
+"inadecuado, tomará las acciones que considere oportunas. Éstas van desde "
+"exigir el cese del comportamiento, hasta la expulsión de una persona de un "
+"evento o de la Asociación, sin derecho a reembolso. La administración de la "
+"comunidad tendrá el derecho y la responsabilidad de eliminar, editar o "
+"rechazar mensajes, comentarios, código, ediciones de páginas de wiki, "
+"tickets y otras contribuciones que no se alineen con este código de "
+"conducta, y comunicará las razones para sus decisiones de moderación cuando "
+"sea apropiado."
+msgstr ""
+
+#: (dynamic)
+msgid "Denuncia e información de contacto"
+msgstr ""
+
+#: (dynamic)
+msgid ""
+"Los casos de comportamiento abusivo, acosador o inaceptable de otro modo "
+"podrán ser denunciados a las personas administradoras de la comunidad "
+"responsables del cumplimiento:"
+msgstr ""
+
+#: (dynamic)
+msgid ""
+"Si es un evento presencial, ponte en contacto directamente con las personas "
+"organizadoras del evento. Es muy probable que hayan publicando un código de "
+"conducta específico del evento con instrucciones de a quién acudir; te "
+"proporcionarán un espacio seguro para ayudarte."
+msgstr ""
+
+#: (dynamic)
+msgid ""
+"Si se trata de un espacio en línea, ponte en contacto con las personas "
+"moderadoras de ese espacio."
+msgstr ""
+
+#: (dynamic)
+msgid ""
+"En el foro de Discourse puedes denunciar publicaciones individuales o "
+"contactar con el"
+msgstr ""
+
+#: (dynamic)
+msgid "grupo de moderación"
+msgstr ""
+
+#: (dynamic)
+msgid ""
+"En Telegram, a la persona propietaria del grupo u otras administradoras."
+msgstr ""
+
+#: (dynamic)
+msgid ""
+"Para otros espacios o de forma alternativa, ponte en contacto con la Junta "
+"Directiva en"
+msgstr ""
+
+#: (dynamic)
+msgid ""
+"Todas las personas administradoras de la comunidad están obligadas a "
+"respetar la privacidad y la seguridad de quienes denuncien incidentes."
+msgstr ""
+
+#: (dynamic)
+msgid "Atribución"
+msgstr ""
+
+#: (dynamic)
+msgid ""
+"Este código de conducta extiende el ya existente con aportaciones de otros "
+"códigos:"
+msgstr ""
+
+#: (dynamic)
+msgid "versión en español del Contributor Covenant 2.0"
+msgstr ""
+
+#: (dynamic)
+msgid "código de conducta de DjangoCon Europe 2020"
+msgstr ""
+
+#: (dynamic)
 msgid "Preguntas Frecuentes"
 msgstr ""
 
 #: (dynamic)
-msgid "¿Cómo accedo al streaming?"
-msgstr ""
-
-#: (dynamic)
-msgid "Próximamente"
-msgstr ""
-
-#: (dynamic)
-msgid "¿Qué días son los tutoriales y charlas?"
-msgstr ""
-
-#: (dynamic)
-msgid "¿En qué lugar se realizará la conferencia?"
-msgstr ""
-
-#: (dynamic)
-msgid "¿La conferencia es sólo en Español?"
+msgid ""
+"Esta página contiene toda la información sobre el proceso de propuesta para "
+"PyConES 2024 – la actualizaremos regularmente a medida que haya nueva "
+"información disponible."
 msgstr ""
 
 #: (dynamic)
 msgid ""
-"La conferencia se realizará principalmente en Español, y dependiendo de las "
-"charlas aceptadas en Inglés se realizará un track completo durante los días "
-"de charlas."
+"La convocatoria de propuestas (CFP) es hasta las 23:59 (UTC) del 31 de mayo. "
+"Mejor no dejarlo para el último minuto."
 msgstr ""
 
 #: (dynamic)
 msgid ""
-"Las ponencias principales, apertura y cierre del evento serán en Español, de "
-"todas formas, todas las personas de la organización hablan Español e Inglés, "
-"en caso que de que personas que asistan necesiten información en uno de los "
-"dos idiomas."
-msgstr ""
-
-#: (dynamic)
-msgid "¿Qué Aeropuerto es más cercano a la conferencia?"
-msgstr ""
-
-#: (dynamic)
-msgid "Quiero presentar una charla ¿Cómo lo hago?"
-msgstr ""
-
-#: (dynamic)
-msgid "Quiero patrocinar pero ¿Cómo funcionan los add-ons?"
-msgstr ""
-
-#: (dynamic)
-msgid "Soy patrocinante ¿Cómo y Cuántas entradas consigo?"
-msgstr ""
-
-#: (dynamic)
-msgid "He comprado mi entrada y necesito una factura ¿Cómo la consigo?"
+"Estamos buscando una variedad de charlas sobre temas técnicos y no técnicos. "
+"Buscamos charlas accesibles para todos los niveles de habilidad, y buscamos "
+"propuestas de oradores nuevos y experimentados."
 msgstr ""
 
 #: (dynamic)
 msgid ""
-"Si en tu caso necesitas una factura para presentarla a la entidad que está "
-"cubriendo tu asistencia al evento, generaremos tu factura cuando se realice "
-"el evento o hasta cuando se cierre el plazo para cambiar los detalles de los "
-"tickets de la conferencia. Principalmente, por la complejidad de cancelar "
-"dichos documentos en nuestra infraestructura."
+"Si te estás preguntando, ¿puedo hacer esto? La respuesta es sí. Si tienes un "
+"tema que te interesa, entonces nos interesa a nosotros."
 msgstr ""
 
 #: (dynamic)
-msgid "Soy Ponente, ¿tengo que comprar la entrada?"
+msgid "Recomendaciones para tu propuesta"
 msgstr ""
 
 #: (dynamic)
 msgid ""
-"Todas las personas que sean ponentes, tienen asegurada su participación en "
-"la conferencia, es decir no necesitan una entrada. En caso de que tengas "
-"pensado presentarte como ponente, independiente de si tu propuesta es "
-"aceptada o no, te recomendamos adquirir una entrada."
+"Queremos motivar a personas con distintos niveles de experiencia en "
+"ponencias a participar en la conferencia. Sabemos que para personas que "
+"recién comienzan, el presentar una idea que refleje todos los detalles "
+"geniales que tu charla incluirá puede ser confuso."
+msgstr ""
+
+#: (dynamic)
+msgid ""
+"Es importante que presentes tu idea de manera clara, pero que también puedas "
+"dar la información necesaria para que quienes revisen, entiendan tu "
+"propuesta."
+msgstr ""
+
+#: (dynamic)
+msgid "Estructura de tu abstract"
+msgstr ""
+
+#: (dynamic)
+msgid ""
+"Una estructura simple que puedes seguir, es poder contemplar los siguientes "
+"puntos en tu propuesta:"
+msgstr ""
+
+#: (dynamic)
+msgid "Contexto de tu charla o problema"
+msgstr ""
+
+#: (dynamic)
+msgid "Definición del problema"
+msgstr ""
+
+#: (dynamic)
+msgid "¿Por qué es importante buscar una solución a ese problema?"
+msgstr ""
+
+#: (dynamic)
+msgid "¿Qué se hablará y que aprenderá la gente que asista?"
+msgstr ""
+
+#: (dynamic)
+msgid "Requerimientos previos o comentarios adicionales de tu charla"
+msgstr ""
+
+#: (dynamic)
+msgid ""
+"Evita los abstract de una o dos líneas que repitan la idea que ya se "
+"presenta en el título, e intenta incluir factores que hacen tu propuesta "
+"¡especial y única!."
+msgstr ""
+
+#: (dynamic)
+msgid "Tipos de propuestas"
+msgstr ""
+
+#: (dynamic)
+msgid "Charlas: 35 min (30 min + 5 min QA)"
+msgstr ""
+
+#: (dynamic)
+msgid "Talleres: de hasta 90 min"
+msgstr ""
+
+#: (dynamic)
+msgid ""
+"Si tu taller dura más o menos tiempo no dudes en comunicarlo a la "
+"organización para tenerlo en cuenta en la configuración del programa. Esto "
+"nos dará la oportunidad de crear un planificación variada y ajustada a los "
+"tres días de conferencia."
+msgstr ""
+
+#: (dynamic)
+msgid "Valoramos mucho las propuestas:"
+msgstr ""
+
+#: (dynamic)
+msgid "Con un enfoque social"
+msgstr ""
+
+#: (dynamic)
+msgid "Saltos entre distintos campos profesionales"
+msgstr ""
+
+#: (dynamic)
+msgid "O simplemente Sobre tu experiencia de Python y el impacto en tu vida"
+msgstr ""
+
+#: (dynamic)
+msgid "Temáticas"
+msgstr ""
+
+#: (dynamic)
+msgid ""
+"La temática es abierta siempre y cuando tenga relación con Python. Aquí te "
+"dejamos algunas ideas:"
+msgstr ""
+
+#: (dynamic)
+msgid "Desarrollo Web"
+msgstr ""
+
+#: (dynamic)
+msgid "Análisis, ingeniería y ciencia de datos"
+msgstr ""
+
+#: (dynamic)
+msgid "DevOps / Administración de sistemas / Scripts de automatización"
+msgstr ""
+
+#: (dynamic)
+msgid "Educación"
+msgstr ""
+
+#: (dynamic)
+msgid "Machine learning e inteligencia artificial"
+msgstr ""
+
+#: (dynamic)
+msgid "Aplicaciones de escritorio"
+msgstr ""
+
+#: (dynamic)
+msgid "Internet de las cosas"
+msgstr ""
+
+#: (dynamic)
+msgid "Seguridad y redes"
+msgstr ""
+
+#: (dynamic)
+msgid "Aplicaciones móviles, multimedia, embebidos"
+msgstr ""
+
+#: (dynamic)
+msgid "Comunidad, sociedad y cultura"
+msgstr ""
+
+#: (dynamic)
+msgid "¡Y muchos más!"
+msgstr ""
+
+#: (dynamic)
+msgid "Consideraciones adicionales"
+msgstr ""
+
+#: (dynamic)
+msgid "Es posible enviar más de una propuesta por persona"
+msgstr ""
+
+#: (dynamic)
+msgid "Se aceptan charlas con varias personas como ponentes"
+msgstr ""
+
+#: (dynamic)
+msgid "Te notificaremos tanto si tu propuesta es aceptada, como si no lo es"
+msgstr ""
+
+#: (dynamic)
+msgid "¿Preguntas o sugerencias?"
+msgstr ""
+
+#: (dynamic)
+msgid ""
+"Nuestro equipo está aquí para ayudarte. Si tienes alguna pregunta o "
+"sugerencia, no dudes en contactarnos en"
+msgstr ""
+
+#: (dynamic)
+msgid ""
+"Estamos comprometidos a hacer de PyConES 2024 un evento inclusivo, atractivo "
+"e inolvidable para todos."
+msgstr ""
+
+#: (dynamic)
+msgid "Nos vemos en Vigo!"
+msgstr ""
+
+#: (dynamic)
+msgid "No olvides seguirnos en twitter"
+msgstr ""
+
+#: (dynamic)
+msgid "para obtener la información más reciente y actualizada!"
+msgstr ""
+
+#: (dynamic)
+msgid "Convocatoría de propuestas (CFP)"
 msgstr ""
 
 #: (dynamic)
 msgid "Patrocinios"
+msgstr ""
+
+#: (dynamic)
+msgid "Ciudad"
 msgstr ""
 
 #: (dynamic)
@@ -538,483 +941,315 @@ msgid ""
 "barrios. Tienen tarifas razonables y te permitirán desplazarte rápidamente."
 msgstr ""
 
-#: (dynamic)
-msgid "Convocatoría de propuestas (CFP)"
+#: https://2024.es.pycon.org/faq/como-accedo-al-streaming/
+#: (content/faq/como-accedo-al-streaming/contents+es.lr:faq_item.title)
+msgid "¿Cómo accedo al streaming?"
 msgstr ""
 
-#: (dynamic)
-msgid "Ciudad"
+#: https://2024.es.pycon.org/faq/como-accedo-al-streaming/
+#: (content/faq/como-accedo-al-streaming/contents+es.lr:faq_item.description)
+#: https://2024.es.pycon.org/faq/que-dias-son-los-tutoriales-y-charlas/
+#: (content/faq/que-dias-son-los-tutoriales-y-charlas/contents+es.lr:faq_item.description)
+msgid "Próximamente"
 msgstr ""
 
-#: (dynamic)
+#: https://2024.es.pycon.org/faq/en-que-lugar-se-realizara-la-conferencia/
+#: (content/faq/en-que-lugar-se-realizara-la-conferencia/contents+es.lr:faq_item.title)
+msgid "¿En qué lugar se realizará la conferencia?"
+msgstr ""
+
+#: https://2024.es.pycon.org/faq/en-que-lugar-se-realizara-la-conferencia/
+#: (content/faq/en-que-lugar-se-realizara-la-conferencia/contents+es.lr:faq_item.description)
 msgid ""
-"Esta página contiene toda la información sobre el proceso de propuesta para "
-"PyConES 2024 – la actualizaremos regularmente a medida que haya nueva "
-"información disponible."
+"Se hará en el Auditorio Mar de Vigo, situado en primera línea de mar, frente "
+"a las Islas Cíes. <a href=\"https://auditoriomardevigo.com/localizacion/\" "
+"target=\"blank\" class=\"text-primary hover:text-secondary\">Más "
+"información</a>"
 msgstr ""
 
-#: (dynamic)
+#: https://2024.es.pycon.org/faq/he-comprado-mi-entrada-y-necesito-una-factura-como-la-consigo/
+#: (content/faq/he-comprado-mi-entrada-y-necesito-una-factura-como-la-consigo/contents+es.lr:faq_item.title)
+msgid "He comprado mi entrada y necesito una factura ¿Cómo la consigo?"
+msgstr ""
+
+#: https://2024.es.pycon.org/faq/he-comprado-mi-entrada-y-necesito-una-factura-como-la-consigo/
+#: (content/faq/he-comprado-mi-entrada-y-necesito-una-factura-como-la-consigo/contents+es.lr:faq_item.description)
 msgid ""
-"La convocatoria de propuestas (CFP) es hasta las 23:59 (UTC) del 31 de mayo. "
-"Mejor no dejarlo para el último minuto."
+"Si en tu caso necesitas una factura para presentarla a la entidad que está "
+"cubriendo tu asistencia al evento, generaremos tu factura cuando se realice "
+"el evento o hasta cuando se cierre el plazo para cambiar los detalles de los "
+"tickets de la conferencia. Principalmente, por la complejidad de cancelar "
+"dichos documentos en nuestra infraestructura."
 msgstr ""
 
-#: (dynamic)
+#: https://2024.es.pycon.org/faq/la-conferencia-es-solo-en-espanol/
+#: (content/faq/la-conferencia-es-solo-en-espanol/contents+es.lr:faq_item.title)
+msgid "¿La conferencia es sólo en Español?"
+msgstr ""
+
+#: https://2024.es.pycon.org/faq/la-conferencia-es-solo-en-espanol/
+#: (content/faq/la-conferencia-es-solo-en-espanol/contents+es.lr:faq_item.description)
 msgid ""
-"Estamos buscando una variedad de charlas sobre temas técnicos y no técnicos. "
-"Buscamos charlas accesibles para todos los niveles de habilidad, y buscamos "
-"propuestas de oradores nuevos y experimentados."
+"La conferencia se realizará principalmente en Español, y dependiendo de las "
+"charlas aceptadas en Inglés se realizará un track completo durante los días "
+"de charlas."
 msgstr ""
 
-#: (dynamic)
+#: https://2024.es.pycon.org/faq/la-conferencia-es-solo-en-espanol/
+#: (content/faq/la-conferencia-es-solo-en-espanol/contents+es.lr:faq_item.secondary_description)
 msgid ""
-"Si te estás preguntando, ¿puedo hacer esto? La respuesta es sí. Si tienes un "
-"tema que te interesa, entonces nos interesa a nosotros."
+"Las ponencias principales, apertura y cierre del evento serán en Español, de "
+"todas formas, todas las personas de la organización hablan Español e Inglés, "
+"en caso de que personas que asistan necesiten información en uno de los dos "
+"idiomas."
 msgstr ""
 
-#: (dynamic)
-msgid "Recomendaciones para tu propuesta"
+#: https://2024.es.pycon.org/faq/que-aeropuerto-es-mas-cercano-a-la-conferencia/
+#: (content/faq/que-aeropuerto-es-mas-cercano-a-la-conferencia/contents+es.lr:faq_item.title)
+msgid "¿Qué Aeropuerto es más cercano a la conferencia?"
 msgstr ""
 
-#: (dynamic)
+#: https://2024.es.pycon.org/faq/que-aeropuerto-es-mas-cercano-a-la-conferencia/
+#: (content/faq/que-aeropuerto-es-mas-cercano-a-la-conferencia/contents+es.lr:faq_item.description)
 msgid ""
-"Queremos motivar a personas con distintos niveles de experiencia en "
-"ponencias a participar en la conferencia. Sabemos que para personas que "
-"recién comienzan, el presentar una idea que refleje todos los detalles "
-"geniales que tu charla incluirá puede ser confuso."
+"El Aeropuerto de Vigo, Peinador, es el aeropuerto más cercano, a solo 20 "
+"minutos del centro de la ciudad. Más información en la sección <a "
+"href=\"https://2024.es.pycon.org/ciudad/\" class=\"text-primary hover:text-"
+"secondary\">Ciudad</a>."
 msgstr ""
 
-#: (dynamic)
+#: https://2024.es.pycon.org/faq/que-aeropuerto-es-mas-cercano-a-la-conferencia/
+#: (content/faq/que-aeropuerto-es-mas-cercano-a-la-conferencia/contents+es.lr:faq_item.secondary_description)
+msgid "Otros aeropuertos cercanos:"
+msgstr ""
+
+#: https://2024.es.pycon.org/faq/que-aeropuerto-es-mas-cercano-a-la-conferencia/
+#: (content/faq/que-aeropuerto-es-mas-cercano-a-la-conferencia/contents+es.lr:faq_item.secondary_description)
+msgid "<ul class=\"ml-8 list-disc text-secondary\">"
+msgstr ""
+
+#: https://2024.es.pycon.org/faq/que-aeropuerto-es-mas-cercano-a-la-conferencia/
+#: (content/faq/que-aeropuerto-es-mas-cercano-a-la-conferencia/contents+es.lr:faq_item.secondary_description)
+msgid "<li>Aeropuerto de Santiago-Rosalía de Castro (approx. 100 km.) </li>"
+msgstr ""
+
+#: https://2024.es.pycon.org/faq/que-aeropuerto-es-mas-cercano-a-la-conferencia/
+#: (content/faq/que-aeropuerto-es-mas-cercano-a-la-conferencia/contents+es.lr:faq_item.secondary_description)
+msgid "<li>Aeropuerto de Porto - Portugal (approx. 150 km.)</li>"
+msgstr ""
+
+#: https://2024.es.pycon.org/faq/que-aeropuerto-es-mas-cercano-a-la-conferencia/
+#: (content/faq/que-aeropuerto-es-mas-cercano-a-la-conferencia/contents+es.lr:faq_item.secondary_description)
+msgid "<ul>"
+msgstr ""
+
+#: https://2024.es.pycon.org/faq/que-aeropuerto-es-mas-cercano-a-la-conferencia/
+#: (content/faq/que-aeropuerto-es-mas-cercano-a-la-conferencia/contents+es.lr:faq_item.secondary_description)
+#: https://2024.es.pycon.org/faq/quiero-presentar-una-charla-como-lo-hago/
+#: (content/faq/quiero-presentar-una-charla-como-lo-hago/contents+es.lr:faq_item.secondary_description)
+#: https://2024.es.pycon.org/faq/soy-patrocinante-como-y-cuantas-entradas-consigo/
+#: (content/faq/soy-patrocinante-como-y-cuantas-entradas-consigo/contents+es.lr:faq_item.secondary_description)
+msgid "Project-Id-Version: pycones 24"
+msgstr ""
+
+#: https://2024.es.pycon.org/faq/que-aeropuerto-es-mas-cercano-a-la-conferencia/
+#: (content/faq/que-aeropuerto-es-mas-cercano-a-la-conferencia/contents+es.lr:faq_item.secondary_description)
+#: https://2024.es.pycon.org/faq/quiero-presentar-una-charla-como-lo-hago/
+#: (content/faq/quiero-presentar-una-charla-como-lo-hago/contents+es.lr:faq_item.secondary_description)
+#: https://2024.es.pycon.org/faq/soy-patrocinante-como-y-cuantas-entradas-consigo/
+#: (content/faq/soy-patrocinante-como-y-cuantas-entradas-consigo/contents+es.lr:faq_item.secondary_description)
+msgid "Report-Msgid-Bugs-To:"
+msgstr ""
+
+#: https://2024.es.pycon.org/faq/que-aeropuerto-es-mas-cercano-a-la-conferencia/
+#: (content/faq/que-aeropuerto-es-mas-cercano-a-la-conferencia/contents+es.lr:faq_item.secondary_description)
+#: https://2024.es.pycon.org/faq/quiero-presentar-una-charla-como-lo-hago/
+#: (content/faq/quiero-presentar-una-charla-como-lo-hago/contents+es.lr:faq_item.secondary_description)
+#: https://2024.es.pycon.org/faq/soy-patrocinante-como-y-cuantas-entradas-consigo/
+#: (content/faq/soy-patrocinante-como-y-cuantas-entradas-consigo/contents+es.lr:faq_item.secondary_description)
+msgid "PO-Revision-Date: 2024-03-11 00:54+CET"
+msgstr ""
+
+#: https://2024.es.pycon.org/faq/que-aeropuerto-es-mas-cercano-a-la-conferencia/
+#: (content/faq/que-aeropuerto-es-mas-cercano-a-la-conferencia/contents+es.lr:faq_item.secondary_description)
+#: https://2024.es.pycon.org/faq/quiero-presentar-una-charla-como-lo-hago/
+#: (content/faq/quiero-presentar-una-charla-como-lo-hago/contents+es.lr:faq_item.secondary_description)
+#: https://2024.es.pycon.org/faq/soy-patrocinante-como-y-cuantas-entradas-consigo/
+#: (content/faq/soy-patrocinante-como-y-cuantas-entradas-consigo/contents+es.lr:faq_item.secondary_description)
+msgid "Last-Translator: Automatically generated"
+msgstr ""
+
+#: https://2024.es.pycon.org/faq/que-aeropuerto-es-mas-cercano-a-la-conferencia/
+#: (content/faq/que-aeropuerto-es-mas-cercano-a-la-conferencia/contents+es.lr:faq_item.secondary_description)
+#: https://2024.es.pycon.org/faq/quiero-presentar-una-charla-como-lo-hago/
+#: (content/faq/quiero-presentar-una-charla-como-lo-hago/contents+es.lr:faq_item.secondary_description)
+#: https://2024.es.pycon.org/faq/soy-patrocinante-como-y-cuantas-entradas-consigo/
+#: (content/faq/soy-patrocinante-como-y-cuantas-entradas-consigo/contents+es.lr:faq_item.secondary_description)
+msgid "Language-Team: none"
+msgstr ""
+
+#: https://2024.es.pycon.org/faq/que-aeropuerto-es-mas-cercano-a-la-conferencia/
+#: (content/faq/que-aeropuerto-es-mas-cercano-a-la-conferencia/contents+es.lr:faq_item.secondary_description)
+#: https://2024.es.pycon.org/faq/quiero-presentar-una-charla-como-lo-hago/
+#: (content/faq/quiero-presentar-una-charla-como-lo-hago/contents+es.lr:faq_item.secondary_description)
+#: https://2024.es.pycon.org/faq/soy-patrocinante-como-y-cuantas-entradas-consigo/
+#: (content/faq/soy-patrocinante-como-y-cuantas-entradas-consigo/contents+es.lr:faq_item.secondary_description)
+msgid "Language: es"
+msgstr ""
+
+#: https://2024.es.pycon.org/faq/que-aeropuerto-es-mas-cercano-a-la-conferencia/
+#: (content/faq/que-aeropuerto-es-mas-cercano-a-la-conferencia/contents+es.lr:faq_item.secondary_description)
+#: https://2024.es.pycon.org/faq/quiero-presentar-una-charla-como-lo-hago/
+#: (content/faq/quiero-presentar-una-charla-como-lo-hago/contents+es.lr:faq_item.secondary_description)
+#: https://2024.es.pycon.org/faq/soy-patrocinante-como-y-cuantas-entradas-consigo/
+#: (content/faq/soy-patrocinante-como-y-cuantas-entradas-consigo/contents+es.lr:faq_item.secondary_description)
+msgid "MIME-Version: 1.0"
+msgstr ""
+
+#: https://2024.es.pycon.org/faq/que-aeropuerto-es-mas-cercano-a-la-conferencia/
+#: (content/faq/que-aeropuerto-es-mas-cercano-a-la-conferencia/contents+es.lr:faq_item.secondary_description)
+#: https://2024.es.pycon.org/faq/quiero-presentar-una-charla-como-lo-hago/
+#: (content/faq/quiero-presentar-una-charla-como-lo-hago/contents+es.lr:faq_item.secondary_description)
+#: https://2024.es.pycon.org/faq/soy-patrocinante-como-y-cuantas-entradas-consigo/
+#: (content/faq/soy-patrocinante-como-y-cuantas-entradas-consigo/contents+es.lr:faq_item.secondary_description)
+msgid "Content-Type: text/plain; charset=UTF-8"
+msgstr ""
+
+#: https://2024.es.pycon.org/faq/que-aeropuerto-es-mas-cercano-a-la-conferencia/
+#: (content/faq/que-aeropuerto-es-mas-cercano-a-la-conferencia/contents+es.lr:faq_item.secondary_description)
+#: https://2024.es.pycon.org/faq/quiero-presentar-una-charla-como-lo-hago/
+#: (content/faq/quiero-presentar-una-charla-como-lo-hago/contents+es.lr:faq_item.secondary_description)
+#: https://2024.es.pycon.org/faq/soy-patrocinante-como-y-cuantas-entradas-consigo/
+#: (content/faq/soy-patrocinante-como-y-cuantas-entradas-consigo/contents+es.lr:faq_item.secondary_description)
+msgid "Content-Transfer-Encoding: 8bit"
+msgstr ""
+
+#: https://2024.es.pycon.org/faq/que-aeropuerto-es-mas-cercano-a-la-conferencia/
+#: (content/faq/que-aeropuerto-es-mas-cercano-a-la-conferencia/contents+es.lr:faq_item.secondary_description)
+#: https://2024.es.pycon.org/faq/quiero-presentar-una-charla-como-lo-hago/
+#: (content/faq/quiero-presentar-una-charla-como-lo-hago/contents+es.lr:faq_item.secondary_description)
+#: https://2024.es.pycon.org/faq/soy-patrocinante-como-y-cuantas-entradas-consigo/
+#: (content/faq/soy-patrocinante-como-y-cuantas-entradas-consigo/contents+es.lr:faq_item.secondary_description)
+msgid "Plural-Forms: nplurals=2; plural=(n != 1);"
+msgstr ""
+
+#: https://2024.es.pycon.org/faq/que-dias-son-los-tutoriales-y-charlas/
+#: (content/faq/que-dias-son-los-tutoriales-y-charlas/contents+es.lr:faq_item.title)
+msgid "¿Qué días son los tutoriales y charlas?"
+msgstr ""
+
+#: https://2024.es.pycon.org/faq/quiero-patrocinar-pero-como-funcionan-los-add-ons/
+#: (content/faq/quiero-patrocinar-pero-como-funcionan-los-add-ons/contents+es.lr:faq_item.title)
+msgid "Quiero patrocinar pero ¿Cómo funcionan los add-ons?"
+msgstr ""
+
+#: https://2024.es.pycon.org/faq/quiero-patrocinar-pero-como-funcionan-los-add-ons/
+#: (content/faq/quiero-patrocinar-pero-como-funcionan-los-add-ons/contents+es.lr:faq_item.description)
 msgid ""
-"Es importante que presentes tu idea de manera clara, pero que también puedas "
-"dar la información necesaria para que quienes revisen, entiendan tu "
-"propuesta."
+"Luego de seleccionar un plan de patrocinio, podrás elegir adicionalmente "
+"elementos para apoyar la conferencia de forma independiente, como por "
+"ejemplo, “Entrevistas” o “Sala de lactancia”. Eso quiere decir que estarás "
+"apoyando a la conferencia pagando el plan que hayas elegido, más estos "
+"elementos independientes (con cupos limitados) para actividades específicas."
 msgstr ""
 
-#: (dynamic)
-msgid "Estructura de tu abstract"
-msgstr ""
-
-#: (dynamic)
+#: https://2024.es.pycon.org/faq/quiero-patrocinar-pero-como-funcionan-los-add-ons/
+#: (content/faq/quiero-patrocinar-pero-como-funcionan-los-add-ons/contents+es.lr:faq_item.secondary_description)
 msgid ""
-"Una estructura simple que puedes seguir, es poder contemplar los siguientes "
-"puntos en tu propuesta:"
+"Ten en cuenta, se necesita elegir un plan de patrocinio antes de elegir los "
+"Add-ons, desde el más simple (Cortegada) hasta el más completo (Cíes)."
 msgstr ""
 
-#: (dynamic)
-msgid "Contexto de tu charla o problema"
+#: https://2024.es.pycon.org/faq/quiero-presentar-una-charla-como-lo-hago/
+#: (content/faq/quiero-presentar-una-charla-como-lo-hago/contents+es.lr:faq_item.title)
+msgid "Quiero presentar una charla ¿Cómo lo hago?"
 msgstr ""
 
-#: (dynamic)
-msgid "Definición del problema"
-msgstr ""
-
-#: (dynamic)
-msgid "¿Por qué es importante buscar una solución a ese problema?"
-msgstr ""
-
-#: (dynamic)
-msgid "¿Qué se hablará y que aprenderá la gente que asista?"
-msgstr ""
-
-#: (dynamic)
-msgid "Requerimientos previos o comentarios adicionales de tu charla"
-msgstr ""
-
-#: (dynamic)
+#: https://2024.es.pycon.org/faq/quiero-presentar-una-charla-como-lo-hago/
+#: (content/faq/quiero-presentar-una-charla-como-lo-hago/contents+es.lr:faq_item.description)
 msgid ""
-"Evita los abstract de una o dos líneas que repitan la idea que ya se "
-"presenta en el título, e intenta incluir factores que hacen tu propuesta "
-"¡especial y única!."
+"Si visitas la sección <a href=\"https://2024.es.pycon.org/faq/\" "
+"class=\"text-primary hover:text-secondary\">Convocatoria de Propuestas</a> "
+"encontrarás instrucciones para crear tu Abstract y también un enlace a la "
+"plataforma donde se envían las propuestas, pretalx."
 msgstr ""
 
-#: (dynamic)
-msgid "Tipos de propuestas"
-msgstr ""
-
-#: (dynamic)
-msgid "Charlas: 35 min (30 min + 5 min QA)"
-msgstr ""
-
-#: (dynamic)
-msgid "Talleres: de hasta 90 min"
-msgstr ""
-
-#: (dynamic)
+#: https://2024.es.pycon.org/faq/quiero-presentar-una-charla-como-lo-hago/
+#: (content/faq/quiero-presentar-una-charla-como-lo-hago/contents+es.lr:faq_item.secondary_description)
 msgid ""
-"Si tu taller dura más o menos tiempo no dudes en comunicarlo a la "
-"organización para tenerlo en cuenta en la configuración del programa. Esto "
-"nos dará la oportunidad de crear un planificación variada y ajustada a los "
-"tres días de conferencia."
+"Dentro del <a href=\"https://pretalx.com/pycones-2024/\" target=\"_blank\" "
+"class=\"text-primary hover:text-secondary\">enlace</a> encontrarás las "
+"instrucciones (En Inglés y Español) y luego podrás comenzar a rellenar el "
+"formulario para enviar tu propuesta."
 msgstr ""
 
-#: (dynamic)
-msgid "Valoramos mucho las propuestas:"
-msgstr ""
-
-#: (dynamic)
-msgid "Con un enfoque social"
-msgstr ""
-
-#: (dynamic)
-msgid "Saltos entre distintos campos profesionales"
-msgstr ""
-
-#: (dynamic)
-msgid "O simplemente Sobre tu experiencia de Python y el impacto en tu vida"
-msgstr ""
-
-#: (dynamic)
-msgid "Temáticas"
-msgstr ""
-
-#: (dynamic)
+#: https://2024.es.pycon.org/faq/quiero-presentar-una-charla-como-lo-hago/
+#: (content/faq/quiero-presentar-una-charla-como-lo-hago/contents+es.lr:faq_item.secondary_description)
 msgid ""
-"La temática es abierta siempre y cuando tenga relación con Python. Aquí te "
-"dejamos algunas ideas:"
+"Luego de enviar tu propuesta, tendrás la posibilidad de Editarla, así que no "
+"te preocupes si tienes que hacer cambios luego de enviarla."
 msgstr ""
 
-#: (dynamic)
-msgid "Desarrollo Web"
+#: https://2024.es.pycon.org/faq/soy-patrocinante-como-y-cuantas-entradas-consigo/
+#: (content/faq/soy-patrocinante-como-y-cuantas-entradas-consigo/contents+es.lr:faq_item.title)
+msgid "Soy patrocinante ¿Cómo y Cuántas entradas consigo?\""
 msgstr ""
 
-#: (dynamic)
-msgid "Análisis, ingeniería y ciencia de datos"
+#: https://2024.es.pycon.org/faq/soy-patrocinante-como-y-cuantas-entradas-consigo/
+#: (content/faq/soy-patrocinante-como-y-cuantas-entradas-consigo/contents+es.lr:faq_item.description)
+msgid "Según el plan elegido tendrías las siguientes entradas:"
 msgstr ""
 
-#: (dynamic)
-msgid "DevOps / Administración de sistemas / Scripts de automatización"
+#: https://2024.es.pycon.org/faq/soy-patrocinante-como-y-cuantas-entradas-consigo/
+#: (content/faq/soy-patrocinante-como-y-cuantas-entradas-consigo/contents+es.lr:faq_item.description)
+msgid "<ul class=\"ml-8 list-disc mt-1 text-secondary\">"
 msgstr ""
 
-#: (dynamic)
-msgid "Educación"
+#: https://2024.es.pycon.org/faq/soy-patrocinante-como-y-cuantas-entradas-consigo/
+#: (content/faq/soy-patrocinante-como-y-cuantas-entradas-consigo/contents+es.lr:faq_item.description)
+msgid "<li>Cíes: 6 entradas</li>"
 msgstr ""
 
-#: (dynamic)
-msgid "Machine learning e inteligencia artificial"
+#: https://2024.es.pycon.org/faq/soy-patrocinante-como-y-cuantas-entradas-consigo/
+#: (content/faq/soy-patrocinante-como-y-cuantas-entradas-consigo/contents+es.lr:faq_item.description)
+msgid "<li>Ons: 4 entradas</li>"
 msgstr ""
 
-#: (dynamic)
-msgid "Aplicaciones de escritorio"
+#: https://2024.es.pycon.org/faq/soy-patrocinante-como-y-cuantas-entradas-consigo/
+#: (content/faq/soy-patrocinante-como-y-cuantas-entradas-consigo/contents+es.lr:faq_item.description)
+msgid "<li>Sálvora: 2 entradas</li>"
 msgstr ""
 
-#: (dynamic)
-msgid "Internet de las cosas"
+#: https://2024.es.pycon.org/faq/soy-patrocinante-como-y-cuantas-entradas-consigo/
+#: (content/faq/soy-patrocinante-como-y-cuantas-entradas-consigo/contents+es.lr:faq_item.description)
+msgid "<li>Cortegada: 1 entrada</li>"
 msgstr ""
 
-#: (dynamic)
-msgid "Seguridad y redes"
+#: https://2024.es.pycon.org/faq/soy-patrocinante-como-y-cuantas-entradas-consigo/
+#: (content/faq/soy-patrocinante-como-y-cuantas-entradas-consigo/contents+es.lr:faq_item.description)
+msgid "</ul>"
 msgstr ""
 
-#: (dynamic)
-msgid "Aplicaciones móviles, multimedia, embebidos"
-msgstr ""
-
-#: (dynamic)
-msgid "Comunidad, sociedad y cultura"
-msgstr ""
-
-#: (dynamic)
-msgid "¡Y muchos más!"
-msgstr ""
-
-#: (dynamic)
-msgid "Consideraciones adicionales"
-msgstr ""
-
-#: (dynamic)
-msgid "Es posible enviar más de una propuesta por persona"
-msgstr ""
-
-#: (dynamic)
-msgid "Se aceptan charlas con varias personas como ponentes"
-msgstr ""
-
-#: (dynamic)
-msgid "Te notificaremos tanto si tu propuesta es aceptada, como si no lo es"
-msgstr ""
-
-#: (dynamic)
-msgid "¿Preguntas o sugerencias?"
-msgstr ""
-
-#: (dynamic)
+#: https://2024.es.pycon.org/faq/soy-patrocinante-como-y-cuantas-entradas-consigo/
+#: (content/faq/soy-patrocinante-como-y-cuantas-entradas-consigo/contents+es.lr:faq_item.secondary_description)
 msgid ""
-"Nuestro equipo está aquí para ayudarte. Si tienes alguna pregunta o "
-"sugerencia, no dudes en contactarnos en"
+"Más información en la sección de <a href=\"https://2024.es.pycon.org/"
+"patrocinios/\" class=\"mt-1 text-primary hover:text-secondary\">patrocinios</"
+"a>."
 msgstr ""
 
-#: (dynamic)
+#: https://2024.es.pycon.org/faq/soy-ponente-tengo-que-comprar-la-entrada/
+#: (content/faq/soy-ponente-tengo-que-comprar-la-entrada/contents+es.lr:faq_item.title)
+msgid "Soy Ponente, ¿tengo que comprar la entrada?\""
+msgstr ""
+
+#: https://2024.es.pycon.org/faq/soy-ponente-tengo-que-comprar-la-entrada/
+#: (content/faq/soy-ponente-tengo-que-comprar-la-entrada/contents+es.lr:faq_item.description)
 msgid ""
-"Estamos comprometidos a hacer de PyConES 2024 un evento inclusivo, atractivo "
-"e inolvidable para todos."
-msgstr ""
-
-#: (dynamic)
-msgid "Nos vemos en Vigo!"
-msgstr ""
-
-#: (dynamic)
-msgid "No olvides seguirnos en twitter"
-msgstr ""
-
-#: (dynamic)
-msgid "para obtener la información más reciente y actualizada!"
-msgstr ""
-
-#: (dynamic)
-msgid "Código conducta"
-msgstr ""
-
-#: (dynamic)
-msgid ""
-"Python España, como asociación en torno a la que se organizan eventos de "
-"distintos tipos, quiere asegurar que todas las personas que participen en "
-"dichos eventos o comunicaciones tengan una experiencia profesional y "
-"positiva de aprendizaje, colaboración u ocio. Para ello, se espera que quien "
-"participe en la comunidad muestre respeto y cortesía hacia el resto."
-msgstr ""
-
-#: (dynamic)
-msgid ""
-"Al participar en la comunidad de Python España, te comprometes a fomentar "
-"una experiencia libre de acoso para todo el mundo, independientemente de la "
-"edad, dimensión corporal, discapacidad visible o invisible, etnicidad, "
-"características sexuales, identidad y expresión de género, nivel de "
-"experiencia, educación, nivel socio-económico, nacionalidad, apariencia "
-"personal, raza, religión, o identidad u orientación sexual."
-msgstr ""
-
-#: (dynamic)
-msgid ""
-"Este Código de Conducta detalla qué comportamientos se esperan, cuáles se "
-"rechazan y qué mecanismos hay para ayudar a una persona que esté siendo "
-"objeto de comportamientos inadecuados."
-msgstr ""
-
-#: (dynamic)
-msgid "¿Por qué un código de conducta?"
-msgstr ""
-
-#: (dynamic)
-msgid ""
-"Siguiendo con el zen de Python, explícito mejor que implícito. Explicitar "
-"qué se espera del ambiente en cualquier evento de Python España:"
-msgstr ""
-
-#: (dynamic)
-msgid "Favorece que más personas sepan que son bienvenidas"
-msgstr ""
-
-#: (dynamic)
-msgid "Evita ambigüedades"
-msgstr ""
-
-#: (dynamic)
-msgid ""
-"Construye un clima de confianza, donde si alguien quiere reportar un "
-"incidente, sabrá que no empezaremos por cuestionarle (victim blaming)."
-msgstr ""
-
-#: (dynamic)
-msgid "Alcance"
-msgstr ""
-
-#: (dynamic)
-msgid ""
-"Este código de conducta es aplicable a todas las personas que participen en "
-"espacios de la comunidad de Python España, ya sean en línea o presenciales. "
-"También se aplica a espacios públicos donde una persona esté en "
-"representación de la comunidad. Ejemplos de esto último incluyen el uso de "
-"la cuenta oficial de correo electrónico, publicaciones a través de las redes "
-"sociales oficiales, o presentaciones con personas designadas en eventos en "
-"línea o no."
-msgstr ""
-
-#: (dynamic)
-msgid "Nuestros estándares"
-msgstr ""
-
-#: (dynamic)
-msgid ""
-"Ejemplos de comportamiento que contribuyen a crear un ambiente positivo para "
-"nuestra comunidad:"
-msgstr ""
-
-#: (dynamic)
-msgid ""
-"Demostrar empatía y amabilidad ante otras personas. No insultes o humilles a "
-"otros asistentes. Recuerda que las bromas sexistas, racistas o "
-"discriminatorias no son apropiadas. Nunca lo son."
-msgstr ""
-
-#: (dynamic)
-msgid "Respetar las diferentes opiniones, puntos de vista y experiencias"
-msgstr ""
-
-#: (dynamic)
-msgid "Dar y aceptar adecuadamente críticas constructivas"
-msgstr ""
-
-#: (dynamic)
-msgid ""
-"Aceptar la responsabilidad y disculparse ante quienes se vean afectados por "
-"nuestros errores, aprendiendo de la experiencia"
-msgstr ""
-
-#: (dynamic)
-msgid ""
-"Centrarse en lo que sea mejor no sólo para nosotros como individuos, sino "
-"para la comunidad en general"
-msgstr ""
-
-#: (dynamic)
-msgid "Usar un lenguaje inclusivo y que dé cabida a una audiencia diversa"
-msgstr ""
-
-#: (dynamic)
-msgid ""
-"Prestar especial atención a las personas que recién llegan a la comunidad"
-msgstr ""
-
-#: (dynamic)
-msgid ""
-"Presentarte con tus pronombres y preguntarle a otra persona los suyos para "
-"que exista una comunicación clara y sin sesgo"
-msgstr ""
-
-#: (dynamic)
-msgid "Ejemplos de comportamiento inaceptable"
-msgstr ""
-
-#: (dynamic)
-msgid ""
-"El uso de lenguaje o imágenes sexualizadas, y aproximaciones o atenciones "
-"sexuales de cualquier tipo"
-msgstr ""
-
-#: (dynamic)
-msgid ""
-"Comentarios despectivos trolling, insultantes o derogatorios, y ataques "
-"personales o políticos"
-msgstr ""
-
-#: (dynamic)
-msgid "Bromas racistas, sexistas o excluyentes"
-msgstr ""
-
-#: (dynamic)
-msgid "El acoso en público o privado"
-msgstr ""
-
-#: (dynamic)
-msgid ""
-"Publicar información privada de otras personas, tales como direcciones "
-"físicas o de correo electrónico, sin su permiso explícito"
-msgstr ""
-
-#: (dynamic)
-msgid ""
-"Otras conductas que puedan ser razonablemente consideradas como inapropiadas "
-"en un entorno profesional"
-msgstr ""
-
-#: (dynamic)
-msgid ""
-"Por acoso se entiende comentarios ofensivos relacionados con género, "
-"orientación sexual, discapacidad, apariencia física, tamaño corporal, etnia "
-"o religión, pornografía en espacios públicos, intimidación deliberada, "
-"acecho, persecución, acoso por fotografías o grabaciones, constante "
-"interrupción de charlas u otros eventos, contacto físico inapropiado y "
-"atención sexual no deseada."
-msgstr ""
-
-#: (dynamic)
-msgid "Cumplimiento"
-msgstr ""
-
-#: (dynamic)
-msgid ""
-"La administración de la comunidad es responsable de aclarar y hacer cumplir "
-"este código de conducta; en caso de que se determine un comportamiento "
-"inadecuado, tomará las acciones que considere oportunas. Éstas van desde "
-"exigir el cese del comportamiento, hasta la expulsión de una persona de un "
-"evento o de la Asociación, sin derecho a reembolso. La administración de la "
-"comunidad tendrá el derecho y la responsabilidad de eliminar, editar o "
-"rechazar mensajes, comentarios, código, ediciones de páginas de wiki, "
-"tickets y otras contribuciones que no se alineen con este código de "
-"conducta, y comunicará las razones para sus decisiones de moderación cuando "
-"sea apropiado."
-msgstr ""
-
-#: (dynamic)
-msgid "Denuncia e información de contacto"
-msgstr ""
-
-#: (dynamic)
-msgid ""
-"Los casos de comportamiento abusivo, acosador o inaceptable de otro modo "
-"podrán ser denunciados a las personas administradoras de la comunidad "
-"responsables del cumplimiento:"
-msgstr ""
-
-#: (dynamic)
-msgid ""
-"Si es un evento presencial, ponte en contacto directamente con las personas "
-"organizadoras del evento. Es muy probable que hayan publicando un código de "
-"conducta específico del evento con instrucciones de a quién acudir; te "
-"proporcionarán un espacio seguro para ayudarte."
-msgstr ""
-
-#: (dynamic)
-msgid ""
-"Si se trata de un espacio en línea, ponte en contacto con las personas "
-"moderadoras de ese espacio."
-msgstr ""
-
-#: (dynamic)
-msgid ""
-"En el foro de Discourse puedes denunciar publicaciones individuales o "
-"contactar con el"
-msgstr ""
-
-#: (dynamic)
-msgid "grupo de moderación"
-msgstr ""
-
-#: (dynamic)
-msgid ""
-"En Telegram, a la persona propietaria del grupo u otras administradoras."
-msgstr ""
-
-#: (dynamic)
-msgid ""
-"Para otros espacios o de forma alternativa, ponte en contacto con la Junta "
-"Directiva en"
-msgstr ""
-
-#: (dynamic)
-msgid ""
-"Todas las personas administradoras de la comunidad están obligadas a "
-"respetar la privacidad y la seguridad de quienes denuncien incidentes."
-msgstr ""
-
-#: (dynamic)
-msgid "Atribución"
-msgstr ""
-
-#: (dynamic)
-msgid ""
-"Este código de conducta extiende el ya existente con aportaciones de otros "
-"códigos:"
-msgstr ""
-
-#: (dynamic)
-msgid "versión en español del Contributor Covenant 2.0"
-msgstr ""
-
-#: (dynamic)
-msgid "código de conducta de DjangoCon Europe 2020"
+"Todas las personas que sean ponentes, tienen asegurada su participación en "
+"la conferencia, es decir no necesitan una entrada. En caso de que tengas "
+"pensado presentarte como ponente, independiente de si tu propuesta es "
+"aceptada o no, te recomendamos adquirir una entrada."
 msgstr ""
 
 #: templates/cfp.html:146
@@ -1051,4 +1286,90 @@ msgstr ""
 msgid ""
 "Para otros espacios o de forma alternativa, ponte en contacto con la Junta "
 "Directiva en "
+msgstr ""
+
+#: templates/diversity_and_scholarships.html:5
+msgid "Diversidad y becas"
+msgstr ""
+
+#: templates/diversity_and_scholarships.html:8
+msgid ""
+"En PyConEs 2024, nos comprometemos a promover la diversidad e inclusión en "
+"nuestra conferencia. Creemos firmemente en la importancia de crear un "
+"entorno inclusivo y respetuoso que fomente la participación de todas las "
+"personas, sin importar su raza, etnia, género, edad, habilidades, religión u "
+"orientación sexual. También nos preocupamos por brindar un entorno inclusivo "
+"para aquellos que tienen responsabilidades parentales."
+msgstr ""
+
+#: templates/diversity_and_scholarships.html:16
+#: templates/diversity_and_scholarships.html:71
+msgid "Solicitar beca"
+msgstr ""
+
+#: templates/diversity_and_scholarships.html:19
+#: templates/diversity_and_scholarships.html:74
+msgid "Solicitar entrada diversidad"
+msgstr ""
+
+#: templates/diversity_and_scholarships.html:22
+msgid ""
+"Para garantizar la diversidad en nuestra conferencia, hemos implementado "
+"diversas iniciativas, algunas de las cuales incluyen:"
+msgstr ""
+
+#: templates/diversity_and_scholarships.html:26
+msgid "Entradas de diversidad"
+msgstr ""
+
+#: templates/diversity_and_scholarships.html:28
+msgid ""
+"Ofrecemos oportunidades para mujeres y personas LGTBQ+ con circunstancias "
+"particulares, brindándoles la posibilidad de asistir a PyConES."
+msgstr ""
+
+#: templates/diversity_and_scholarships.html:32
+#: templates/diversity_and_scholarships.html:46
+msgid ""
+"Se otorgan a través de un proceso de solicitud activo hasta el XX de X: "
+msgstr ""
+
+#: templates/diversity_and_scholarships.html:34
+msgid "¡Quiero solicitar una entrada de diversidad!"
+msgstr ""
+
+#: templates/diversity_and_scholarships.html:39
+msgid "Becas"
+msgstr ""
+
+#: templates/diversity_and_scholarships.html:41
+msgid ""
+"Con las becas, tenemos el objetivo de eliminar las barreras económicas, "
+"facilitando la participación de aquellos que podrían enfrentar dificultades "
+"financieras para asistir al evento."
+msgstr ""
+
+#: templates/diversity_and_scholarships.html:48
+msgid "¡Quiero solicitar una beca!"
+msgstr ""
+
+#: templates/diversity_and_scholarships.html:55
+msgid ""
+"Contamos con un Código de Conducta para garantizar un ambiente respetuoso y "
+"seguro para todas las personas asistentes. Pueden consultarlo en el "
+"siguiente enlace: "
+msgstr ""
+
+#: templates/diversity_and_scholarships.html:58
+msgid "Código de Conducta."
+msgstr ""
+
+#: templates/diversity_and_scholarships.html:63
+msgid ""
+"Desde el equipo Organizador: Python Vigo, Python España y personas "
+"voluntarias de PyConEs24 secundamos el manifiesto de la PSF[¹] y valoramos "
+"la diversidad en todas sus formas y creemos que la inclusión de diferentes "
+"perspectivas enriquece nuestra comunidad y mejora nuestro campo. Seguiremos "
+"esforzándonos por promover la diversidad y garantizar que todas las personas "
+"se sientan bienvenidas y representadas en nuestra conferencia."
 msgstr ""
