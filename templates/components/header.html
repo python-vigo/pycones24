@@ -28,7 +28,7 @@
       <form
         class="mx-auto"
       >
-      <select class="text-white bg-transparent" onchange="location = this.options[this.selectedIndex].value;">
+      <select class="text-white bg-transparent *:active:bg-gray-50 *:active:text-black *:dark:active:bg-gray-700 *:dark:active:text-white text-lg" onchange="location = this.options[this.selectedIndex].value;">
         <option value="{{ '.'|url(alt='es') }}" {% if this.alt == 'es' %}selected{% endif %}>ES</option>
         <option value="{{ '.'|url(alt='en') }}" {% if this.alt == 'en' %}selected{% endif %}>EN</option>
         <option value="{{ '.'|url(alt='gl') }}" {% if this.alt == 'gl' %}selected{% endif %}>GAL</option>
