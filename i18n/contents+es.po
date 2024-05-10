@@ -257,6 +257,9 @@ msgstr ""
 msgid "Entradas incluídas"
 msgstr ""
 
+msgid "Envíanos un correo electrónico"
+msgstr ""
+
 msgid "Es importante que presentes tu idea de manera clara, pero que también puedas dar la información necesaria para que quienes revisen, entiendan tu propuesta."
 msgstr ""
 
@@ -545,6 +548,9 @@ msgid ""
 "</ul>"
 msgstr ""
 
+msgid "Selecciona idioma"
+msgstr ""
+
 msgid "Sesión de contratación"
 msgstr ""
 
@@ -591,6 +597,21 @@ msgid "Soy patrocinante ¿Cómo y Cuántas entradas consigo?"
 msgstr ""
 
 msgid "Stand"
+msgstr ""
+
+msgid "Síguenos en Instagram"
+msgstr ""
+
+msgid "Síguenos en Linkedin"
+msgstr ""
+
+msgid "Síguenos en Mastodon"
+msgstr ""
+
+msgid "Síguenos en Twitter"
+msgstr ""
+
+msgid "Síguenos en Youtube"
 msgstr ""
 
 msgid "Taller patrocinado"
