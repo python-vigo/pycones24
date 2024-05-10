@@ -1,0 +1,11 @@
+title: Quiero presentar una charla ¿Cómo lo hago?
+---
+description: Si visitas la sección <a href="https://2024.es.pycon.org/faq/" class="text-primary hover:text-secondary">Convocatoria de Propuestas</a> encontrarás instrucciones para crear tu Abstract y también un enlace a la plataforma donde se envían las propuestas, pretalx.
+---
+_template: faq/faq_item.html
+---
+secondary_description:
+
+Dentro del <a href="https://pretalx.com/pycones-2024/" target="_blank" class="text-primary hover:text-secondary">enlace</a> encontrarás las instrucciones (En Inglés y Español) y luego podrás comenzar a rellenar el formulario para enviar tu propuesta.
+
+Luego de enviar tu propuesta, tendrás la posibilidad de Editarla, así que no te preocupes si tienes que hacer cambios luego de enviarla.

@@ -1,0 +1,3 @@
+_model: faq
+---
+_template: faq/faq.html
