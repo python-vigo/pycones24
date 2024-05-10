@@ -1,13 +1,13 @@
 {% from "macros/logo.html" import render_logo %}
 
-<nav class="flex items-center justify-center w-11/12 py-4 mx-auto md:justify-around">
+<nav class="flex justify-center items-center py-4 mx-auto w-11/12 md:justify-around">
   <a href="{{ '/'|url }}" class="cursor-pointer">
     <figure>
       {{ render_logo('white') }}
     </figure>
   </a>
 
-  <div class="flex items-center gap-x-10">
+  <div class="flex gap-x-10 items-center">
     <a href="{{ '/'|url }}" class="hidden text-lg font-bold text-white lg:block hover:underline">
       {{ _("Inicio") }}
     </a>
@@ -18,7 +18,7 @@
       {{ _("FAQ") }}
     </a>
     <a href="https://pretix.eu/python-spain/"
-      class="hidden px-6 py-1 ml-auto text-lg font-bold text-center text-white bg-transparent border-2 rounded md:block hover:bg-white bg-primary hover:text-primary">
+      class="hidden py-1 px-6 ml-auto text-lg font-bold text-center text-white bg-transparent rounded border-2 md:block hover:bg-white bg-primary hover:text-primary">
       {{ _("Entradas") }}
     </a>
     <a href="{{ '/menu'|url }}" data-hx-push-url="false">
