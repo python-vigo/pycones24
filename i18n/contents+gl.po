@@ -259,6 +259,9 @@ msgstr ""
 msgid "Entradas incluídas"
 msgstr "Entradas incluídas"
 
+msgid "Envíanos un correo electrónico"
+msgstr ""
+
 msgid "Es importante que presentes tu idea de manera clara, pero que también puedas dar la información necesaria para que quienes revisen, entiendan tu propuesta."
 msgstr "É importante que presentes a túa idea de maneira clara, pero que tamén poidas fornecer a información necesaria para que quen a revise poida entendela."
 
@@ -547,6 +550,9 @@ msgid ""
 "</ul>"
 msgstr ""
 
+msgid "Selecciona idioma"
+msgstr ""
+
 msgid "Sesión de contratación"
 msgstr "Sesión de contratación"
 
@@ -594,6 +600,21 @@ msgstr "Patrocino, como e cantas entradas consigo?"
 
 msgid "Stand"
 msgstr "Posto"
+
+msgid "Síguenos en Instagram"
+msgstr ""
+
+msgid "Síguenos en Linkedin"
+msgstr ""
+
+msgid "Síguenos en Mastodon"
+msgstr ""
+
+msgid "Síguenos en Twitter"
+msgstr ""
+
+msgid "Síguenos en Youtube"
+msgstr ""
 
 msgid "Taller patrocinado"
 msgstr "Taller de patrocinio"

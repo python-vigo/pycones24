@@ -259,6 +259,9 @@ msgstr ""
 msgid "Entradas incluídas"
 msgstr "Tickets included"
 
+msgid "Envíanos un correo electrónico"
+msgstr ""
+
 msgid "Es importante que presentes tu idea de manera clara, pero que también puedas dar la información necesaria para que quienes revisen, entiendan tu propuesta."
 msgstr "It is important that you present your idea clearly, and that you are available to answer any feedback that the people reviewing your proposal might have."
 
@@ -547,6 +550,9 @@ msgid ""
 "</ul>"
 msgstr ""
 
+msgid "Selecciona idioma"
+msgstr ""
+
 msgid "Sesión de contratación"
 msgstr "Hiring session"
 
@@ -594,6 +600,21 @@ msgstr "I am a sponsor, how many tickets do I get, and how?"
 
 msgid "Stand"
 msgstr "Stand"
+
+msgid "Síguenos en Instagram"
+msgstr ""
+
+msgid "Síguenos en Linkedin"
+msgstr ""
+
+msgid "Síguenos en Mastodon"
+msgstr ""
+
+msgid "Síguenos en Twitter"
+msgstr ""
+
+msgid "Síguenos en Youtube"
+msgstr ""
 
 msgid "Taller patrocinado"
 msgstr "Sponsored workshop"
