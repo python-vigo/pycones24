@@ -1,0 +1,14 @@
+title: Otros espacios del lugar
+---
+description:
+
+El auditorio tiene su propio servicio de catering caracterizado por el buen gusto de su cocina.
+
+<ul class="mt-2 ml-8 list-disc">
+    <li>Coffe break</li>
+   <li>Almuerzos de trabajo</li>
+</ul>
+---
+sort_key: 6
+---
+_template: venue/venue_section.html
