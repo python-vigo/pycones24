@@ -1,0 +1,15 @@
+title: Recepción de bienvenida y registro
+---
+description:
+
+Ubicación: Sala Multipropósito - 3er piso:
+
+<ul class="mt-2 ml-8 list-disc">
+    <li>La Conferencia se llevará a cabo en el 3er piso, el más alto del edificio, junto a la Terraza sobre el estuario del Auditorio Mar De Vigo. </li>
+     <li>Hay diferentes niveles de acceso al 3er piso del edificio. </li>
+     <li>El Auditorio es bastante reciente y cuenta con ascensores desde el nivel de la calle hasta el último piso o puedes optar por usar las escaleras. </li>
+</ul>
+---
+_template: venue/venue_section.html
+---
+sort_key: 1
