@@ -1,5 +1,4 @@
 {% from "macros/logo_sponsors.html" import render_logo_sponsors %}
-{% from "macros/logo_sponsors_with_icon.html" import render_logo_sponsors_with_icon %}
 
 <section class="bg-[#F2F5F7] pt-20 p-4 pb-14">
     <h2 class="text-5xl text-center text-primary"> {{ _("Patrocinios") }}</h2>
@@ -10,45 +9,44 @@
       "almuerzos, comidas y meriendas. Con la ayuda de estas empresas conseguimos hacer "
       "un evento diverso e inclusivo enfocado en cuidar la comunidad de Python.") }}
     </p>
-    {{ render_logo_sponsors_with_icon(
-      "/static/images/sponsors_logo/levels/cies.svg",
+    {{ render_logo_sponsors(
       _("Nivel"),
       "Cies",
-      [
-      ])
-    }}
-    {{ render_logo_sponsors_with_icon(
-      "/static/images/sponsors_logo/levels/ons.svg",
-      _("Nivel"),
-      "Ons",
-      [
-      ])
-    }}
-    {{ render_logo_sponsors_with_icon(
-      "/static/images/sponsors_logo/levels/salvora.svg",
-      _("Nivel"),
-      "Sálvora",
-      [
-      ])
-    }}
-    {{ render_logo_sponsors_with_icon(
-      "/static/images/sponsors_logo/levels/cortegada.svg",
-      _("Nivel"),
-      "Cortegada",
-      [
-      ])
+      [],
+      "/static/images/sponsors_logo/levels/cies.svg",
+      )
     }}
     {{ render_logo_sponsors(
-      _("Patrocinio"),
-      _("especial"),
-      [
-      ])
+      _("Nivel"),
+      "Ons",
+      [],
+      "/static/images/sponsors_logo/levels/ons.svg",
+      )
+    }}
+    {{ render_logo_sponsors(
+      _("Nivel"),
+      "Sálvora",
+      [],
+      "/static/images/sponsors_logo/levels/salvora.svg",
+      )
+    }}
+    {{ render_logo_sponsors(
+      _("Nivel"),
+      "Cortegada",
+      [],
+      "/static/images/sponsors_logo/levels/cortegada.svg"
+      )
+    }}
+    {{ render_logo_sponsors(
+      _("Comunidades"),
+      _("Patrocinadoras"),
+      [])
     }}
     {{ render_logo_sponsors(
       "",
       _("Colaboradores"),
       [
-        ("/static/images/sponsors_logo/collaborators/python-vigo.png", "Python Vigo")
+        ("https://www.python-vigo.es/", "/static/images/sponsors_logo/collaborators/python-vigo.png", "Python Vigo")
       ])
     }}
 </section>

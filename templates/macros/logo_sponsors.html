@@ -1,14 +1,27 @@
-{% macro render_logo_sponsors(label_level, level, logos) %}
+{% macro render_logo_sponsors(label_level, level, logos, icon_level=None) %}
   <article class="flex flex-col gap-y-3 justify-around mx-auto mt-16 w-11/12 md:w-9/12 xl:flex-row">
       <section class="flex gap-2 items-center w-full lg:w-2/12 text-secondary leading-[-12px]">
+        {% if icon_level %}
+          <img src="{{ icon_level|asseturl }}" alt="{{ label_level }} {{ level}}">
+        {% endif %}
         <div>
           {% if label_level %}<p class="text-sm"> {{ label_level }}</p>{% endif %}
-          <p class="-mt-3 text-2xl">{{ level }}</p>
+          <p
+            {% if icon_level %}
+              class="-mt-2 text-2xl text-primary"
+            {% else %}
+              class="-mt-2 text-2xl"
+            {% endif %}
+          >
+            {{ level }}
+          </p>
         </div>
       </section>
       <section class="grid-cols-1 gap-5 p-3 w-full bg-white border-l-2 md:grid-cols-2 lg:grid-cols-4 lg:w-10/12 border-primary">
-        {% for image_logo, alt_logo in logos %}
-          <img src="{{ image_logo|asseturl }}" alt="{{ alt_logo }}">
+        {% for link, image_logo, alt_logo in logos %}
+          <a href="{{ link }}" target="_blank" class="hover:grayscale">
+            <img src="{{ image_logo|asseturl }}" alt="{{ alt_logo }}">
+          </a>
         {% endfor %}
         {% if not logos %}
           {{ _("Proximamente") }}
