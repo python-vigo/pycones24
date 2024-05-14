@@ -1,0 +1,54 @@
+{% from "macros/logo_sponsors.html" import render_logo_sponsors %}
+{% from "macros/logo_sponsors_with_icon.html" import render_logo_sponsors_with_icon %}
+
+<section class="bg-[#F2F5F7] pt-20 p-4 pb-14">
+    <h2 class="text-5xl text-center text-primary"> {{ _("Patrocinios") }}</h2>
+    <p class="mx-auto mt-6 w-10/12 text-lg text-center md:w-7/12">
+      {{ _("Gracias a las empresas que colaboran con la PyConES podemos ofrecer "
+      "el mejor evento y experiencia posible. Somos una conferencia con un bajo "
+      "coste de entrada capaz de ofrecer una experiencia de 3 días incluyendo regalos, "
+      "almuerzos, comidas y meriendas. Con la ayuda de estas empresas conseguimos hacer "
+      "un evento diverso e inclusivo enfocado en cuidar la comunidad de Python.") }}
+    </p>
+    {{ render_logo_sponsors_with_icon(
+      "/static/images/sponsors_logo/levels/cies.svg",
+      _("Nivel"),
+      "Cies",
+      [
+      ])
+    }}
+    {{ render_logo_sponsors_with_icon(
+      "/static/images/sponsors_logo/levels/ons.svg",
+      _("Nivel"),
+      "Ons",
+      [
+      ])
+    }}
+    {{ render_logo_sponsors_with_icon(
+      "/static/images/sponsors_logo/levels/salvora.svg",
+      _("Nivel"),
+      "Sálvora",
+      [
+      ])
+    }}
+    {{ render_logo_sponsors_with_icon(
+      "/static/images/sponsors_logo/levels/cortegada.svg",
+      _("Nivel"),
+      "Cortegada",
+      [
+      ])
+    }}
+    {{ render_logo_sponsors(
+      _("Patrocinio"),
+      _("especial"),
+      [
+      ])
+    }}
+    {{ render_logo_sponsors(
+      "",
+      _("Colaboradores"),
+      [
+        ("/static/images/sponsors_logo/collaborators/python-vigo.png", "Python Vigo")
+      ])
+    }}
+</section>
