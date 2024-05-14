@@ -40,13 +40,21 @@
     {{ render_logo_sponsors(
       _("Comunidades"),
       _("Patrocinadoras"),
-      [])
+      [
+        ("https://www.europython-society.org/", "/static/images/sponsors_logo/communities/logo_europython.png", "Logo Europython"),
+        ("https://www.python.org/psf-landing/", "/static/images/sponsors_logo/communities/logo_psf.png", "Logo PSF"),
+        ("https://es.python.org/", "/static/images/sponsors_logo/communities/logo_python_esp.png", "Logo Python España"),
+      ]
+      )
     }}
     {{ render_logo_sponsors(
       "",
       _("Colaboradores"),
       [
-        ("https://www.python-vigo.es/", "/static/images/sponsors_logo/collaborators/python-vigo.png", "Python Vigo")
-      ])
+        ("https://www.python-vigo.es/", "/static/images/sponsors_logo/collaborators/python-vigo.png", "Logo Python Vigo"),
+        ("https://aindustriosa.org/", "/static/images/sponsors_logo/collaborators/aindustriosa.jpg", "Logo A industriosa"),
+      ],
+      icon_size="w-16"
+      )
     }}
 </section>

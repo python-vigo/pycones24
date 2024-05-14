@@ -1,4 +1,4 @@
-{% macro render_logo_sponsors(label_level, level, logos, icon_level=None) %}
+{% macro render_logo_sponsors(label_level, level, logos, icon_level=None, icon_size="w-20") %}
   <article class="flex flex-col gap-y-3 justify-around mx-auto mt-16 w-11/12 md:w-9/12 xl:flex-row">
       <section class="flex gap-2 items-center w-full lg:w-2/12 text-secondary leading-[-12px]">
         {% if icon_level %}
@@ -17,10 +17,12 @@
           </p>
         </div>
       </section>
-      <section class="grid-cols-1 gap-5 p-3 w-full bg-white border-l-2 md:grid-cols-2 lg:grid-cols-4 lg:w-10/12 border-primary">
+      <section class="grid grid-cols-1 gap-14 justify-items-center p-3 w-full bg-white border-l-2 md:grid-cols-2 md:justify-items-start lg:grid-cols-8 lg:w-10/12 border-primary">
         {% for link, image_logo, alt_logo in logos %}
-          <a href="{{ link }}" target="_blank" class="hover:grayscale">
-            <img src="{{ image_logo|asseturl }}" alt="{{ alt_logo }}">
+          <a href="{{ link }}" target="_blank" class="col-span-1 hover:grayscale">
+            <figure class="{{ icon_size }} mx-auto">
+              <img src="{{ image_logo|asseturl }}" alt="{{ alt_logo }}">
+            </figure>
           </a>
         {% endfor %}
         {% if not logos %}
