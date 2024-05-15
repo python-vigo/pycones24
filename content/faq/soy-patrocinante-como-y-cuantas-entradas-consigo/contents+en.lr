@@ -5,7 +5,7 @@ _template: faq/faq_item.html
 description:
 
 Según el plan elegido tendrías las siguientes entradas:
-<ul class="ml-8 list-disc mt-1 text-secondary">
+<ul class="mt-1 ml-8 list-disc text-secondary">
   <li>Cíes: 6 entradas</li>
   <li>Ons: 4 entradas</li>
   <li>Sálvora: 2 entradas</li>
