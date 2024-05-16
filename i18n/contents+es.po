@@ -32,10 +32,45 @@ msgstr ""
 msgid "4, 5 y 6 de octubre"
 msgstr ""
 
+msgid "<p>El Auditorio Mar de Vigo es celebrado no solo por su brillantez arquitectónica sino también por sus instalaciones de vanguardia, haciéndolo un escenario ideal para la conferencia de Python más importante de España.</p>"
+msgstr ""
+
+msgid "<p>Este año la PyConEs se llevará a cabo en la ciudad de Vigo, España, en el prestigioso Auditorio Mar de Vigo.</p>"
+msgstr ""
+
+msgid "<p>Ubicado en el corazón de Vigo, este lugar presume de una ubicación frente al mar, ofreciendo vistas impresionantes de las Islas Cíes y el extenso Mar de Vigo.</p>"
+msgstr ""
+
+msgid ""
+"<ul class=\"mt-2 ml-8 list-disc\">\n"
+"    <li>Coffe break</li>\n"
+"   <li>Almuerzos de trabajo</li>\n"
+"</ul>"
+msgstr ""
+
+msgid ""
+"<ul class=\"mt-2 ml-8 list-disc\">\n"
+"    <li>La Conferencia se llevará a cabo en el 3er piso, el más alto del edificio, junto a la Terraza sobre el estuario del Auditorio Mar De Vigo. </li>\n"
+"     <li>Hay diferentes niveles de acceso al 3er piso del edificio. </li>\n"
+"     <li>El Auditorio es bastante reciente y cuenta con ascensores desde el nivel de la calle hasta el último piso o puedes optar por usar las escaleras. </li>\n"
+"</ul>"
+msgstr ""
+
+msgid ""
+"<ul class=\"mt-2 ml-8 list-disc\">\n"
+"<li>Accesibilidad para sillas de ruedas: Tanto el lugar como el auditorio Mar De Vigo tienen accesibilidad en silla de ruedas a todos los espacios de la conferencia.</li>\n"
+"<li>Acceso sin escalones: Tienes acceso sin escalones a todas las áreas de la conferencia.</li>\n"
+"<li>Ascensores: Mar De Vigo tiene ascensores que son accesibles y operativos durante la conferencia.</li>\n"
+"<ul>"
+msgstr ""
+
 msgid "A continuación podrás ver algunos de los hitos más importantes de la conferencia. En caso de que la fecha exacta no esté disponible, se confirmará el cambio lo antes posible."
 msgstr ""
 
 msgid "Abril"
+msgstr ""
+
+msgid "Accesibilidad"
 msgstr ""
 
 msgid "Aceptar la responsabilidad y disculparse ante quienes se vean afectados por nuestros errores, aprendiendo de la experiencia"
@@ -92,6 +127,9 @@ msgstr ""
 msgid "Autobus"
 msgstr ""
 
+msgid "Baja visión o dificultad de audición"
+msgstr ""
+
 msgid "Becas"
 msgstr ""
 
@@ -129,6 +167,9 @@ msgid "Con las becas, tenemos el objetivo de eliminar las barreras económicas, 
 msgstr ""
 
 msgid "Con un enfoque social"
+msgstr ""
+
+msgid "Conferencia inclusiva"
 msgstr ""
 
 msgid "Consideraciones adicionales"
@@ -215,13 +256,28 @@ msgstr ""
 msgid "Ejemplos de comportamiento que contribuyen a crear un ambiente positivo para nuestra comunidad:"
 msgstr ""
 
+msgid "El Aeropuerto de Peinador dispone de parada de taxis. El importe de la carrera desde el aeropuerto al Palacio de Congresos / Vigo Centro es fija y ronda los 21 €."
+msgstr ""
+
+msgid "El Aeropuerto de Peinador dispone de una parada de Autobús por la que circula la linea C9A, que cuenta con una parada muy cercana al Palacio de Congresos. Más informacion en:"
+msgstr ""
+
 msgid "El Aeropuerto de Vigo, Peinador, es el aeropuerto del sur de Galicia y está a solo 20 minutos del centro de la ciudad."
 msgstr ""
 
 msgid "El Aeropuerto de Vigo, Peinador, es el aeropuerto más cercano, a solo 20 minutos del centro de la ciudad. Más información en la sección <a href=\"https://2024.es.pycon.org/ciudad/\" class=\"text-primary hover:text-secondary\">Ciudad</a>."
 msgstr ""
 
+msgid "El Auditorio Palacio de Congresos Mar de Vigo se encuentra a unos 15 minutos en coche desde el Aeropuerto de Peinador."
+msgstr ""
+
+msgid "El Palacio de Congresos dispone de Servicio de Parking. (Consulte tarifas por minuto)"
+msgstr ""
+
 msgid "El acoso en público o privado"
+msgstr ""
+
+msgid "El auditorio tiene su propio servicio de catering caracterizado por el buen gusto de su cocina."
 msgstr ""
 
 msgid "El uso de lenguaje o imágenes sexualizadas, y aproximaciones o atenciones sexuales de cualquier tipo"
@@ -275,6 +331,9 @@ msgstr ""
 msgid "Estamos comprometidos a hacer de PyConES 2024 un evento inclusivo, atractivo e inolvidable para todos."
 msgstr ""
 
+msgid "Estamos dedicados a hacer nuestra conferencia accesible para todos. Encuentra detalles y recursos aquí. ¿Necesitas más información o alojamientos específicos? Contáctanos en <a href=\"mailto:contacto@2024.es.pycon.org\" class=\"text-primary\">contacto@2024.es.pycon.org</a>"
+msgstr ""
+
 msgid "Este Código de Conducta detalla qué comportamientos se esperan, cuáles se rechazan y qué mecanismos hay para ayudar a una persona que esté siendo objeto de comportamientos inadecuados."
 msgstr ""
 
@@ -300,6 +359,12 @@ msgid "Favorece que más personas sepan que son bienvenidas"
 msgstr ""
 
 msgid "Folleto en welcome pack"
+msgstr ""
+
+msgid "Gracias"
+msgstr ""
+
+msgid "Gracias a <a href=\"https://2024.djangocon.eu/\" target=\"_blank\" class=\"text-primary hover:text-secondary\">DjangoCon Europe</a> y <a href=\"https://www.writethedocs.org/conf/portland/2024/venue/#accessibility\" target=\"_blank\" class=\"text-primary hover:text-secondary\">writethedocs</a> por la inspiración en esta página."
 msgstr ""
 
 msgid "Hay tres vías principales de entrada por autopista:"
@@ -374,6 +439,9 @@ msgstr ""
 msgid "Luego de seleccionar un plan de patrocinio, podrás elegir adicionalmente elementos para apoyar la conferencia de forma independiente, como por ejemplo, “Entrevistas” o “Sala de lactancia”. Eso quiere decir que estarás apoyando a la conferencia pagando el plan que hayas elegido, más estos elementos independientes (con cupos limitados) para actividades específicas."
 msgstr ""
 
+msgid "Lugar"
+msgstr ""
+
 msgid "Machine learning e inteligencia artificial"
 msgstr ""
 
@@ -389,6 +457,12 @@ msgstr ""
 msgid "Más informacion en los siguientes enlaces:"
 msgstr ""
 
+msgid "Más informacion en: "
+msgstr ""
+
+msgid "Más información"
+msgstr ""
+
 msgid "Más información en la sección de <a href=\"https://2024.es.pycon.org/patrocinios/\" class=\"mt-1 text-primary hover:text-secondary\">patrocinios</a>."
 msgstr ""
 
@@ -396,6 +470,9 @@ msgid "Niveles"
 msgstr ""
 
 msgid "No olvides seguirnos en twitter"
+msgstr ""
+
+msgid "Nos comprometemos a atender todas tus necesidades dietéticas. Al adquirir tu entrada, tendrás la oportunidad de indicar cualquier preferencia o restricción alimentaria de manera detallada."
 msgstr ""
 
 msgid "Nos vemos en Vigo!"
@@ -425,6 +502,9 @@ msgstr ""
 msgid "Ofrecemos oportunidades para mujeres y personas LGTBQ+ con circunstancias particulares, brindándoles la posibilidad de asistir a PyConES."
 msgstr ""
 
+msgid "Organización de la Conferencia"
+msgstr ""
+
 msgid "Os damos la bienvenida a la <strong>PyConES</strong>, la <strong>conferencia de Python más importante de España.</strong>"
 msgstr ""
 
@@ -440,6 +520,9 @@ msgid ""
 "  <li>Aeropuerto de Santiago-Rosalía de Castro (approx. 100 km.)</li>\n"
 "  <li>Aeropuerto de Porto - Portugal (approx. 150 km.)</li>\n"
 "<ul>"
+msgstr ""
+
+msgid "Otros espacios del lugar"
 msgstr ""
 
 msgid "Para conocer todas las ventajas que te ofrecen nuestros distintos niveles de patrocinio puedes descargar el folleto informativo:"
@@ -514,7 +597,13 @@ msgstr ""
 msgid "Quiero presentar una charla ¿Cómo lo hago?"
 msgstr ""
 
+msgid "Recepción de bienvenida y registro"
+msgstr ""
+
 msgid "Recomendaciones para tu propuesta"
+msgstr ""
+
+msgid "Requerimientos dietéticos"
 msgstr ""
 
 msgid "Requerimientos previos o comentarios adicionales de tu charla"
@@ -535,12 +624,15 @@ msgstr ""
 msgid "Se otorgan a través de un proceso de solicitud activo hasta el XX de X: "
 msgstr ""
 
+msgid "Se proporcionará asiento preferencial para los asistentes que lo soliciten. Por favor, <a href=\"mailto:contacto@2024.es.pycon.org\" class=\"text-primary hover:text-secondary\">contacta con nosotros</a> acerca de cualquier requisito de iluminación que puedas tener, y haremos nuestro mejor esfuerzo para satisfacerlo."
+msgstr ""
+
 msgid "Seguridad y redes"
 msgstr ""
 
 msgid ""
 "Según el plan elegido tendrías las siguientes entradas:\n"
-"<ul class=\"ml-8 list-disc mt-1 text-secondary\">\n"
+"<ul class=\"mt-1 ml-8 list-disc text-secondary\">\n"
 "  <li>Cíes: 6 entradas</li>\n"
 "  <li>Ons: 4 entradas</li>\n"
 "  <li>Sálvora: 2 entradas</li>\n"
@@ -644,6 +736,9 @@ msgstr ""
 msgid "Todas las personas que sean ponentes, tienen asegurada su participación en la conferencia, es decir no necesitan una entrada. En caso de que tengas pensado presentarte como ponente, independiente de si tu propuesta es aceptada o no, te recomendamos adquirir una entrada."
 msgstr ""
 
+msgid "Ubicación: Sala Multipropósito - 3er piso:"
+msgstr ""
+
 msgid "Un evento que reunirá a cientos de entusiastas del lenguaje de programación Python, con una agenda increíble en la mejor localización posible."
 msgstr ""
 
@@ -689,6 +784,9 @@ msgstr ""
 msgid "¡Empieza el espectáculo!"
 msgstr ""
 
+msgid "¡Queremos que tu experiencia sea lo mejor posible! Si hay algo en lo que no hayamos pensado y que te ayudaría a asistir a nuestro evento, ¡por favor háznoslo saber!"
+msgstr ""
+
 msgid "¡Quiero solicitar una beca!"
 msgstr ""
 
@@ -705,6 +803,9 @@ msgid "¿En qué lugar se realizará la conferencia?"
 msgstr ""
 
 msgid "¿La conferencia es sólo en Español?"
+msgstr ""
+
+msgid "¿Olvidamos algo?"
 msgstr ""
 
 msgid "¿Por qué es importante buscar una solución a ese problema?"
