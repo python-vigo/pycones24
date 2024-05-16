@@ -4,4 +4,4 @@ _template: faq/faq_item.html
 ---
 description: The conference will be mainly in Spanish, and depending on how many talks in English are accepted, there may be a complete track during talk days.
 ---
-secondary_description: Las ponencias principales, apertura y cierre del evento serán en Español, de todas formas, todas las personas de la organización hablan Español e Inglés, en caso de que personas que asistan necesiten información en uno de los dos idiomas.
+secondary_description: The mail talks, that open and close the event, will be given in Spanish. However, everyone in the organization speaks both Spanish and English, should anyone need information in either language.
