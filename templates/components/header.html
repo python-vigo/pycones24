@@ -1,3 +1,4 @@
+{% from "macros/load_icon.html" import load_icon %}
 {% from "macros/logo.html" import render_logo %}
 
 <nav class="flex justify-center items-center py-4 mx-auto w-11/12 md:justify-around">
@@ -22,7 +23,7 @@
       {{ _("Entradas") }}
     </a>
     <a href="{{ '/menu'|url }}" data-hx-push-url="false">
-      <img src="/static/images/ham-icon.svg" alt="Menu" />
+      {{ load_icon('icons/ham-icon.html') }}
     </a>
     <div>
       <form
