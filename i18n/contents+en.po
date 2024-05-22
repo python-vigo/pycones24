@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pycones 24\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2024-05-11 13:44+0200\n"
+"PO-Revision-Date: 2024-05-22 18:31+0200\n"
 "Last-Translator: Adrián Chaves (Gallaecio) <adrian@chaves.io>\n"
 "Language-Team: Proxecto Trasno (proxecto@trasno.gal)\n"
 "Language: en\n"
@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Lokalize 24.02.2\n"
+"X-Generator: Poedit 3.4.4\n"
 
 msgid "/static/dossier/2024ES - Dossier - PyConES Vigo - Patrocinadores.pdf"
 msgstr "/static/dossier/2024ES - Dossier - PyConES Vigo - Patrocinadores.pdf"
@@ -144,6 +144,9 @@ msgstr "Racist, sexist or exclusionary jokes"
 msgid "Bruselas"
 msgstr "Brussels"
 
+msgid "C4P"
+msgstr ""
+
 msgid "Centrarse en lo que sea mejor no sólo para nosotros como individuos, sino para la comunidad en general"
 msgstr "Focus on what is best for not only us as individuals, but for the community as a whole"
 
@@ -179,6 +182,9 @@ msgstr "Additional considerations"
 
 msgid "Construye un clima de confianza, donde si alguien quiere reportar un incidente, sabrá que no empezaremos por cuestionarle (victim blaming)."
 msgstr "Build a climate of trust, where if someone wants to report an incident, they know that we will not start by questioning them (victim blaming)."
+
+msgid "Contamos con un Código de Conducta para garantizar un ambiente respetuoso y seguro para todas las personas asistentes. Pueden consultarlo en el siguiente enlace:"
+msgstr "We have a Code of Conduct in place to ensure a respectful and safe environment for all attendees. You can review it at the following link:"
 
 msgid "Contamos con un Código de Conducta para garantizar un ambiente respetuoso y seguro para todas las personas asistentes. Pueden consultarlo en el siguiente enlace: "
 msgstr "We have a Code of Conduct to ensure a respectful, safe environment for every attendee."
@@ -237,8 +243,8 @@ msgstr "Download the full brochure (Spanish)"
 msgid "Descargar dosier resumido (ES)"
 msgstr "Download the summarized brochure (Spanish)"
 
-msgid "Desde el equipo Organizador: Python Vigo, Python España y personas voluntarias de PyConEs24 secundamos el manifiesto de la PSF[¹] y valoramos la diversidad en todas sus formas y creemos que la inclusión de diferentes perspectivas enriquece nuestra comunidad y mejora nuestro campo. Seguiremos esforzándonos por promover la diversidad y garantizar que todas las personas se sientan bienvenidas y representadas en nuestra conferencia."
-msgstr "The organization, which includes Python Vigo, Python España and PyConES 2024 volunteers, seconds the PSF manifest[¹]. We value diversity in all forms, and believe that inclusion of different views enriches our community and improves our field. We will continue to strive to promote diversity and make sure that everyone feels welcome and represented at our conference."
+msgid "Desde el equipo Organizador: Python Vigo, Python España y personas voluntarias de PyConES24, secundamos el manifiesto de la PSF[¹] y valoramos la diversidad en todas sus formas creyendo  firmemente que la inclusión de diferentes perspectivas enriquece nuestra comunidad y mejora nuestro campo. Seguiremos esforzándonos por promover la diversidad y garantizar que todas las personas se sientan bienvenidas y representadas en nuestra conferencia."
+msgstr "From the Organizing Team: Python Vigo, Python Spain, and PyConES24 volunteers, we support the PSF[¹] manifesto and value diversity in all its forms, firmly believing that the inclusion of different perspectives enriches our community and enhances our field. We will continue to strive to promote diversity and ensure that all individuals feel welcomed and represented at our conference."
 
 msgid "DevOps / Administración de sistemas / Scripts de automatización"
 msgstr "DevOps / system administration / automation scripts"
@@ -285,8 +291,8 @@ msgstr ""
 msgid "El uso de lenguaje o imágenes sexualizadas, y aproximaciones o atenciones sexuales de cualquier tipo"
 msgstr "The use of sexualized language or images, and sexual approaches or attention of any kind"
 
-msgid "En PyConEs 2024, nos comprometemos a promover la diversidad e inclusión en nuestra conferencia. Creemos firmemente en la importancia de crear un entorno inclusivo y respetuoso que fomente la participación de todas las personas, sin importar su raza, etnia, género, edad, habilidades, religión u orientación sexual. También nos preocupamos por brindar un entorno inclusivo para aquellos que tienen responsabilidades parentales."
-msgstr "At PyConES 2024 we are committed to promote diversity and inclusion in our conference. We firmly believe in the importance of building an inclusive, respectful environment that promotes participation by everyone, no matter their race, ethnicity, gender, age, abilities, religion or sexual orientation. We are also trying to build an inclusive environment for people with parental responsibilities."
+msgid "En PyConES 2024, nos comprometemos a promover la diversidad e inclusión en nuestra conferencia. Creemos firmemente en la importancia de crear un entorno inclusivo y respetuoso que fomente la participación de todas las personas, sin importar su raza, etnia, género, edad, habilidades, religión u orientación sexual. También nos preocupamos por brindar un entorno inclusivo para aquellos que tienen responsabilidades parentales."
+msgstr "At PyConES 2024, we are committed to promoting diversity and inclusion at our conference. We firmly believe in the importance of creating an inclusive and respectful environment that encourages the participation of all individuals, regardless of their race, ethnicity, gender, age, abilities, religion, or sexual orientation. We also care about providing an inclusive environment for those with parental responsibilities."
 
 msgid "En Telegram, a la persona propietaria del grupo u otras administradoras."
 msgstr "In Telegram, to the person who owns the group or other administrators."
@@ -299,6 +305,9 @@ msgstr "By car or bus"
 
 msgid "En el corazón de las Rías Baixas, Vigo es la mayor ciudad de Galicia. Originalmente un pueblo de pescadores, ahora es conocida como la “Puerta del Atlántico”. Es una ciudad con una gran oferta cultural y gastronómica, con una amplia variedad de restaurantes y bares donde degustar algunos de los mejores mariscos del mundo."
 msgstr "At the heart of Rías Baixas, Vigo is the biggest city in Galicia. Originally a fishing village, now it is known as “Door of the Atlantic”. It is a city with a wide range of restaurants and bars, where you can enjoy some of the best seafood in the world."
+
+msgid "En el foro de Discourse puedes denunciar publicaciones individuales o contactar con el"
+msgstr ""
 
 msgid "En el foro de Discourse puedes denunciar publicaciones individuales o contactar con el "
 msgstr "In the Discourse forum you can report individual posts or contact the"
@@ -459,6 +468,9 @@ msgstr "More information"
 msgid "Más informacion en los siguientes enlaces:"
 msgstr "More information in the following links:"
 
+msgid "Más informacion en:"
+msgstr ""
+
 msgid "Más informacion en: "
 msgstr ""
 
@@ -483,6 +495,9 @@ msgstr "See you in Vigo!"
 msgid "Nota de prensa"
 msgstr "Press release"
 
+msgid "Nuestro equipo está aquí para ayudarte. Si tienes alguna pregunta o sugerencia, no dudes en contactarnos en"
+msgstr ""
+
 msgid "Nuestro equipo está aquí para ayudarte. Si tienes alguna pregunta o sugerencia, no dudes en contactarnos en "
 msgstr "Our team is here to help you. If you have any question or feedback, do not hesitate to contact us at "
 
@@ -500,9 +515,6 @@ msgstr "October"
 
 msgid "Ofertas de trabajo"
 msgstr "Job offers"
-
-msgid "Ofrecemos oportunidades para mujeres y personas LGTBQ+ con circunstancias particulares, brindándoles la posibilidad de asistir a PyConES."
-msgstr "We offer opportunities for women and LGTBQ+ people with particular circumstances, allowing them to attend PyConES."
 
 msgid "Organización de la Conferencia"
 msgstr ""
@@ -541,8 +553,14 @@ msgstr "To promote diversity in our conference, we have implemented several init
 msgid "Para moverte por Vigo y si quieres ir a las playas cercanas, la mejor opción es el transporte público, autobús o taxi"
 msgstr "To get around Vigo and, if you wish, nearby beaches, the best option is public transport, either bus or taxi."
 
+msgid "Para obtener información actualizada, le recomendamos que visite la página web de"
+msgstr ""
+
 msgid "Para obtener información actualizada, le recomendamos que visite la página web de "
 msgstr "For up-to-date information, visit the website of "
+
+msgid "Para otros espacios o de forma alternativa, ponte en contacto con la Junta Directiva en"
+msgstr ""
 
 msgid "Para otros espacios o de forma alternativa, ponte en contacto con la Junta Directiva en "
 msgstr "For other spaces or alternatively, contact the Board of Directors at"
@@ -628,8 +646,11 @@ msgstr "Proposals with multiple speakers may be submitted"
 msgid "Se hará en el Auditorio Mar de Vigo, situado en primera línea de mar, frente a las Islas Cíes. <a href=\"https://auditoriomardevigo.com/localizacion/\" target=\"blank\" class=\"text-primary hover:text-secondary\">Más información</a>"
 msgstr "Will take place in Auditorio Mar de Vigo, located on the oceanfront, facing Cíes Islands. <a href=\"https://auditoriomardevigo.com/localizacion/\" target=\"blank\" class=\"text-primary hover:text-secondary\">More info</a>"
 
-msgid "Se otorgan a través de un proceso de solicitud activo hasta el XX de X: "
-msgstr "They are granted through an application process active until X XXth: "
+msgid "Se otorgan a través de un proceso de solicitud activo hasta el 30 de junio:"
+msgstr "They are awarded through an active application process until June 30th:"
+
+msgid "Se otorgan a través de un proceso de solicitud activo hasta el 30 de junio: "
+msgstr "They are awarded through an active application process until June 30th:"
 
 msgid "Se proporcionará asiento preferencial para los asistentes que lo soliciten. Por favor, <a href=\"mailto:contacto@2024.es.pycon.org\" class=\"text-primary hover:text-secondary\">contacta con nosotros</a> acerca de cualquier requisito de iluminación que puedas tener, y haremos nuestro mejor esfuerzo para satisfacerlo."
 msgstr ""
