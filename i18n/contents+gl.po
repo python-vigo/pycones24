@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pycones 24\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2024-05-11 13:19+0200\n"
+"PO-Revision-Date: 2024-05-22 18:35+0200\n"
 "Last-Translator: Adrián Chaves (Gallaecio) <adrian@chaves.io>\n"
 "Language-Team: Proxecto Trasno (proxecto@trasno.gal)\n"
 "Language: gl\n"
@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Lokalize 24.02.2\n"
+"X-Generator: Poedit 3.4.4\n"
 
 msgid "/static/dossier/2024ES - Dossier - PyConES Vigo - Patrocinadores.pdf"
 msgstr "/static/dossier/2024ES - Dossier - PyConES Vigo - Patrocinadores.pdf"
@@ -144,6 +144,9 @@ msgstr "Bromas racistas, sexistas ou excluíntes"
 msgid "Bruselas"
 msgstr "Bruselas"
 
+msgid "C4P"
+msgstr ""
+
 msgid "Centrarse en lo que sea mejor no sólo para nosotros como individuos, sino para la comunidad en general"
 msgstr "Centrarse no que sexa mellor non só para nós como individuos, senón para a comunidade en xeral"
 
@@ -179,6 +182,9 @@ msgstr "Consideracións adicionais"
 
 msgid "Construye un clima de confianza, donde si alguien quiere reportar un incidente, sabrá que no empezaremos por cuestionarle (victim blaming)."
 msgstr "Constrúe un clima de confianza, onde se alguén quere reportar un incidente, saberá que non empezaremos por cuestionarlle (victim blaming)."
+
+msgid "Contamos con un Código de Conducta para garantizar un ambiente respetuoso y seguro para todas las personas asistentes. Pueden consultarlo en el siguiente enlace:"
+msgstr "Contamos cun código de conduta para garantir un ambiente respectuoso e seguro para todas as persoas asistentes. Podes consultalo na seguinte ligazón:"
 
 msgid "Contamos con un Código de Conducta para garantizar un ambiente respetuoso y seguro para todas las personas asistentes. Pueden consultarlo en el siguiente enlace: "
 msgstr "Contamos cun código de conduta para garantir un ambiente respectuoso e seguro para todas as persoas asistentes. Podes consultalo na seguinte ligazón: "
@@ -237,8 +243,8 @@ msgstr "Descargar o dosier completo (castelán)"
 msgid "Descargar dosier resumido (ES)"
 msgstr "Descargar o dosier resumido (castelán)"
 
-msgid "Desde el equipo Organizador: Python Vigo, Python España y personas voluntarias de PyConEs24 secundamos el manifiesto de la PSF[¹] y valoramos la diversidad en todas sus formas y creemos que la inclusión de diferentes perspectivas enriquece nuestra comunidad y mejora nuestro campo. Seguiremos esforzándonos por promover la diversidad y garantizar que todas las personas se sientan bienvenidas y representadas en nuestra conferencia."
-msgstr "Desde o equipo organizador, formado por Python Vigo, Python España e persoas voluntarias de PyConES24, secundamos o manifesto da PSF[¹], valoramos a diversidade en todas as súas formas e cremos que a inclusión de diferentes perspectivas enriquece a nosa comunidade e mellora o noso campo. Seguiremos esforzándonos por promover a diversidade e garantir que todas as persoas se sintan benvidas e representadas na nosa conferencia."
+msgid "Desde el equipo Organizador: Python Vigo, Python España y personas voluntarias de PyConES24, secundamos el manifiesto de la PSF[¹] y valoramos la diversidad en todas sus formas creyendo  firmemente que la inclusión de diferentes perspectivas enriquece nuestra comunidad y mejora nuestro campo. Seguiremos esforzándonos por promover la diversidad y garantizar que todas las personas se sientan bienvenidas y representadas en nuestra conferencia."
+msgstr "Desde o equipo Organizador: Python Vigo, Python España e persoas voluntarias de PyConES24, secundamos o manifesto da PSF[¹] e valoramos a diversidade en todas as súas formas crendo firmemente que a inclusión de diferentes perspectivas enriquece a nosa comunidade e mellora o noso campo. Seguiremos esforzándonos por promover a diversidade e garantir que todas as persoas sentan benvidas e representadas na nosa conferencia."
 
 msgid "DevOps / Administración de sistemas / Scripts de automatización"
 msgstr "DevOps, administración de sistemas, guións de automatización"
@@ -285,8 +291,8 @@ msgstr ""
 msgid "El uso de lenguaje o imágenes sexualizadas, y aproximaciones o atenciones sexuales de cualquier tipo"
 msgstr "O uso de linguaxe ou imaxes sexualizadas, e aproximacións ou atencións sexuais de calquera tipo"
 
-msgid "En PyConEs 2024, nos comprometemos a promover la diversidad e inclusión en nuestra conferencia. Creemos firmemente en la importancia de crear un entorno inclusivo y respetuoso que fomente la participación de todas las personas, sin importar su raza, etnia, género, edad, habilidades, religión u orientación sexual. También nos preocupamos por brindar un entorno inclusivo para aquellos que tienen responsabilidades parentales."
-msgstr "En PyConES 2024 comprometémonos a promover a diversidade e inclusión na nosa conferencia. Cremos firmemente na importancia de crear un entorno inclusivo e respectuoso que fomente a participación de todas as persoas, sen importar a súa raza, etnia, xénero, idade, habilidades, relixión ou orientación sexual. Tamén nos preocupamos por brindar un entorno inclusivo para as persoas que teñen responsabilidades parentais."
+msgid "En PyConES 2024, nos comprometemos a promover la diversidad e inclusión en nuestra conferencia. Creemos firmemente en la importancia de crear un entorno inclusivo y respetuoso que fomente la participación de todas las personas, sin importar su raza, etnia, género, edad, habilidades, religión u orientación sexual. También nos preocupamos por brindar un entorno inclusivo para aquellos que tienen responsabilidades parentales."
+msgstr "En PyConES 2024, comprometémonos a promover a diversidade e inclusión na nosa conferencia. Cremos firmemente na importancia de crear unha contorna inclusivo e respectuoso que fomente a participación de todas as persoas, sen importar a súa raza, etnia, xénero, idade, habilidades, relixión ou orientación sexual. Tamén nos preocupamos por brindar unha contorna inclusivo para aqueles que teñen responsabilidades parentais."
 
 msgid "En Telegram, a la persona propietaria del grupo u otras administradoras."
 msgstr "En Telegram, á persoa propietaria do grupo ou outras administradoras."
@@ -299,6 +305,9 @@ msgstr "En coche ou bus"
 
 msgid "En el corazón de las Rías Baixas, Vigo es la mayor ciudad de Galicia. Originalmente un pueblo de pescadores, ahora es conocida como la “Puerta del Atlántico”. Es una ciudad con una gran oferta cultural y gastronómica, con una amplia variedad de restaurantes y bares donde degustar algunos de los mejores mariscos del mundo."
 msgstr "No corazón das Rías Baixas, Vigo é a maior cidade de Galicia. Orixinalmente unha aldea pesqueira, agora coñécese como a «Porta do Atlántico». É unha cidade cunha gran oferta cultural e gastronómica, cunha ampla variedade de restaurantes e bares onde degustar algúns dos mellores mariscos do mundo."
+
+msgid "En el foro de Discourse puedes denunciar publicaciones individuales o contactar con el"
+msgstr ""
 
 msgid "En el foro de Discourse puedes denunciar publicaciones individuales o contactar con el "
 msgstr "No foro de Discourse podes denunciar publicacións individuais ou contactar co "
@@ -459,6 +468,9 @@ msgstr "Máis informacion"
 msgid "Más informacion en los siguientes enlaces:"
 msgstr "Máis información nas seguintes ligazóns:"
 
+msgid "Más informacion en:"
+msgstr ""
+
 msgid "Más informacion en: "
 msgstr ""
 
@@ -483,6 +495,9 @@ msgstr "Vémonos en Vigo!"
 msgid "Nota de prensa"
 msgstr "Nota de prensa"
 
+msgid "Nuestro equipo está aquí para ayudarte. Si tienes alguna pregunta o sugerencia, no dudes en contactarnos en"
+msgstr ""
+
 msgid "Nuestro equipo está aquí para ayudarte. Si tienes alguna pregunta o sugerencia, no dudes en contactarnos en "
 msgstr "O noso equipo está aquí para axudarte. Se tes algunha pregunta ou suxestión, non dubides en contactarnos en "
 
@@ -500,9 +515,6 @@ msgstr "Outubro"
 
 msgid "Ofertas de trabajo"
 msgstr "Ofertas de traballo"
-
-msgid "Ofrecemos oportunidades para mujeres y personas LGTBQ+ con circunstancias particulares, brindándoles la posibilidad de asistir a PyConES."
-msgstr "Ofrecemos oportunidades para mulleres e persoas LGTBQ+ con circunstancias particulares, brindándolles a posibilidade de asistir a PyConES."
 
 msgid "Organización de la Conferencia"
 msgstr ""
@@ -541,8 +553,14 @@ msgstr "Para garantir a diversidade na conferencia implementamos varias iniciati
 msgid "Para moverte por Vigo y si quieres ir a las playas cercanas, la mejor opción es el transporte público, autobús o taxi"
 msgstr "Para moverte por Vigo e se queres ir ás praias próximas, a mellor opción é o transporte público, autobús ou taxi."
 
+msgid "Para obtener información actualizada, le recomendamos que visite la página web de"
+msgstr ""
+
 msgid "Para obtener información actualizada, le recomendamos que visite la página web de "
 msgstr "Para obter información actualizada, recomendámoslle que visite a páxina web de "
+
+msgid "Para otros espacios o de forma alternativa, ponte en contacto con la Junta Directiva en"
+msgstr ""
 
 msgid "Para otros espacios o de forma alternativa, ponte en contacto con la Junta Directiva en "
 msgstr "Para outros espazos ou de forma alternativa, ponche en contacto coa Xunta Directiva en "
@@ -628,8 +646,11 @@ msgstr "Acéptanse charlas con varias persoas como ponentes"
 msgid "Se hará en el Auditorio Mar de Vigo, situado en primera línea de mar, frente a las Islas Cíes. <a href=\"https://auditoriomardevigo.com/localizacion/\" target=\"blank\" class=\"text-primary hover:text-secondary\">Más información</a>"
 msgstr "Celebrarase no Auditorio Mar de Vigo, situado en primera liña de mar, fronte ás Illas Cíes. <a href=\"https://auditoriomardevigo.com/localizacion/\" target=\"blank\" class=\"text-primary hover:text-secondary\">Máis información</a>."
 
-msgid "Se otorgan a través de un proceso de solicitud activo hasta el XX de X: "
-msgstr "Outórganse a través dun proceso de solicitude aberto ata o XX de X: "
+msgid "Se otorgan a través de un proceso de solicitud activo hasta el 30 de junio:"
+msgstr "Outórganse a través dun proceso de solicitude activo ata o 30 de xuño:"
+
+msgid "Se otorgan a través de un proceso de solicitud activo hasta el 30 de junio: "
+msgstr "Outórganse a través dun proceso de solicitude activo ata o 30 de xuño:"
 
 msgid "Se proporcionará asiento preferencial para los asistentes que lo soliciten. Por favor, <a href=\"mailto:contacto@2024.es.pycon.org\" class=\"text-primary hover:text-secondary\">contacta con nosotros</a> acerca de cualquier requisito de iluminación que puedas tener, y haremos nuestro mejor esfuerzo para satisfacerlo."
 msgstr ""
