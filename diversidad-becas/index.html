@@ -1,24 +1,24 @@
 <!doctype html>
-<html lang="en">
+<html lang="es">
   <head>
     <meta charset="utf-8">
     <meta name="description"
       
-        content="Website of PyConES 2024 in Vigo, Galicia. The most important Python conference in Spain."
+        content="Página web de la PyConES 2024 en Vigo, Galicia. La conferencia de Python más importante de España."
       
     >
     <meta name="viewport" content="width=device-width" />
     <title>PyConES 2024 Vigo </title>
-    <link rel="stylesheet" href="../../static/style.css" >
-    <link rel="shortcut icon" type="image/x-icon" href="../../static/favicon/favicon.ico?h=a2ad10f8">
-    <link rel="icon" type="image/png" sizes="192x192" href="../../static/favicon/android-chrome-192x192.png?h=296bcb50">
-    <link rel="icon" type="image/png" sizes="512x512" href="../../static/favicon/android-chrome-512x512.png?h=070cdad0">
-    <link rel="apple-touch-icon" sizes="180x180" href="../../static/favicon/apple-touch-icon.png?h=fb568e35">
-    <link rel="icon" type="image/png" sizes="32x32" href="../../static/favicon/favicon-32x32.png?h=de6befff">
-    <link rel="icon" type="image/png" sizes="16x16" href="../../static/favicon/favicon-16x16.png?h=55fb3bfc">
-    <link rel="manifest" href="../../static/favicon/site.webmanifest?h=f4d600c9">
+    <link rel="stylesheet" href="../static/style.css" >
+    <link rel="shortcut icon" type="image/x-icon" href="../static/favicon/favicon.ico?h=a2ad10f8">
+    <link rel="icon" type="image/png" sizes="192x192" href="../static/favicon/android-chrome-192x192.png?h=296bcb50">
+    <link rel="icon" type="image/png" sizes="512x512" href="../static/favicon/android-chrome-512x512.png?h=070cdad0">
+    <link rel="apple-touch-icon" sizes="180x180" href="../static/favicon/apple-touch-icon.png?h=fb568e35">
+    <link rel="icon" type="image/png" sizes="32x32" href="../static/favicon/favicon-32x32.png?h=de6befff">
+    <link rel="icon" type="image/png" sizes="16x16" href="../static/favicon/favicon-16x16.png?h=55fb3bfc">
+    <link rel="manifest" href="../static/favicon/site.webmanifest?h=f4d600c9">
     <meta name="google-site-verification" content="ggr-BOSKTnIjcxjkkreUx5oqxBWojqS-iDhnE8ovQAk" />
-    <script src="../../static/js/htmx.min.js"></script>
+    <script src="../static/js/htmx.min.js"></script>
   </head>
   <body class="flex flex-col min-h-screen">
     
@@ -31,28 +31,28 @@
     <figure>
       
     
-        <img class="w-9/12 md:w-fit" src="../../static/logo/logo-white.svg?h=ded0d086" alt="Logo PyConES 24">
+        <img class="w-9/12 md:w-fit" src="../static/logo/logo-white.svg?h=ded0d086" alt="Logo PyConES 24">
     
 
     </figure>
   </a>
 
   <div class="flex gap-x-10 items-center">
-    <a href="./" class="hidden text-lg font-bold text-white lg:block hover:underline">
+    <a href="../c4p/" class="hidden text-lg font-bold text-white lg:block hover:underline">
       C4P
     </a>
     <a href="../patrocinios/" class="hidden text-lg font-bold text-white lg:block hover:underline">
-      Sponsorships
+      Patrocinios
     </a>
-    <a href="../diversidad-becas/" class="hidden text-lg font-bold text-white lg:block hover:underline">
-      Diversity and grants
+    <a href="./" class="hidden text-lg font-bold text-white lg:block hover:underline">
+      Diversidad y becas
     </a>
     <a href="../faq/" class="hidden text-lg font-bold text-white lg:block hover:underline">
       FAQ
     </a>
     <a href="https://pretix.eu/python-spain/"
       class="hidden py-1 px-6 ml-auto text-lg font-bold text-center text-white bg-transparent rounded border-2 md:block hover:bg-white bg-primary hover:text-primary">
-      Tickets
+      Entradas
     </a>
     <a href="../menu/" data-hx-push-url="false">
       
@@ -75,13 +75,13 @@
         class="mx-auto"
       >
       <select
-        aria-label="Choose Language"
+        aria-label="Selecciona idioma"
         class="text-white bg-transparent *:active:bg-gray-50 *:active:text-black *:dark:active:bg-gray-700 *:dark:active:text-white text-lg"
         onchange="location = this.options[this.selectedIndex].value;"
       >
-        <option value="../../c4p/" >ES</option>
-        <option value="./" selected>EN</option>
-        <option value="../../gal/c4p/" >GAL</option>
+        <option value="./" selected>ES</option>
+        <option value="../en/diversidad-becas/" >EN</option>
+        <option value="../gal/diversidad-becas/" >GAL</option>
       </select>
       </form>
     </div>
@@ -90,154 +90,66 @@
     </header>
     <main class="flex-grow">
     
-<section class="grid grid-cols-1 gap-y-5 pb-10 mx-auto w-10/12">
-    <h1 class="my-10 text-5xl text-primary">Call for Papers (CfP)</h1>
-    <h2 class="mt-2 mb-5 text-md">
-        This page contains all the information about the procedure to propose a talk or workshop for PyConES 2024. We will update it constantly as new information becomes available.
-    </h2>
-    <h3 class="text-2xl">
-        The call for papers (CfP) closes at 23:59 UTC on May 31th. Do not leave it for the very last minute!
-    </h3>
-    <div class="my-10">
-        <a href="https://pretalx.com/pycones-2024/" target="_blank"
-            class="p-3 px-6 text-xl font-bold text-white bg-primary hover:bg-secondary">
-            PyConES 2024, Vigo CFP
-        </a>
-    </div>
-    <article class="mb-5 text-xl">
-        <p>
-            We are looking for diverse talks about both technical and non-technical topics. We want talks for all skill levels from both new and experienced speakers.
+<div class="grid-cols-5 mx-auto w-10/12">
+    <h1 class="mt-12 mb-12 text-5xl text-primary">Diversidad y becas</h1>
+    <section class="grid grid-cols-1 gap-8 w-full md:w-8/12 text-secondary">
+        <p class="text-2xl">
+            En PyConES 2024, nos comprometemos a promover la diversidad e inclusión en nuestra conferencia. Creemos firmemente en la importancia de crear un entorno inclusivo y respetuoso que fomente la participación de todas las personas, sin importar su raza, etnia, género, edad, habilidades, religión u orientación sexual. También nos preocupamos por brindar un entorno inclusivo para aquellos que tienen responsabilidades parentales.
         </p>
-        <p class="font-semibold text-secondary">
-            If you are wondering if you can do this, the answer is yes. If you are interested in a topic, we are interested as well.
+        <div class="flex gap-5 my-12">
+            <a href="https://forms.gle/FZaMsuBqDHfHBaDv8" target="_blank" class="py-2 px-8 font-bold text-white bg-primary">Solicitar beca</a>
+            <a href="https://forms.gle/LMfCLnWVdKgPafsGA" target="_blank" class="py-2 px-8 font-bold text-white bg-primary">
+                Solicitar entrada diversidad</a>
+        </div>
+        <p class="text-lg">
+            Para garantizar la diversidad en nuestra conferencia, hemos implementado diversas iniciativas, algunas de las cuales incluyen:
         </p>
-    </article>
-    <article id="recomendaciones" class="text-lg">
-        <h4 class="mb-3 text-2xl font-bold text-secondary">Tips for your proposal</h4>
-        <p>
-            We want to encourage people with different levels of experience in giving talks to participate in this conference. We know that, for first-timers, presenting an idea that reflects every cool detail about your talk can be confusing.
+        <article class="text-lg">
+            <h3 class="mb-4 text-2xl font-bold">Entradas de diversidad</h3>
+            <p class="mt-5">
+                Se otorgan a través de un proceso de solicitud activo hasta el 30 de junio:
+                <a href="https://forms.gle/LMfCLnWVdKgPafsGA" target="_blank" class="font-bold underline text-primary">
+                    ¡Quiero solicitar una entrada de diversidad!
+                </a>
+            </p>
+        </article>
+        <article class="text-lg">
+            <h3 class="mb-4 text-2xl font-bold">Becas</h3>
+            <p>
+                Con las becas, tenemos el objetivo de eliminar las barreras económicas, facilitando la participación de aquellos que podrían enfrentar dificultades financieras para asistir al evento.
+            </p>
+            <p class="mt-5">
+                Se otorgan a través de un proceso de solicitud activo hasta el 30 de junio:
+                <a href="https://forms.gle/FZaMsuBqDHfHBaDv8" target="_blank" class="font-bold underline text-primary">
+                    ¡Quiero solicitar una beca!
+                </a>
+            </p>
+        </article>
+        <article class="text-lg">
+            <h3 class="mb-4 text-2xl font-bold">Código de conducta</h3>
+            <p>
+                Contamos con un Código de Conducta para garantizar un ambiente respetuoso y seguro para todas las personas asistentes. Pueden consultarlo en el siguiente enlace:
+                <a href="../codigo-conducta/" class="font-bold underline text-primary">
+                    Código de Conducta.
+                </a>
+            </p>
+        </article>
+        <p class="text-lg">
+            Desde el equipo Organizador: Python Vigo, Python España y personas voluntarias de PyConES24, secundamos el manifiesto de la PSF[¹] y valoramos la diversidad en todas sus formas creyendo  firmemente que la inclusión de diferentes perspectivas enriquece nuestra comunidad y mejora nuestro campo. Seguiremos esforzándonos por promover la diversidad y garantizar que todas las personas se sientan bienvenidas y representadas en nuestra conferencia.
         </p>
-        <p>It is important that you present your idea clearly, and that you are available to answer any feedback that the people reviewing your proposal might have.</p>
-        <h5 class="mt-3 mb-1 text-xl font-bold">Abstract layout</h5>
-        <p>
-            A simple layout that you could follow is to cover the following aspects in your proposal:
-        </p>
-        <ul class="mt-2 ml-8 text-xl list-disc">
-            <li>
-                Context for your talk or problem
-            </li>
-            <li>
-                Definition of the problem
-            </li>
-            <li>
-                Why is it important to find a solution to that problem?
-            </li>
-            <li>
-                What will be covered, and what will attendees learn?
-            </li>
-            <li>
-                Prerequisites or additional comments about your talk
-            </li>
-        </ul>
-        <p class="mt-3 mb-1">Avoid abstracts with 1-2 lines that repeat the idea already featured in the title, and try and include aspects that make your proposal special and unique.</p>
-    </article>
-    <article class="text-lg">
-        <h4 class="mb-3 text-2xl font-bold text-secondary">Types of proposals</h4>
-        <ul class="ml-8 text-xl list-disc">
-            <li>
-                Talks: 35 min (30 min + 5 min QA)
-            </li>
-            <li>
-                Workshops: up to 90 min
-            </li>
-        </ul>
-        <p class="mt-1 mb-2">
-            If your workshops takes more or less time, tell the organization so that they can take it into account when designing the program. This will allow us to create a diverse program that fits into the three days of the conference.
-        </p>
-        <p class="mt-3 mb-1">We value proposals:</p>
-        <ul class="ml-8 text-xl list-disc">
-            <li>With a social focus</li>
-            <li>Hops between different professional fields</li>
-            <li>Or just about your experience using Python and its impact in your life</li>
-        </ul>
-    </article>
-    <article class="text-lg">
-        <h4 class="mb-3 text-2xl font-bold text-secondary">Topics</h4>
-        <p class="mb-1">There are no limits for topics as long as they are related to Python. Here are some ideas:
-        </p>
-        <ul class="ml-8 text-xl list-disc">
-            <li>
-                Web development
-            </li>
-            <li>
-                Analysis, engineering, and data science
-            </li>
-            <li>
-                DevOps / system administration / automation scripts
-            </li>
-            <li>
-                Education
-            </li>
-            <li>
-                Machine learning and artificial intelligence
-            </li>
-            <li>
-                Desktop apps
-            </li>
-            <li>
-                Internet of things
-            </li>
-            <li>
-                Security and networks
-            </li>
-            <li>
-                Mobile apps, multimedia, embedded
-            </li>
-            <li>
-                Community, society and culture
-            </li>
-            <li>
-                And many more!
-            </li>
-        </ul>
-    </article>
-    <article>
-        <h4 class="mb-3 text-2xl font-bold text-secondary">Additional considerations</h4>
-        </p>
-        <ul class="ml-8 text-xl list-disc">
-            <li>
-                Any given person may submit multiple proposals
-            </li>
-            <li>
-                Proposals with multiple speakers may be submitted
-            </li>
-            <li>
-                We will let you know both if we accept your proposals and if we don’t
-            </li>
-        </ul>
-    </article>
-    <article>
-        <h4 class="mb-3 text-2xl font-bold text-secondary">Questions or feedback?</h4>
-        <p class="text-xl">Nuestro equipo está aquí para ayudarte. Si tienes alguna pregunta o sugerencia, no dudes en contactarnos en
-            <a href="mailto:charlas@2024.es.pycon.org"
-                class="font-bold text-primary hover:text-secondary">charlas@2024.es.pycon.org</a>.
-            We are committed to make of PyConES 2024 an inclusive, attractive and unforgettable event for everyone.
-        </p>
-    </article>
-    <article class="mt-10 text-xl">
-        <p>
-            See you in Vigo!
-        </p>
-        <p class="mt-5">
-            Do not forget to follow us in Twitter
-            <a href="https://twitter.com/PyConES" class="font-bold text-primary hover:text-secondary">@PyConES</a>
-            to get the latest updates!
-        </p>
-    </article>
-</section>
+        <div class="flex gap-5 my-12">
+            <a href="https://forms.gle/FZaMsuBqDHfHBaDv8" target="_blank" class="py-2 px-8 font-bold text-white bg-primary">Solicitar beca</a>
+            <a href="https://forms.gle/LMfCLnWVdKgPafsGA" target="_blank" class="py-2 px-8 font-bold text-white bg-primary">
+                Solicitar entrada diversidad</a>
+        </div>
+        <blockquote class="my-5 text-xs">
+            [¹] The Python Software Foundation and the global Python community welcome and encourage participation by everyone. Our community is based on mutual respect, tolerance, and encouragement, and we are working to help each other live up to these principles. We want our community to be more diverse: whoever you are, and whatever your background, we welcome you. The PSF
+        </blockquote>
+    </section>
+</div>
 
     <figure class="">
-        <img src="../../static/images/bg-trisquel.svg?h=a537757e" alt="Trisquel" class="fixed right-0 w-9/12 md:right-1 md:-bottom-1 -z-20 md:max-w-[600px]">
+        <img src="../static/images/bg-trisquel.svg?h=a537757e" alt="Trisquel" class="fixed right-0 w-9/12 md:right-1 md:-bottom-1 -z-20 md:max-w-[600px]">
     </figure>
 </main>
     
@@ -247,10 +159,10 @@
     <nav class="text-xl text-white md:text-lg">
         <ul class="grid grid-cols-1 gap-5 md:grid-cols-2 lg:grid-cols-5">
             <li>
-                <a href="../codigo-conducta/" class="cursor-pointer hover:underline">Code of Conduct</a>
+                <a href="../codigo-conducta/" class="cursor-pointer hover:underline">Código de conducta</a>
             </li>
             <li>
-                <a href="../ediciones-anteriores/" class="cursor-pointer hover:underline">Previous editions</a>
+                <a href="../ediciones-anteriores/" class="cursor-pointer hover:underline">Ediciones anteriores</a>
             </li>
         </ul>
     </nav>
@@ -260,7 +172,7 @@
                 <a
                   href="mailto:contacto@2024.es.pycon.org"
                   target="_blank"
-                  aria-label=Email us
+                  aria-label=Envíanos un correo electrónico
                   class="hover:opacity-70 fill-white"
                 >
                     
@@ -274,7 +186,7 @@
                 <a
                   href="https://es.linkedin.com/company/python-espa%C3%B1a"
                   target="_blank"
-                  aria-label=Follow us on LinkedIn
+                  aria-label=Síguenos en Linkedin
                   class="w-2 hover:opacity-70 fill-white"
                 >
                     
@@ -290,7 +202,7 @@
                 <a
                   href="https://fosstodon.org/@pycones"
                   target="_blank"
-                  aria-label=Follow us on Mastodon
+                  aria-label=Síguenos en Mastodon
                   class="w-6 hover:opacity-70 fill-white"
                 >
                     
@@ -304,7 +216,7 @@
                 <a
                   href="https://twitter.com/PyConES"
                   target="_blank"
-                  aria-label=Follow us on Twitter
+                  aria-label=Síguenos en Twitter
                   class="w-6 hover:opacity-70 fill-white"
                 >
                     
@@ -318,7 +230,7 @@
                 <a
                   href="https://instagram.com/pycon_es"
                   target="_blank"
-                  aria-label=Follow us on Instagram
+                  aria-label=Síguenos en Instagram
                   class="w-6 hover:opacity-70 fill-white"
                 >
                     
@@ -332,7 +244,7 @@
                 <a
                   href="https://www.youtube.com/@PythonES"
                   target="_blank"
-                  aria-label=Follow us on YouTube
+                  aria-label=Síguenos en Youtube
                   class="w-6 hover:opacity-70 fill-white"
                 >
                   
