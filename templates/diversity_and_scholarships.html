@@ -41,10 +41,12 @@
                 }}
             </p>
             <p class="mt-5">
-                {{ _("Se otorgan a través de un proceso de solicitud activo hasta el 30 de junio: ") }}
-                <a href="{{ this.url_scholarship }}" target="_blank" class="font-bold underline text-primary">
-                    {{ _("¡Quiero solicitar una beca!") }}
-                </a>
+                {% trans trimmed url=this.url_scholarship %}
+                    Se otorgan a través de un proceso de solicitud activo hasta el 30 de junio:
+                    <a href="{{ url }}" target="_blank" class="font-bold underline text-primary">
+                        ¡Quiero solicitar una beca!
+                    </a>
+                {% endtrans %}
             </p>
         </article>
         <article class="text-lg">
