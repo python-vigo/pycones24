@@ -1,0 +1,28 @@
+#!/bin/bash
+set -euo pipefail
+
+TEMP_DIR=$(mktemp -d)
+
+# Check if tmp dir was created
+if [[ ! "$TEMP_DIR" || ! -d "$TEMP_DIR" ]]; then
+  echo "Could not create temp dir"
+  exit 1
+fi
+
+# Deletes the temp directory
+function cleanup {
+  rm -rf "$TEMP_DIR"
+  echo "Deleted temp working directory $TEMP_DIR"
+}
+
+# Register the cleanup function to be called on the EXIT signal
+trap cleanup EXIT
+
+# Build using temporary directory
+lektor build -f webpack -O "$TEMP_DIR"
+
+# Normalize .PO files
+sed -i -E '/POT-Creation-Date:/d' i18n/contents+en.po i18n/contents+es.po i18n/contents+gl.po
+msgattrib --sort-output --no-location --no-obsolete --no-wrap i18n/contents+es.po --output i18n/contents+es.po
+msgattrib --sort-output --no-location --no-obsolete --no-wrap i18n/contents+gl.po --output i18n/contents+gl.po
+msgattrib --sort-output --no-location --no-obsolete --no-wrap i18n/contents+en.po --output i18n/contents+en.po
