@@ -62,12 +62,9 @@
                     </ul>
                 </article>
                 <p>
-                    {{ _("Para obtener información actualizada, le recomendamos que visite la página web de ") }}
-                    {{ link(
-                    "https://www.aena.es/es/infovuelos.html",
-                    "AENA"
-                    )
-                    }}
+                    {% trans trimmed link_aena=link("https://www.aena.es/es/infovuelos.html", "AENA") %}
+                        Para obtener información actualizada, le recomendamos que visite la página web de {{ link_aena }}.
+                    {% endtrans %}
                 </p>
                 <article class="mt-4">
                     <h3>{{ _("Otros aeropuertos cercanos") }}</h3>
