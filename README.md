@@ -33,3 +33,15 @@ Página web de la conferencia nacional de Python 2024 · Vigo · Galicia
 Una vez que el servidor de desarrollo está en marcha, visita la url [127.0.0.1:5000](http://127.0.0.1:5000) o [127.0.0.1:5000/admin](http://127.0.0.1:5000/admin) para acceder a la interfaz del admin.
 
 > *Para más detalles puedes consultar la [documentación oficial de lektor](https://www.getlektor.com/docs/quickstart/#running-your-project).*
+
+
+## Idiomas
+
+La web está disponible en dos idiomas: español e inglés. Para actualizar los idiomas debes editar los archivos `.po` en la carpeta `i18n`. Los
+cambios se compilarán automáticamente al guardar el archivo `.po` mientras el servidor de desarrollo está en funcionamiento.
+
+Si tienes algún problema puedes ejecutar:
+
+```bash
+scripts/normalize
+```

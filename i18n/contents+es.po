@@ -2,6 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pycones 24\n"
 "Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-05-24 09:07+CET\n"
 "PO-Revision-Date: 2024-03-11 00:54+CET\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -10,6 +11,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "/static/dossier/2024ES - Dossier - PyConES Vigo - Patrocinadores - resumido.pdf"
+msgstr ""
 
 msgid "/static/dossier/2024ES - Dossier - PyConES Vigo - Patrocinadores.pdf"
 msgstr ""
@@ -181,9 +185,6 @@ msgstr ""
 msgid "Construye un clima de confianza, donde si alguien quiere reportar un incidente, sabrá que no empezaremos por cuestionarle (victim blaming)."
 msgstr ""
 
-msgid "Contamos con un Código de Conducta para garantizar un ambiente respetuoso y seguro para todas las personas asistentes. Pueden consultarlo en el siguiente enlace:"
-msgstr ""
-
 msgid "Contamos con un Código de Conducta para garantizar un ambiente respetuoso y seguro para todas las personas asistentes. Pueden consultarlo en el siguiente enlace: "
 msgstr ""
 
@@ -302,9 +303,6 @@ msgid "En coche o bus"
 msgstr ""
 
 msgid "En el corazón de las Rías Baixas, Vigo es la mayor ciudad de Galicia. Originalmente un pueblo de pescadores, ahora es conocida como la “Puerta del Atlántico”. Es una ciudad con una gran oferta cultural y gastronómica, con una amplia variedad de restaurantes y bares donde degustar algunos de los mejores mariscos del mundo."
-msgstr ""
-
-msgid "En el foro de Discourse puedes denunciar publicaciones individuales o contactar con el"
 msgstr ""
 
 msgid "En el foro de Discourse puedes denunciar publicaciones individuales o contactar con el "
@@ -466,9 +464,6 @@ msgstr ""
 msgid "Más informacion en los siguientes enlaces:"
 msgstr ""
 
-msgid "Más informacion en:"
-msgstr ""
-
 msgid "Más informacion en: "
 msgstr ""
 
@@ -491,9 +486,6 @@ msgid "Nos vemos en Vigo!"
 msgstr ""
 
 msgid "Nota de prensa"
-msgstr ""
-
-msgid "Nuestro equipo está aquí para ayudarte. Si tienes alguna pregunta o sugerencia, no dudes en contactarnos en"
 msgstr ""
 
 msgid "Nuestro equipo está aquí para ayudarte. Si tienes alguna pregunta o sugerencia, no dudes en contactarnos en "
@@ -546,13 +538,7 @@ msgstr ""
 msgid "Para moverte por Vigo y si quieres ir a las playas cercanas, la mejor opción es el transporte público, autobús o taxi"
 msgstr ""
 
-msgid "Para obtener información actualizada, le recomendamos que visite la página web de"
-msgstr ""
-
 msgid "Para obtener información actualizada, le recomendamos que visite la página web de "
-msgstr ""
-
-msgid "Para otros espacios o de forma alternativa, ponte en contacto con la Junta Directiva en"
 msgstr ""
 
 msgid "Para otros espacios o de forma alternativa, ponte en contacto con la Junta Directiva en "
@@ -637,9 +623,6 @@ msgid "Se aceptan charlas con varias personas como ponentes"
 msgstr ""
 
 msgid "Se hará en el Auditorio Mar de Vigo, situado en primera línea de mar, frente a las Islas Cíes. <a href=\"https://auditoriomardevigo.com/localizacion/\" target=\"blank\" class=\"text-primary hover:text-secondary\">Más información</a>"
-msgstr ""
-
-msgid "Se otorgan a través de un proceso de solicitud activo hasta el 30 de junio:"
 msgstr ""
 
 msgid "Se otorgan a través de un proceso de solicitud activo hasta el 30 de junio: "
