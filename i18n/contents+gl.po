@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pycones 24\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2024-05-24 19:01+0200\n"
+"PO-Revision-Date: 2024-05-24 19:10+0200\n"
 "Last-Translator: Adrián Chaves (Gallaecio) <adrian@chaves.io>\n"
 "Language-Team: Proxecto Trasno (proxecto@trasno.gal)\n"
 "Language: gl\n"
@@ -148,7 +148,7 @@ msgid "Bruselas"
 msgstr "Bruselas"
 
 msgid "C4P"
-msgstr ""
+msgstr "C4P"
 
 msgid "Centrarse en lo que sea mejor no sólo para nosotros como individuos, sino para la comunidad en general"
 msgstr "Centrarse no que sexa mellor non só para nós como individuos, senón para a comunidade en xeral"
@@ -365,7 +365,7 @@ msgid "Folleto en welcome pack"
 msgstr "Folleto no paquete de benvida"
 
 msgid "Gracias"
-msgstr ""
+msgstr "Grazas"
 
 msgid "Gracias a <a href=\"https://2024.djangocon.eu/\" target=\"_blank\" class=\"text-primary hover:text-secondary\">DjangoCon Europe</a> y <a href=\"https://www.writethedocs.org/conf/portland/2024/venue/#accessibility\" target=\"_blank\" class=\"text-primary hover:text-secondary\">writethedocs</a> por la inspiración en esta página."
 msgstr ""
@@ -462,10 +462,10 @@ msgstr "Máis información nas seguintes ligazóns:"
 
 #, python-format
 msgid "Más informacion en: %(venue_link)s."
-msgstr ""
+msgstr "Máis información en: %(venue_link)s."
 
 msgid "Más información"
-msgstr ""
+msgstr "Máis información"
 
 msgid "Más información en la sección de <a href=\"https://2024.es.pycon.org/patrocinios/\" class=\"mt-1 text-primary hover:text-secondary\">patrocinios</a>."
 msgstr "Máis información na sección de <a href=\"https://2024.es.pycon.org/patrocinios/\" class=\"mt-1 text-primary hover:text-secondary\">patrocinios</a>."
