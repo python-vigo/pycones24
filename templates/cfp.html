@@ -159,9 +159,11 @@
             {{ _("Nos vemos en Vigo!") }}
         </p>
         <p class="mt-5">
-            {{ _("No olvides seguirnos en twitter") }}
-            <a href="https://twitter.com/PyConES" class="font-bold text-primary hover:text-secondary">@PyConES</a>
-            {{ _("para obtener la información más reciente y actualizada!") }}
+            {% trans trimmed %}
+                No olvides seguirnos en twitter
+                <a href="https://twitter.com/PyConES" class="font-bold text-primary hover:text-secondary">@PyConES</a>
+                para obtener la información más reciente y actualizada!
+            {% endtrans %}
         </p>
     </article>
 </section>
