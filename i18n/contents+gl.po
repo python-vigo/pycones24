@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pycones 24\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2024-05-24 19:10+0200\n"
+"PO-Revision-Date: 2024-05-24 19:23+0200\n"
 "Last-Translator: Adrián Chaves (Gallaecio) <adrian@chaves.io>\n"
 "Language-Team: Proxecto Trasno (proxecto@trasno.gal)\n"
 "Language: gl\n"
@@ -188,7 +188,7 @@ msgstr "Constrúe un clima de confianza, onde se alguén quere reportar un incid
 
 #, python-format
 msgid "Contamos con un Código de Conducta para garantizar un ambiente respetuoso y seguro para todas las personas asistentes. Pueden consultarlo en el siguiente enlace: <a href=\"%(link)s\" class=\"font-bold underline text-primary\"> Código de Conducta </a>."
-msgstr ""
+msgstr "Contamos cun código de conduta para garantir un ambiente respectuoso e seguro para todas as persoas asistentes. Podes consultalo na seguinte ligazón: <a href=\"%(link)s\" class=\"font-bold underline text-primary\"> Código de Conduta </a>."
 
 msgid "Contexto de tu charla o problema"
 msgstr "Contexto da charla ou problema"
@@ -461,7 +461,7 @@ msgid "Más información en la sección de <a href=\"https://2024.es.pycon.org/p
 msgstr "Máis información na sección de <a href=\"https://2024.es.pycon.org/patrocinios/\" class=\"mt-1 text-primary hover:text-secondary\">patrocinios</a>."
 
 msgid "Más información en los siguientes enlaces:"
-msgstr ""
+msgstr "Máis información nas seguintes ligazóns:"
 
 #, python-format
 msgid "Más información en: %(venue_link)s."
@@ -665,7 +665,7 @@ msgid "Si prefieres un poco más de flexibilidad, no te costará encontrar un ta
 msgstr "Se prefires un pouco máis de flexibilidade, non te custará atopar un taxi en Vigo. É unha opción moi cómoda para moverse polo centro de Vigo e os seus barrios. Teñen tarifas razoábeis e permitirante desprazarte rapidamente."
 
 msgid "Si quieres formar parte de nuestros patrocinadores para hacer esta conferencia aún más impresionante puedes disponer de un espacio dentro del eventos."
-msgstr ""
+msgstr "Se queres formar parte dos nosos patrocinadores para facer esta conferencia aínda máis impresionante, podes dispoñer dun espazo dentro do evento."
 
 msgid "Si se trata de un espacio en línea, ponte en contacto con las personas moderadoras de ese espacio."
 msgstr "Se se trata dun espazo en liña, ponche en contacto coas persoas moderadoras dese espazo."
