@@ -143,12 +143,15 @@
     </article>
     <article>
         <h4 class="mb-3 text-2xl font-bold text-secondary">{{ _("¿Preguntas o sugerencias?")}}</h4>
-        <p class="text-xl">{{ _("Nuestro equipo está aquí para ayudarte. Si tienes alguna pregunta o sugerencia, no "
-            "dudes en contactarnos en ") }}
-            <a href="mailto:charlas@2024.es.pycon.org"
-                class="font-bold text-primary hover:text-secondary">charlas@2024.es.pycon.org</a>.
-            {{ _("Estamos comprometidos a hacer de PyConES 2024 un evento inclusivo, atractivo e inolvidable para "
-            "todos.") }}
+        <p class="text-xl">
+            {% trans trimmed %}
+                Nuestro equipo está aquí para ayudarte. Si tienes alguna pregunta o sugerencia, no dudes en contactarnos en
+                <a href="mailto:charlas@2024.es.pycon.org" class="font-bold text-primary hover:text-secondary">
+                    charlas@2024.es.pycon.org
+                </a>
+                .
+                Estamos comprometidos a hacer de PyConES 2024 un evento inclusivo, atractivo e inolvidable para todos.
+            {% endtrans %}
         </p>
     </article>
     <article class="mt-10 text-xl">
