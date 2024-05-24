@@ -52,11 +52,13 @@
         <article class="text-lg">
             <h3 class="mb-4 text-2xl font-bold">{{ _("Código de conducta") }}</h3>
             <p>
-                {{ _("Contamos con un Código de Conducta para garantizar un ambiente respetuoso y seguro para todas "
-                "las personas asistentes. Pueden consultarlo en el siguiente enlace: ")}}
-                <a href="{{ '/codigo-conducta'|url }}" class="font-bold underline text-primary">
-                    {{ _("Código de Conducta.") }}
-                </a>
+                {% trans trimmed link='/codigo-conducta'|url %}
+                    Contamos con un Código de Conducta para garantizar un ambiente respetuoso y seguro para todas
+                    las personas asistentes. Pueden consultarlo en el siguiente enlace:
+                    <a href="{{ link }}" class="font-bold underline text-primary">
+                        Código de Conducta
+                    </a>.
+                {% endtrans %}
             </p>
         </article>
         <p class="text-lg">
