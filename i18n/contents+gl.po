@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pycones 24\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2024-05-24 19:23+0200\n"
+"PO-Revision-Date: 2024-05-24 19:48+0200\n"
 "Last-Translator: Adrián Chaves (Gallaecio) <adrian@chaves.io>\n"
 "Language-Team: Proxecto Trasno (proxecto@trasno.gal)\n"
 "Language: gl\n"
@@ -178,7 +178,7 @@ msgid "Con un enfoque social"
 msgstr "Cun enfoque social"
 
 msgid "Conferencia inclusiva"
-msgstr ""
+msgstr "Conferencia inclusiva"
 
 msgid "Consideraciones adicionales"
 msgstr "Consideracións adicionais"
@@ -305,7 +305,7 @@ msgid "En el corazón de las Rías Baixas, Vigo es la mayor ciudad de Galicia. O
 msgstr "No corazón das Rías Baixas, Vigo é a maior cidade de Galicia. Orixinalmente unha aldea pesqueira, agora coñécese como a «Porta do Atlántico». É unha cidade cunha gran oferta cultural e gastronómica, cunha ampla variedade de restaurantes e bares onde degustar algúns dos mellores mariscos do mundo."
 
 msgid "En el foro de Discourse puedes denunciar publicaciones individuales o contactar con el <a class=\"text-primary hover:opacity-65\" href=\"https://comunidad.es.python.org/groups/moderadores\"> grupo de moderación </a> ."
-msgstr ""
+msgstr "No foro de Discourse podes denunciar publicacións individuais ou contactar co  <a class=\"text-primary hover:opacity-65\" href=\"https://comunidad.es.python.org/groups/moderadores\"> grupo de moderación </a> ."
 
 msgid "En tren"
 msgstr "En tren"
@@ -368,7 +368,7 @@ msgid "Gracias"
 msgstr "Grazas"
 
 msgid "Gracias a <a href=\"https://2024.djangocon.eu/\" target=\"_blank\" class=\"text-primary hover:text-secondary\">DjangoCon Europe</a> y <a href=\"https://www.writethedocs.org/conf/portland/2024/venue/#accessibility\" target=\"_blank\" class=\"text-primary hover:text-secondary\">writethedocs</a> por la inspiración en esta página."
-msgstr ""
+msgstr "Grazas a <a href=\"https://2024.djangocon.eu/\" target=\"_blank\" class=\"text-primary hover:text-secondary\">DjangoCon Europe</a> e <a href=\"https://www.writethedocs.org/conf/portland/2024/venue/#accessibility\" target=\"_blank\" class=\"text-primary hover:text-secondary\">writethedocs</a> pola inspiración desta páxina."
 
 msgid "Hay tres vías principales de entrada por autopista:"
 msgstr "Hai tres vías principais de entrada por autopista:"
@@ -443,7 +443,7 @@ msgid "Luego de seleccionar un plan de patrocinio, podrás elegir adicionalmente
 msgstr "Despois de seleccionar un plan de patrocinio poderás elixir tamén elementos para apoiar a conferencia de forma independente, como por exemplo «Entrevistas» ou «Sala de lactancia». É dicir, estarás apoiando a conferencia pagando o plan que elixises, máis estes elementos independentes (con cupos limitados) para actividades específicas."
 
 msgid "Lugar"
-msgstr ""
+msgstr "Lugar"
 
 msgid "Machine learning e inteligencia artificial"
 msgstr "Aprendizaxe artificial e intelixencia artificial"
@@ -465,7 +465,7 @@ msgstr "Máis información nas seguintes ligazóns:"
 
 #, python-format
 msgid "Más información en: %(venue_link)s."
-msgstr ""
+msgstr "Máis información en: %(venue_link)s."
 
 msgid "Niveles"
 msgstr "Niveis"
@@ -501,7 +501,7 @@ msgid "Ofertas de trabajo"
 msgstr "Ofertas de traballo"
 
 msgid "Organización de la Conferencia"
-msgstr ""
+msgstr "Organización da Conferencia"
 
 msgid "Os damos la bienvenida a la <strong>PyConES</strong>, la <strong>conferencia de Python más importante de España.</strong>"
 msgstr "Dámosvos a benvida á <strong>PyConES</strong>, a <strong>conferencia de Python más importante de España.</strong>"
@@ -526,7 +526,7 @@ msgstr ""
 "<ul>"
 
 msgid "Otros espacios del lugar"
-msgstr ""
+msgstr "Outros espazos do lugar"
 
 msgid "Para conocer todas las ventajas que te ofrecen nuestros distintos niveles de patrocinio puedes descargar el folleto informativo:"
 msgstr "Para coñecer todas as vantaxes que ofrecen os distintos niveis de patrocinio podes descargar o folleto informativo:"
@@ -535,7 +535,7 @@ msgid "Para garantizar la diversidad en nuestra conferencia, hemos implementado 
 msgstr "Para garantir a diversidade na conferencia implementamos varias iniciativas, entre elas:"
 
 msgid "Para moverte por Vigo y si quieres ir a las playas cercanas, la mejor opción es el transporte público, autobús o taxi."
-msgstr ""
+msgstr "Para moverte por Vigo e se queres ir ás praias próximas, a mellor opción é o transporte público, autobús ou taxi."
 
 #, python-format
 msgid "Para obtener información actualizada, le recomendamos que visite la página web de %(link_aena)s."
@@ -665,7 +665,7 @@ msgid "Si prefieres un poco más de flexibilidad, no te costará encontrar un ta
 msgstr "Se prefires un pouco máis de flexibilidade, non te custará atopar un taxi en Vigo. É unha opción moi cómoda para moverse polo centro de Vigo e os seus barrios. Teñen tarifas razoábeis e permitirante desprazarte rapidamente."
 
 msgid "Si quieres formar parte de nuestros patrocinadores para hacer esta conferencia aún más impresionante puedes disponer de un espacio dentro del evento."
-msgstr ""
+msgstr "Se queres formar parte dos nosos patrocinadores para facer esta conferencia aínda máis impresionante, podes dispoñer dun espazo dentro do evento."
 
 msgid "Si se trata de un espacio en línea, ponte en contacto con las personas moderadoras de ese espacio."
 msgstr "Se se trata dun espazo en liña, ponche en contacto coas persoas moderadoras dese espazo."
