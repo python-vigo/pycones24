@@ -186,8 +186,9 @@ msgstr "Consideracións adicionais"
 msgid "Construye un clima de confianza, donde si alguien quiere reportar un incidente, sabrá que no empezaremos por cuestionarle (victim blaming)."
 msgstr "Constrúe un clima de confianza, onde se alguén quere reportar un incidente, saberá que non empezaremos por cuestionarlle (victim blaming)."
 
-msgid "Contamos con un Código de Conducta para garantizar un ambiente respetuoso y seguro para todas las personas asistentes. Pueden consultarlo en el siguiente enlace: "
-msgstr "Contamos cun código de conduta para garantir un ambiente respectuoso e seguro para todas as persoas asistentes. Podes consultalo na seguinte ligazón: "
+#, python-format
+msgid "Contamos con un Código de Conducta para garantizar un ambiente respetuoso y seguro para todas las personas asistentes. Pueden consultarlo en el siguiente enlace: <a href=\"%(link)s\" class=\"font-bold underline text-primary\"> Código de Conducta </a>."
+msgstr ""
 
 msgid "Contexto de tu charla o problema"
 msgstr "Contexto da charla ou problema"
@@ -206,9 +207,6 @@ msgstr "Cumprimento"
 
 msgid "Código conducta"
 msgstr "Código conduta"
-
-msgid "Código de Conducta."
-msgstr "Código de conduta."
 
 msgid "Código de conducta"
 msgstr "Código de conduta"
@@ -306,8 +304,8 @@ msgstr "En coche ou bus"
 msgid "En el corazón de las Rías Baixas, Vigo es la mayor ciudad de Galicia. Originalmente un pueblo de pescadores, ahora es conocida como la “Puerta del Atlántico”. Es una ciudad con una gran oferta cultural y gastronómica, con una amplia variedad de restaurantes y bares donde degustar algunos de los mejores mariscos del mundo."
 msgstr "No corazón das Rías Baixas, Vigo é a maior cidade de Galicia. Orixinalmente unha aldea pesqueira, agora coñécese como a «Porta do Atlántico». É unha cidade cunha gran oferta cultural e gastronómica, cunha ampla variedade de restaurantes e bares onde degustar algúns dos mellores mariscos do mundo."
 
-msgid "En el foro de Discourse puedes denunciar publicaciones individuales o contactar con el "
-msgstr "No foro de Discourse podes denunciar publicacións individuais ou contactar co "
+msgid "En el foro de Discourse puedes denunciar publicaciones individuales o contactar con el <a class=\"text-primary hover:opacity-65\" href=\"https://comunidad.es.python.org/groups/moderadores\"> grupo de moderación </a> ."
+msgstr ""
 
 msgid "En tren"
 msgstr "En tren"
@@ -335,9 +333,6 @@ msgstr "Esta páxina contén toda a información sobre o proceso de proposta par
 
 msgid "Estamos buscando una variedad de charlas sobre temas técnicos y no técnicos. Buscamos charlas accesibles para todos los niveles de habilidad, y buscamos propuestas de oradores nuevos y experimentados."
 msgstr "Buscamos unha variedade de charlas sobre temas técnicos e non técnicos. Buscamos charlas accesíbeis para todos os niveis de habilidade, e buscamos propostas de persoas con e sen experiencia en dar ponencias."
-
-msgid "Estamos comprometidos a hacer de PyConES 2024 un evento inclusivo, atractivo e inolvidable para todos."
-msgstr "Estamos comprometidos con facer de PyConES 2024 un evento inclusivo, atractivo e inesquecíbel para toda a xente."
 
 msgid "Estamos dedicados a hacer nuestra conferencia accesible para todos. Encuentra detalles y recursos aquí. ¿Necesitas más información o alojamientos específicos? Contáctanos en <a href=\"mailto:contacto@2024.es.pycon.org\" class=\"text-primary\">contacto@2024.es.pycon.org</a>"
 msgstr ""
@@ -465,7 +460,8 @@ msgstr "Máis informacion"
 msgid "Más informacion en los siguientes enlaces:"
 msgstr "Máis información nas seguintes ligazóns:"
 
-msgid "Más informacion en: "
+#, python-format
+msgid "Más informacion en: %(venue_link)s."
 msgstr ""
 
 msgid "Más información"
@@ -477,8 +473,8 @@ msgstr "Máis información na sección de <a href=\"https://2024.es.pycon.org/pa
 msgid "Niveles"
 msgstr "Niveis"
 
-msgid "No olvides seguirnos en twitter"
-msgstr "Non esquezas seguirnos en Twitter"
+msgid "No olvides seguirnos en twitter <a href=\"https://twitter.com/PyConES\" class=\"font-bold text-primary hover:text-secondary\">@PyConES</a> para obtener la información más reciente y actualizada!"
+msgstr ""
 
 msgid "Nos comprometemos a atender todas tus necesidades dietéticas. Al adquirir tu entrada, tendrás la oportunidad de indicar cualquier preferencia o restricción alimentaria de manera detallada."
 msgstr ""
@@ -489,8 +485,8 @@ msgstr "Vémonos en Vigo!"
 msgid "Nota de prensa"
 msgstr "Nota de prensa"
 
-msgid "Nuestro equipo está aquí para ayudarte. Si tienes alguna pregunta o sugerencia, no dudes en contactarnos en "
-msgstr "O noso equipo está aquí para axudarte. Se tes algunha pregunta ou suxestión, non dubides en contactarnos en "
+msgid "Nuestro equipo está aquí para ayudarte. Si tienes alguna pregunta o sugerencia, no dudes en contactarnos en <a href=\"mailto:charlas@2024.es.pycon.org\" class=\"font-bold text-primary hover:text-secondary\"> charlas@2024.es.pycon.org </a> . Estamos comprometidos a hacer de PyConES 2024 un evento inclusivo, atractivo e inolvidable para todos."
+msgstr ""
 
 msgid "Nuestros estándares"
 msgstr "Os nosos estándares"
@@ -544,11 +540,12 @@ msgstr "Para garantir a diversidade na conferencia implementamos varias iniciati
 msgid "Para moverte por Vigo y si quieres ir a las playas cercanas, la mejor opción es el transporte público, autobús o taxi"
 msgstr "Para moverte por Vigo e se queres ir ás praias próximas, a mellor opción é o transporte público, autobús ou taxi."
 
-msgid "Para obtener información actualizada, le recomendamos que visite la página web de "
-msgstr "Para obter información actualizada, recomendámoslle que visite a páxina web de "
+#, python-format
+msgid "Para obtener información actualizada, le recomendamos que visite la página web de %(link_aena)s."
+msgstr ""
 
-msgid "Para otros espacios o de forma alternativa, ponte en contacto con la Junta Directiva en "
-msgstr "Para outros espazos ou de forma alternativa, ponche en contacto coa Xunta Directiva en "
+msgid "Para otros espacios o de forma alternativa, ponte en contacto con la Junta Directiva en <a class=\"text-primary hover:opacity-65\" href=\"mailto:contacto@es.python.org\">contacto@es.python.org</a>."
+msgstr ""
 
 msgid "Paris"
 msgstr "París"
@@ -631,8 +628,13 @@ msgstr "Acéptanse charlas con varias persoas como ponentes"
 msgid "Se hará en el Auditorio Mar de Vigo, situado en primera línea de mar, frente a las Islas Cíes. <a href=\"https://auditoriomardevigo.com/localizacion/\" target=\"blank\" class=\"text-primary hover:text-secondary\">Más información</a>"
 msgstr "Celebrarase no Auditorio Mar de Vigo, situado en primera liña de mar, fronte ás Illas Cíes. <a href=\"https://auditoriomardevigo.com/localizacion/\" target=\"blank\" class=\"text-primary hover:text-secondary\">Máis información</a>."
 
-msgid "Se otorgan a través de un proceso de solicitud activo hasta el 30 de junio: "
-msgstr "Outórganse a través dun proceso de solicitude activo ata o 30 de xuño:"
+#, python-format
+msgid "Se otorgan a través de un proceso de solicitud activo hasta el 30 de junio: <a href=\"%(url)s\" target=\"_blank\" class=\"font-bold underline text-primary\"> ¡Quiero solicitar una beca! </a>"
+msgstr ""
+
+#, python-format
+msgid "Se otorgan a través de un proceso de solicitud activo hasta el 30 de junio: <a href=\"%(url)s\" target=\"_blank\" class=\"font-bold underline text-primary\"> ¡Quiero solicitar una entrada de diversidad! </a>"
+msgstr ""
 
 msgid "Se proporcionará asiento preferencial para los asistentes que lo soliciten. Por favor, <a href=\"mailto:contacto@2024.es.pycon.org\" class=\"text-primary hover:text-secondary\">contacta con nosotros</a> acerca de cualquier requisito de iluminación que puedas tener, y haremos nuestro mejor esfuerzo para satisfacerlo."
 msgstr ""
@@ -779,14 +781,11 @@ msgstr "Vigo é unha cidade pequena e pode irse andando a case todas partes, aí
 msgid "Vitrasa es el autobús urbano público de Vigo. Puedes utilizar las siguientes aplicaciones o webs para planificar tu viaje y estar informado:"
 msgstr "Vitrasa é o autobús urbano público de Vigo. Podes utilizar as seguintes aplicacións ou webs para planificar a túa viaxe e ter a última información:"
 
+msgid "Web oficial auditorio"
+msgstr ""
+
 msgid "código de conducta de DjangoCon Europe 2020"
 msgstr "código de conduta de DjangoCon Europe 2020"
-
-msgid "grupo de moderación"
-msgstr "grupo de moderación"
-
-msgid "para obtener la información más reciente y actualizada!"
-msgstr "para obter a información máis recente e actualizada!"
 
 msgid "versión en español del Contributor Covenant 2.0"
 msgstr "versión en español do Contributor Covenant 2.0"
@@ -796,12 +795,6 @@ msgstr "Empeza o espectáculo!"
 
 msgid "¡Queremos que tu experiencia sea lo mejor posible! Si hay algo en lo que no hayamos pensado y que te ayudaría a asistir a nuestro evento, ¡por favor háznoslo saber!"
 msgstr ""
-
-msgid "¡Quiero solicitar una beca!"
-msgstr "Quero solicitar unha bolsa!"
-
-msgid "¡Quiero solicitar una entrada de diversidad!"
-msgstr "Quero solicitar unha entrada de diversidade!"
 
 msgid "¡Y muchos más!"
 msgstr "E moitos máis!"
