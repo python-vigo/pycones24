@@ -43,7 +43,11 @@
                 </ul>
             </li>
             <li>{{ _("El Palacio de Congresos dispone de Servicio de Parking. (Consulte tarifas por minuto)") }}</li>
-            <li>{{ _("Más informacion en: ") }} {{ link("https://auditoriomardevigo.com/localizacion/", "Web oficial auditorio") }}</li>
+            <li>
+              {% trans trimmed venue_link=link("https://auditoriomardevigo.com/localizacion/", _("Web oficial auditorio")) %}
+                Más informacion en: {{ venue_link }}.
+              {% endtrans %}
+            </li>
         </ul>
     </section>
 </section>
