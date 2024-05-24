@@ -3,6 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pycones 24\n"
 "Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-05-24 08:56+CET\n"
 "PO-Revision-Date: 2024-05-22 18:35+0200\n"
 "Last-Translator: Adrián Chaves (Gallaecio) <adrian@chaves.io>\n"
 "Language-Team: Proxecto Trasno (proxecto@trasno.gal)\n"
@@ -13,521 +14,274 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Poedit 3.4.4\n"
 
-msgid "/static/dossier/2024ES - Dossier - PyConES Vigo - Patrocinadores.pdf"
-msgstr "/static/dossier/2024ES - Dossier - PyConES Vigo - Patrocinadores.pdf"
-
-msgid "1 entrada por la charla patrocinada. La entrada solo se otorga si se imparte la charla."
-msgstr "1 entrada pola charla patrocinada. A entrada só se otorga se se imparte a charla."
-
-msgid "1 vez en el fin de semana"
-msgstr "1 vez na fin de semana"
-
-msgid "10 lugares que ver imprescindibles"
-msgstr "10 lugares imprescindíbeis para ver"
-
-msgid "2 entradas, una por la charla patrocinada y otra por el taller patrocinado. Las entradas solo se otorgan si se imparten la charla y el taller, respectivamente."
-msgstr "2 entradas, unha por charla patrocinada e outra polo taller patrocinado. As estradas só se otorgan se se imparten a charla e o taller, respectivamente."
-
-msgid "2 veces al día"
-msgstr "2 veces ao día"
-
+#: https://2024.es.pycon.org/ (content/contents+es.lr:page.dates_event)
 msgid "4, 5 y 6 de octubre"
 msgstr "4, 5 e 6 de outubro"
 
-msgid "<p>El Auditorio Mar de Vigo es celebrado no solo por su brillantez arquitectónica sino también por sus instalaciones de vanguardia, haciéndolo un escenario ideal para la conferencia de Python más importante de España.</p>"
-msgstr ""
-
-msgid "<p>Este año la PyConEs se llevará a cabo en la ciudad de Vigo, España, en el prestigioso Auditorio Mar de Vigo.</p>"
-msgstr ""
-
-msgid "<p>Ubicado en el corazón de Vigo, este lugar presume de una ubicación frente al mar, ofreciendo vistas impresionantes de las Islas Cíes y el extenso Mar de Vigo.</p>"
-msgstr ""
-
+#: https://2024.es.pycon.org/ (content/contents+es.lr:page.hero_text)
 msgid ""
-"<ul class=\"mt-2 ml-8 list-disc\">\n"
-"    <li>Coffe break</li>\n"
-"   <li>Almuerzos de trabajo</li>\n"
-"</ul>"
+"Os damos la bienvenida a la <strong>PyConES</strong>, la <strong>conferencia "
+"de Python más importante de España.</strong>"
 msgstr ""
+"Dámosvos a benvida á <strong>PyConES</strong>, a <strong>conferencia de "
+"Python más importante de España.</strong>"
 
+#: https://2024.es.pycon.org/ (content/contents+es.lr:page.description_text)
 msgid ""
-"<ul class=\"mt-2 ml-8 list-disc\">\n"
-"    <li>La Conferencia se llevará a cabo en el 3er piso, el más alto del edificio, junto a la Terraza sobre el estuario del Auditorio Mar De Vigo. </li>\n"
-"     <li>Hay diferentes niveles de acceso al 3er piso del edificio. </li>\n"
-"     <li>El Auditorio es bastante reciente y cuenta con ascensores desde el nivel de la calle hasta el último piso o puedes optar por usar las escaleras. </li>\n"
-"</ul>"
+"Un evento que reunirá a cientos de entusiastas del lenguaje de programación "
+"Python, con una agenda increíble en la mejor localización posible."
 msgstr ""
+"Un evento que reunirá a centos de entusiastas da linguaxe de programación "
+"Python, cunha axenda incríbel na mellor localización posíbel."
 
+#: https://2024.es.pycon.org/ (content/contents+es.lr:page.sponsors_text)
 msgid ""
-"<ul class=\"mt-2 ml-8 list-disc\">\n"
-"<li>Accesibilidad para sillas de ruedas: Tanto el lugar como el auditorio Mar De Vigo tienen accesibilidad en silla de ruedas a todos los espacios de la conferencia.</li>\n"
-"<li>Acceso sin escalones: Tienes acceso sin escalones a todas las áreas de la conferencia.</li>\n"
-"<li>Ascensores: Mar De Vigo tiene ascensores que son accesibles y operativos durante la conferencia.</li>\n"
-"<ul>"
+"Si quieres formar parte de nuestros patrocinadores para hacer esta "
+"conferencia aún más impresionante puedes disponer de un espacio dentro del "
+"eventos"
 msgstr ""
-
-msgid "A continuación podrás ver algunos de los hitos más importantes de la conferencia. En caso de que la fecha exacta no esté disponible, se confirmará el cambio lo antes posible."
-msgstr "A continuación poderás ver algúns dos hitos máis importantes da conferencia. En caso de que a data exacta non estea dispoñíbel, confirmarase o cambio o antes posíbel."
-
-msgid "Abril"
-msgstr "Abril"
-
-msgid "Accesibilidad"
-msgstr ""
-
-msgid "Aceptar la responsabilidad y disculparse ante quienes se vean afectados por nuestros errores, aprendiendo de la experiencia"
-msgstr "Aceptar a responsabilidade e desculparse ante quen se vexa afectados polos nosos erros, aprendendo da experiencia"
-
-msgid "Add-ons"
-msgstr "Complementos"
-
-msgid "Aeropuerto de Porto - Portugal"
-msgstr "Aeroporto de Porto — Portugal"
-
-msgid "Aeropuerto de Santiago-Rosalía de Castro"
-msgstr "Aeroporto de Santiago-Rosalía de Castro"
-
-msgid "Agradecimiento en vivo"
-msgstr "Agradecemento en directo"
-
-msgid "Al participar en la comunidad de Python España, te comprometes a fomentar una experiencia libre de acoso para todo el mundo, independientemente de la edad, dimensión corporal, discapacidad visible o invisible, etnicidad, características sexuales, identidad y expresión de género, nivel de experiencia, educación, nivel socio-económico, nacionalidad, apariencia personal, raza, religión, o identidad u orientación sexual."
-msgstr "Ao participar na comunidade de Python España, comprométesche a fomentar unha experiencia libre de acoso para todo o mundo, independentemente da idade, dimensión corporal, discapacidade visible ou invisible, etnicidad, características sexuais, identidade e expresión de xénero, nivel de experiencia, educación, nivel socio-económico, nacionalidade, aparencia persoal, raza, relixión, ou identidade ou orientación sexual."
-
-msgid "Alcance"
-msgstr "Alcance"
-
-msgid "Anterior"
-msgstr "Anterior"
-
-msgid "Anuncio en programa"
-msgstr "Anuncio no programa"
-
-msgid "Análisis, ingeniería y ciencia de datos"
-msgstr "Análise, enxeñaría e ciencia de datos"
-
-msgid "Aparición en soportes físicos impresos supeditada a la producción de los mismos."
-msgstr "Aparición en soportes físicos impresos supeditada á súa produción."
-
-msgid "Apertura para el envío de ponencias/charlas"
-msgstr "Apertura para o envío de ponencias/charlas"
-
-msgid "Apertura para la postulación de becas"
-msgstr "Apertura da postulación de bolsas"
-
-msgid "Apertura para la venta de entradas"
-msgstr "Apertura da venda de entradas"
-
-msgid "Aplicaciones de escritorio"
-msgstr "Aplicacións de escritorio"
-
-msgid "Aplicaciones móviles, multimedia, embebidos"
-msgstr "Aplicacións móbiles, multimedia e incrustación"
-
-msgid "Atribución"
-msgstr "Atribución"
-
-msgid "Autobus"
-msgstr "Autobús"
-
-msgid "Baja visión o dificultad de audición"
-msgstr ""
-
-msgid "Becas"
-msgstr "Bolsas"
-
-msgid "Beneficios"
-msgstr "Beneficios"
-
-msgid "Bromas racistas, sexistas o excluyentes"
-msgstr "Bromas racistas, sexistas ou excluíntes"
-
-msgid "Bruselas"
-msgstr "Bruselas"
-
-msgid "C4P"
-msgstr ""
-
-msgid "Centrarse en lo que sea mejor no sólo para nosotros como individuos, sino para la comunidad en general"
-msgstr "Centrarse no que sexa mellor non só para nós como individuos, senón para a comunidade en xeral"
-
-msgid "Charla patrocinada"
-msgstr "Charla patrocinada"
-
-msgid "Charlas: 35 min (30 min + 5 min QA)"
-msgstr "Charlas: 35 minutos (30 minutos + 5 minutos de preguntas)"
-
-msgid "Cierre del llamado a ponencias/charlas"
-msgstr "Peche do envío de ponencias/charlas"
-
-msgid "Ciudad"
-msgstr "Cidade"
-
-msgid "Comentarios despectivos trolling, insultantes o derogatorios, y ataques personales o políticos"
-msgstr "Comentarios despectivos trolling, insultantes ou derrogatorios, e ataques persoais ou políticos"
-
-msgid "Comunidad, sociedad y cultura"
-msgstr "Comunidade, sociedade e cultura"
-
-msgid "Con las becas, tenemos el objetivo de eliminar las barreras económicas, facilitando la participación de aquellos que podrían enfrentar dificultades financieras para asistir al evento."
-msgstr "Coas bolsas queremos eliminar barreiras económicas para a participación no evento."
-
-msgid "Con un enfoque social"
-msgstr "Cun enfoque social"
-
-msgid "Conferencia inclusiva"
-msgstr ""
-
-msgid "Consideraciones adicionales"
-msgstr "Consideracións adicionais"
-
-msgid "Construye un clima de confianza, donde si alguien quiere reportar un incidente, sabrá que no empezaremos por cuestionarle (victim blaming)."
-msgstr "Constrúe un clima de confianza, onde se alguén quere reportar un incidente, saberá que non empezaremos por cuestionarlle (victim blaming)."
-
-msgid "Contamos con un Código de Conducta para garantizar un ambiente respetuoso y seguro para todas las personas asistentes. Pueden consultarlo en el siguiente enlace:"
-msgstr "Contamos cun código de conduta para garantir un ambiente respectuoso e seguro para todas as persoas asistentes. Podes consultalo na seguinte ligazón:"
-
-msgid "Contamos con un Código de Conducta para garantizar un ambiente respetuoso y seguro para todas las personas asistentes. Pueden consultarlo en el siguiente enlace: "
-msgstr "Contamos cun código de conduta para garantir un ambiente respectuoso e seguro para todas as persoas asistentes. Podes consultalo na seguinte ligazón: "
-
-msgid "Contexto de tu charla o problema"
-msgstr "Contexto da charla ou problema"
-
-msgid "Convocatoria de propuestas (CFP)"
-msgstr "Convocatoria de propostas (CfP)"
-
-msgid "Convocatoría de propuestas (CFP)"
-msgstr "Convocatoria de propostas (CfP)"
-
-msgid "Cronograma del evento"
-msgstr "Cronograma do evento"
-
-msgid "Cumplimiento"
-msgstr "Cumprimento"
-
-msgid "Código conducta"
-msgstr "Código conduta"
-
-msgid "Código de Conducta."
-msgstr "Código de conduta."
-
-msgid "Código de conducta"
-msgstr "Código de conduta"
-
-msgid "Cómo desplazarse"
-msgstr "Como desprazarse"
-
-msgid "Cómo llegar a Vigo"
-msgstr "Como chegar a Vigo"
-
-msgid "Dar y aceptar adecuadamente críticas constructivas"
-msgstr "Dar e aceptar adecuadamente críticas construtivas"
-
-msgid "Definición del problema"
-msgstr "Definición do problema"
-
-msgid "Demostrar empatía y amabilidad ante otras personas. No insultes o humilles a otros asistentes. Recuerda que las bromas sexistas, racistas o discriminatorias no son apropiadas. Nunca lo son."
-msgstr "Demostrar empatía e amabilidade ante outras persoas. Non insultes ou humilles a outros asistentes. Lembra que as bromas sexistas, racistas ou discriminatorias non son apropiadas. Nunca o son."
-
-msgid "Dentro del <a href=\"https://pretalx.com/pycones-2024/\" target=\"_blank\" class=\"text-primary hover:text-secondary\">enlace</a> encontrarás las instrucciones (En Inglés y Español) y luego podrás comenzar a rellenar el formulario para enviar tu propuesta."
-msgstr "Na <a href=\"https://pretalx.com/pycones-2024/\" target=\"_blank\" class=\"text-primary hover:text-secondary\">ligazón</a> atoparás as instrucións (en inglés e castelán) e poderás comezar a encher o formulario para enviar a túa proposta."
-
-msgid "Denuncia e información de contacto"
-msgstr "Denuncia e información de contacto"
-
-msgid "Desarrollo Web"
-msgstr "Desenvolvemento web"
-
-msgid "Descargar dosier completo (ES)"
-msgstr "Descargar o dosier completo (castelán)"
-
-msgid "Descargar dosier resumido (ES)"
-msgstr "Descargar o dosier resumido (castelán)"
-
-msgid "Desde el equipo Organizador: Python Vigo, Python España y personas voluntarias de PyConES24, secundamos el manifiesto de la PSF[¹] y valoramos la diversidad en todas sus formas creyendo  firmemente que la inclusión de diferentes perspectivas enriquece nuestra comunidad y mejora nuestro campo. Seguiremos esforzándonos por promover la diversidad y garantizar que todas las personas se sientan bienvenidas y representadas en nuestra conferencia."
-msgstr "Desde o equipo Organizador: Python Vigo, Python España e persoas voluntarias de PyConES24, secundamos o manifesto da PSF[¹] e valoramos a diversidade en todas as súas formas crendo firmemente que a inclusión de diferentes perspectivas enriquece a nosa comunidade e mellora o noso campo. Seguiremos esforzándonos por promover a diversidade e garantir que todas as persoas sentan benvidas e representadas na nosa conferencia."
-
-msgid "DevOps / Administración de sistemas / Scripts de automatización"
-msgstr "DevOps, administración de sistemas, guións de automatización"
-
-msgid "Diversidad y becas"
-msgstr "Diversidade e bolsas"
-
-msgid "Ediciones anteriores"
-msgstr "Edicións anteriores"
-
-msgid "Educación"
-msgstr "Educación"
-
-msgid "Ejemplos de comportamiento inaceptable"
-msgstr "Exemplos de comportamento inaceptable"
-
-msgid "Ejemplos de comportamiento que contribuyen a crear un ambiente positivo para nuestra comunidad:"
-msgstr "Exemplos de comportamento que contribúen a crear un ambiente positivo para a nosa comunidade:"
-
-msgid "El Aeropuerto de Peinador dispone de parada de taxis. El importe de la carrera desde el aeropuerto al Palacio de Congresos / Vigo Centro es fija y ronda los 21 €."
-msgstr ""
-
-msgid "El Aeropuerto de Peinador dispone de una parada de Autobús por la que circula la linea C9A, que cuenta con una parada muy cercana al Palacio de Congresos. Más informacion en:"
-msgstr ""
-
-msgid "El Aeropuerto de Vigo, Peinador, es el aeropuerto del sur de Galicia y está a solo 20 minutos del centro de la ciudad."
-msgstr "O aeroporto de Vigo, Peinador, é o aeroporto do sur de Galicia e está a só 20 minutos do centro da cidade."
-
-msgid "El Aeropuerto de Vigo, Peinador, es el aeropuerto más cercano, a solo 20 minutos del centro de la ciudad. Más información en la sección <a href=\"https://2024.es.pycon.org/ciudad/\" class=\"text-primary hover:text-secondary\">Ciudad</a>."
-msgstr "O Aeroporto de Vigo, Peinador, é o máis próximo, a só 20 minutos do centro da cidade. Máis información na sección <a href=\"https://2024.es.pycon.org/ciudad/\" class=\"text-primary hover:text-secondary\">Cidade</a>."
-
-msgid "El Auditorio Palacio de Congresos Mar de Vigo se encuentra a unos 15 minutos en coche desde el Aeropuerto de Peinador."
-msgstr ""
-
-msgid "El Palacio de Congresos dispone de Servicio de Parking. (Consulte tarifas por minuto)"
-msgstr ""
-
-msgid "El acoso en público o privado"
-msgstr "O acoso en público ou privado"
-
-msgid "El auditorio tiene su propio servicio de catering caracterizado por el buen gusto de su cocina."
-msgstr ""
-
-msgid "El uso de lenguaje o imágenes sexualizadas, y aproximaciones o atenciones sexuales de cualquier tipo"
-msgstr "O uso de linguaxe ou imaxes sexualizadas, e aproximacións ou atencións sexuais de calquera tipo"
-
-msgid "En PyConES 2024, nos comprometemos a promover la diversidad e inclusión en nuestra conferencia. Creemos firmemente en la importancia de crear un entorno inclusivo y respetuoso que fomente la participación de todas las personas, sin importar su raza, etnia, género, edad, habilidades, religión u orientación sexual. También nos preocupamos por brindar un entorno inclusivo para aquellos que tienen responsabilidades parentales."
-msgstr "En PyConES 2024, comprometémonos a promover a diversidade e inclusión na nosa conferencia. Cremos firmemente na importancia de crear unha contorna inclusivo e respectuoso que fomente a participación de todas as persoas, sen importar a súa raza, etnia, xénero, idade, habilidades, relixión ou orientación sexual. Tamén nos preocupamos por brindar unha contorna inclusivo para aqueles que teñen responsabilidades parentais."
-
-msgid "En Telegram, a la persona propietaria del grupo u otras administradoras."
-msgstr "En Telegram, á persoa propietaria do grupo ou outras administradoras."
-
-msgid "En avión: Aeropuerto de Vigo"
-msgstr "En avión: Aeroporto de Vigo"
-
-msgid "En coche o bus"
-msgstr "En coche ou bus"
-
-msgid "En el corazón de las Rías Baixas, Vigo es la mayor ciudad de Galicia. Originalmente un pueblo de pescadores, ahora es conocida como la “Puerta del Atlántico”. Es una ciudad con una gran oferta cultural y gastronómica, con una amplia variedad de restaurantes y bares donde degustar algunos de los mejores mariscos del mundo."
-msgstr "No corazón das Rías Baixas, Vigo é a maior cidade de Galicia. Orixinalmente unha aldea pesqueira, agora coñécese como a «Porta do Atlántico». É unha cidade cunha gran oferta cultural e gastronómica, cunha ampla variedade de restaurantes e bares onde degustar algúns dos mellores mariscos do mundo."
-
-msgid "En el foro de Discourse puedes denunciar publicaciones individuales o contactar con el"
-msgstr ""
-
-msgid "En el foro de Discourse puedes denunciar publicaciones individuales o contactar con el "
-msgstr "No foro de Discourse podes denunciar publicacións individuais ou contactar co "
-
-msgid "En tren"
-msgstr "En tren"
-
-msgid "Entradas"
-msgstr "Entradas"
-
-msgid "Entradas de diversidad"
-msgstr "Entradas de diversidade"
-
-msgid "Entradas incluídas"
-msgstr "Entradas incluídas"
-
-msgid "Envíanos un correo electrónico"
-msgstr "Contáctanos por correo electrónico"
-
-msgid "Es importante que presentes tu idea de manera clara, pero que también puedas dar la información necesaria para que quienes revisen, entiendan tu propuesta."
-msgstr "É importante que presentes a túa idea de maneira clara, pero que tamén poidas fornecer a información necesaria para que quen a revise poida entendela."
-
-msgid "Es posible enviar más de una propuesta por persona"
-msgstr "Pódense enviar varias propostas por persoa"
-
-msgid "Esta página contiene toda la información sobre el proceso de propuesta para PyConES 2024 – la actualizaremos regularmente a medida que haya nueva información disponible."
-msgstr "Esta páxina contén toda a información sobre o proceso de proposta para PyConES 2024. Actualizarémola a medida que haxa nova información dispoñíbel."
-
-msgid "Estamos buscando una variedad de charlas sobre temas técnicos y no técnicos. Buscamos charlas accesibles para todos los niveles de habilidad, y buscamos propuestas de oradores nuevos y experimentados."
-msgstr "Buscamos unha variedade de charlas sobre temas técnicos e non técnicos. Buscamos charlas accesíbeis para todos os niveis de habilidade, e buscamos propostas de persoas con e sen experiencia en dar ponencias."
-
-msgid "Estamos comprometidos a hacer de PyConES 2024 un evento inclusivo, atractivo e inolvidable para todos."
-msgstr "Estamos comprometidos con facer de PyConES 2024 un evento inclusivo, atractivo e inesquecíbel para toda a xente."
-
-msgid "Estamos dedicados a hacer nuestra conferencia accesible para todos. Encuentra detalles y recursos aquí. ¿Necesitas más información o alojamientos específicos? Contáctanos en <a href=\"mailto:contacto@2024.es.pycon.org\" class=\"text-primary\">contacto@2024.es.pycon.org</a>"
-msgstr ""
-
-msgid "Este Código de Conducta detalla qué comportamientos se esperan, cuáles se rechazan y qué mecanismos hay para ayudar a una persona que esté siendo objeto de comportamientos inadecuados."
-msgstr "Este Código de Conduta detalla que comportamentos espéranse, cales se rexeitan e que mecanismos hai para axudar a unha persoa que estea a ser obxecto de comportamentos inadecuados."
-
-msgid "Este código de conducta es aplicable a todas las personas que participen en espacios de la comunidad de Python España, ya sean en línea o presenciales. También se aplica a espacios públicos donde una persona esté en representación de la comunidad. Ejemplos de esto último incluyen el uso de la cuenta oficial de correo electrónico, publicaciones a través de las redes sociales oficiales, o presentaciones con personas designadas en eventos en línea o no."
-msgstr "Este código de conduta é aplicable a todas as persoas que participen en espazos da comunidade de Python España, xa sexan en liña ou presenciais. Tamén se aplica a espazos públicos onde unha persoa estea en representación da comunidade. Exemplos disto último inclúen o uso da conta oficial de correo electrónico, publicacións a través das redes sociais oficiais, ou presentacións con persoas designadas en eventos en liña ou non."
-
-msgid "Este código de conducta extiende el ya existente con aportaciones de otros códigos:"
-msgstr "Este código de conduta estende o xa existente con achegas doutros códigos:"
-
-msgid "Estructura de tu abstract"
-msgstr "Estrutura do resumo"
-
-msgid "Evita ambigüedades"
-msgstr "Evita ambigüidades"
-
-msgid "Evita los abstract de una o dos líneas que repitan la idea que ya se presenta en el título, e intenta incluir factores que hacen tu propuesta ¡especial y única!."
-msgstr "Que o teu resumo non sexan unha ou dúas liñas que repiten a idea que xa se presenta no título. Intenta incluír factores que fan da túa charla algo especial e único."
-
-msgid "FAQ"
-msgstr "Preguntas frecuentes"
-
-msgid "Favorece que más personas sepan que son bienvenidas"
-msgstr "Favorece que máis persoas saiban que son benvidas"
-
-msgid "Folleto en welcome pack"
-msgstr "Folleto no paquete de benvida"
-
-msgid "Gracias"
-msgstr ""
-
-msgid "Gracias a <a href=\"https://2024.djangocon.eu/\" target=\"_blank\" class=\"text-primary hover:text-secondary\">DjangoCon Europe</a> y <a href=\"https://www.writethedocs.org/conf/portland/2024/venue/#accessibility\" target=\"_blank\" class=\"text-primary hover:text-secondary\">writethedocs</a> por la inspiración en esta página."
-msgstr ""
-
-msgid "Hay tres vías principales de entrada por autopista:"
-msgstr "Hai tres vías principais de entrada por autopista:"
-
-msgid "He comprado mi entrada y necesito una factura ¿Cómo la consigo?"
-msgstr "Comprei entrada e necesito unha factura, como a consigo?"
-
-msgid "Hoy en día es una ciudad industrial pero también con mucha vida, con una gran vida nocturna y muchas actividades de ocio."
-msgstr "A día de hoxe é unha cidade industrial pero tamén con moita vida, cunha gran vida nocturna e moitas actividades de lecer."
-
-msgid "Inicio"
-msgstr "Inicio"
-
-msgid "Internet de las cosas"
-msgstr "Internet das cousas"
-
-msgid "Junio"
-msgstr "Xuño"
-
-msgid "La Autovía del Noroeste (A-6) y la Autovía das Rías Baixas (A-52) conectan Vigo y Madrid. Si viaja a Vigo desde Portugal, puede tomar la autopista A-3, que une Oporto, Lisboa y Braga con la frontera española, y después la AP-9 y la A-55, que le llevarán directamente al centro de Vigo."
-msgstr "A Autovía do Noroeste (A-6) e a Autovía das Rías Baixas (A-52) conectan Vigo e Madrid. Se viaxa a Vigo desde Portugal, pode tomar a autopista A-3, que une Porto, Lisboa e Braga coa fronteira española, e despois a AP-9 e a A-55, que lle levarán directamente ao centro de Vigo."
-
-msgid "La administración de la comunidad es responsable de aclarar y hacer cumplir este código de conducta; en caso de que se determine un comportamiento inadecuado, tomará las acciones que considere oportunas. Éstas van desde exigir el cese del comportamiento, hasta la expulsión de una persona de un evento o de la Asociación, sin derecho a reembolso. La administración de la comunidad tendrá el derecho y la responsabilidad de eliminar, editar o rechazar mensajes, comentarios, código, ediciones de páginas de wiki, tickets y otras contribuciones que no se alineen con este código de conducta, y comunicará las razones para sus decisiones de moderación cuando sea apropiado."
-msgstr "A administración da comunidade é responsable de aclarar e facer cumprir este código de conduta; no caso de que se determine un comportamento inadecuado, tomará as accións que considere oportunas. Estas van desde esixir o cesamento do comportamento, ata a expulsión dunha persoa dun evento ou da Asociación, sen dereito a reembolso. A administración da comunidade terá o dereito e a responsabilidade de eliminar, editar ou rexeitar mensaxes, comentarios, código, edicións de páxinas de wiki, tickets e outras contribucións que non se aliñen con este código de conduta, e comunicará as razóns para as súas decisións de moderación cando sexa apropiado."
-
-msgid "La cantidad de patrocinios es limitada (excepto de nivel Cortegada). La organización se reserva el derecho de modificar dicha cantidad a conveniencia, siempre velando por los intereses de la conferencia."
-msgstr "A cantidade de patrocinios é limitada (excepto o nivel Cortegada). A organización resérvase o dereito a modificar a cantidade a conveniencia, sempre velando polos intereses da conferencia."
-
-msgid "La conferencia se realizará principalmente en Español, y dependiendo de las charlas aceptadas en Inglés se realizará un track completo durante los días de charlas."
-msgstr "A conferencia será principalmente en castelán, e dependendo das charlas que se acepten en inglés, podería haber unha pista completa en inglés durante os días de charlas."
-
-msgid "La convocatoria de propuestas (CFP) es hasta las 23:59 (UTC) del 31 de mayo. Mejor no dejarlo para el último minuto."
-msgstr "A convocatoria de propostas (CfP) acaba o 31 de maio ás 23:59 UTC. Mellor non deixalo para última hora."
-
-msgid "La forma más habitual de viajar a Vigo es en coche. Las buenas conexiones de la ciudad facilitan el acceso a Vigo por autopista desde Madrid, Santiago, A Coruña y Oporto."
-msgstr "A forma máis habitual de viaxar a Vigo é en coche. As boas conexións da cidade facilitan o acceso a Vigo por autopista desde Madrid, Santiago, A Coruña e Porto."
-
-msgid "La temática es abierta siempre y cuando tenga relación con Python. Aquí te dejamos algunas ideas:"
-msgstr "A temática é aberta sempre e cando teña relación con Python. Aquí deixámoste algunhas ideas:"
-
-msgid "Las medidas del stand son orientativas."
-msgstr "As medidas do posto son orientativas."
-
-msgid "Las ponencias principales, apertura y cierre del evento serán en Español, de todas formas, todas las personas de la organización hablan Español e Inglés, en caso de que personas que asistan necesiten información en uno de los dos idiomas."
-msgstr "As ponencias principais do evento, de apertura e de peche, serán en castelán. Porén, todas as persoas da organización falan castelán e inglés, e moitas galego, en caso de que persoas que asistan queiran información nun deses idiomas."
-
-msgid "Llegar a Vigo es muy fácil: desde Madrid, A Coruña, Santiago de Compostela o el norte de Portugal se puede llegar directamente al centro de la ciudad. Vigo está comunicada por carretera y tren con Madrid y otras urbes como Bilbao. Además, el aeropuerto de Peinador está conectado con las ciudades españolas más importantes y con varios destinos internacionales."
-msgstr "Chegar a Vigo é moi doado: desde Madrid, A Coruña, Santiago de Compostela ou o norte de Portugal pode chegar directamente ao centro da cidade. Vigo está comunicada por carretera e tren con Madrid e outras urbes como Bilbao. Ademais, o aeroporto de Peinador está conectado coas cidades españolas máis importantes e con varios destinos internacionais."
-
-msgid "Logo cartelería"
-msgstr "Logo na cartelaría"
-
-msgid "Logo en pausas"
-msgstr "Logo nas pausas"
-
-msgid "Logo en web"
-msgstr "Logo en web"
-
-msgid "Logo newsletter"
-msgstr "Logo no boletín informativo"
-
-msgid "Londres"
-msgstr "Londres"
-
-msgid "Los casos de comportamiento abusivo, acosador o inaceptable de otro modo podrán ser denunciados a las personas administradoras de la comunidad responsables del cumplimiento:"
-msgstr "Os casos de comportamento abusivo, acosador ou inaceptable doutro xeito poderán ser denunciados ás persoas administradoras da comunidade responsables do cumprimento:"
-
-msgid "Luego de enviar tu propuesta, tendrás la posibilidad de Editarla, así que no te preocupes si tienes que hacer cambios luego de enviarla."
-msgstr "Unha vez enviada a proposta poderás editala, así que non te preocupes se tes que facer cambios despois de enviala."
-
-msgid "Luego de seleccionar un plan de patrocinio, podrás elegir adicionalmente elementos para apoyar la conferencia de forma independiente, como por ejemplo, “Entrevistas” o “Sala de lactancia”. Eso quiere decir que estarás apoyando a la conferencia pagando el plan que hayas elegido, más estos elementos independientes (con cupos limitados) para actividades específicas."
-msgstr "Despois de seleccionar un plan de patrocinio poderás elixir tamén elementos para apoiar a conferencia de forma independente, como por exemplo «Entrevistas» ou «Sala de lactancia». É dicir, estarás apoiando a conferencia pagando o plan que elixises, máis estes elementos independentes (con cupos limitados) para actividades específicas."
-
+"Se queres formar parte dos nosos patrocinadores para facer esta conferencia "
+"aínda máis impresionante, podes dispoñer dun espazo dentro do evento."
+
+#: https://2024.es.pycon.org/
+#: (content/contents+es.lr:page.sponsors_button_text)
+msgid "Quiero patrocinar"
+msgstr "Quero patrocinar"
+
+#: https://2024.es.pycon.org/lugar/
+#: (content/lugar/contents+es.lr:venue.title_section)
 msgid "Lugar"
 msgstr ""
 
-msgid "Machine learning e inteligencia artificial"
-msgstr "Aprendizaxe artificial e intelixencia artificial"
-
-msgid "Marzo"
-msgstr "Marzo"
-
-msgid "Mayo"
-msgstr "Maio"
-
-msgid "Más informacion"
-msgstr "Máis informacion"
-
-msgid "Más informacion en los siguientes enlaces:"
-msgstr "Máis información nas seguintes ligazóns:"
-
-msgid "Más informacion en:"
+#: https://2024.es.pycon.org/lugar/
+#: (content/lugar/contents+es.lr:venue.description)
+msgid ""
+"<p>Este año la PyConEs se llevará a cabo en la ciudad de Vigo, España, en el "
+"prestigioso Auditorio Mar de Vigo.</p>"
 msgstr ""
 
-msgid "Más informacion en: "
+#: https://2024.es.pycon.org/lugar/
+#: (content/lugar/contents+es.lr:venue.description)
+msgid ""
+"<p>Ubicado en el corazón de Vigo, este lugar presume de una ubicación frente "
+"al mar, ofreciendo vistas impresionantes de las Islas Cíes y el extenso Mar "
+"de Vigo.</p>"
 msgstr ""
 
-msgid "Más información"
+#: https://2024.es.pycon.org/lugar/
+#: (content/lugar/contents+es.lr:venue.description)
+msgid ""
+"<p>El Auditorio Mar de Vigo es celebrado no solo por su brillantez "
+"arquitectónica sino también por sus instalaciones de vanguardia, haciéndolo "
+"un escenario ideal para la conferencia de Python más importante de España.</"
+"p>"
 msgstr ""
 
-msgid "Más información en la sección de <a href=\"https://2024.es.pycon.org/patrocinios/\" class=\"mt-1 text-primary hover:text-secondary\">patrocinios</a>."
-msgstr "Máis información na sección de <a href=\"https://2024.es.pycon.org/patrocinios/\" class=\"mt-1 text-primary hover:text-secondary\">patrocinios</a>."
-
-msgid "Niveles"
-msgstr "Niveis"
-
-msgid "No olvides seguirnos en twitter"
-msgstr "Non esquezas seguirnos en Twitter"
-
-msgid "Nos comprometemos a atender todas tus necesidades dietéticas. Al adquirir tu entrada, tendrás la oportunidad de indicar cualquier preferencia o restricción alimentaria de manera detallada."
-msgstr ""
-
-msgid "Nos vemos en Vigo!"
-msgstr "Vémonos en Vigo!"
-
-msgid "Nota de prensa"
-msgstr "Nota de prensa"
-
-msgid "Nuestro equipo está aquí para ayudarte. Si tienes alguna pregunta o sugerencia, no dudes en contactarnos en"
-msgstr ""
-
-msgid "Nuestro equipo está aquí para ayudarte. Si tienes alguna pregunta o sugerencia, no dudes en contactarnos en "
-msgstr "O noso equipo está aquí para axudarte. Se tes algunha pregunta ou suxestión, non dubides en contactarnos en "
-
-msgid "Nuestros estándares"
-msgstr "Os nosos estándares"
-
-msgid "O simplemente Sobre tu experiencia de Python y el impacto en tu vida"
-msgstr "Ou simplemente sobre a túa experiencia de Python e o seu impacto na túa vida"
-
-msgid "Obsequio en welcome pack"
-msgstr "Obsequio no paquete de benvida"
-
-msgid "Octubre"
-msgstr "Outubro"
-
-msgid "Ofertas de trabajo"
-msgstr "Ofertas de traballo"
-
+#: https://2024.es.pycon.org/lugar/
+#: (content/lugar/contents+es.lr:venue.conference_arrangement)
 msgid "Organización de la Conferencia"
 msgstr ""
 
-msgid "Os damos la bienvenida a la <strong>PyConES</strong>, la <strong>conferencia de Python más importante de España.</strong>"
-msgstr "Dámosvos a benvida á <strong>PyConES</strong>, a <strong>conferencia de Python más importante de España.</strong>"
+#: https://2024.es.pycon.org/faq/quiero-patrocinar-pero-como-funcionan-los-add-ons/
+#: (content/faq/quiero-patrocinar-pero-como-funcionan-los-add-ons/contents+es.lr:faq_item.title)
+msgid "Quiero patrocinar pero ¿Cómo funcionan los add-ons?"
+msgstr "Quero patrocinar pero… como funcionan os complementos?"
 
-msgid "Otras conductas que puedan ser razonablemente consideradas como inapropiadas en un entorno profesional"
-msgstr "Outras condutas que poidan ser razoablemente consideradas como inapropiadas nunha contorna profesional"
+#: https://2024.es.pycon.org/faq/quiero-patrocinar-pero-como-funcionan-los-add-ons/
+#: (content/faq/quiero-patrocinar-pero-como-funcionan-los-add-ons/contents+es.lr:faq_item.description)
+msgid ""
+"Luego de seleccionar un plan de patrocinio, podrás elegir adicionalmente "
+"elementos para apoyar la conferencia de forma independiente, como por "
+"ejemplo, “Entrevistas” o “Sala de lactancia”. Eso quiere decir que estarás "
+"apoyando a la conferencia pagando el plan que hayas elegido, más estos "
+"elementos independientes (con cupos limitados) para actividades específicas."
+msgstr ""
+"Despois de seleccionar un plan de patrocinio poderás elixir tamén elementos "
+"para apoiar a conferencia de forma independente, como por exemplo "
+"«Entrevistas» ou «Sala de lactancia». É dicir, estarás apoiando a "
+"conferencia pagando o plan que elixises, máis estes elementos independentes "
+"(con cupos limitados) para actividades específicas."
 
-msgid "Otros aeropuertos cercanos"
-msgstr "Outros aeroportos próximos"
+#: https://2024.es.pycon.org/faq/quiero-patrocinar-pero-como-funcionan-los-add-ons/
+#: (content/faq/quiero-patrocinar-pero-como-funcionan-los-add-ons/contents+es.lr:faq_item.secondary_description)
+msgid ""
+"Ten en cuenta, se necesita elegir un plan de patrocinio antes de elegir los "
+"Add-ons, desde el más simple (Cortegada) hasta el más completo (Cíes)."
+msgstr ""
+"Ten en conta que para poder elixir os complementos antes tes que elixir un "
+"plan de patrocinio, do máis sinxelo (Cortegada) ao máis completo (Cíes)."
 
+#: https://2024.es.pycon.org/faq/en-que-lugar-se-realizara-la-conferencia/
+#: (content/faq/en-que-lugar-se-realizara-la-conferencia/contents+es.lr:faq_item.title)
+msgid "¿En qué lugar se realizará la conferencia?"
+msgstr "En que lugar se realizará a conferencia?"
+
+#: https://2024.es.pycon.org/faq/en-que-lugar-se-realizara-la-conferencia/
+#: (content/faq/en-que-lugar-se-realizara-la-conferencia/contents+es.lr:faq_item.description)
+msgid ""
+"Se hará en el Auditorio Mar de Vigo, situado en primera línea de mar, frente "
+"a las Islas Cíes. <a href=\"https://auditoriomardevigo.com/localizacion/\" "
+"target=\"blank\" class=\"text-primary hover:text-secondary\">Más "
+"información</a>"
+msgstr ""
+"Celebrarase no Auditorio Mar de Vigo, situado en primera liña de mar, fronte "
+"ás Illas Cíes. <a href=\"https://auditoriomardevigo.com/localizacion/\" "
+"target=\"blank\" class=\"text-primary hover:text-secondary\">Máis "
+"información</a>."
+
+#: https://2024.es.pycon.org/faq/que-dias-son-los-tutoriales-y-charlas/
+#: (content/faq/que-dias-son-los-tutoriales-y-charlas/contents+es.lr:faq_item.title)
+msgid "¿Qué días son los tutoriales y charlas?"
+msgstr "Que dias son os titoriais e as charlas?"
+
+#: https://2024.es.pycon.org/faq/que-dias-son-los-tutoriales-y-charlas/
+#: (content/faq/que-dias-son-los-tutoriales-y-charlas/contents+es.lr:faq_item.description)
+#: https://2024.es.pycon.org/faq/como-accedo-al-streaming/
+#: (content/faq/como-accedo-al-streaming/contents+es.lr:faq_item.description)
+msgid "Próximamente"
+msgstr "Proximamente"
+
+#: https://2024.es.pycon.org/faq/la-conferencia-es-solo-en-espanol/
+#: (content/faq/la-conferencia-es-solo-en-espanol/contents+es.lr:faq_item.title)
+msgid "¿La conferencia es sólo en Español?"
+msgstr "É a conferencia só en castelán?"
+
+#: https://2024.es.pycon.org/faq/la-conferencia-es-solo-en-espanol/
+#: (content/faq/la-conferencia-es-solo-en-espanol/contents+es.lr:faq_item.description)
+msgid ""
+"La conferencia se realizará principalmente en Español, y dependiendo de las "
+"charlas aceptadas en Inglés se realizará un track completo durante los días "
+"de charlas."
+msgstr ""
+"A conferencia será principalmente en castelán, e dependendo das charlas que "
+"se acepten en inglés, podería haber unha pista completa en inglés durante os "
+"días de charlas."
+
+#: https://2024.es.pycon.org/faq/la-conferencia-es-solo-en-espanol/
+#: (content/faq/la-conferencia-es-solo-en-espanol/contents+es.lr:faq_item.secondary_description)
+msgid ""
+"Las ponencias principales, apertura y cierre del evento serán en Español, de "
+"todas formas, todas las personas de la organización hablan Español e Inglés, "
+"en caso de que personas que asistan necesiten información en uno de los dos "
+"idiomas."
+msgstr ""
+"As ponencias principais do evento, de apertura e de peche, serán en "
+"castelán. Porén, todas as persoas da organización falan castelán e inglés, e "
+"moitas galego, en caso de que persoas que asistan queiran información nun "
+"deses idiomas."
+
+#: https://2024.es.pycon.org/faq/he-comprado-mi-entrada-y-necesito-una-factura-como-la-consigo/
+#: (content/faq/he-comprado-mi-entrada-y-necesito-una-factura-como-la-consigo/contents+es.lr:faq_item.title)
+msgid "He comprado mi entrada y necesito una factura ¿Cómo la consigo?"
+msgstr "Comprei entrada e necesito unha factura, como a consigo?"
+
+#: https://2024.es.pycon.org/faq/he-comprado-mi-entrada-y-necesito-una-factura-como-la-consigo/
+#: (content/faq/he-comprado-mi-entrada-y-necesito-una-factura-como-la-consigo/contents+es.lr:faq_item.description)
+msgid ""
+"Si en tu caso necesitas una factura para presentarla a la entidad que está "
+"cubriendo tu asistencia al evento, generaremos tu factura cuando se realice "
+"el evento o hasta cuando se cierre el plazo para cambiar los detalles de los "
+"tickets de la conferencia. Principalmente, por la complejidad de cancelar "
+"dichos documentos en nuestra infraestructura."
+msgstr ""
+"Se necesitas unha factura para presentarlla á entidade que cubre a túa "
+"asistencia ao evento, xeraremos a túa factura cando se realice o evento ou "
+"ata cando se peche o prazo para cambiar os detalles dos tickets da "
+"conferencia. Principalmente, pola complexidade de cancelar eses documentos "
+"na nosa infraestrutura."
+
+#: https://2024.es.pycon.org/faq/como-accedo-al-streaming/
+#: (content/faq/como-accedo-al-streaming/contents+es.lr:faq_item.title)
+msgid "¿Cómo accedo al streaming?"
+msgstr "Como acceso á emisión?"
+
+#: https://2024.es.pycon.org/faq/quiero-presentar-una-charla-como-lo-hago/
+#: (content/faq/quiero-presentar-una-charla-como-lo-hago/contents+es.lr:faq_item.title)
+msgid "Quiero presentar una charla ¿Cómo lo hago?"
+msgstr "Quero presentar unha charla, como fago?"
+
+#: https://2024.es.pycon.org/faq/quiero-presentar-una-charla-como-lo-hago/
+#: (content/faq/quiero-presentar-una-charla-como-lo-hago/contents+es.lr:faq_item.description)
+msgid ""
+"Si visitas la sección <a href=\"https://2024.es.pycon.org/faq/\" "
+"class=\"text-primary hover:text-secondary\">Convocatoria de Propuestas</a> "
+"encontrarás instrucciones para crear tu Abstract y también un enlace a la "
+"plataforma donde se envían las propuestas, pretalx."
+msgstr ""
+"Se visitas a sección <a href=\"https://2024.es.pycon.org/faq/\" class=\"text-"
+"primary hover:text-secondary\">Convocatoria de propostas</a> atoparás "
+"instrucións para crear o teu resumo e tamén unha ligazón á plataforma onde "
+"se envían as propostas, pretalx."
+
+#: https://2024.es.pycon.org/faq/quiero-presentar-una-charla-como-lo-hago/
+#: (content/faq/quiero-presentar-una-charla-como-lo-hago/contents+es.lr:faq_item.secondary_description)
+msgid ""
+"Dentro del <a href=\"https://pretalx.com/pycones-2024/\" target=\"_blank\" "
+"class=\"text-primary hover:text-secondary\">enlace</a> encontrarás las "
+"instrucciones (En Inglés y Español) y luego podrás comenzar a rellenar el "
+"formulario para enviar tu propuesta."
+msgstr ""
+"Na <a href=\"https://pretalx.com/pycones-2024/\" target=\"_blank\" "
+"class=\"text-primary hover:text-secondary\">ligazón</a> atoparás as "
+"instrucións (en inglés e castelán) e poderás comezar a encher o formulario "
+"para enviar a túa proposta."
+
+#: https://2024.es.pycon.org/faq/quiero-presentar-una-charla-como-lo-hago/
+#: (content/faq/quiero-presentar-una-charla-como-lo-hago/contents+es.lr:faq_item.secondary_description)
+msgid ""
+"Luego de enviar tu propuesta, tendrás la posibilidad de Editarla, así que no "
+"te preocupes si tienes que hacer cambios luego de enviarla."
+msgstr ""
+"Unha vez enviada a proposta poderás editala, así que non te preocupes se tes "
+"que facer cambios despois de enviala."
+
+#: https://2024.es.pycon.org/faq/soy-patrocinante-como-y-cuantas-entradas-consigo/
+#: (content/faq/soy-patrocinante-como-y-cuantas-entradas-consigo/contents+es.lr:faq_item.title)
+msgid "Soy patrocinante ¿Cómo y Cuántas entradas consigo?"
+msgstr "Patrocino, como e cantas entradas consigo?"
+
+#: https://2024.es.pycon.org/faq/soy-patrocinante-como-y-cuantas-entradas-consigo/
+#: (content/faq/soy-patrocinante-como-y-cuantas-entradas-consigo/contents+es.lr:faq_item.description)
+msgid ""
+"Según el plan elegido tendrías las siguientes entradas:\n"
+"<ul class=\"mt-1 ml-8 list-disc text-secondary\">\n"
+"  <li>Cíes: 6 entradas</li>\n"
+"  <li>Ons: 4 entradas</li>\n"
+"  <li>Sálvora: 2 entradas</li>\n"
+"  <li>Cortegada: 1 entrada</li>\n"
+"</ul>"
+msgstr ""
+
+#: https://2024.es.pycon.org/faq/soy-patrocinante-como-y-cuantas-entradas-consigo/
+#: (content/faq/soy-patrocinante-como-y-cuantas-entradas-consigo/contents+es.lr:faq_item.secondary_description)
+msgid ""
+"Más información en la sección de <a href=\"https://2024.es.pycon.org/"
+"patrocinios/\" class=\"mt-1 text-primary hover:text-secondary\">patrocinios</"
+"a>."
+msgstr ""
+"Máis información na sección de <a href=\"https://2024.es.pycon.org/"
+"patrocinios/\" class=\"mt-1 text-primary hover:text-secondary\">patrocinios</"
+"a>."
+
+#: https://2024.es.pycon.org/faq/que-aeropuerto-es-mas-cercano-a-la-conferencia/
+#: (content/faq/que-aeropuerto-es-mas-cercano-a-la-conferencia/contents+es.lr:faq_item.title)
+msgid "¿Qué Aeropuerto es más cercano a la conferencia?"
+msgstr "Cal é o aeroporto máis próximo á conferencia?"
+
+#: https://2024.es.pycon.org/faq/que-aeropuerto-es-mas-cercano-a-la-conferencia/
+#: (content/faq/que-aeropuerto-es-mas-cercano-a-la-conferencia/contents+es.lr:faq_item.description)
+msgid ""
+"El Aeropuerto de Vigo, Peinador, es el aeropuerto más cercano, a solo 20 "
+"minutos del centro de la ciudad. Más información en la sección <a "
+"href=\"https://2024.es.pycon.org/ciudad/\" class=\"text-primary hover:text-"
+"secondary\">Ciudad</a>."
+msgstr ""
+"O Aeroporto de Vigo, Peinador, é o máis próximo, a só 20 minutos do centro "
+"da cidade. Máis información na sección <a href=\"https://2024.es.pycon.org/"
+"ciudad/\" class=\"text-primary hover:text-secondary\">Cidade</a>."
+
+#: https://2024.es.pycon.org/faq/que-aeropuerto-es-mas-cercano-a-la-conferencia/
+#: (content/faq/que-aeropuerto-es-mas-cercano-a-la-conferencia/contents+es.lr:faq_item.secondary_description)
 msgid ""
 "Otros aeropuertos cercanos:\n"
 "<ul class=\"ml-8 list-disc text-secondary\">\n"
@@ -541,318 +295,1405 @@ msgstr ""
 "  <li>Aeroporto de Porto — Portugal (aprox. 150 km)</li>\n"
 "<ul>"
 
-msgid "Otros espacios del lugar"
-msgstr ""
-
-msgid "Para conocer todas las ventajas que te ofrecen nuestros distintos niveles de patrocinio puedes descargar el folleto informativo:"
-msgstr "Para coñecer todas as vantaxes que ofrecen os distintos niveis de patrocinio podes descargar o folleto informativo:"
-
-msgid "Para garantizar la diversidad en nuestra conferencia, hemos implementado diversas iniciativas, algunas de las cuales incluyen:"
-msgstr "Para garantir a diversidade na conferencia implementamos varias iniciativas, entre elas:"
-
-msgid "Para moverte por Vigo y si quieres ir a las playas cercanas, la mejor opción es el transporte público, autobús o taxi"
-msgstr "Para moverte por Vigo e se queres ir ás praias próximas, a mellor opción é o transporte público, autobús ou taxi."
-
-msgid "Para obtener información actualizada, le recomendamos que visite la página web de"
-msgstr ""
-
-msgid "Para obtener información actualizada, le recomendamos que visite la página web de "
-msgstr "Para obter información actualizada, recomendámoslle que visite a páxina web de "
-
-msgid "Para otros espacios o de forma alternativa, ponte en contacto con la Junta Directiva en"
-msgstr ""
-
-msgid "Para otros espacios o de forma alternativa, ponte en contacto con la Junta Directiva en "
-msgstr "Para outros espazos ou de forma alternativa, ponche en contacto coa Xunta Directiva en "
-
-msgid "Paris"
-msgstr "París"
-
-msgid "Patrocinios"
-msgstr "Patrocinios"
-
-msgid "Por acoso se entiende comentarios ofensivos relacionados con género, orientación sexual, discapacidad, apariencia física, tamaño corporal, etnia o religión, pornografía en espacios públicos, intimidación deliberada, acecho, persecución, acoso por fotografías o grabaciones, constante interrupción de charlas u otros eventos, contacto físico inapropiado y atención sexual no deseada."
-msgstr "Por acoso enténdese comentarios ofensivos relacionados con xénero, orientación sexual, discapacidade, aparencia física, tamaño corporal, etnia ou relixión, pornografía en espazos públicos, intimidación deliberada, espreita, persecución, acoso por fotografías ou gravacións, constante interrupción de charlas ou outros eventos, contacto físico inapropiado e atención sexual non desexada."
-
-msgid "Precio"
-msgstr "Prezo"
-
-msgid "Preguntas Frecuentes"
-msgstr "Preguntas frecuentes"
-
-msgid "Presentamos la PyConES"
-msgstr "Presentamos a PyConES"
-
-msgid "Presentarte con tus pronombres y preguntarle a otra persona los suyos para que exista una comunicación clara y sin sesgo"
-msgstr "Presentarche cos teus pronomes e preguntarlle a outra persoa os seus para que exista unha comunicación clara e sen rumbo"
-
-msgid "Prestar especial atención a las personas que recién llegan a la comunidad"
-msgstr "Prestar especial atención ás persoas que recentemente chegan á comunidade"
-
-msgid "Principales destinos internacionales:"
-msgstr "Principais destinos internacionais:"
-
-msgid "Principales destinos nacionales:"
-msgstr "Principais destinos nacionais:"
-
-msgid "Próximamente"
-msgstr "Proximamente"
-
-msgid "Publicación en redes sociales"
-msgstr "Publicación nas redes sociais"
-
-msgid "Publicar información privada de otras personas, tales como direcciones físicas o de correo electrónico, sin su permiso explícito"
-msgstr "Publicar información privada doutras persoas, tales como direccións físicas ou de correo electrónico, sen o seu permiso explícito"
-
-msgid "Puede consultar algunos de ellos en los siguientes enlaces:"
-msgstr "Pode consultar algúns deles nas seguintes ligazóns:"
-
-msgid "Python España, como asociación en torno a la que se organizan eventos de distintos tipos, quiere asegurar que todas las personas que participen en dichos eventos o comunicaciones tengan una experiencia profesional y positiva de aprendizaje, colaboración u ocio. Para ello, se espera que quien participe en la comunidad muestre respeto y cortesía hacia el resto."
-msgstr "Python España, como asociación ao redor da que se organizan eventos de distintos tipos, quere asegurar que todas as persoas que participen nos devanditos eventos ou comunicacións teñan unha experiencia profesional e positiva de aprendizaxe, colaboración ou lecer. Para iso, espérase que quen participe na comunidade mostre respecto e cortesía cara ao resto."
-
-msgid "Queremos motivar a personas con distintos niveles de experiencia en ponencias a participar en la conferencia. Sabemos que para personas que recién comienzan, el presentar una idea que refleje todos los detalles geniales que tu charla incluirá puede ser confuso."
-msgstr "Queremos motivar a persoas con distintos niveis de experiencia en ponencias a participar na conferencia. Sabemos que para persoas que están comezando, pode resultar confuso o proceso de presentar unha idea que reflicta todos os detalles interesantes sobre a túa charla."
-
-msgid "Quiero patrocinar"
-msgstr "Quero patrocinar"
-
-msgid "Quiero patrocinar pero ¿Cómo funcionan los add-ons?"
-msgstr "Quero patrocinar pero… como funcionan os complementos?"
-
-msgid "Quiero presentar una charla ¿Cómo lo hago?"
-msgstr "Quero presentar unha charla, como fago?"
-
-msgid "Recepción de bienvenida y registro"
-msgstr ""
-
-msgid "Recomendaciones para tu propuesta"
-msgstr "Recomendacións para propostas"
-
-msgid "Requerimientos dietéticos"
-msgstr ""
-
-msgid "Requerimientos previos o comentarios adicionales de tu charla"
-msgstr "Requisitos previos ou comentarios adicionais sobre a charla"
-
-msgid "Respetar las diferentes opiniones, puntos de vista y experiencias"
-msgstr "Respectar as diferentes opinións, puntos de vista e experiencias"
-
-msgid "Saltos entre distintos campos profesionales"
-msgstr "Saltos entre distintos campos profesionais"
-
-msgid "Se aceptan charlas con varias personas como ponentes"
-msgstr "Acéptanse charlas con varias persoas como ponentes"
-
-msgid "Se hará en el Auditorio Mar de Vigo, situado en primera línea de mar, frente a las Islas Cíes. <a href=\"https://auditoriomardevigo.com/localizacion/\" target=\"blank\" class=\"text-primary hover:text-secondary\">Más información</a>"
-msgstr "Celebrarase no Auditorio Mar de Vigo, situado en primera liña de mar, fronte ás Illas Cíes. <a href=\"https://auditoriomardevigo.com/localizacion/\" target=\"blank\" class=\"text-primary hover:text-secondary\">Máis información</a>."
-
-msgid "Se otorgan a través de un proceso de solicitud activo hasta el 30 de junio:"
-msgstr "Outórganse a través dun proceso de solicitude activo ata o 30 de xuño:"
-
-msgid "Se otorgan a través de un proceso de solicitud activo hasta el 30 de junio: "
-msgstr "Outórganse a través dun proceso de solicitude activo ata o 30 de xuño:"
-
-msgid "Se proporcionará asiento preferencial para los asistentes que lo soliciten. Por favor, <a href=\"mailto:contacto@2024.es.pycon.org\" class=\"text-primary hover:text-secondary\">contacta con nosotros</a> acerca de cualquier requisito de iluminación que puedas tener, y haremos nuestro mejor esfuerzo para satisfacerlo."
-msgstr ""
-
-msgid "Seguridad y redes"
-msgstr "Seguridade e redes"
-
-msgid ""
-"Según el plan elegido tendrías las siguientes entradas:\n"
-"<ul class=\"mt-1 ml-8 list-disc text-secondary\">\n"
-"  <li>Cíes: 6 entradas</li>\n"
-"  <li>Ons: 4 entradas</li>\n"
-"  <li>Sálvora: 2 entradas</li>\n"
-"  <li>Cortegada: 1 entrada</li>\n"
-"</ul>"
-msgstr ""
-
-msgid "Selecciona idioma"
-msgstr "Escolle un idioma"
-
-msgid "Sesión de contratación"
-msgstr "Sesión de contratación"
-
-msgid "Si en tu caso necesitas una factura para presentarla a la entidad que está cubriendo tu asistencia al evento, generaremos tu factura cuando se realice el evento o hasta cuando se cierre el plazo para cambiar los detalles de los tickets de la conferencia. Principalmente, por la complejidad de cancelar dichos documentos en nuestra infraestructura."
-msgstr "Se necesitas unha factura para presentarlla á entidade que cubre a túa asistencia ao evento, xeraremos a túa factura cando se realice o evento ou ata cando se peche o prazo para cambiar os detalles dos tickets da conferencia. Principalmente, pola complexidade de cancelar eses documentos na nosa infraestrutura."
-
-msgid "Si es un evento presencial, ponte en contacto directamente con las personas organizadoras del evento. Es muy probable que hayan publicando un código de conducta específico del evento con instrucciones de a quién acudir; te proporcionarán un espacio seguro para ayudarte."
-msgstr "Se é un evento presencial, ponche en contacto directamente coas persoas organizadoras do evento. É moi probable que haxan publicando un código de conduta específico do evento con instrucións da quen acudir; proporcionaranche un espazo seguro para axudarche."
-
-msgid "Si prefieres un poco más de flexibilidad, no te costará encontrar un taxi en Vigo. Es una opción muy cómoda para moverse por el centro de Vigo y sus barrios. Tienen tarifas razonables y te permitirán desplazarte rápidamente."
-msgstr "Se prefires un pouco máis de flexibilidade, non te custará atopar un taxi en Vigo. É unha opción moi cómoda para moverse polo centro de Vigo e os seus barrios. Teñen tarifas razoábeis e permitirante desprazarte rapidamente."
-
-msgid "Si quieres formar parte de nuestros patrocinadores para hacer esta conferencia aún más impresionante puedes disponer de un espacio dentro del eventos"
-msgstr "Se queres formar parte dos nosos patrocinadores para facer esta conferencia aínda máis impresionante, podes dispoñer dun espazo dentro do evento."
-
-msgid "Si se trata de un espacio en línea, ponte en contacto con las personas moderadoras de ese espacio."
-msgstr "Se se trata dun espazo en liña, ponche en contacto coas persoas moderadoras dese espazo."
-
-msgid "Si te estás preguntando, ¿puedo hacer esto? La respuesta es sí. Si tienes un tema que te interesa, entonces nos interesa a nosotros."
-msgstr "Se te preguntas se podes facelo, a resposta é «si». Se tes un tema que te interesa, tamén nos interesa a nós."
-
-msgid "Si tu taller dura más o menos tiempo no dudes en comunicarlo a la organización para tenerlo en cuenta en la configuración del programa. Esto nos dará la oportunidad de crear un planificación variada y ajustada a los tres días de conferencia."
-msgstr "Se o teu taller dura máis ou menos tempo, non dubides en comunicarllo á organización para telo en conta na configuración do programa. Isto non dará a oportunidade de crear unha planificación variada e axustada aos tres días da conferencia."
-
-msgid "Si visitas la sección <a href=\"https://2024.es.pycon.org/faq/\" class=\"text-primary hover:text-secondary\">Convocatoria de Propuestas</a> encontrarás instrucciones para crear tu Abstract y también un enlace a la plataforma donde se envían las propuestas, pretalx."
-msgstr "Se visitas a sección <a href=\"https://2024.es.pycon.org/faq/\" class=\"text-primary hover:text-secondary\">Convocatoria de propostas</a> atoparás instrucións para crear o teu resumo e tamén unha ligazón á plataforma onde se envían as propostas, pretalx."
-
-msgid "Siguiendo con el zen de Python, explícito mejor que implícito. Explicitar qué se espera del ambiente en cualquier evento de Python España:"
-msgstr "Seguindo co zen de Python, explícito mellor que implícito. Explicitar que se espera do ambiente en calquera evento de Python España:"
-
-msgid "Siguiente"
-msgstr "Seguinte"
-
-msgid "Solicitar beca"
-msgstr "Solicitar unha bolsa"
-
-msgid "Solicitar entrada diversidad"
-msgstr "Solicitar unha entrada de diversidade"
-
+#: https://2024.es.pycon.org/faq/soy-ponente-tengo-que-comprar-la-entrada/
+#: (content/faq/soy-ponente-tengo-que-comprar-la-entrada/contents+es.lr:faq_item.title)
 msgid "Soy Ponente, ¿tengo que comprar la entrada?"
 msgstr "Son ponente, teño que mercar entrada?"
 
-msgid "Soy patrocinante ¿Cómo y Cuántas entradas consigo?"
-msgstr "Patrocino, como e cantas entradas consigo?"
+#: https://2024.es.pycon.org/faq/soy-ponente-tengo-que-comprar-la-entrada/
+#: (content/faq/soy-ponente-tengo-que-comprar-la-entrada/contents+es.lr:faq_item.description)
+msgid ""
+"Todas las personas que sean ponentes, tienen asegurada su participación en "
+"la conferencia, es decir no necesitan una entrada. En caso de que tengas "
+"pensado presentarte como ponente, independiente de si tu propuesta es "
+"aceptada o no, te recomendamos adquirir una entrada."
+msgstr ""
+"Todas as ponentes teñen asegurada a súa participación na conferencia, é "
+"dicir, non necesitan entrada. Se tes pensado presentarte como ponente, "
+"independentemente de que a túa proposta se acepte ou non, recomendámoste "
+"adquirir unha entrada."
 
-msgid "Stand"
-msgstr "Posto"
+#: https://2024.es.pycon.org/lugar/recepcion-de-bienvenida-and-registro/
+#: (content/lugar/recepcion-de-bienvenida-and-registro/contents+es.lr:venue_section.title)
+msgid "Recepción de bienvenida y registro"
+msgstr ""
 
-msgid "Síguenos en Instagram"
-msgstr "Síguenos en Instagram"
-
-msgid "Síguenos en Linkedin"
-msgstr "Síguenos en LinkedIn"
-
-msgid "Síguenos en Mastodon"
-msgstr "Síguenos en Mastodon"
-
-msgid "Síguenos en Twitter"
-msgstr "Síguenos en Twitter"
-
-msgid "Síguenos en Youtube"
-msgstr "Síguenos en YouTube"
-
-msgid "Taller patrocinado"
-msgstr "Taller de patrocinio"
-
-msgid "Talleres: de hasta 90 min"
-msgstr "Talleres: de ata 90 minutos"
-
-msgid "También puede llegar a Vigo en autobús. Hay líneas de autobús directas a Vigo desde Madrid, Barcelona y muchas otras ciudades españolas. La estación de autobuses se encuentra en el centro de la ciudad, en la calle Travesía de Vigo."
-msgstr "Tamén podes chegar a Vigo en autobús. Hai liñas de autobús directas a Vigo desde Madrid, Barcelona e moitas outras cidades españolas. A estación de autobuses atópase no centro da cidade, na rúa Travesía de Vigo."
-
-msgid "Taxi"
-msgstr "Taxi"
-
-msgid "Te notificaremos tanto si tu propuesta es aceptada, como si no lo es"
-msgstr "Notificarémoste tanto se aceptamos a túa proposta como se non"
-
-msgid "Temáticas"
-msgstr "Temáticas"
-
-msgid "Ten en cuenta, se necesita elegir un plan de patrocinio antes de elegir los Add-ons, desde el más simple (Cortegada) hasta el más completo (Cíes)."
-msgstr "Ten en conta que para poder elixir os complementos antes tes que elixir un plan de patrocinio, do máis sinxelo (Cortegada) ao máis completo (Cíes)."
-
-msgid "Tipos de propuestas"
-msgstr "Tipos de propostas"
-
-msgid "Todas las personas administradoras de la comunidad están obligadas a respetar la privacidad y la seguridad de quienes denuncien incidentes."
-msgstr "Todas as persoas administradoras da comunidade están obrigadas a respectar a privacidade e a seguridade de quen denuncie incidentes."
-
-msgid "Todas las personas que sean ponentes, tienen asegurada su participación en la conferencia, es decir no necesitan una entrada. En caso de que tengas pensado presentarte como ponente, independiente de si tu propuesta es aceptada o no, te recomendamos adquirir una entrada."
-msgstr "Todas as ponentes teñen asegurada a súa participación na conferencia, é dicir, non necesitan entrada. Se tes pensado presentarte como ponente, independentemente de que a túa proposta se acepte ou non, recomendámoste adquirir unha entrada."
-
+#: https://2024.es.pycon.org/lugar/recepcion-de-bienvenida-and-registro/
+#: (content/lugar/recepcion-de-bienvenida-and-registro/contents+es.lr:venue_section.description)
 msgid "Ubicación: Sala Multipropósito - 3er piso:"
 msgstr ""
 
-msgid "Un evento que reunirá a cientos de entusiastas del lenguaje de programación Python, con una agenda increíble en la mejor localización posible."
-msgstr "Un evento que reunirá a centos de entusiastas da linguaxe de programación Python, cunha axenda incríbel na mellor localización posíbel."
-
-msgid "Una estructura simple que puedes seguir, es poder contemplar los siguientes puntos en tu propuesta:"
-msgstr "Unha estrutura simple e fácil de seguir, que contemple os seguintes aspectos:"
-
-msgid "Usar un lenguaje inclusivo y que dé cabida a una audiencia diversa"
-msgstr "Usar unha linguaxe inclusiva e que dea cabida a unha audiencia diversa"
-
-msgid "Valoramos mucho las propuestas:"
-msgstr "Valoramos moito as propostas:"
-
-msgid "Video promocional"
-msgstr "Vídeo promocional"
-
-msgid "Vigo"
-msgstr "Vigo"
-
-msgid "Vigo cuenta con dos estaciones de ferrocarril: URZAIZ, desde donde sale el AVE, y GUIXAR, situada en la calle Areal, ambas en pleno centro de la ciudad."
-msgstr "Vigo conta con dúas estacións de ferrocarril: Urzaiz, desde onde sae o AVE, e Guixar, situada na rúa Areal, ambas en pleno centro da cidade."
-
-msgid "Vigo en un día"
-msgstr "Vigo nun día"
-
-msgid "Vigo es una ciudad pequeña y se puede ir andando a casi todas partes, aunque Vigo es conocida por sus cuestas (¡así que prepárate para subir y bajar!). Hoy en día, hay muchas escaleras mecánicas y ascensores que te ayudarán con eso."
-msgstr "Vigo é unha cidade pequena e pode irse andando a case todas partes, aínda que Vigo é coñecida polas súas costas (así que prepárate para subir e baixar!). Hoxe en día hai moitas escaleiras mecánicas e ascensores que te axudarán."
-
-msgid "Vitrasa es el autobús urbano público de Vigo. Puedes utilizar las siguientes aplicaciones o webs para planificar tu viaje y estar informado:"
-msgstr "Vitrasa é o autobús urbano público de Vigo. Podes utilizar as seguintes aplicacións ou webs para planificar a túa viaxe e ter a última información:"
-
-msgid "código de conducta de DjangoCon Europe 2020"
-msgstr "código de conduta de DjangoCon Europe 2020"
-
-msgid "grupo de moderación"
-msgstr "grupo de moderación"
-
-msgid "para obtener la información más reciente y actualizada!"
-msgstr "para obter a información máis recente e actualizada!"
-
-msgid "versión en español del Contributor Covenant 2.0"
-msgstr "versión en español do Contributor Covenant 2.0"
-
-msgid "¡Empieza el espectáculo!"
-msgstr "Empeza o espectáculo!"
-
-msgid "¡Queremos que tu experiencia sea lo mejor posible! Si hay algo en lo que no hayamos pensado y que te ayudaría a asistir a nuestro evento, ¡por favor háznoslo saber!"
+#: https://2024.es.pycon.org/lugar/recepcion-de-bienvenida-and-registro/
+#: (content/lugar/recepcion-de-bienvenida-and-registro/contents+es.lr:venue_section.description)
+msgid ""
+"<ul class=\"mt-2 ml-8 list-disc\">\n"
+"    <li>La Conferencia se llevará a cabo en el 3er piso, el más alto del "
+"edificio, junto a la Terraza sobre el estuario del Auditorio Mar De Vigo. </"
+"li>\n"
+"     <li>Hay diferentes niveles de acceso al 3er piso del edificio. </li>\n"
+"     <li>El Auditorio es bastante reciente y cuenta con ascensores desde el "
+"nivel de la calle hasta el último piso o puedes optar por usar las "
+"escaleras. </li>\n"
+"</ul>"
 msgstr ""
 
-msgid "¡Quiero solicitar una beca!"
-msgstr "Quero solicitar unha bolsa!"
+#: https://2024.es.pycon.org/lugar/accesibilidad/
+#: (content/lugar/accesibilidad/contents+es.lr:venue_section.title)
+msgid "Accesibilidad"
+msgstr ""
 
-msgid "¡Quiero solicitar una entrada de diversidad!"
-msgstr "Quero solicitar unha entrada de diversidade!"
+#: https://2024.es.pycon.org/lugar/accesibilidad/
+#: (content/lugar/accesibilidad/contents+es.lr:venue_section.description)
+msgid ""
+"Estamos dedicados a hacer nuestra conferencia accesible para todos. "
+"Encuentra detalles y recursos aquí. ¿Necesitas más información o "
+"alojamientos específicos? Contáctanos en <a href=\"mailto:contacto@2024.es."
+"pycon.org\" class=\"text-primary\">contacto@2024.es.pycon.org</a>"
+msgstr ""
 
-msgid "¡Y muchos más!"
-msgstr "E moitos máis!"
+#: https://2024.es.pycon.org/lugar/conferencia-inclusiva/
+#: (content/lugar/conferencia-inclusiva/contents+es.lr:venue_section.title)
+msgid "Conferencia inclusiva"
+msgstr ""
 
-msgid "¿Cómo accedo al streaming?"
-msgstr "Como acceso á emisión?"
+#: https://2024.es.pycon.org/lugar/conferencia-inclusiva/
+#: (content/lugar/conferencia-inclusiva/contents+es.lr:venue_section.description)
+msgid ""
+"<ul class=\"mt-2 ml-8 list-disc\">\n"
+"<li>Accesibilidad para sillas de ruedas: Tanto el lugar como el auditorio "
+"Mar De Vigo tienen accesibilidad en silla de ruedas a todos los espacios de "
+"la conferencia.</li>\n"
+"<li>Acceso sin escalones: Tienes acceso sin escalones a todas las áreas de "
+"la conferencia.</li>\n"
+"<li>Ascensores: Mar De Vigo tiene ascensores que son accesibles y operativos "
+"durante la conferencia.</li>\n"
+"<ul>"
+msgstr ""
 
-msgid "¿En qué lugar se realizará la conferencia?"
-msgstr "En que lugar se realizará a conferencia?"
+#: https://2024.es.pycon.org/lugar/baja-vision-o-dificultad-de-audicion/
+#: (content/lugar/baja-vision-o-dificultad-de-audicion/contents+es.lr:venue_section.title)
+msgid "Baja visión o dificultad de audición"
+msgstr ""
 
-msgid "¿La conferencia es sólo en Español?"
-msgstr "É a conferencia só en castelán?"
+#: https://2024.es.pycon.org/lugar/baja-vision-o-dificultad-de-audicion/
+#: (content/lugar/baja-vision-o-dificultad-de-audicion/contents+es.lr:venue_section.description)
+msgid ""
+"Se proporcionará asiento preferencial para los asistentes que lo soliciten. "
+"Por favor, <a href=\"mailto:contacto@2024.es.pycon.org\" class=\"text-"
+"primary hover:text-secondary\">contacta con nosotros</a> acerca de cualquier "
+"requisito de iluminación que puedas tener, y haremos nuestro mejor esfuerzo "
+"para satisfacerlo."
+msgstr ""
 
+#: https://2024.es.pycon.org/lugar/otros-espacios-del-lugar/
+#: (content/lugar/otros-espacios-del-lugar/contents+es.lr:venue_section.title)
+msgid "Otros espacios del lugar"
+msgstr ""
+
+#: https://2024.es.pycon.org/lugar/otros-espacios-del-lugar/
+#: (content/lugar/otros-espacios-del-lugar/contents+es.lr:venue_section.description)
+msgid ""
+"El auditorio tiene su propio servicio de catering caracterizado por el buen "
+"gusto de su cocina."
+msgstr ""
+
+#: https://2024.es.pycon.org/lugar/otros-espacios-del-lugar/
+#: (content/lugar/otros-espacios-del-lugar/contents+es.lr:venue_section.description)
+msgid ""
+"<ul class=\"mt-2 ml-8 list-disc\">\n"
+"    <li>Coffe break</li>\n"
+"   <li>Almuerzos de trabajo</li>\n"
+"</ul>"
+msgstr ""
+
+#: https://2024.es.pycon.org/lugar/requerimientos-dieteticos/
+#: (content/lugar/requerimientos-dieteticos/contents+es.lr:venue_section.title)
+msgid "Requerimientos dietéticos"
+msgstr ""
+
+#: https://2024.es.pycon.org/lugar/requerimientos-dieteticos/
+#: (content/lugar/requerimientos-dieteticos/contents+es.lr:venue_section.description)
+msgid ""
+"Nos comprometemos a atender todas tus necesidades dietéticas. Al adquirir tu "
+"entrada, tendrás la oportunidad de indicar cualquier preferencia o "
+"restricción alimentaria de manera detallada."
+msgstr ""
+
+#: https://2024.es.pycon.org/lugar/olvidamos-algo/
+#: (content/lugar/olvidamos-algo/contents+es.lr:venue_section.title)
 msgid "¿Olvidamos algo?"
 msgstr ""
 
+#: https://2024.es.pycon.org/lugar/olvidamos-algo/
+#: (content/lugar/olvidamos-algo/contents+es.lr:venue_section.description)
+msgid ""
+"¡Queremos que tu experiencia sea lo mejor posible! Si hay algo en lo que no "
+"hayamos pensado y que te ayudaría a asistir a nuestro evento, ¡por favor "
+"háznoslo saber!"
+msgstr ""
+
+#: https://2024.es.pycon.org/lugar/gracias/
+#: (content/lugar/gracias/contents+es.lr:venue_section.title)
+msgid "Gracias"
+msgstr ""
+
+#: https://2024.es.pycon.org/lugar/gracias/
+#: (content/lugar/gracias/contents+es.lr:venue_section.description)
+msgid ""
+"Gracias a <a href=\"https://2024.djangocon.eu/\" target=\"_blank\" "
+"class=\"text-primary hover:text-secondary\">DjangoCon Europe</a> y <a "
+"href=\"https://www.writethedocs.org/conf/portland/2024/venue/"
+"#accessibility\" target=\"_blank\" class=\"text-primary hover:text-"
+"secondary\">writethedocs</a> por la inspiración en esta página."
+msgstr ""
+
+#: templates/cfp.html:5
+msgid "Convocatoria de propuestas (CFP)"
+msgstr "Convocatoria de propostas (CfP)"
+
+#: templates/cfp.html:7
+msgid ""
+"Esta página contiene toda la información sobre el proceso de propuesta para "
+"PyConES 2024 – la actualizaremos regularmente a medida que haya nueva "
+"información disponible."
+msgstr ""
+"Esta páxina contén toda a información sobre o proceso de proposta para "
+"PyConES 2024. Actualizarémola a medida que haxa nova información dispoñíbel."
+
+#: templates/cfp.html:11
+msgid ""
+"La convocatoria de propuestas (CFP) es hasta las 23:59 (UTC) del 31 de mayo. "
+"Mejor no dejarlo para el último minuto."
+msgstr ""
+"A convocatoria de propostas (CfP) acaba o 31 de maio ás 23:59 UTC. Mellor "
+"non deixalo para última hora."
+
+#: templates/cfp.html:22
+msgid ""
+"Estamos buscando una variedad de charlas sobre temas técnicos y no técnicos. "
+"Buscamos charlas accesibles para todos los niveles de habilidad, y buscamos "
+"propuestas de oradores nuevos y experimentados."
+msgstr ""
+"Buscamos unha variedade de charlas sobre temas técnicos e non técnicos. "
+"Buscamos charlas accesíbeis para todos os niveis de habilidade, e buscamos "
+"propostas de persoas con e sen experiencia en dar ponencias."
+
+#: templates/cfp.html:28
+msgid ""
+"Si te estás preguntando, ¿puedo hacer esto? La respuesta es sí. Si tienes un "
+"tema que te interesa, entonces nos interesa a nosotros."
+msgstr ""
+"Se te preguntas se podes facelo, a resposta é «si». Se tes un tema que te "
+"interesa, tamén nos interesa a nós."
+
+#: templates/cfp.html:33
+msgid "Recomendaciones para tu propuesta"
+msgstr "Recomendacións para propostas"
+
+#: templates/cfp.html:35
+msgid ""
+"Queremos motivar a personas con distintos niveles de experiencia en "
+"ponencias a participar en la conferencia. Sabemos que para personas que "
+"recién comienzan, el presentar una idea que refleje todos los detalles "
+"geniales que tu charla incluirá puede ser confuso."
+msgstr ""
+"Queremos motivar a persoas con distintos niveis de experiencia en ponencias "
+"a participar na conferencia. Sabemos que para persoas que están comezando, "
+"pode resultar confuso o proceso de presentar unha idea que reflicta todos os "
+"detalles interesantes sobre a túa charla."
+
+#: templates/cfp.html:39
+msgid ""
+"Es importante que presentes tu idea de manera clara, pero que también puedas "
+"dar la información necesaria para que quienes revisen, entiendan tu "
+"propuesta."
+msgstr ""
+"É importante que presentes a túa idea de maneira clara, pero que tamén "
+"poidas fornecer a información necesaria para que quen a revise poida "
+"entendela."
+
+#: templates/cfp.html:41
+msgid "Estructura de tu abstract"
+msgstr "Estrutura do resumo"
+
+#: templates/cfp.html:43
+msgid ""
+"Una estructura simple que puedes seguir, es poder contemplar los siguientes "
+"puntos en tu propuesta:"
+msgstr ""
+"Unha estrutura simple e fácil de seguir, que contemple os seguintes aspectos:"
+
+#: templates/cfp.html:48
+msgid "Contexto de tu charla o problema"
+msgstr "Contexto da charla ou problema"
+
+#: templates/cfp.html:51
+msgid "Definición del problema"
+msgstr "Definición do problema"
+
+#: templates/cfp.html:54
 msgid "¿Por qué es importante buscar una solución a ese problema?"
 msgstr "Por que é importante buscar unha solución a ese problema?"
 
-msgid "¿Por qué un código de conducta?"
-msgstr "Por que un código de conduta?"
-
-msgid "¿Preguntas o sugerencias?"
-msgstr "Preguntas ou suxestións?"
-
-msgid "¿Qué Aeropuerto es más cercano a la conferencia?"
-msgstr "Cal é o aeroporto máis próximo á conferencia?"
-
-msgid "¿Qué días son los tutoriales y charlas?"
-msgstr "Que dias son os titoriais e as charlas?"
-
+#: templates/cfp.html:57
 msgid "¿Qué se hablará y que aprenderá la gente que asista?"
 msgstr "Sobre que se falará e que aprenderá a xente que asista?"
 
-msgid "¿Te gustaría patrocinar la próxima edición del evento mas importante sobre desarrollo software con Python? No lo dudes y ponte ya mismo en contacto con la organización escribiendo al correo"
-msgstr "Gustaríache patrocinar a próxima edición do evento máis importante sobre o desenvolvemento de software con Python? Non o dubides e ponte xa en contacto coa organización escribindo ao enderezo de correo electrónico"
+#: templates/cfp.html:60
+msgid "Requerimientos previos o comentarios adicionales de tu charla"
+msgstr "Requisitos previos ou comentarios adicionais sobre a charla"
+
+#: templates/cfp.html:63
+msgid ""
+"Evita los abstract de una o dos líneas que repitan la idea que ya se "
+"presenta en el título, e intenta incluir factores que hacen tu propuesta "
+"¡especial y única!."
+msgstr ""
+"Que o teu resumo non sexan unha ou dúas liñas que repiten a idea que xa se "
+"presenta no título. Intenta incluír factores que fan da túa charla algo "
+"especial e único."
+
+#: templates/cfp.html:67
+msgid "Tipos de propuestas"
+msgstr "Tipos de propostas"
+
+#: templates/cfp.html:70
+msgid "Charlas: 35 min (30 min + 5 min QA)"
+msgstr "Charlas: 35 minutos (30 minutos + 5 minutos de preguntas)"
+
+#: templates/cfp.html:73
+msgid "Talleres: de hasta 90 min"
+msgstr "Talleres: de ata 90 minutos"
+
+#: templates/cfp.html:77
+msgid ""
+"Si tu taller dura más o menos tiempo no dudes en comunicarlo a la "
+"organización para tenerlo en cuenta en la configuración del programa. Esto "
+"nos dará la oportunidad de crear un planificación variada y ajustada a los "
+"tres días de conferencia."
+msgstr ""
+"Se o teu taller dura máis ou menos tempo, non dubides en comunicarllo á "
+"organización para telo en conta na configuración do programa. Isto non dará "
+"a oportunidade de crear unha planificación variada e axustada aos tres días "
+"da conferencia."
+
+#: templates/cfp.html:81
+msgid "Valoramos mucho las propuestas:"
+msgstr "Valoramos moito as propostas:"
+
+#: templates/cfp.html:83
+msgid "Con un enfoque social"
+msgstr "Cun enfoque social"
+
+#: templates/cfp.html:84
+msgid "Saltos entre distintos campos profesionales"
+msgstr "Saltos entre distintos campos profesionais"
+
+#: templates/cfp.html:85
+msgid "O simplemente Sobre tu experiencia de Python y el impacto en tu vida"
+msgstr ""
+"Ou simplemente sobre a túa experiencia de Python e o seu impacto na túa vida"
+
+#: templates/cfp.html:89
+msgid "Temáticas"
+msgstr "Temáticas"
+
+#: templates/cfp.html:90
+msgid ""
+"La temática es abierta siempre y cuando tenga relación con Python. Aquí te "
+"dejamos algunas ideas:"
+msgstr ""
+"A temática é aberta sempre e cando teña relación con Python. Aquí deixámoste "
+"algunhas ideas:"
+
+#: templates/cfp.html:95
+msgid "Desarrollo Web"
+msgstr "Desenvolvemento web"
+
+#: templates/cfp.html:98
+msgid "Análisis, ingeniería y ciencia de datos"
+msgstr "Análise, enxeñaría e ciencia de datos"
+
+#: templates/cfp.html:101
+msgid "DevOps / Administración de sistemas / Scripts de automatización"
+msgstr "DevOps, administración de sistemas, guións de automatización"
+
+#: templates/cfp.html:104
+msgid "Educación"
+msgstr "Educación"
+
+#: templates/cfp.html:107
+msgid "Machine learning e inteligencia artificial"
+msgstr "Aprendizaxe artificial e intelixencia artificial"
+
+#: templates/cfp.html:110
+msgid "Aplicaciones de escritorio"
+msgstr "Aplicacións de escritorio"
+
+#: templates/cfp.html:113
+msgid "Internet de las cosas"
+msgstr "Internet das cousas"
+
+#: templates/cfp.html:116
+msgid "Seguridad y redes"
+msgstr "Seguridade e redes"
+
+#: templates/cfp.html:119
+msgid "Aplicaciones móviles, multimedia, embebidos"
+msgstr "Aplicacións móbiles, multimedia e incrustación"
+
+#: templates/cfp.html:122
+msgid "Comunidad, sociedad y cultura"
+msgstr "Comunidade, sociedade e cultura"
+
+#: templates/cfp.html:125
+msgid "¡Y muchos más!"
+msgstr "E moitos máis!"
+
+#: templates/cfp.html:130
+msgid "Consideraciones adicionales"
+msgstr "Consideracións adicionais"
+
+#: templates/cfp.html:134
+msgid "Es posible enviar más de una propuesta por persona"
+msgstr "Pódense enviar varias propostas por persoa"
+
+#: templates/cfp.html:137
+msgid "Se aceptan charlas con varias personas como ponentes"
+msgstr "Acéptanse charlas con varias persoas como ponentes"
+
+#: templates/cfp.html:140
+msgid "Te notificaremos tanto si tu propuesta es aceptada, como si no lo es"
+msgstr "Notificarémoste tanto se aceptamos a túa proposta como se non"
+
+#: templates/cfp.html:145
+msgid "¿Preguntas o sugerencias?"
+msgstr "Preguntas ou suxestións?"
+
+#: templates/cfp.html:146
+msgid ""
+"Nuestro equipo está aquí para ayudarte. Si tienes alguna pregunta o "
+"sugerencia, no dudes en contactarnos en "
+msgstr ""
+"O noso equipo está aquí para axudarte. Se tes algunha pregunta ou suxestión, "
+"non dubides en contactarnos en "
+
+#: templates/cfp.html:150
+msgid ""
+"Estamos comprometidos a hacer de PyConES 2024 un evento inclusivo, atractivo "
+"e inolvidable para todos."
+msgstr ""
+"Estamos comprometidos con facer de PyConES 2024 un evento inclusivo, "
+"atractivo e inesquecíbel para toda a xente."
+
+#: templates/cfp.html:156
+msgid "Nos vemos en Vigo!"
+msgstr "Vémonos en Vigo!"
+
+#: templates/cfp.html:159
+msgid "No olvides seguirnos en twitter"
+msgstr "Non esquezas seguirnos en Twitter"
+
+#: templates/cfp.html:161
+msgid "para obtener la información más reciente y actualizada!"
+msgstr "para obter a información máis recente e actualizada!"
+
+#: templates/city.html:7
+msgid "Vigo"
+msgstr "Vigo"
+
+#: templates/city.html:10
+msgid ""
+"En el corazón de las Rías Baixas, Vigo es la mayor ciudad de Galicia. "
+"Originalmente un pueblo de pescadores, ahora es conocida como la “Puerta del "
+"Atlántico”. Es una ciudad con una gran oferta cultural y gastronómica, con "
+"una amplia variedad de restaurantes y bares donde degustar algunos de los "
+"mejores mariscos del mundo."
+msgstr ""
+"No corazón das Rías Baixas, Vigo é a maior cidade de Galicia. Orixinalmente "
+"unha aldea pesqueira, agora coñécese como a «Porta do Atlántico». É unha "
+"cidade cunha gran oferta cultural e gastronómica, cunha ampla variedade de "
+"restaurantes e bares onde degustar algúns dos mellores mariscos do mundo."
+
+#: templates/city.html:16
+msgid ""
+"Hoy en día es una ciudad industrial pero también con mucha vida, con una "
+"gran vida nocturna y muchas actividades de ocio."
+msgstr ""
+"A día de hoxe é unha cidade industrial pero tamén con moita vida, cunha gran "
+"vida nocturna e moitas actividades de lecer."
+
+#: templates/city.html:20
+msgid "Puede consultar algunos de ellos en los siguientes enlaces:"
+msgstr "Pode consultar algúns deles nas seguintes ligazóns:"
+
+#: templates/city.html:25
+msgid "Vigo en un día"
+msgstr "Vigo nun día"
+
+#: templates/city.html:31
+msgid "10 lugares que ver imprescindibles"
+msgstr "10 lugares imprescindíbeis para ver"
+
+#: templates/city.html:36
+msgid "Cómo llegar a Vigo"
+msgstr "Como chegar a Vigo"
+
+#: templates/city.html:37
+msgid ""
+"Llegar a Vigo es muy fácil: desde Madrid, A Coruña, Santiago de Compostela o "
+"el norte de Portugal se puede llegar directamente al centro de la ciudad. "
+"Vigo está comunicada por carretera y tren con Madrid y otras urbes como "
+"Bilbao. Además, el aeropuerto de Peinador está conectado con las ciudades "
+"españolas más importantes y con varios destinos internacionales."
+msgstr ""
+"Chegar a Vigo é moi doado: desde Madrid, A Coruña, Santiago de Compostela ou "
+"o norte de Portugal pode chegar directamente ao centro da cidade. Vigo está "
+"comunicada por carretera e tren con Madrid e outras urbes como Bilbao. "
+"Ademais, o aeroporto de Peinador está conectado coas cidades españolas máis "
+"importantes e con varios destinos internacionais."
+
+#: templates/city.html:42
+msgid "En avión: Aeropuerto de Vigo"
+msgstr "En avión: Aeroporto de Vigo"
+
+#: templates/city.html:43
+msgid ""
+"El Aeropuerto de Vigo, Peinador, es el aeropuerto del sur de Galicia y está "
+"a solo 20 minutos del centro de la ciudad."
+msgstr ""
+"O aeroporto de Vigo, Peinador, é o aeroporto do sur de Galicia e está a só "
+"20 minutos do centro da cidade."
+
+#: templates/city.html:46
+msgid "Principales destinos internacionales:"
+msgstr "Principais destinos internacionais:"
+
+#: templates/city.html:48
+msgid "Londres"
+msgstr "Londres"
+
+#: templates/city.html:49
+msgid "Bruselas"
+msgstr "Bruselas"
+
+#: templates/city.html:50
+msgid "Paris"
+msgstr "París"
+
+#: templates/city.html:54
+msgid "Principales destinos nacionales:"
+msgstr "Principais destinos nacionais:"
+
+#: templates/city.html:65
+msgid ""
+"Para obtener información actualizada, le recomendamos que visite la página "
+"web de "
+msgstr ""
+"Para obter información actualizada, recomendámoslle que visite a páxina web "
+"de "
+
+#: templates/city.html:73
+msgid "Otros aeropuertos cercanos"
+msgstr "Outros aeroportos próximos"
+
+#: templates/city.html:76
+msgid "Aeropuerto de Santiago-Rosalía de Castro"
+msgstr "Aeroporto de Santiago-Rosalía de Castro"
+
+#: templates/city.html:77 templates/city.html:81
+msgid "Más informacion"
+msgstr "Máis informacion"
+
+#: templates/city.html:80
+msgid "Aeropuerto de Porto - Portugal"
+msgstr "Aeroporto de Porto — Portugal"
+
+#: templates/city.html:87
+msgid "En tren"
+msgstr "En tren"
+
+#: templates/city.html:89
+msgid ""
+"Vigo cuenta con dos estaciones de ferrocarril: URZAIZ, desde donde sale el "
+"AVE, y GUIXAR, situada en la calle Areal, ambas en pleno centro de la ciudad."
+msgstr ""
+"Vigo conta con dúas estacións de ferrocarril: Urzaiz, desde onde sae o AVE, "
+"e Guixar, situada na rúa Areal, ambas en pleno centro da cidade."
+
+#: templates/city.html:95
+msgid "En coche o bus"
+msgstr "En coche ou bus"
+
+#: templates/city.html:97
+msgid ""
+"La forma más habitual de viajar a Vigo es en coche. Las buenas conexiones de "
+"la ciudad facilitan el acceso a Vigo por autopista desde Madrid, Santiago, A "
+"Coruña y Oporto."
+msgstr ""
+"A forma máis habitual de viaxar a Vigo é en coche. As boas conexións da "
+"cidade facilitan o acceso a Vigo por autopista desde Madrid, Santiago, A "
+"Coruña e Porto."
+
+#: templates/city.html:100
+msgid "Hay tres vías principales de entrada por autopista:"
+msgstr "Hai tres vías principais de entrada por autopista:"
+
+#: templates/city.html:102
+msgid ""
+"La Autovía del Noroeste (A-6) y la Autovía das Rías Baixas (A-52) conectan "
+"Vigo y Madrid. Si viaja a Vigo desde Portugal, puede tomar la autopista A-3, "
+"que une Oporto, Lisboa y Braga con la frontera española, y después la AP-9 y "
+"la A-55, que le llevarán directamente al centro de Vigo."
+msgstr ""
+"A Autovía do Noroeste (A-6) e a Autovía das Rías Baixas (A-52) conectan Vigo "
+"e Madrid. Se viaxa a Vigo desde Portugal, pode tomar a autopista A-3, que "
+"une Porto, Lisboa e Braga coa fronteira española, e despois a AP-9 e a A-55, "
+"que lle levarán directamente ao centro de Vigo."
+
+#: templates/city.html:109
+msgid ""
+"También puede llegar a Vigo en autobús. Hay líneas de autobús directas a "
+"Vigo desde Madrid, Barcelona y muchas otras ciudades españolas. La estación "
+"de autobuses se encuentra en el centro de la ciudad, en la calle Travesía de "
+"Vigo."
+msgstr ""
+"Tamén podes chegar a Vigo en autobús. Hai liñas de autobús directas a Vigo "
+"desde Madrid, Barcelona e moitas outras cidades españolas. A estación de "
+"autobuses atópase no centro da cidade, na rúa Travesía de Vigo."
+
+#: templates/city.html:115
+msgid "Más informacion en los siguientes enlaces:"
+msgstr "Máis información nas seguintes ligazóns:"
+
+#: templates/city.html:124
+msgid "Cómo desplazarse"
+msgstr "Como desprazarse"
+
+#: templates/city.html:126
+msgid ""
+"Vigo es una ciudad pequeña y se puede ir andando a casi todas partes, aunque "
+"Vigo es conocida por sus cuestas (¡así que prepárate para subir y bajar!). "
+"Hoy en día, hay muchas escaleras mecánicas y ascensores que te ayudarán con "
+"eso."
+msgstr ""
+"Vigo é unha cidade pequena e pode irse andando a case todas partes, aínda "
+"que Vigo é coñecida polas súas costas (así que prepárate para subir e "
+"baixar!). Hoxe en día hai moitas escaleiras mecánicas e ascensores que te "
+"axudarán."
+
+#: templates/city.html:130
+msgid ""
+"Para moverte por Vigo y si quieres ir a las playas cercanas, la mejor opción "
+"es el transporte público, autobús o taxi"
+msgstr ""
+"Para moverte por Vigo e se queres ir ás praias próximas, a mellor opción é o "
+"transporte público, autobús ou taxi."
+
+#: templates/city.html:133
+msgid "Autobus"
+msgstr "Autobús"
+
+#: templates/city.html:135
+msgid ""
+"Vitrasa es el autobús urbano público de Vigo. Puedes utilizar las siguientes "
+"aplicaciones o webs para planificar tu viaje y estar informado:"
+msgstr ""
+"Vitrasa é o autobús urbano público de Vigo. Podes utilizar as seguintes "
+"aplicacións ou webs para planificar a túa viaxe e ter a última información:"
+
+#: templates/city.html:146
+msgid "Taxi"
+msgstr "Taxi"
+
+#: templates/city.html:148
+msgid ""
+"Si prefieres un poco más de flexibilidad, no te costará encontrar un taxi en "
+"Vigo. Es una opción muy cómoda para moverse por el centro de Vigo y sus "
+"barrios. Tienen tarifas razonables y te permitirán desplazarte rápidamente."
+msgstr ""
+"Se prefires un pouco máis de flexibilidade, non te custará atopar un taxi en "
+"Vigo. É unha opción moi cómoda para moverse polo centro de Vigo e os seus "
+"barrios. Teñen tarifas razoábeis e permitirante desprazarte rapidamente."
+
+#: templates/code_conduct.html:7
+msgid "Código conducta"
+msgstr "Código conduta"
+
+#: templates/code_conduct.html:10
+msgid ""
+"Python España, como asociación en torno a la que se organizan eventos de "
+"distintos tipos, quiere asegurar que todas las personas que participen en "
+"dichos eventos o comunicaciones tengan una experiencia profesional y "
+"positiva de aprendizaje, colaboración u ocio. Para ello, se espera que quien "
+"participe en la comunidad muestre respeto y cortesía hacia el resto."
+msgstr ""
+"Python España, como asociación ao redor da que se organizan eventos de "
+"distintos tipos, quere asegurar que todas as persoas que participen nos "
+"devanditos eventos ou comunicacións teñan unha experiencia profesional e "
+"positiva de aprendizaxe, colaboración ou lecer. Para iso, espérase que quen "
+"participe na comunidade mostre respecto e cortesía cara ao resto."
+
+#: templates/code_conduct.html:20
+msgid ""
+"Al participar en la comunidad de Python España, te comprometes a fomentar "
+"una experiencia libre de acoso para todo el mundo, independientemente de la "
+"edad, dimensión corporal, discapacidad visible o invisible, etnicidad, "
+"características sexuales, identidad y expresión de género, nivel de "
+"experiencia, educación, nivel socio-económico, nacionalidad, apariencia "
+"personal, raza, religión, o identidad u orientación sexual."
+msgstr ""
+"Ao participar na comunidade de Python España, comprométesche a fomentar unha "
+"experiencia libre de acoso para todo o mundo, independentemente da idade, "
+"dimensión corporal, discapacidade visible ou invisible, etnicidad, "
+"características sexuais, identidade e expresión de xénero, nivel de "
+"experiencia, educación, nivel socio-económico, nacionalidade, aparencia "
+"persoal, raza, relixión, ou identidade ou orientación sexual."
+
+#: templates/code_conduct.html:29
+msgid ""
+"Este Código de Conducta detalla qué comportamientos se esperan, cuáles se "
+"rechazan y qué mecanismos hay para ayudar a una persona que esté siendo "
+"objeto de comportamientos inadecuados."
+msgstr ""
+"Este Código de Conduta detalla que comportamentos espéranse, cales se "
+"rexeitan e que mecanismos hai para axudar a unha persoa que estea a ser "
+"obxecto de comportamentos inadecuados."
+
+#: templates/code_conduct.html:38
+msgid "¿Por qué un código de conducta?"
+msgstr "Por que un código de conduta?"
+
+#: templates/code_conduct.html:43
+msgid ""
+"Siguiendo con el zen de Python, explícito mejor que implícito. Explicitar "
+"qué se espera del ambiente en cualquier evento de Python España:"
+msgstr ""
+"Seguindo co zen de Python, explícito mellor que implícito. Explicitar que se "
+"espera do ambiente en calquera evento de Python España:"
+
+#: templates/code_conduct.html:49
+msgid "Favorece que más personas sepan que son bienvenidas"
+msgstr "Favorece que máis persoas saiban que son benvidas"
+
+#: templates/code_conduct.html:50
+msgid "Evita ambigüedades"
+msgstr "Evita ambigüidades"
+
+#: templates/code_conduct.html:53
+msgid ""
+"Construye un clima de confianza, donde si alguien quiere reportar un "
+"incidente, sabrá que no empezaremos por cuestionarle (victim blaming)."
+msgstr ""
+"Constrúe un clima de confianza, onde se alguén quere reportar un incidente, "
+"saberá que non empezaremos por cuestionarlle (victim blaming)."
+
+#: templates/code_conduct.html:63
+msgid "Alcance"
+msgstr "Alcance"
+
+#: templates/code_conduct.html:67
+msgid ""
+"Este código de conducta es aplicable a todas las personas que participen en "
+"espacios de la comunidad de Python España, ya sean en línea o presenciales. "
+"También se aplica a espacios públicos donde una persona esté en "
+"representación de la comunidad. Ejemplos de esto último incluyen el uso de "
+"la cuenta oficial de correo electrónico, publicaciones a través de las redes "
+"sociales oficiales, o presentaciones con personas designadas en eventos en "
+"línea o no."
+msgstr ""
+"Este código de conduta é aplicable a todas as persoas que participen en "
+"espazos da comunidade de Python España, xa sexan en liña ou presenciais. "
+"Tamén se aplica a espazos públicos onde unha persoa estea en representación "
+"da comunidade. Exemplos disto último inclúen o uso da conta oficial de "
+"correo electrónico, publicacións a través das redes sociais oficiais, ou "
+"presentacións con persoas designadas en eventos en liña ou non."
+
+#: templates/code_conduct.html:78
+msgid "Nuestros estándares"
+msgstr "Os nosos estándares"
+
+#: templates/code_conduct.html:81
+msgid ""
+"Ejemplos de comportamiento que contribuyen a crear un ambiente positivo para "
+"nuestra comunidad:"
+msgstr ""
+"Exemplos de comportamento que contribúen a crear un ambiente positivo para a "
+"nosa comunidade:"
+
+#: templates/code_conduct.html:84
+msgid ""
+"Demostrar empatía y amabilidad ante otras personas. No insultes o humilles a "
+"otros asistentes. Recuerda que las bromas sexistas, racistas o "
+"discriminatorias no son apropiadas. Nunca lo son."
+msgstr ""
+"Demostrar empatía e amabilidade ante outras persoas. Non insultes ou "
+"humilles a outros asistentes. Lembra que as bromas sexistas, racistas ou "
+"discriminatorias non son apropiadas. Nunca o son."
+
+#: templates/code_conduct.html:88
+msgid "Respetar las diferentes opiniones, puntos de vista y experiencias"
+msgstr "Respectar as diferentes opinións, puntos de vista e experiencias"
+
+#: templates/code_conduct.html:89
+msgid "Dar y aceptar adecuadamente críticas constructivas"
+msgstr "Dar e aceptar adecuadamente críticas construtivas"
+
+#: templates/code_conduct.html:91
+msgid ""
+"Aceptar la responsabilidad y disculparse ante quienes se vean afectados por "
+"nuestros errores, aprendiendo de la experiencia"
+msgstr ""
+"Aceptar a responsabilidade e desculparse ante quen se vexa afectados polos "
+"nosos erros, aprendendo da experiencia"
+
+#: templates/code_conduct.html:96
+msgid ""
+"Centrarse en lo que sea mejor no sólo para nosotros como individuos, sino "
+"para la comunidad en general"
+msgstr ""
+"Centrarse no que sexa mellor non só para nós como individuos, senón para a "
+"comunidade en xeral"
+
+#: templates/code_conduct.html:100
+msgid "Usar un lenguaje inclusivo y que dé cabida a una audiencia diversa"
+msgstr "Usar unha linguaxe inclusiva e que dea cabida a unha audiencia diversa"
+
+#: templates/code_conduct.html:101
+msgid ""
+"Prestar especial atención a las personas que recién llegan a la comunidad"
+msgstr ""
+"Prestar especial atención ás persoas que recentemente chegan á comunidade"
+
+#: templates/code_conduct.html:103
+msgid ""
+"Presentarte con tus pronombres y preguntarle a otra persona los suyos para "
+"que exista una comunicación clara y sin sesgo"
+msgstr ""
+"Presentarche cos teus pronomes e preguntarlle a outra persoa os seus para "
+"que exista unha comunicación clara e sen rumbo"
+
+#: templates/code_conduct.html:108
+msgid "Ejemplos de comportamiento inaceptable"
+msgstr "Exemplos de comportamento inaceptable"
+
+#: templates/code_conduct.html:111
+msgid ""
+"El uso de lenguaje o imágenes sexualizadas, y aproximaciones o atenciones "
+"sexuales de cualquier tipo"
+msgstr ""
+"O uso de linguaxe ou imaxes sexualizadas, e aproximacións ou atencións "
+"sexuais de calquera tipo"
+
+#: templates/code_conduct.html:114
+msgid ""
+"Comentarios despectivos trolling, insultantes o derogatorios, y ataques "
+"personales o políticos"
+msgstr ""
+"Comentarios despectivos trolling, insultantes ou derrogatorios, e ataques "
+"persoais ou políticos"
+
+#: templates/code_conduct.html:117
+msgid "Bromas racistas, sexistas o excluyentes"
+msgstr "Bromas racistas, sexistas ou excluíntes"
+
+#: templates/code_conduct.html:120
+msgid "El acoso en público o privado"
+msgstr "O acoso en público ou privado"
+
+#: templates/code_conduct.html:123
+msgid ""
+"Publicar información privada de otras personas, tales como direcciones "
+"físicas o de correo electrónico, sin su permiso explícito"
+msgstr ""
+"Publicar información privada doutras persoas, tales como direccións físicas "
+"ou de correo electrónico, sen o seu permiso explícito"
+
+#: templates/code_conduct.html:127
+msgid ""
+"Otras conductas que puedan ser razonablemente consideradas como inapropiadas "
+"en un entorno profesional"
+msgstr ""
+"Outras condutas que poidan ser razoablemente consideradas como inapropiadas "
+"nunha contorna profesional"
+
+#: templates/code_conduct.html:130
+msgid ""
+"Por acoso se entiende comentarios ofensivos relacionados con género, "
+"orientación sexual, discapacidad, apariencia física, tamaño corporal, etnia "
+"o religión, pornografía en espacios públicos, intimidación deliberada, "
+"acecho, persecución, acoso por fotografías o grabaciones, constante "
+"interrupción de charlas u otros eventos, contacto físico inapropiado y "
+"atención sexual no deseada."
+msgstr ""
+"Por acoso enténdese comentarios ofensivos relacionados con xénero, "
+"orientación sexual, discapacidade, aparencia física, tamaño corporal, etnia "
+"ou relixión, pornografía en espazos públicos, intimidación deliberada, "
+"espreita, persecución, acoso por fotografías ou gravacións, constante "
+"interrupción de charlas ou outros eventos, contacto físico inapropiado e "
+"atención sexual non desexada."
+
+#: templates/code_conduct.html:139
+msgid "Cumplimiento"
+msgstr "Cumprimento"
+
+#: templates/code_conduct.html:142
+msgid ""
+"La administración de la comunidad es responsable de aclarar y hacer cumplir "
+"este código de conducta; en caso de que se determine un comportamiento "
+"inadecuado, tomará las acciones que considere oportunas. Éstas van desde "
+"exigir el cese del comportamiento, hasta la expulsión de una persona de un "
+"evento o de la Asociación, sin derecho a reembolso. La administración de la "
+"comunidad tendrá el derecho y la responsabilidad de eliminar, editar o "
+"rechazar mensajes, comentarios, código, ediciones de páginas de wiki, "
+"tickets y otras contribuciones que no se alineen con este código de "
+"conducta, y comunicará las razones para sus decisiones de moderación cuando "
+"sea apropiado."
+msgstr ""
+"A administración da comunidade é responsable de aclarar e facer cumprir este "
+"código de conduta; no caso de que se determine un comportamento inadecuado, "
+"tomará as accións que considere oportunas. Estas van desde esixir o "
+"cesamento do comportamento, ata a expulsión dunha persoa dun evento ou da "
+"Asociación, sen dereito a reembolso. A administración da comunidade terá o "
+"dereito e a responsabilidade de eliminar, editar ou rexeitar mensaxes, "
+"comentarios, código, edicións de páxinas de wiki, tickets e outras "
+"contribucións que non se aliñen con este código de conduta, e comunicará as "
+"razóns para as súas decisións de moderación cando sexa apropiado."
+
+#: templates/code_conduct.html:154
+msgid "Denuncia e información de contacto"
+msgstr "Denuncia e información de contacto"
+
+#: templates/code_conduct.html:158
+msgid ""
+"Los casos de comportamiento abusivo, acosador o inaceptable de otro modo "
+"podrán ser denunciados a las personas administradoras de la comunidad "
+"responsables del cumplimiento:"
+msgstr ""
+"Os casos de comportamento abusivo, acosador ou inaceptable doutro xeito "
+"poderán ser denunciados ás persoas administradoras da comunidade "
+"responsables do cumprimento:"
+
+#: templates/code_conduct.html:163
+msgid ""
+"Si es un evento presencial, ponte en contacto directamente con las personas "
+"organizadoras del evento. Es muy probable que hayan publicando un código de "
+"conducta específico del evento con instrucciones de a quién acudir; te "
+"proporcionarán un espacio seguro para ayudarte."
+msgstr ""
+"Se é un evento presencial, ponche en contacto directamente coas persoas "
+"organizadoras do evento. É moi probable que haxan publicando un código de "
+"conduta específico do evento con instrucións da quen acudir; "
+"proporcionaranche un espazo seguro para axudarche."
+
+#: templates/code_conduct.html:168
+msgid ""
+"Si se trata de un espacio en línea, ponte en contacto con las personas "
+"moderadoras de ese espacio."
+msgstr ""
+"Se se trata dun espazo en liña, ponche en contacto coas persoas moderadoras "
+"dese espazo."
+
+#: templates/code_conduct.html:171
+msgid ""
+"En el foro de Discourse puedes denunciar publicaciones individuales o "
+"contactar con el "
+msgstr ""
+"No foro de Discourse podes denunciar publicacións individuais ou contactar "
+"co "
+
+#: templates/code_conduct.html:173
+msgid "grupo de moderación"
+msgstr "grupo de moderación"
+
+#: templates/code_conduct.html:177
+msgid ""
+"En Telegram, a la persona propietaria del grupo u otras administradoras."
+msgstr "En Telegram, á persoa propietaria do grupo ou outras administradoras."
+
+#: templates/code_conduct.html:180
+msgid ""
+"Para otros espacios o de forma alternativa, ponte en contacto con la Junta "
+"Directiva en "
+msgstr ""
+"Para outros espazos ou de forma alternativa, ponche en contacto coa Xunta "
+"Directiva en "
+
+#: templates/code_conduct.html:185
+msgid ""
+"Todas las personas administradoras de la comunidad están obligadas a "
+"respetar la privacidad y la seguridad de quienes denuncien incidentes."
+msgstr ""
+"Todas as persoas administradoras da comunidade están obrigadas a respectar a "
+"privacidade e a seguridade de quen denuncie incidentes."
+
+#: templates/code_conduct.html:192
+msgid "Atribución"
+msgstr "Atribución"
+
+#: templates/code_conduct.html:195
+msgid ""
+"Este código de conducta extiende el ya existente con aportaciones de otros "
+"códigos:"
+msgstr ""
+"Este código de conduta estende o xa existente con achegas doutros códigos:"
+
+#: templates/code_conduct.html:200
+msgid "versión en español del Contributor Covenant 2.0"
+msgstr "versión en español do Contributor Covenant 2.0"
+
+#: templates/code_conduct.html:205
+msgid "código de conducta de DjangoCon Europe 2020"
+msgstr "código de conduta de DjangoCon Europe 2020"
+
+#: templates/components/header.html:19
+#: templates/diversity_and_scholarships.html:5 templates/menu.html:20
+msgid "Diversidad y becas"
+msgstr "Diversidade e bolsas"
+
+#: templates/diversity_and_scholarships.html:8
+msgid ""
+"En PyConES 2024, nos comprometemos a promover la diversidad e inclusión en "
+"nuestra conferencia. Creemos firmemente en la importancia de crear un "
+"entorno inclusivo y respetuoso que fomente la participación de todas las "
+"personas, sin importar su raza, etnia, género, edad, habilidades, religión u "
+"orientación sexual. También nos preocupamos por brindar un entorno inclusivo "
+"para aquellos que tienen responsabilidades parentales."
+msgstr ""
+"En PyConES 2024, comprometémonos a promover a diversidade e inclusión na "
+"nosa conferencia. Cremos firmemente na importancia de crear unha contorna "
+"inclusivo e respectuoso que fomente a participación de todas as persoas, sen "
+"importar a súa raza, etnia, xénero, idade, habilidades, relixión ou "
+"orientación sexual. Tamén nos preocupamos por brindar unha contorna "
+"inclusivo para aqueles que teñen responsabilidades parentais."
+
+#: templates/diversity_and_scholarships.html:16
+#: templates/diversity_and_scholarships.html:67
+msgid "Solicitar beca"
+msgstr "Solicitar unha bolsa"
+
+#: templates/diversity_and_scholarships.html:19
+#: templates/diversity_and_scholarships.html:70
+msgid "Solicitar entrada diversidad"
+msgstr "Solicitar unha entrada de diversidade"
+
+#: templates/diversity_and_scholarships.html:22
+msgid ""
+"Para garantizar la diversidad en nuestra conferencia, hemos implementado "
+"diversas iniciativas, algunas de las cuales incluyen:"
+msgstr ""
+"Para garantir a diversidade na conferencia implementamos varias iniciativas, "
+"entre elas:"
+
+#: templates/diversity_and_scholarships.html:26
+msgid "Entradas de diversidad"
+msgstr "Entradas de diversidade"
+
+#: templates/diversity_and_scholarships.html:28
+#: templates/diversity_and_scholarships.html:42
+msgid ""
+"Se otorgan a través de un proceso de solicitud activo hasta el 30 de junio: "
+msgstr "Outórganse a través dun proceso de solicitude activo ata o 30 de xuño:"
+
+#: templates/diversity_and_scholarships.html:30
+msgid "¡Quiero solicitar una entrada de diversidad!"
+msgstr "Quero solicitar unha entrada de diversidade!"
+
+#: templates/diversity_and_scholarships.html:35
+msgid "Becas"
+msgstr "Bolsas"
+
+#: templates/diversity_and_scholarships.html:37
+msgid ""
+"Con las becas, tenemos el objetivo de eliminar las barreras económicas, "
+"facilitando la participación de aquellos que podrían enfrentar dificultades "
+"financieras para asistir al evento."
+msgstr ""
+"Coas bolsas queremos eliminar barreiras económicas para a participación no "
+"evento."
+
+#: templates/diversity_and_scholarships.html:44
+msgid "¡Quiero solicitar una beca!"
+msgstr "Quero solicitar unha bolsa!"
+
+#: templates/components/footer.html:7
+#: templates/diversity_and_scholarships.html:49
+msgid "Código de conducta"
+msgstr "Código de conduta"
+
+#: templates/diversity_and_scholarships.html:51
+msgid ""
+"Contamos con un Código de Conducta para garantizar un ambiente respetuoso y "
+"seguro para todas las personas asistentes. Pueden consultarlo en el "
+"siguiente enlace: "
+msgstr ""
+"Contamos cun código de conduta para garantir un ambiente respectuoso e "
+"seguro para todas as persoas asistentes. Podes consultalo na seguinte "
+"ligazón: "
+
+#: templates/diversity_and_scholarships.html:54
+msgid "Código de Conducta."
+msgstr "Código de conduta."
+
+#: templates/diversity_and_scholarships.html:59
+msgid ""
+"Desde el equipo Organizador: Python Vigo, Python España y personas "
+"voluntarias de PyConES24, secundamos el manifiesto de la PSF[¹] y valoramos "
+"la diversidad en todas sus formas creyendo  firmemente que la inclusión de "
+"diferentes perspectivas enriquece nuestra comunidad y mejora nuestro campo. "
+"Seguiremos esforzándonos por promover la diversidad y garantizar que todas "
+"las personas se sientan bienvenidas y representadas en nuestra conferencia."
+msgstr ""
+"Desde o equipo Organizador: Python Vigo, Python España e persoas voluntarias "
+"de PyConES24, secundamos o manifesto da PSF[¹] e valoramos a diversidade en "
+"todas as súas formas crendo firmemente que a inclusión de diferentes "
+"perspectivas enriquece a nosa comunidade e mellora o noso campo. Seguiremos "
+"esforzándonos por promover a diversidade e garantir que todas as persoas "
+"sentan benvidas e representadas na nosa conferencia."
+
+#: templates/menu.html:11
+msgid "Inicio"
+msgstr "Inicio"
+
+#: templates/menu.html:14
+msgid "Convocatoría de propuestas (CFP)"
+msgstr "Convocatoria de propostas (CfP)"
+
+#: templates/components/header.html:16 templates/menu.html:17
+#: templates/patrocinios.html:9
+msgid "Patrocinios"
+msgstr "Patrocinios"
+
+#: templates/menu.html:23
+msgid "Ciudad"
+msgstr "Cidade"
+
+#: templates/components/header.html:22 templates/menu.html:29
+msgid "FAQ"
+msgstr "Preguntas frecuentes"
+
+#: templates/patrocinios.html:13
+msgid ""
+"¿Te gustaría patrocinar la próxima edición del evento mas importante sobre "
+"desarrollo software con Python? No lo dudes y ponte ya mismo en contacto con "
+"la organización escribiendo al correo"
+msgstr ""
+"Gustaríache patrocinar a próxima edición do evento máis importante sobre o "
+"desenvolvemento de software con Python? Non o dubides e ponte xa en contacto "
+"coa organización escribindo ao enderezo de correo electrónico"
+
+#: templates/patrocinios.html:14
+msgid ""
+"Para conocer todas las ventajas que te ofrecen nuestros distintos niveles de "
+"patrocinio puedes descargar el folleto informativo:"
+msgstr ""
+"Para coñecer todas as vantaxes que ofrecen os distintos niveis de patrocinio "
+"podes descargar o folleto informativo:"
+
+#: templates/patrocinios.html:18
+msgid "/static/dossier/2024ES - Dossier - PyConES Vigo - Patrocinadores.pdf"
+msgstr "/static/dossier/2024ES - Dossier - PyConES Vigo - Patrocinadores.pdf"
+
+#: templates/patrocinios.html:19
+msgid "Descargar dosier completo (ES)"
+msgstr "Descargar o dosier completo (castelán)"
+
+#: templates/patrocinios.html:21
+msgid ""
+"/static/dossier/2024ES - Dossier - PyConES Vigo - Patrocinadores - resumido."
+"pdf"
+msgstr ""
+
+#: templates/patrocinios.html:22
+msgid "Descargar dosier resumido (ES)"
+msgstr "Descargar o dosier resumido (castelán)"
+
+#: templates/patrocinios.html:33
+msgid "Niveles"
+msgstr "Niveis"
+
+#: templates/patrocinios.html:36
+msgid "Beneficios"
+msgstr "Beneficios"
+
+#: templates/patrocinios.html:45
+msgid "Precio"
+msgstr "Prezo"
+
+#: templates/patrocinios.html:52
+msgid "Entradas incluídas"
+msgstr "Entradas incluídas"
+
+#: templates/patrocinios.html:59
+msgid "Logo en web"
+msgstr "Logo en web"
+
+#: templates/patrocinios.html:82
+msgid "Obsequio en welcome pack"
+msgstr "Obsequio no paquete de benvida"
+
+#: templates/patrocinios.html:105
+msgid "Folleto en welcome pack"
+msgstr "Folleto no paquete de benvida"
+
+#: templates/patrocinios.html:128
+msgid "Stand"
+msgstr "Posto"
+
+#: templates/patrocinios.html:139
+msgid "Add-ons"
+msgstr "Complementos"
+
+#: templates/patrocinios.html:162
+msgid "Logo cartelería"
+msgstr "Logo na cartelaría"
+
+#: templates/patrocinios.html:185
+msgid "Logo en pausas"
+msgstr "Logo nas pausas"
+
+#: templates/patrocinios.html:208
+msgid "Publicación en redes sociales"
+msgstr "Publicación nas redes sociais"
+
+#: templates/patrocinios.html:231
+msgid "Ofertas de trabajo"
+msgstr "Ofertas de traballo"
+
+#: templates/patrocinios.html:254
+msgid "Logo newsletter"
+msgstr "Logo no boletín informativo"
+
+#: templates/patrocinios.html:277
+msgid "Charla patrocinada"
+msgstr "Charla patrocinada"
+
+#: templates/patrocinios.html:300
+msgid "Agradecimiento en vivo"
+msgstr "Agradecemento en directo"
+
+#: templates/patrocinios.html:323
+msgid "Anuncio en programa"
+msgstr "Anuncio no programa"
+
+#: templates/patrocinios.html:346
+msgid "Nota de prensa"
+msgstr "Nota de prensa"
+
+#: templates/patrocinios.html:369
+msgid "Taller patrocinado"
+msgstr "Taller de patrocinio"
+
+#: templates/patrocinios.html:392
+msgid "Sesión de contratación"
+msgstr "Sesión de contratación"
+
+#: templates/patrocinios.html:415
+msgid "Video promocional"
+msgstr "Vídeo promocional"
+
+#: templates/patrocinios.html:416
+msgid "2 veces al día"
+msgstr "2 veces ao día"
+
+#: templates/patrocinios.html:417
+msgid "1 vez en el fin de semana"
+msgstr "1 vez na fin de semana"
+
+#: templates/patrocinios.html:434
+msgid ""
+"La cantidad de patrocinios es limitada (excepto de nivel Cortegada). La "
+"organización se reserva el derecho de modificar dicha cantidad a "
+"conveniencia, siempre velando por los intereses de la conferencia."
+msgstr ""
+"A cantidade de patrocinios é limitada (excepto o nivel Cortegada). A "
+"organización resérvase o dereito a modificar a cantidade a conveniencia, "
+"sempre velando polos intereses da conferencia."
+
+#: templates/patrocinios.html:435
+msgid ""
+"2 entradas, una por la charla patrocinada y otra por el taller patrocinado. "
+"Las entradas solo se otorgan si se imparten la charla y el taller, "
+"respectivamente."
+msgstr ""
+"2 entradas, unha por charla patrocinada e outra polo taller patrocinado. As "
+"estradas só se otorgan se se imparten a charla e o taller, respectivamente."
+
+#: templates/patrocinios.html:436
+msgid ""
+"1 entrada por la charla patrocinada. La entrada solo se otorga si se imparte "
+"la charla."
+msgstr ""
+"1 entrada pola charla patrocinada. A entrada só se otorga se se imparte a "
+"charla."
+
+#: templates/patrocinios.html:437
+msgid "Las medidas del stand son orientativas."
+msgstr "As medidas do posto son orientativas."
+
+#: templates/patrocinios.html:438
+msgid ""
+"Aparición en soportes físicos impresos supeditada a la producción de los "
+"mismos."
+msgstr "Aparición en soportes físicos impresos supeditada á súa produción."
+
+#: templates/components/event_schedule_section.html:9
+msgid "Cronograma del evento"
+msgstr "Cronograma do evento"
+
+#: templates/components/event_schedule_section.html:12
+msgid ""
+"A continuación podrás ver algunos de los hitos más importantes de la "
+"conferencia. En caso de que la fecha exacta no esté disponible, se "
+"confirmará el cambio lo antes posible."
+msgstr ""
+"A continuación poderás ver algúns dos hitos máis importantes da conferencia. "
+"En caso de que a data exacta non estea dispoñíbel, confirmarase o cambio o "
+"antes posíbel."
+
+#: templates/components/event_schedule_section.html:22
+msgid "Presentamos la PyConES"
+msgstr "Presentamos a PyConES"
+
+#: templates/components/event_schedule_section.html:23
+msgid "Marzo"
+msgstr "Marzo"
+
+#: templates/components/event_schedule_section.html:26
+msgid "Apertura para el envío de ponencias/charlas"
+msgstr "Apertura para o envío de ponencias/charlas"
+
+#: templates/components/event_schedule_section.html:27
+msgid "Abril"
+msgstr "Abril"
+
+#: templates/components/event_schedule_section.html:30
+msgid "Apertura para la venta de entradas"
+msgstr "Apertura da venda de entradas"
+
+#: templates/components/event_schedule_section.html:31
+#: templates/components/event_schedule_section.html:35
+msgid "Mayo"
+msgstr "Maio"
+
+#: templates/components/event_schedule_section.html:34
+msgid "Cierre del llamado a ponencias/charlas"
+msgstr "Peche do envío de ponencias/charlas"
+
+#: templates/components/event_schedule_section.html:38
+msgid "Apertura para la postulación de becas"
+msgstr "Apertura da postulación de bolsas"
+
+#: templates/components/event_schedule_section.html:39
+msgid "Junio"
+msgstr "Xuño"
+
+#: templates/components/event_schedule_section.html:42
+msgid "¡Empieza el espectáculo!"
+msgstr "Empeza o espectáculo!"
+
+#: templates/components/event_schedule_section.html:43
+msgid "Octubre"
+msgstr "Outubro"
+
+#: templates/components/footer.html:10
+#: templates/previous_editions/previous_editions.html:5
+msgid "Ediciones anteriores"
+msgstr "Edicións anteriores"
+
+#: templates/components/footer.html:20
+msgid "Envíanos un correo electrónico"
+msgstr "Contáctanos por correo electrónico"
+
+#: templates/components/footer.html:30
+msgid "Síguenos en Linkedin"
+msgstr "Síguenos en LinkedIn"
+
+#: templates/components/footer.html:40
+msgid "Síguenos en Mastodon"
+msgstr "Síguenos en Mastodon"
+
+#: templates/components/footer.html:50
+msgid "Síguenos en Twitter"
+msgstr "Síguenos en Twitter"
+
+#: templates/components/footer.html:60
+msgid "Síguenos en Instagram"
+msgstr "Síguenos en Instagram"
+
+#: templates/components/footer.html:70
+msgid "Síguenos en Youtube"
+msgstr "Síguenos en YouTube"
+
+#: templates/components/header.html:13
+msgid "C4P"
+msgstr ""
+
+#: templates/components/header.html:26
+msgid "Entradas"
+msgstr "Entradas"
+
+#: templates/components/header.html:36
+msgid "Selecciona idioma"
+msgstr "Escolle un idioma"
+
+#: templates/faq/faq.html:5
+msgid "Preguntas Frecuentes"
+msgstr "Preguntas frecuentes"
+
+#: templates/macros/carousel.html:12
+msgid "Anterior"
+msgstr "Anterior"
+
+#: templates/macros/carousel.html:28
+msgid "Siguiente"
+msgstr "Seguinte"
+
+#: templates/venue/venue.html:32
+msgid "Más información"
+msgstr ""
+
+#: templates/venue/venue.html:35
+msgid ""
+"El Auditorio Palacio de Congresos Mar de Vigo se encuentra a unos 15 minutos "
+"en coche desde el Aeropuerto de Peinador."
+msgstr ""
+
+#: templates/venue/venue.html:36
+msgid ""
+"El Aeropuerto de Peinador dispone de parada de taxis. El importe de la "
+"carrera desde el aeropuerto al Palacio de Congresos / Vigo Centro es fija y "
+"ronda los 21 €."
+msgstr ""
+
+#: templates/venue/venue.html:37
+msgid ""
+"El Aeropuerto de Peinador dispone de una parada de Autobús por la que "
+"circula la linea C9A, que cuenta con una parada muy cercana al Palacio de "
+"Congresos. Más informacion en:"
+msgstr ""
+
+#: templates/venue/venue.html:45
+msgid ""
+"El Palacio de Congresos dispone de Servicio de Parking. (Consulte tarifas "
+"por minuto)"
+msgstr ""
+
+#: templates/venue/venue.html:46
+msgid "Más informacion en: "
+msgstr ""
+
+#~ msgid ""
+#~ "Se otorgan a través de un proceso de solicitud activo hasta el 30 de "
+#~ "junio:"
+#~ msgstr ""
+#~ "Outórganse a través dun proceso de solicitude activo ata o 30 de xuño:"
+
+#~ msgid ""
+#~ "Contamos con un Código de Conducta para garantizar un ambiente respetuoso "
+#~ "y seguro para todas las personas asistentes. Pueden consultarlo en el "
+#~ "siguiente enlace:"
+#~ msgstr ""
+#~ "Contamos cun código de conduta para garantir un ambiente respectuoso e "
+#~ "seguro para todas as persoas asistentes. Podes consultalo na seguinte "
+#~ "ligazón:"
