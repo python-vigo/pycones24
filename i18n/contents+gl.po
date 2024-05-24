@@ -537,8 +537,8 @@ msgstr "Para coñecer todas as vantaxes que ofrecen os distintos niveis de patro
 msgid "Para garantizar la diversidad en nuestra conferencia, hemos implementado diversas iniciativas, algunas de las cuales incluyen:"
 msgstr "Para garantir a diversidade na conferencia implementamos varias iniciativas, entre elas:"
 
-msgid "Para moverte por Vigo y si quieres ir a las playas cercanas, la mejor opción es el transporte público, autobús o taxi"
-msgstr "Para moverte por Vigo e se queres ir ás praias próximas, a mellor opción é o transporte público, autobús ou taxi."
+msgid "Para moverte por Vigo y si quieres ir a las playas cercanas, la mejor opción es el transporte público, autobús o taxi."
+msgstr ""
 
 #, python-format
 msgid "Para obtener información actualizada, le recomendamos que visite la página web de %(link_aena)s."
@@ -625,8 +625,8 @@ msgstr "Saltos entre distintos campos profesionais"
 msgid "Se aceptan charlas con varias personas como ponentes"
 msgstr "Acéptanse charlas con varias persoas como ponentes"
 
-msgid "Se hará en el Auditorio Mar de Vigo, situado en primera línea de mar, frente a las Islas Cíes. <a href=\"https://auditoriomardevigo.com/localizacion/\" target=\"blank\" class=\"text-primary hover:text-secondary\">Más información</a>"
-msgstr "Celebrarase no Auditorio Mar de Vigo, situado en primera liña de mar, fronte ás Illas Cíes. <a href=\"https://auditoriomardevigo.com/localizacion/\" target=\"blank\" class=\"text-primary hover:text-secondary\">Máis información</a>."
+msgid "Se hará en el Auditorio Mar de Vigo, situado en primera línea de mar, frente a las Islas Cíes. <a href=\"https://auditoriomardevigo.com/localizacion/\" target=\"blank\" class=\"text-primary hover:text-secondary\">Más información</a>."
+msgstr ""
 
 #, python-format
 msgid "Se otorgan a través de un proceso de solicitud activo hasta el 30 de junio: <a href=\"%(url)s\" target=\"_blank\" class=\"font-bold underline text-primary\"> ¡Quiero solicitar una beca! </a>"
@@ -667,8 +667,8 @@ msgstr "Se é un evento presencial, ponche en contacto directamente coas persoas
 msgid "Si prefieres un poco más de flexibilidad, no te costará encontrar un taxi en Vigo. Es una opción muy cómoda para moverse por el centro de Vigo y sus barrios. Tienen tarifas razonables y te permitirán desplazarte rápidamente."
 msgstr "Se prefires un pouco máis de flexibilidade, non te custará atopar un taxi en Vigo. É unha opción moi cómoda para moverse polo centro de Vigo e os seus barrios. Teñen tarifas razoábeis e permitirante desprazarte rapidamente."
 
-msgid "Si quieres formar parte de nuestros patrocinadores para hacer esta conferencia aún más impresionante puedes disponer de un espacio dentro del eventos"
-msgstr "Se queres formar parte dos nosos patrocinadores para facer esta conferencia aínda máis impresionante, podes dispoñer dun espazo dentro do evento."
+msgid "Si quieres formar parte de nuestros patrocinadores para hacer esta conferencia aún más impresionante puedes disponer de un espacio dentro del eventos."
+msgstr ""
 
 msgid "Si se trata de un espacio en línea, ponte en contacto con las personas moderadoras de ese espacio."
 msgstr "Se se trata dun espazo en liña, ponche en contacto coas persoas moderadoras dese espazo."

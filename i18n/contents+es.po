@@ -530,7 +530,7 @@ msgstr ""
 msgid "Para garantizar la diversidad en nuestra conferencia, hemos implementado diversas iniciativas, algunas de las cuales incluyen:"
 msgstr ""
 
-msgid "Para moverte por Vigo y si quieres ir a las playas cercanas, la mejor opción es el transporte público, autobús o taxi"
+msgid "Para moverte por Vigo y si quieres ir a las playas cercanas, la mejor opción es el transporte público, autobús o taxi."
 msgstr ""
 
 #, python-format
@@ -618,7 +618,7 @@ msgstr ""
 msgid "Se aceptan charlas con varias personas como ponentes"
 msgstr ""
 
-msgid "Se hará en el Auditorio Mar de Vigo, situado en primera línea de mar, frente a las Islas Cíes. <a href=\"https://auditoriomardevigo.com/localizacion/\" target=\"blank\" class=\"text-primary hover:text-secondary\">Más información</a>"
+msgid "Se hará en el Auditorio Mar de Vigo, situado en primera línea de mar, frente a las Islas Cíes. <a href=\"https://auditoriomardevigo.com/localizacion/\" target=\"blank\" class=\"text-primary hover:text-secondary\">Más información</a>."
 msgstr ""
 
 #, python-format
@@ -660,7 +660,7 @@ msgstr ""
 msgid "Si prefieres un poco más de flexibilidad, no te costará encontrar un taxi en Vigo. Es una opción muy cómoda para moverse por el centro de Vigo y sus barrios. Tienen tarifas razonables y te permitirán desplazarte rápidamente."
 msgstr ""
 
-msgid "Si quieres formar parte de nuestros patrocinadores para hacer esta conferencia aún más impresionante puedes disponer de un espacio dentro del eventos"
+msgid "Si quieres formar parte de nuestros patrocinadores para hacer esta conferencia aún más impresionante puedes disponer de un espacio dentro del eventos."
 msgstr ""
 
 msgid "Si se trata de un espacio en línea, ponte en contacto con las personas moderadoras de ese espacio."

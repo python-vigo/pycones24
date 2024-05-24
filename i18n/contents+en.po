@@ -537,8 +537,8 @@ msgstr "To know all the advantages that our different levels of sponsorship you 
 msgid "Para garantizar la diversidad en nuestra conferencia, hemos implementado diversas iniciativas, algunas de las cuales incluyen:"
 msgstr "To promote diversity in our conference, we have implemented several initiatives, including:"
 
-msgid "Para moverte por Vigo y si quieres ir a las playas cercanas, la mejor opción es el transporte público, autobús o taxi"
-msgstr "To get around Vigo and, if you wish, nearby beaches, the best option is public transport, either bus or taxi."
+msgid "Para moverte por Vigo y si quieres ir a las playas cercanas, la mejor opción es el transporte público, autobús o taxi."
+msgstr ""
 
 #, python-format
 msgid "Para obtener información actualizada, le recomendamos que visite la página web de %(link_aena)s."
@@ -625,8 +625,8 @@ msgstr "Hops between different professional fields"
 msgid "Se aceptan charlas con varias personas como ponentes"
 msgstr "Proposals with multiple speakers may be submitted"
 
-msgid "Se hará en el Auditorio Mar de Vigo, situado en primera línea de mar, frente a las Islas Cíes. <a href=\"https://auditoriomardevigo.com/localizacion/\" target=\"blank\" class=\"text-primary hover:text-secondary\">Más información</a>"
-msgstr "Will take place in Auditorio Mar de Vigo, located on the oceanfront, facing Cíes Islands. <a href=\"https://auditoriomardevigo.com/localizacion/\" target=\"blank\" class=\"text-primary hover:text-secondary\">More info</a>"
+msgid "Se hará en el Auditorio Mar de Vigo, situado en primera línea de mar, frente a las Islas Cíes. <a href=\"https://auditoriomardevigo.com/localizacion/\" target=\"blank\" class=\"text-primary hover:text-secondary\">Más información</a>."
+msgstr ""
 
 #, python-format
 msgid "Se otorgan a través de un proceso de solicitud activo hasta el 30 de junio: <a href=\"%(url)s\" target=\"_blank\" class=\"font-bold underline text-primary\"> ¡Quiero solicitar una beca! </a>"
@@ -667,8 +667,8 @@ msgstr "If it is an in-person event, contact the event organizers directly. They
 msgid "Si prefieres un poco más de flexibilidad, no te costará encontrar un taxi en Vigo. Es una opción muy cómoda para moverse por el centro de Vigo y sus barrios. Tienen tarifas razonables y te permitirán desplazarte rápidamente."
 msgstr "If you prefer more flexibility, it should be easy to find a taxi in Vigo. It is a very convenient to get around the city center and outer neighborhoods. Prices are reasonable, and you will get around pretty quickly."
 
-msgid "Si quieres formar parte de nuestros patrocinadores para hacer esta conferencia aún más impresionante puedes disponer de un espacio dentro del eventos"
-msgstr "If you want to be one of our sponsors, to make this conference even better, you may enjoy a space within the event."
+msgid "Si quieres formar parte de nuestros patrocinadores para hacer esta conferencia aún más impresionante puedes disponer de un espacio dentro del eventos."
+msgstr ""
 
 msgid "Si se trata de un espacio en línea, ponte en contacto con las personas moderadoras de ese espacio."
 msgstr "If it's an online space, get in touch with the moderators of that space."
