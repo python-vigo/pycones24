@@ -657,7 +657,7 @@ msgstr ""
 msgid "Si prefieres un poco más de flexibilidad, no te costará encontrar un taxi en Vigo. Es una opción muy cómoda para moverse por el centro de Vigo y sus barrios. Tienen tarifas razonables y te permitirán desplazarte rápidamente."
 msgstr ""
 
-msgid "Si quieres formar parte de nuestros patrocinadores para hacer esta conferencia aún más impresionante puedes disponer de un espacio dentro del eventos."
+msgid "Si quieres formar parte de nuestros patrocinadores para hacer esta conferencia aún más impresionante puedes disponer de un espacio dentro del evento."
 msgstr ""
 
 msgid "Si se trata de un espacio en línea, ponte en contacto con las personas moderadoras de ese espacio."

@@ -664,8 +664,8 @@ msgstr "Se é un evento presencial, ponche en contacto directamente coas persoas
 msgid "Si prefieres un poco más de flexibilidad, no te costará encontrar un taxi en Vigo. Es una opción muy cómoda para moverse por el centro de Vigo y sus barrios. Tienen tarifas razonables y te permitirán desplazarte rápidamente."
 msgstr "Se prefires un pouco máis de flexibilidade, non te custará atopar un taxi en Vigo. É unha opción moi cómoda para moverse polo centro de Vigo e os seus barrios. Teñen tarifas razoábeis e permitirante desprazarte rapidamente."
 
-msgid "Si quieres formar parte de nuestros patrocinadores para hacer esta conferencia aún más impresionante puedes disponer de un espacio dentro del eventos."
-msgstr "Se queres formar parte dos nosos patrocinadores para facer esta conferencia aínda máis impresionante, podes dispoñer dun espazo dentro do evento."
+msgid "Si quieres formar parte de nuestros patrocinadores para hacer esta conferencia aún más impresionante puedes disponer de un espacio dentro del evento."
+msgstr ""
 
 msgid "Si se trata de un espacio en línea, ponte en contacto con las personas moderadoras de ese espacio."
 msgstr "Se se trata dun espazo en liña, ponche en contacto coas persoas moderadoras dese espazo."
@@ -828,3 +828,6 @@ msgstr "Sobre que se falará e que aprenderá a xente que asista?"
 
 msgid "¿Te gustaría patrocinar la próxima edición del evento mas importante sobre desarrollo software con Python? No lo dudes y ponte ya mismo en contacto con la organización escribiendo al correo"
 msgstr "Gustaríache patrocinar a próxima edición do evento máis importante sobre o desenvolvemento de software con Python? Non o dubides e ponte xa en contacto coa organización escribindo ao enderezo de correo electrónico"
+
+#~ msgid "Si quieres formar parte de nuestros patrocinadores para hacer esta conferencia aún más impresionante puedes disponer de un espacio dentro del eventos."
+#~ msgstr "Se queres formar parte dos nosos patrocinadores para facer esta conferencia aínda máis impresionante, podes dispoñer dun espazo dentro do evento."

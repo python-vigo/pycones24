@@ -664,7 +664,7 @@ msgstr "If it is an in-person event, contact the event organizers directly. They
 msgid "Si prefieres un poco más de flexibilidad, no te costará encontrar un taxi en Vigo. Es una opción muy cómoda para moverse por el centro de Vigo y sus barrios. Tienen tarifas razonables y te permitirán desplazarte rápidamente."
 msgstr "If you prefer more flexibility, it should be easy to find a taxi in Vigo. It is a very convenient to get around the city center and outer neighborhoods. Prices are reasonable, and you will get around pretty quickly."
 
-msgid "Si quieres formar parte de nuestros patrocinadores para hacer esta conferencia aún más impresionante puedes disponer de un espacio dentro del eventos."
+msgid "Si quieres formar parte de nuestros patrocinadores para hacer esta conferencia aún más impresionante puedes disponer de un espacio dentro del evento."
 msgstr ""
 
 msgid "Si se trata de un espacio en línea, ponte en contacto con las personas moderadoras de ese espacio."
