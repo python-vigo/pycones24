@@ -180,8 +180,10 @@
         {{ _("En Telegram, a la persona propietaria del grupo u otras administradoras.") }}
       </li>
       <li>
-        {{ _("Para otros espacios o de forma alternativa, ponte en contacto con la Junta Directiva en ") }}
-        <a class="text-primary hover:opacity-65" href="mailto:contacto@es.python.org">contacto@es.python.org</a>
+        {% trans trimmed %}
+          Para otros espacios o de forma alternativa, ponte en contacto con la Junta Directiva en
+          <a class="text-primary hover:opacity-65" href="mailto:contacto@es.python.org">contacto@es.python.org</a>.
+        {% endtrans %}
       </li>
     </ul>
     <p class="my-3">
