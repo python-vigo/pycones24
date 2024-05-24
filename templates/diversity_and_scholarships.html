@@ -25,10 +25,12 @@
         <article class="text-lg">
             <h3 class="mb-4 text-2xl font-bold">{{ _("Entradas de diversidad") }}</h3>
             <p class="mt-5">
-                {{ _("Se otorgan a través de un proceso de solicitud activo hasta el 30 de junio: ") }}
-                <a href="{{ this.url_diversity }}" target="_blank" class="font-bold underline text-primary">
-                    {{ _("¡Quiero solicitar una entrada de diversidad!") }}
-                </a>
+                {% trans trimmed url=this.url_diversity %}
+                    Se otorgan a través de un proceso de solicitud activo hasta el 30 de junio:
+                    <a href="{{ url }}" target="_blank" class="font-bold underline text-primary">
+                        ¡Quiero solicitar una entrada de diversidad!
+                    </a>
+                {% endtrans %}
             </p>
         </article>
         <article class="text-lg">
