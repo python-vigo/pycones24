@@ -265,7 +265,7 @@ msgstr "Exemplos de comportamento que contribúen a crear un ambiente positivo p
 msgid "El Aeropuerto de Peinador dispone de parada de taxis. El importe de la carrera desde el aeropuerto al Palacio de Congresos / Vigo Centro es fija y ronda los 21 €."
 msgstr ""
 
-msgid "El Aeropuerto de Peinador dispone de una parada de Autobús por la que circula la linea C9A, que cuenta con una parada muy cercana al Palacio de Congresos. Más informacion en:"
+msgid "El Aeropuerto de Peinador dispone de una parada de Autobús por la que circula la linea C9A, que cuenta con una parada muy cercana al Palacio de Congresos. Más información en:"
 msgstr ""
 
 msgid "El Aeropuerto de Vigo, Peinador, es el aeropuerto del sur de Galicia y está a solo 20 minutos del centro de la ciudad."
@@ -454,21 +454,18 @@ msgstr "Marzo"
 msgid "Mayo"
 msgstr "Maio"
 
-msgid "Más informacion"
-msgstr "Máis informacion"
-
-msgid "Más informacion en los siguientes enlaces:"
-msgstr "Máis información nas seguintes ligazóns:"
-
-#, python-format
-msgid "Más informacion en: %(venue_link)s."
-msgstr "Máis información en: %(venue_link)s."
-
 msgid "Más información"
 msgstr "Máis información"
 
 msgid "Más información en la sección de <a href=\"https://2024.es.pycon.org/patrocinios/\" class=\"mt-1 text-primary hover:text-secondary\">patrocinios</a>."
 msgstr "Máis información na sección de <a href=\"https://2024.es.pycon.org/patrocinios/\" class=\"mt-1 text-primary hover:text-secondary\">patrocinios</a>."
+
+msgid "Más información en los siguientes enlaces:"
+msgstr ""
+
+#, python-format
+msgid "Más información en: %(venue_link)s."
+msgstr ""
 
 msgid "Niveles"
 msgstr "Niveis"
