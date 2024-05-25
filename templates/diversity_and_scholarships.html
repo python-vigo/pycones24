@@ -25,10 +25,12 @@
         <article class="text-lg">
             <h3 class="mb-4 text-2xl font-bold">{{ _("Entradas de diversidad") }}</h3>
             <p class="mt-5">
-                {{ _("Se otorgan a través de un proceso de solicitud activo hasta el 30 de junio: ") }}
-                <a href="{{ this.url_diversity }}" target="_blank" class="font-bold underline text-primary">
-                    {{ _("¡Quiero solicitar una entrada de diversidad!") }}
-                </a>
+                {% trans trimmed url=this.url_diversity %}
+                    Se otorgan a través de un proceso de solicitud activo hasta el 30 de junio:
+                    <a href="{{ url }}" target="_blank" class="font-bold underline text-primary">
+                        ¡Quiero solicitar una entrada de diversidad!
+                    </a>
+                {% endtrans %}
             </p>
         </article>
         <article class="text-lg">
@@ -39,20 +41,24 @@
                 }}
             </p>
             <p class="mt-5">
-                {{ _("Se otorgan a través de un proceso de solicitud activo hasta el 30 de junio: ") }}
-                <a href="{{ this.url_scholarship }}" target="_blank" class="font-bold underline text-primary">
-                    {{ _("¡Quiero solicitar una beca!") }}
-                </a>
+                {% trans trimmed url=this.url_scholarship %}
+                    Se otorgan a través de un proceso de solicitud activo hasta el 30 de junio:
+                    <a href="{{ url }}" target="_blank" class="font-bold underline text-primary">
+                        ¡Quiero solicitar una beca!
+                    </a>
+                {% endtrans %}
             </p>
         </article>
         <article class="text-lg">
             <h3 class="mb-4 text-2xl font-bold">{{ _("Código de conducta") }}</h3>
             <p>
-                {{ _("Contamos con un Código de Conducta para garantizar un ambiente respetuoso y seguro para todas "
-                "las personas asistentes. Pueden consultarlo en el siguiente enlace: ")}}
-                <a href="{{ '/codigo-conducta'|url }}" class="font-bold underline text-primary">
-                    {{ _("Código de Conducta.") }}
-                </a>
+                {% trans trimmed link='/codigo-conducta'|url %}
+                    Contamos con un Código de Conducta para garantizar un ambiente respetuoso y seguro para todas
+                    las personas asistentes. Pueden consultarlo en el siguiente enlace:
+                    <a href="{{ link }}" class="font-bold underline text-primary">
+                        Código de Conducta
+                    </a>.
+                {% endtrans %}
             </p>
         </article>
         <p class="text-lg">

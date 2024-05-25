@@ -3,8 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pycones 24\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-05-24 09:07+CET\n"
-"PO-Revision-Date: 2024-05-24 09:04+0200\n"
+"PO-Revision-Date: 2024-05-24 20:12+0200\n"
 "Last-Translator: Adrián Chaves (Gallaecio) <adrian@chaves.io>\n"
 "Language-Team: Proxecto Trasno (proxecto@trasno.gal)\n"
 "Language: en\n"
@@ -149,7 +148,7 @@ msgid "Bruselas"
 msgstr "Brussels"
 
 msgid "C4P"
-msgstr ""
+msgstr "C4P"
 
 msgid "Centrarse en lo que sea mejor no sólo para nosotros como individuos, sino para la comunidad en general"
 msgstr "Focus on what is best for not only us as individuals, but for the community as a whole"
@@ -179,7 +178,7 @@ msgid "Con un enfoque social"
 msgstr "With a social focus"
 
 msgid "Conferencia inclusiva"
-msgstr ""
+msgstr "Inclusive Conference"
 
 msgid "Consideraciones adicionales"
 msgstr "Additional considerations"
@@ -187,8 +186,9 @@ msgstr "Additional considerations"
 msgid "Construye un clima de confianza, donde si alguien quiere reportar un incidente, sabrá que no empezaremos por cuestionarle (victim blaming)."
 msgstr "Build a climate of trust, where if someone wants to report an incident, they know that we will not start by questioning them (victim blaming)."
 
-msgid "Contamos con un Código de Conducta para garantizar un ambiente respetuoso y seguro para todas las personas asistentes. Pueden consultarlo en el siguiente enlace: "
-msgstr "We have a Code of Conduct to ensure a respectful, safe environment for every attendee."
+#, python-format
+msgid "Contamos con un Código de Conducta para garantizar un ambiente respetuoso y seguro para todas las personas asistentes. Pueden consultarlo en el siguiente enlace: <a href=\"%(link)s\" class=\"font-bold underline text-primary\"> Código de Conducta </a>."
+msgstr "We have a Code of Conduct to ensure a respectful, safe environment for every attendee. You could check it in the following link: <a href=\"%(link)s\" class=\"font-bold underline text-primary\"> Code of Conduct </a>."
 
 msgid "Contexto de tu charla o problema"
 msgstr "Context for your talk or problem"
@@ -207,9 +207,6 @@ msgstr "Compliance"
 
 msgid "Código conducta"
 msgstr "Code of Conduct"
-
-msgid "Código de Conducta."
-msgstr "Code of Conduct."
 
 msgid "Código de conducta"
 msgstr "Code of Conduct"
@@ -268,7 +265,7 @@ msgstr "Examples of behavior that contribute to creating a positive environment 
 msgid "El Aeropuerto de Peinador dispone de parada de taxis. El importe de la carrera desde el aeropuerto al Palacio de Congresos / Vigo Centro es fija y ronda los 21 €."
 msgstr ""
 
-msgid "El Aeropuerto de Peinador dispone de una parada de Autobús por la que circula la linea C9A, que cuenta con una parada muy cercana al Palacio de Congresos. Más informacion en:"
+msgid "El Aeropuerto de Peinador dispone de una parada de Autobús por la que circula la linea C9A, que cuenta con una parada muy cercana al Palacio de Congresos. Más información en:"
 msgstr ""
 
 msgid "El Aeropuerto de Vigo, Peinador, es el aeropuerto del sur de Galicia y está a solo 20 minutos del centro de la ciudad."
@@ -307,8 +304,8 @@ msgstr "By car or bus"
 msgid "En el corazón de las Rías Baixas, Vigo es la mayor ciudad de Galicia. Originalmente un pueblo de pescadores, ahora es conocida como la “Puerta del Atlántico”. Es una ciudad con una gran oferta cultural y gastronómica, con una amplia variedad de restaurantes y bares donde degustar algunos de los mejores mariscos del mundo."
 msgstr "At the heart of Rías Baixas, Vigo is the biggest city in Galicia. Originally a fishing village, now it is known as “Door of the Atlantic”. It is a city with a wide range of restaurants and bars, where you can enjoy some of the best seafood in the world."
 
-msgid "En el foro de Discourse puedes denunciar publicaciones individuales o contactar con el "
-msgstr "In the Discourse forum you can report individual posts or contact the"
+msgid "En el foro de Discourse puedes denunciar publicaciones individuales o contactar con el <a class=\"text-primary hover:opacity-65\" href=\"https://comunidad.es.python.org/groups/moderadores\"> grupo de moderación </a> ."
+msgstr "In the Discourse forum you can report individual posts or contact the <a class=\"text-primary hover:opacity-65\" href=\"https://comunidad.es.python.org/groups/moderadores\"> moderation group </a> ."
 
 msgid "En tren"
 msgstr "By train"
@@ -336,9 +333,6 @@ msgstr "This page contains all the information about the procedure to propose a 
 
 msgid "Estamos buscando una variedad de charlas sobre temas técnicos y no técnicos. Buscamos charlas accesibles para todos los niveles de habilidad, y buscamos propuestas de oradores nuevos y experimentados."
 msgstr "We are looking for diverse talks about both technical and non-technical topics. We want talks for all skill levels from both new and experienced speakers."
-
-msgid "Estamos comprometidos a hacer de PyConES 2024 un evento inclusivo, atractivo e inolvidable para todos."
-msgstr "We are committed to make of PyConES 2024 an inclusive, attractive and unforgettable event for everyone."
 
 msgid "Estamos dedicados a hacer nuestra conferencia accesible para todos. Encuentra detalles y recursos aquí. ¿Necesitas más información o alojamientos específicos? Contáctanos en <a href=\"mailto:contacto@2024.es.pycon.org\" class=\"text-primary\">contacto@2024.es.pycon.org</a>"
 msgstr ""
@@ -460,26 +454,24 @@ msgstr "March"
 msgid "Mayo"
 msgstr "May"
 
-msgid "Más informacion"
-msgstr "More information"
-
-msgid "Más informacion en los siguientes enlaces:"
-msgstr "More information in the following links:"
-
-msgid "Más informacion en: "
-msgstr ""
-
 msgid "Más información"
 msgstr ""
 
 msgid "Más información en la sección de <a href=\"https://2024.es.pycon.org/patrocinios/\" class=\"mt-1 text-primary hover:text-secondary\">patrocinios</a>."
 msgstr "More information in the <a href=\"https://2024.es.pycon.org/patrocinios/\" class=\"mt-1 text-primary hover:text-secondary\">Sponsorship</a> section."
 
+msgid "Más información en los siguientes enlaces:"
+msgstr ""
+
+#, python-format
+msgid "Más información en: %(venue_link)s."
+msgstr ""
+
 msgid "Niveles"
 msgstr "Levels"
 
-msgid "No olvides seguirnos en twitter"
-msgstr "Do not forget to follow us in Twitter"
+msgid "No olvides seguirnos en twitter <a href=\"https://twitter.com/PyConES\" class=\"font-bold text-primary hover:text-secondary\">@PyConES</a> para obtener la información más reciente y actualizada!"
+msgstr "Do not forget to follow us in Twitter <a href=\"https://twitter.com/PyConES\" class=\"font-bold text-primary hover:text-secondary\">@PyConES</a> to get the latest updates!"
 
 msgid "Nos comprometemos a atender todas tus necesidades dietéticas. Al adquirir tu entrada, tendrás la oportunidad de indicar cualquier preferencia o restricción alimentaria de manera detallada."
 msgstr ""
@@ -490,8 +482,8 @@ msgstr "See you in Vigo!"
 msgid "Nota de prensa"
 msgstr "Press release"
 
-msgid "Nuestro equipo está aquí para ayudarte. Si tienes alguna pregunta o sugerencia, no dudes en contactarnos en "
-msgstr "Our team is here to help you. If you have any question or feedback, do not hesitate to contact us at "
+msgid "Nuestro equipo está aquí para ayudarte. Si tienes alguna pregunta o sugerencia, no dudes en contactarnos en <a href=\"mailto:charlas@2024.es.pycon.org\" class=\"font-bold text-primary hover:text-secondary\"> charlas@2024.es.pycon.org </a> . Estamos comprometidos a hacer de PyConES 2024 un evento inclusivo, atractivo e inolvidable para todos."
+msgstr "Our team is here to help you. If you have any question or feedback, do not hesitate to contact us at <a href=\"mailto:charlas@2024.es.pycon.org\" class=\"font-bold text-primary hover:text-secondary\"> charlas@2024.es.pycon.org </a>. We are committed to make of PyConES 2024 an inclusive, attractive and unforgettable event for everyone."
 
 msgid "Nuestros estándares"
 msgstr "Our standards"
@@ -542,14 +534,15 @@ msgstr "To know all the advantages that our different levels of sponsorship you 
 msgid "Para garantizar la diversidad en nuestra conferencia, hemos implementado diversas iniciativas, algunas de las cuales incluyen:"
 msgstr "To promote diversity in our conference, we have implemented several initiatives, including:"
 
-msgid "Para moverte por Vigo y si quieres ir a las playas cercanas, la mejor opción es el transporte público, autobús o taxi"
-msgstr "To get around Vigo and, if you wish, nearby beaches, the best option is public transport, either bus or taxi."
+msgid "Para moverte por Vigo y si quieres ir a las playas cercanas, la mejor opción es el transporte público, autobús o taxi."
+msgstr ""
 
-msgid "Para obtener información actualizada, le recomendamos que visite la página web de "
-msgstr "For up-to-date information, visit the website of "
+#, python-format
+msgid "Para obtener información actualizada, le recomendamos que visite la página web de %(link_aena)s."
+msgstr ""
 
-msgid "Para otros espacios o de forma alternativa, ponte en contacto con la Junta Directiva en "
-msgstr "For other spaces or alternatively, contact the Board of Directors at"
+msgid "Para otros espacios o de forma alternativa, ponte en contacto con la Junta Directiva en <a class=\"text-primary hover:opacity-65\" href=\"mailto:contacto@es.python.org\">contacto@es.python.org</a>."
+msgstr "For other spaces or alternatively, contact the Board of Directors at <a class=\"text-primary hover:opacity-65\" href=\"mailto:contacto@es.python.org\">contacto@es.python.org</a>."
 
 msgid "Paris"
 msgstr "Paris"
@@ -629,11 +622,16 @@ msgstr "Hops between different professional fields"
 msgid "Se aceptan charlas con varias personas como ponentes"
 msgstr "Proposals with multiple speakers may be submitted"
 
-msgid "Se hará en el Auditorio Mar de Vigo, situado en primera línea de mar, frente a las Islas Cíes. <a href=\"https://auditoriomardevigo.com/localizacion/\" target=\"blank\" class=\"text-primary hover:text-secondary\">Más información</a>"
-msgstr "Will take place in Auditorio Mar de Vigo, located on the oceanfront, facing Cíes Islands. <a href=\"https://auditoriomardevigo.com/localizacion/\" target=\"blank\" class=\"text-primary hover:text-secondary\">More info</a>"
+msgid "Se hará en el Auditorio Mar de Vigo, situado en primera línea de mar, frente a las Islas Cíes. <a href=\"https://auditoriomardevigo.com/localizacion/\" target=\"blank\" class=\"text-primary hover:text-secondary\">Más información</a>."
+msgstr "Will take place in Auditorio Mar de Vigo, located on the oceanfront, facing Cíes Islands. <a href=\"https://auditoriomardevigo.com/localizacion/\" target=\"blank\" class=\"text-primary hover:text-secondary\">More info</a>."
 
-msgid "Se otorgan a través de un proceso de solicitud activo hasta el 30 de junio: "
-msgstr "They are awarded through an active application process until June 30th:"
+#, python-format
+msgid "Se otorgan a través de un proceso de solicitud activo hasta el 30 de junio: <a href=\"%(url)s\" target=\"_blank\" class=\"font-bold underline text-primary\"> ¡Quiero solicitar una beca! </a>"
+msgstr "They are awarded through an active application process until June 30th: <a href=\"%(url)s\" target=\"_blank\" class=\"font-bold underline text-primary\"> I want to apply for a grant! </a>"
+
+#, python-format
+msgid "Se otorgan a través de un proceso de solicitud activo hasta el 30 de junio: <a href=\"%(url)s\" target=\"_blank\" class=\"font-bold underline text-primary\"> ¡Quiero solicitar una entrada de diversidad! </a>"
+msgstr "They are awarded through an active application process until June 30th: <a href=\"%(url)s\" target=\"_blank\" class=\"font-bold underline text-primary\"> I want to apply for a diversity ticket! </a>"
 
 msgid "Se proporcionará asiento preferencial para los asistentes que lo soliciten. Por favor, <a href=\"mailto:contacto@2024.es.pycon.org\" class=\"text-primary hover:text-secondary\">contacta con nosotros</a> acerca de cualquier requisito de iluminación que puedas tener, y haremos nuestro mejor esfuerzo para satisfacerlo."
 msgstr ""
@@ -666,7 +664,7 @@ msgstr "If it is an in-person event, contact the event organizers directly. They
 msgid "Si prefieres un poco más de flexibilidad, no te costará encontrar un taxi en Vigo. Es una opción muy cómoda para moverse por el centro de Vigo y sus barrios. Tienen tarifas razonables y te permitirán desplazarte rápidamente."
 msgstr "If you prefer more flexibility, it should be easy to find a taxi in Vigo. It is a very convenient to get around the city center and outer neighborhoods. Prices are reasonable, and you will get around pretty quickly."
 
-msgid "Si quieres formar parte de nuestros patrocinadores para hacer esta conferencia aún más impresionante puedes disponer de un espacio dentro del eventos"
+msgid "Si quieres formar parte de nuestros patrocinadores para hacer esta conferencia aún más impresionante puedes disponer de un espacio dentro del evento."
 msgstr "If you want to be one of our sponsors, to make this conference even better, you may enjoy a space within the event."
 
 msgid "Si se trata de un espacio en línea, ponte en contacto con las personas moderadoras de ese espacio."
@@ -780,14 +778,11 @@ msgstr "Vigo is a small city and you can walk almost everywhere. However, mind t
 msgid "Vitrasa es el autobús urbano público de Vigo. Puedes utilizar las siguientes aplicaciones o webs para planificar tu viaje y estar informado:"
 msgstr "Vitrasa is the name of the public urban bus of Vigo. You can use the following apps or websites to plan your trip and find up-to-date information:"
 
+msgid "Web oficial auditorio"
+msgstr ""
+
 msgid "código de conducta de DjangoCon Europe 2020"
 msgstr "djangoCon Europe 2020 code of conduct"
-
-msgid "grupo de moderación"
-msgstr "moderation group"
-
-msgid "para obtener la información más reciente y actualizada!"
-msgstr "to get the latest updates!"
 
 msgid "versión en español del Contributor Covenant 2.0"
 msgstr "spanish version of Contributor Covenant 2.0"
@@ -797,12 +792,6 @@ msgstr "The show starts!"
 
 msgid "¡Queremos que tu experiencia sea lo mejor posible! Si hay algo en lo que no hayamos pensado y que te ayudaría a asistir a nuestro evento, ¡por favor háznoslo saber!"
 msgstr ""
-
-msgid "¡Quiero solicitar una beca!"
-msgstr "I want to apply for a grant!"
-
-msgid "¡Quiero solicitar una entrada de diversidad!"
-msgstr "I want to apply for a diversity ticket!"
 
 msgid "¡Y muchos más!"
 msgstr "And many more!"

@@ -2,7 +2,6 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pycones 24\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-05-24 09:07+CET\n"
 "PO-Revision-Date: 2024-03-11 00:54+CET\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -185,7 +184,8 @@ msgstr ""
 msgid "Construye un clima de confianza, donde si alguien quiere reportar un incidente, sabrá que no empezaremos por cuestionarle (victim blaming)."
 msgstr ""
 
-msgid "Contamos con un Código de Conducta para garantizar un ambiente respetuoso y seguro para todas las personas asistentes. Pueden consultarlo en el siguiente enlace: "
+#, python-format
+msgid "Contamos con un Código de Conducta para garantizar un ambiente respetuoso y seguro para todas las personas asistentes. Pueden consultarlo en el siguiente enlace: <a href=\"%(link)s\" class=\"font-bold underline text-primary\"> Código de Conducta </a>."
 msgstr ""
 
 msgid "Contexto de tu charla o problema"
@@ -204,9 +204,6 @@ msgid "Cumplimiento"
 msgstr ""
 
 msgid "Código conducta"
-msgstr ""
-
-msgid "Código de Conducta."
 msgstr ""
 
 msgid "Código de conducta"
@@ -266,7 +263,7 @@ msgstr ""
 msgid "El Aeropuerto de Peinador dispone de parada de taxis. El importe de la carrera desde el aeropuerto al Palacio de Congresos / Vigo Centro es fija y ronda los 21 €."
 msgstr ""
 
-msgid "El Aeropuerto de Peinador dispone de una parada de Autobús por la que circula la linea C9A, que cuenta con una parada muy cercana al Palacio de Congresos. Más informacion en:"
+msgid "El Aeropuerto de Peinador dispone de una parada de Autobús por la que circula la linea C9A, que cuenta con una parada muy cercana al Palacio de Congresos. Más información en:"
 msgstr ""
 
 msgid "El Aeropuerto de Vigo, Peinador, es el aeropuerto del sur de Galicia y está a solo 20 minutos del centro de la ciudad."
@@ -305,7 +302,7 @@ msgstr ""
 msgid "En el corazón de las Rías Baixas, Vigo es la mayor ciudad de Galicia. Originalmente un pueblo de pescadores, ahora es conocida como la “Puerta del Atlántico”. Es una ciudad con una gran oferta cultural y gastronómica, con una amplia variedad de restaurantes y bares donde degustar algunos de los mejores mariscos del mundo."
 msgstr ""
 
-msgid "En el foro de Discourse puedes denunciar publicaciones individuales o contactar con el "
+msgid "En el foro de Discourse puedes denunciar publicaciones individuales o contactar con el <a class=\"text-primary hover:opacity-65\" href=\"https://comunidad.es.python.org/groups/moderadores\"> grupo de moderación </a> ."
 msgstr ""
 
 msgid "En tren"
@@ -333,9 +330,6 @@ msgid "Esta página contiene toda la información sobre el proceso de propuesta 
 msgstr ""
 
 msgid "Estamos buscando una variedad de charlas sobre temas técnicos y no técnicos. Buscamos charlas accesibles para todos los niveles de habilidad, y buscamos propuestas de oradores nuevos y experimentados."
-msgstr ""
-
-msgid "Estamos comprometidos a hacer de PyConES 2024 un evento inclusivo, atractivo e inolvidable para todos."
 msgstr ""
 
 msgid "Estamos dedicados a hacer nuestra conferencia accesible para todos. Encuentra detalles y recursos aquí. ¿Necesitas más información o alojamientos específicos? Contáctanos en <a href=\"mailto:contacto@2024.es.pycon.org\" class=\"text-primary\">contacto@2024.es.pycon.org</a>"
@@ -458,25 +452,23 @@ msgstr ""
 msgid "Mayo"
 msgstr ""
 
-msgid "Más informacion"
-msgstr ""
-
-msgid "Más informacion en los siguientes enlaces:"
-msgstr ""
-
-msgid "Más informacion en: "
-msgstr ""
-
 msgid "Más información"
 msgstr ""
 
 msgid "Más información en la sección de <a href=\"https://2024.es.pycon.org/patrocinios/\" class=\"mt-1 text-primary hover:text-secondary\">patrocinios</a>."
 msgstr ""
 
+msgid "Más información en los siguientes enlaces:"
+msgstr ""
+
+#, python-format
+msgid "Más información en: %(venue_link)s."
+msgstr ""
+
 msgid "Niveles"
 msgstr ""
 
-msgid "No olvides seguirnos en twitter"
+msgid "No olvides seguirnos en twitter <a href=\"https://twitter.com/PyConES\" class=\"font-bold text-primary hover:text-secondary\">@PyConES</a> para obtener la información más reciente y actualizada!"
 msgstr ""
 
 msgid "Nos comprometemos a atender todas tus necesidades dietéticas. Al adquirir tu entrada, tendrás la oportunidad de indicar cualquier preferencia o restricción alimentaria de manera detallada."
@@ -488,7 +480,7 @@ msgstr ""
 msgid "Nota de prensa"
 msgstr ""
 
-msgid "Nuestro equipo está aquí para ayudarte. Si tienes alguna pregunta o sugerencia, no dudes en contactarnos en "
+msgid "Nuestro equipo está aquí para ayudarte. Si tienes alguna pregunta o sugerencia, no dudes en contactarnos en <a href=\"mailto:charlas@2024.es.pycon.org\" class=\"font-bold text-primary hover:text-secondary\"> charlas@2024.es.pycon.org </a> . Estamos comprometidos a hacer de PyConES 2024 un evento inclusivo, atractivo e inolvidable para todos."
 msgstr ""
 
 msgid "Nuestros estándares"
@@ -535,13 +527,14 @@ msgstr ""
 msgid "Para garantizar la diversidad en nuestra conferencia, hemos implementado diversas iniciativas, algunas de las cuales incluyen:"
 msgstr ""
 
-msgid "Para moverte por Vigo y si quieres ir a las playas cercanas, la mejor opción es el transporte público, autobús o taxi"
+msgid "Para moverte por Vigo y si quieres ir a las playas cercanas, la mejor opción es el transporte público, autobús o taxi."
 msgstr ""
 
-msgid "Para obtener información actualizada, le recomendamos que visite la página web de "
+#, python-format
+msgid "Para obtener información actualizada, le recomendamos que visite la página web de %(link_aena)s."
 msgstr ""
 
-msgid "Para otros espacios o de forma alternativa, ponte en contacto con la Junta Directiva en "
+msgid "Para otros espacios o de forma alternativa, ponte en contacto con la Junta Directiva en <a class=\"text-primary hover:opacity-65\" href=\"mailto:contacto@es.python.org\">contacto@es.python.org</a>."
 msgstr ""
 
 msgid "Paris"
@@ -622,10 +615,15 @@ msgstr ""
 msgid "Se aceptan charlas con varias personas como ponentes"
 msgstr ""
 
-msgid "Se hará en el Auditorio Mar de Vigo, situado en primera línea de mar, frente a las Islas Cíes. <a href=\"https://auditoriomardevigo.com/localizacion/\" target=\"blank\" class=\"text-primary hover:text-secondary\">Más información</a>"
+msgid "Se hará en el Auditorio Mar de Vigo, situado en primera línea de mar, frente a las Islas Cíes. <a href=\"https://auditoriomardevigo.com/localizacion/\" target=\"blank\" class=\"text-primary hover:text-secondary\">Más información</a>."
 msgstr ""
 
-msgid "Se otorgan a través de un proceso de solicitud activo hasta el 30 de junio: "
+#, python-format
+msgid "Se otorgan a través de un proceso de solicitud activo hasta el 30 de junio: <a href=\"%(url)s\" target=\"_blank\" class=\"font-bold underline text-primary\"> ¡Quiero solicitar una beca! </a>"
+msgstr ""
+
+#, python-format
+msgid "Se otorgan a través de un proceso de solicitud activo hasta el 30 de junio: <a href=\"%(url)s\" target=\"_blank\" class=\"font-bold underline text-primary\"> ¡Quiero solicitar una entrada de diversidad! </a>"
 msgstr ""
 
 msgid "Se proporcionará asiento preferencial para los asistentes que lo soliciten. Por favor, <a href=\"mailto:contacto@2024.es.pycon.org\" class=\"text-primary hover:text-secondary\">contacta con nosotros</a> acerca de cualquier requisito de iluminación que puedas tener, y haremos nuestro mejor esfuerzo para satisfacerlo."
@@ -659,7 +657,7 @@ msgstr ""
 msgid "Si prefieres un poco más de flexibilidad, no te costará encontrar un taxi en Vigo. Es una opción muy cómoda para moverse por el centro de Vigo y sus barrios. Tienen tarifas razonables y te permitirán desplazarte rápidamente."
 msgstr ""
 
-msgid "Si quieres formar parte de nuestros patrocinadores para hacer esta conferencia aún más impresionante puedes disponer de un espacio dentro del eventos"
+msgid "Si quieres formar parte de nuestros patrocinadores para hacer esta conferencia aún más impresionante puedes disponer de un espacio dentro del evento."
 msgstr ""
 
 msgid "Si se trata de un espacio en línea, ponte en contacto con las personas moderadoras de ese espacio."
@@ -773,13 +771,10 @@ msgstr ""
 msgid "Vitrasa es el autobús urbano público de Vigo. Puedes utilizar las siguientes aplicaciones o webs para planificar tu viaje y estar informado:"
 msgstr ""
 
+msgid "Web oficial auditorio"
+msgstr ""
+
 msgid "código de conducta de DjangoCon Europe 2020"
-msgstr ""
-
-msgid "grupo de moderación"
-msgstr ""
-
-msgid "para obtener la información más reciente y actualizada!"
 msgstr ""
 
 msgid "versión en español del Contributor Covenant 2.0"
@@ -789,12 +784,6 @@ msgid "¡Empieza el espectáculo!"
 msgstr ""
 
 msgid "¡Queremos que tu experiencia sea lo mejor posible! Si hay algo en lo que no hayamos pensado y que te ayudaría a asistir a nuestro evento, ¡por favor háznoslo saber!"
-msgstr ""
-
-msgid "¡Quiero solicitar una beca!"
-msgstr ""
-
-msgid "¡Quiero solicitar una entrada de diversidad!"
 msgstr ""
 
 msgid "¡Y muchos más!"

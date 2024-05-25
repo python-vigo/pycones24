@@ -168,17 +168,22 @@
         {{ _("Si se trata de un espacio en línea, ponte en contacto con las personas moderadoras de ese espacio.") }}
       </li>
       <li>
-        {{ _("En el foro de Discourse puedes denunciar publicaciones individuales o contactar con el ") }}
-        <a class="text-primary hover:opacity-65" href="https://comunidad.es.python.org/groups/moderadores">
-          {{ _("grupo de moderación") }}
-        </a>
+        {% trans trimmed %}
+          En el foro de Discourse puedes denunciar publicaciones individuales o contactar con el
+          <a class="text-primary hover:opacity-65" href="https://comunidad.es.python.org/groups/moderadores">
+            grupo de moderación
+          </a>
+          .
+        {% endtrans %}
       </li>
       <li>
         {{ _("En Telegram, a la persona propietaria del grupo u otras administradoras.") }}
       </li>
       <li>
-        {{ _("Para otros espacios o de forma alternativa, ponte en contacto con la Junta Directiva en ") }}
-        <a class="text-primary hover:opacity-65" href="mailto:contacto@es.python.org">contacto@es.python.org</a>
+        {% trans trimmed %}
+          Para otros espacios o de forma alternativa, ponte en contacto con la Junta Directiva en
+          <a class="text-primary hover:opacity-65" href="mailto:contacto@es.python.org">contacto@es.python.org</a>.
+        {% endtrans %}
       </li>
     </ul>
     <p class="my-3">

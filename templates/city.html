@@ -62,23 +62,20 @@
                     </ul>
                 </article>
                 <p>
-                    {{ _("Para obtener información actualizada, le recomendamos que visite la página web de ") }}
-                    {{ link(
-                    "https://www.aena.es/es/infovuelos.html",
-                    "AENA"
-                    )
-                    }}
+                    {% trans trimmed link_aena=link("https://www.aena.es/es/infovuelos.html", "AENA") %}
+                        Para obtener información actualizada, le recomendamos que visite la página web de {{ link_aena }}.
+                    {% endtrans %}
                 </p>
                 <article class="mt-4">
                     <h3>{{ _("Otros aeropuertos cercanos") }}</h3>
                     <ul class="mt-2 ml-8 list-disc">
                         <li>
                             {{ _("Aeropuerto de Santiago-Rosalía de Castro") }} (approx. 100 km.)
-                            {{ link("https://www.aena.es/es/santiago-rosalia-de-castro.html", _("Más informacion")) }}
+                            {{ link("https://www.aena.es/es/santiago-rosalia-de-castro.html", _("Más información")) }}
                         </li>
                         <li>
                             {{ _("Aeropuerto de Porto - Portugal") }} (approx. 150 km.)
-                            {{ link("https://www.aeroportoporto.pt/pt/opo/home", _("Más informacion")) }}
+                            {{ link("https://www.aeroportoporto.pt/pt/opo/home", _("Más información")) }}
                         </li>
                     </ul>
                 </article>
@@ -112,7 +109,7 @@
                     }}
                 </p>
                 <div>
-                    {{ _("Más informacion en los siguientes enlaces:") }}
+                    {{ _("Más información en los siguientes enlaces:") }}
                     <ul class="ml-8 list-disc">
                         <li>{{ link("https://www.omio.es/autobuses", "Omio") }}</li>
                         <li>{{ link("https://www.alsa.es/", "Alsa") }}</li>
@@ -128,7 +125,7 @@
                 "y ascensores que te ayudarán con eso.") }}
             </p>
             <p>{{ _("Para moverte por Vigo y si quieres ir a las playas cercanas, la mejor opción es el "
-                "transporte público, autobús o taxi") }}</p>
+                "transporte público, autobús o taxi.") }}</p>
             <article>
                 <h3 class="mb-3 text-2xl font-bold">{{ _("Autobus") }}</h3>
                 <p>
