@@ -1,0 +1,19 @@
+{% extends "layouts/layout_detail.html" %}
+
+{% from "macros/link.html" import link %}
+{% from "macros/card_job.html" import card_job %}
+
+
+{% block content %}
+<section class="grid grid-cols-1 gap-y-5 pb-10 mx-auto w-11/12 md:w-10/12">
+  <h1 class="mt-10 text-5xl text-primary">{{ _("Ofertas de trabajo") }}</h1>
+  <p class="mt-2 mb-10 text-2xl text-secondary">{{ _("Las siguientes ofertas han sido enviadas por los patrocinadores de la conferencia:") }}</p>
+  <div class="grid grid-cols-1 gap-y-16 md:gap-x-4">
+    {% for job_offer in this.children %}
+      {{ card_job(job_offer.company, job_offer.skills, job_offer.name_job, job_offer.range_salary, job_offer.description, job_offer.city, job_offer.link_job) }}
+    {% else %}
+      <p class="text-3xl italic">{{ _("Muy pronto, podrás encontrar en esta sección una amplia variedad de ofertas de trabajo.") }}</p>
+    {% endfor %}
+  </div>
+</section>
+{% endblock content %}
