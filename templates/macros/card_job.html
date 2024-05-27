@@ -1,0 +1,24 @@
+{% macro card_job(company, skills, name_job, salary, description, city, link_job) %}
+<article class="flex flex-col justify-between items-start pl-10 max-w-4xl border-l-2 border-primary">
+    <p class="mb-2 text-xl text-secondary">{{ company }}</p>
+    <h3 class="text-3xl font-semibold leading-6 text-gray-900 group-hover:text-gray-600">
+        <a href="{{ link_job }}" target="_blank" class="font-bold text-primary hover:text-secondary">{{ name_job }}</a>
+    </h3>
+    <p class="mt-5 text-lg leading-6 text-gray-600 line-clamp-3">
+        {{ description }}
+    </p>
+    <div class="flex gap-x-4 items-center mt-4 mb-2 text-sm">
+        {% for skill in skills %}
+          <span class="relative z-10 py-1.5 px-3 font-medium text-white rounded-full bg-secondary">{{ skill }}</span>
+        {% endfor %}
+    </div>
+    <div class="flex gap-x-5 justify-start mt-1 text-sm font-bold text-secondary">
+        <p>{{ city }}</p>
+        <p>{{ salary }} €</p>
+    </div>
+    <footer class="flex flex-col gap-5 justify-start items-center mt-6 w-full text-sm font-bold uppercase md:flex-row">
+        <a href="mailto:{{ email_job }}" class="p-1 px-8 text-white rounded-[4px] bg-primary hover:bg-secondary">{{ _("Contactar") }}</a>
+        <a href="{{ link_job }}" target="_blank" class="p-1 px-8 bg-white hover:text-white text-primary border-[1px] rounded-[4px] border-primary hover:border-secondary hover:bg-secondary">{{ _("Ver detalles") }}</a>
+    </footer>
+</article>
+{% endmacro %}
