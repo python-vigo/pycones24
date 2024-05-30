@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pycones 24\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2024-05-24 19:54+0200\n"
+"PO-Revision-Date: 2024-05-30 21:51+0200\n"
 "Last-Translator: Adrián Chaves (Gallaecio) <adrian@chaves.io>\n"
 "Language-Team: Proxecto Trasno (proxecto@trasno.gal)\n"
 "Language: gl\n"
@@ -400,8 +400,8 @@ msgstr "A cantidade de patrocinios é limitada (excepto o nivel Cortegada). A or
 msgid "La conferencia se realizará principalmente en Español, y dependiendo de las charlas aceptadas en Inglés se realizará un track completo durante los días de charlas."
 msgstr "A conferencia será principalmente en castelán, e dependendo das charlas que se acepten en inglés, podería haber unha pista completa en inglés durante os días de charlas."
 
-msgid "La convocatoria de propuestas (CFP) es hasta las 23:59 (UTC) del 31 de mayo. Mejor no dejarlo para el último minuto."
-msgstr "A convocatoria de propostas (CfP) acaba o 31 de maio ás 23:59 UTC. Mellor non deixalo para última hora."
+msgid "La convocatoria de propuestas (CFP) es hasta las 23:59 (UTC) del 9 de junio. Mejor no dejarlo para el último minuto."
+msgstr "A convocatoria de propostas (CfP) acaba o 9 de Xuño ás 23:59 UTC. Mellor non deixalo para última hora."
 
 msgid "La forma más habitual de viajar a Vigo es en coche. Las buenas conexiones de la ciudad facilitan el acceso a Vigo por autopista desde Madrid, Santiago, A Coruña y Oporto."
 msgstr "A forma máis habitual de viaxar a Vigo é en coche. As boas conexións da cidade facilitan o acceso a Vigo por autopista desde Madrid, Santiago, A Coruña e Porto."
@@ -828,6 +828,9 @@ msgstr "Sobre que se falará e que aprenderá a xente que asista?"
 
 msgid "¿Te gustaría patrocinar la próxima edición del evento mas importante sobre desarrollo software con Python? No lo dudes y ponte ya mismo en contacto con la organización escribiendo al correo"
 msgstr "Gustaríache patrocinar a próxima edición do evento máis importante sobre o desenvolvemento de software con Python? Non o dubides e ponte xa en contacto coa organización escribindo ao enderezo de correo electrónico"
+
+#~ msgid "La convocatoria de propuestas (CFP) es hasta las 23:59 (UTC) del 31 de mayo. Mejor no dejarlo para el último minuto."
+#~ msgstr "A convocatoria de propostas (CfP) acaba o 31 de maio ás 23:59 UTC. Mellor non deixalo para última hora."
 
 #~ msgid "Si quieres formar parte de nuestros patrocinadores para hacer esta conferencia aún más impresionante puedes disponer de un espacio dentro del eventos."
 #~ msgstr "Se queres formar parte dos nosos patrocinadores para facer esta conferencia aínda máis impresionante, podes dispoñer dun espazo dentro do evento."
