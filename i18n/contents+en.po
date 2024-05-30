@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pycones 24\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2024-05-24 20:12+0200\n"
+"PO-Revision-Date: 2024-05-30 21:49+0200\n"
 "Last-Translator: Adrián Chaves (Gallaecio) <adrian@chaves.io>\n"
 "Language-Team: Proxecto Trasno (proxecto@trasno.gal)\n"
 "Language: en\n"
@@ -400,8 +400,8 @@ msgstr "The number of sponsorships is limited (except Cortegada level). The orga
 msgid "La conferencia se realizará principalmente en Español, y dependiendo de las charlas aceptadas en Inglés se realizará un track completo durante los días de charlas."
 msgstr "The conference will be mainly in Spanish, and depending on how many talks in English are accepted, there may be a complete track during talk days."
 
-msgid "La convocatoria de propuestas (CFP) es hasta las 23:59 (UTC) del 31 de mayo. Mejor no dejarlo para el último minuto."
-msgstr "The call for papers (CfP) closes at 23:59 UTC on May 31th. Do not leave it for the very last minute!"
+msgid "La convocatoria de propuestas (CFP) es hasta las 23:59 (UTC) del 9 de junio. Mejor no dejarlo para el último minuto."
+msgstr "The call for papers (CfP) closes at 23:59 UTC on June 9th. Do not leave it for the very last minute!"
 
 msgid "La forma más habitual de viajar a Vigo es en coche. Las buenas conexiones de la ciudad facilitan el acceso a Vigo por autopista desde Madrid, Santiago, A Coruña y Oporto."
 msgstr "The most common way to get to Vigo is by car. Well connected, you can get to Vigo by highway from Madrid, Santiago, A Coruña and Porto."
@@ -828,3 +828,6 @@ msgstr "What will be covered, and what will attendees learn?"
 
 msgid "¿Te gustaría patrocinar la próxima edición del evento mas importante sobre desarrollo software con Python? No lo dudes y ponte ya mismo en contacto con la organización escribiendo al correo"
 msgstr "Would you like to sponsor the next edition of the most important event about software development with Python? Contact the organization right now by email at"
+
+#~ msgid "La convocatoria de propuestas (CFP) es hasta las 23:59 (UTC) del 31 de mayo. Mejor no dejarlo para el último minuto."
+#~ msgstr "The call for papers (CfP) closes at 23:59 UTC on May 31th. Do not leave it for the very last minute!"
