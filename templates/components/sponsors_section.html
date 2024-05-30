@@ -12,7 +12,9 @@
     {{ render_logo_sponsors(
       _("Nivel"),
       "Cies",
-      [],
+      [
+        ("https://www.nagarro.com/en", "/static/images/sponsors_logo/cies/nagarro.svg", "Logo Nagarro", "w-64"),
+      ],
       "/static/images/sponsors_logo/levels/cies.svg",
       )
     }}
@@ -35,16 +37,6 @@
       "Cortegada",
       [],
       "/static/images/sponsors_logo/levels/cortegada.svg",
-      )
-    }}
-    {{ render_logo_sponsors(
-      _("Comunidades"),
-      _("Patrocinadoras"),
-      [
-        ("https://www.europython-society.org/", "/static/images/sponsors_logo/communities/logo_europython.png", "Logo Europython", "w-20"),
-        ("https://www.python.org/psf-landing/", "/static/images/sponsors_logo/communities/logo_psf.png", "Logo PSF", "w-20"),
-        ("https://es.python.org/", "/static/images/sponsors_logo/communities/logo_python_esp.png", "Logo Python España", "w-20"),
-      ]
       )
     }}
     {{ render_logo_sponsors(
