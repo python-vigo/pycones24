@@ -3,14 +3,19 @@
 {% block title %}{{ this.title }}{% endblock %}
 {% block body %}
   <header class="mt-0 bg-secondary">
-      {% include "components/header.html" %}
+    {% include "components/header.html" %}
   </header>
+  <section class="border-white md:hidden border-b-[1px] bg-secondary">
+    <a href="https://pretix.eu/python-spain/" class="block py-2 px-6 mx-24 mt-10 mb-5 text-2xl font-bold text-center text-white bg-transparent border-2 hover:bg-white py-1ml-auto hover:text-primary">
+        {{ _("Entradas") }}
+    </a>
+  </section>
   <nav class="flex-grow pt-10 pb-96 text-white bg-secondary">
       <ul class="flex flex-col gap-10 mx-auto w-11/12 text-5xl text-center">
-          <li class="pb-1 hover:border-b-2">
-              <a href="{{ '/'|url }}">{{ _("Inicio") }}</a>
-          </li>
-          <li class="pb-1 hover:border-b-2">
+        <li class="pb-1 hover:border-b-2">
+            <a href="{{ '/'|url }}">{{ _("Inicio") }}</a>
+        </li>
+        <li class="pb-1 hover:border-b-2">
             <a href="{{ '/cfp/'|url }}">{{ _("Convocatoría de propuestas (CFP)") }}</a>
         </li>
         <li class="pb-1 hover:border-b-2">
