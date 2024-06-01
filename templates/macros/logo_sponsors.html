@@ -19,11 +19,16 @@
           </p>
         </div>
       </section>
-      <section class="grid grid-cols-1 gap-14 justify-items-center items-center p-3 w-full bg-white border-l-2 md:grid-cols-2 md:justify-items-start lg:grid-cols-8 lg:gap-x-14 lg:w-10/12 border-primary">
-        {% for link, image_logo, alt_logo, icon_size in logos %}
+      <section class="grid grid-cols-1 gap-14 justify-items-center items-center p-3 pl-8 w-full bg-white border-l-2 md:grid-cols-2 md:justify-items-start lg:grid-cols-8 lg:gap-x-14 lg:w-10/12 border-primary">
+        {% for link, image_webp_logo, image_logo, alt_logo, icon_size in logos %}
           <a href="{{ link }}" target="_blank" class="col-span-1 hover:grayscale">
             <figure class="{{ icon_size }} mx-auto">
-              <img src="{{ image_logo|asseturl }}" alt="{{ alt_logo }}" class="object-scale-down">
+              <picture>
+                {% if image_webp_logo %}
+                  <source srcset="{{ image_webp_logo|asseturl }}" type="image/webp">
+                {% endif %}
+                <img src="{{ image_logo|asseturl }}" alt="{{ alt_logo }}" class="object-scale-down">
+              </picture>
             </figure>
           </a>
         {% endfor %}
