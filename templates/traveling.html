@@ -1,0 +1,34 @@
+{% extends "layouts/layout_detail.html" %}
+
+{% from "macros/link.html" import link %}
+
+{% block content %}
+<section class="grid grid-cols-1 gap-8 pb-5 mx-auto w-10/12 text-lg">
+    <h1 class="my-12 mb-5 text-5xl text-primary">{{ _("Viaje a la ciudad de Vigo") }}</h1>
+    <div class="md:w-8/12">
+      <h3 class="text-3xl text-secondary">
+          {% trans trimmed %}
+            Desde la organización de la PyConES nos gustaría ofrecerte todas las facilidades posibles para tu viaje a la <strong>ciudad de Vigo</strong>.
+            Además, si te apetece, puedes aprovechar para disfrutar de unos días más en <strong>Galicia</strong>.
+          {% endtrans %}
+      </h3>
+      <article class="flex flex-col-reverse gap-5 mt-16 md:grid-cols-2 xl:flex-row">
+        <div>
+            <h4 class="mb-4 text-4xl text-primary">Hotel Zenit</h4>
+            <p class="block mt-4 mb-6">
+                {% trans trimmed %}
+                  Las reservas pueden hacerse en el siguiente enlace <a href="https://zenithoteles.com/es/acceso-clientes/#login_colectivos" target="blank" class="underline text-primary hover:text-secondary">Acceso Zenit</a>
+                  con el siguiente código <strong>PYCONESVIGO2024</strong> o directamente en el siguiente botón:
+                {% endtrans %}
+            </p>
+            <a href=" https://reservas.zenithoteles.com/EnlaceExterno?claveContrato=PYCONESVIGO2024" target="_blank" class="py-2 px-8 font-bold text-white bg-primary hover:bg-secondary">
+                {{ _("¡Reserva YA!") }}
+            </a>
+        </div>
+        <figure >
+            <img src="{{ '/static/images/traveling/logo-zenit.jpg'|asseturl }}" alt="Logo hotel zenit" class="w-48">
+        </figure>
+      </article>
+    </div>
+</section>
+{% endblock content %}
