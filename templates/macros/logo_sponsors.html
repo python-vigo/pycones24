@@ -32,13 +32,6 @@
             </figure>
           </a>
         {% endfor %}
-        {% if not logos %}
-          <p class="col-span-full">
-            {% trans trimmed sponsors_link=link('/patrocinios'|url, "patrocinios", target="") %}
-              ¿Quieres que tu logo aparezca aquí? Sé uno de nuestros patrocinadores. Consulta los detalles en {{ sponsors_link }}.
-            {% endtrans %}
-          </p>
-        {% endif %}
       </section>
   </article>
 {% endmacro %}
