@@ -21,7 +21,7 @@
       </section>
       <section class="grid items-center w-full grid-cols-1 p-3 pl-8 bg-white border-l-2 gap-14 justify-items-center md:grid-cols-2 md:justify-items-start lg:grid-cols-{{ cols }} lg:gap-x-14 lg:w-10/12 border-primary">
         {% for link, image_webp_logo, image_logo, alt_logo, icon_size in logos %}
-          <a href="{{ link }}" target="_blank" class="col-span-1 hover:grayscale">
+          <a href="{{ link }}" target="_blank" class="col-span-1 hover:opacity-60">
             <figure class="{{ icon_size }} mx-auto">
               <picture>
                 {% if image_webp_logo %}
