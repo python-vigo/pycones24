@@ -16,7 +16,10 @@
         <p class="mb-4">{{ this.sponsors_text }}</p>
         <a href="{{ '/patrocinios'|url }}" class="inline-block py-3 px-6 font-bold bg-white rounded border-2 hover:text-white text-primary bg-secondary hover:bg-primary">{{ this.sponsors_button_text }}</a>
       </div>
-      <img src="{{ '/static/images/trisquel-down.png'|asseturl }}" alt="Trisquel" class="absolute right-0 -bottom-0 w-1/5 sm:w-40 md:w-72 lg:bottom-0 lg:w-6/12 xl:w-4/12 min-[380px]:w-48 2xl:w-[600px]">
+      <picture>
+        <source srcset="{{ '/static/images/trisquel-down.webp'|asseturl }}" type="image/webp">
+        <img src="{{ '/static/images/trisquel-down.png'|asseturl }}" alt="Trisquel" class="absolute right-0 -bottom-0 w-1/5 sm:w-40 md:w-72 lg:bottom-0 lg:w-6/12 xl:w-4/12 min-[380px]:w-48 2xl:w-[600px]">
+      </picture>
     </section>
     {% include "components/event_schedule_section.html" %}
     {% include "components/sponsors_section.html" %}

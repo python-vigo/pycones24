@@ -3,7 +3,10 @@
 
 <section>
     <header>
-        <img src="{{ '/static/images/header-event-schedule-image.jpg'|asseturl }}" alt="Vigo PF" class="w-full">
+        <picture>
+            <source srcset="{{ '/static/images/header-event-schedule-image.webp'|asseturl }}" type="image/webp">
+            <img src="{{ '/static/images/header-event-schedule-image.jpg'|asseturl }}" alt="Vigo PF" class="w-full">
+        </picture>
     </header>
     <article class="mx-auto mt-20 mb-20 w-11/12 md:w-full">
         <h2 class="text-5xl text-center text-primary">{{ _("Cronograma del evento") }}</h2>
@@ -15,7 +18,10 @@
         </p>
         <section class="flex flex-col gap-12 justify-center items-center mx-auto mt-5 md:flex-row">
             <figure class="w-11/12 md:w-10/12 xl:w-[534px]">
-                <img src="{{ '/static/images/cronograma.png'|asseturl }}" alt="Trisquel">
+                <picture>
+                    <source srcset="{{ '/static/images/cronograma.webp'|asseturl }}" type="image/webp">
+                    <img src="{{ '/static/images/cronograma.png'|asseturl }}" alt="Trisquel">
+                </picture>
             </figure>
             <ol class="relative w-10/12 h-full border-secondary border-s xl:w-[534px]">
                 {{ render_schedule_tag(
