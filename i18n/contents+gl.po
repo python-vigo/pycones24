@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pycones 24\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2024-05-30 21:51+0200\n"
+"PO-Revision-Date: 2024-06-04 01:22+0200\n"
 "Last-Translator: Adrián Chaves (Gallaecio) <adrian@chaves.io>\n"
 "Language-Team: Proxecto Trasno (proxecto@trasno.gal)\n"
 "Language: gl\n"
@@ -21,6 +21,9 @@ msgstr "/static/dossier/2024ES - Dossier - PyConES Vigo - Patrocinadores.pdf"
 
 msgid "1 entrada por la charla patrocinada. La entrada solo se otorga si se imparte la charla."
 msgstr "1 entrada pola charla patrocinada. A entrada só se otorga se se imparte a charla."
+
+msgid "1 sábado / 1 domingo"
+msgstr ""
 
 msgid "1 vez en el fin de semana"
 msgstr "1 vez na fin de semana"
@@ -111,20 +114,23 @@ msgstr "Análise, enxeñaría e ciencia de datos"
 msgid "Aparición en soportes físicos impresos supeditada a la producción de los mismos."
 msgstr "Aparición en soportes físicos impresos supeditada á súa produción."
 
-msgid "Apertura para el envío de ponencias/charlas"
-msgstr "Apertura para o envío de ponencias/charlas"
+msgid "Apertura de la venta de entradas"
+msgstr "Apertura da venda de entradas"
+
+msgid "Apertura para el envío de ponencias"
+msgstr "Apertura para o envío de ponencias"
 
 msgid "Apertura para la postulación de becas"
 msgstr "Apertura da postulación de bolsas"
-
-msgid "Apertura para la venta de entradas"
-msgstr "Apertura da venda de entradas"
 
 msgid "Aplicaciones de escritorio"
 msgstr "Aplicacións de escritorio"
 
 msgid "Aplicaciones móviles, multimedia, embebidos"
 msgstr "Aplicacións móbiles, multimedia e incrustación"
+
+msgid "Asignación de entradas de diversidad"
+msgstr "Asignación de entradas de diversidade"
 
 msgid "Atribución"
 msgstr "Atribución"
@@ -150,6 +156,9 @@ msgstr "Bruselas"
 msgid "C4P"
 msgstr "C4P"
 
+msgid "Cantidad"
+msgstr "Cantidade"
+
 msgid "Centrarse en lo que sea mejor no sólo para nosotros como individuos, sino para la comunidad en general"
 msgstr "Centrarse no que sexa mellor non só para nós como individuos, senón para a comunidade en xeral"
 
@@ -159,11 +168,14 @@ msgstr "Charla patrocinada"
 msgid "Charlas: 35 min (30 min + 5 min QA)"
 msgstr "Charlas: 35 minutos (30 minutos + 5 minutos de preguntas)"
 
-msgid "Cierre del llamado a ponencias/charlas"
-msgstr "Peche do envío de ponencias/charlas"
+msgid "Cierre del llamado a ponencias"
+msgstr "Peche do chamado a ponencias"
 
 msgid "Ciudad"
 msgstr "Cidade"
+
+msgid "Colaboradores"
+msgstr "Colaboradores"
 
 msgid "Comentarios despectivos trolling, insultantes o derogatorios, y ataques personales o políticos"
 msgstr "Comentarios despectivos trolling, insultantes ou derrogatorios, e ataques persoais ou políticos"
@@ -176,6 +188,9 @@ msgstr "Coas bolsas queremos eliminar barreiras económicas para a participació
 
 msgid "Con un enfoque social"
 msgstr "Cun enfoque social"
+
+msgid "Concierto"
+msgstr "Concierto"
 
 msgid "Conferencia inclusiva"
 msgstr "Conferencia inclusiva"
@@ -241,14 +256,23 @@ msgstr "Descargar o dosier completo (castelán)"
 msgid "Descargar dosier resumido (ES)"
 msgstr "Descargar o dosier resumido (castelán)"
 
+msgid "Descripción"
+msgstr "Descripción"
+
 msgid "Desde el equipo Organizador: Python Vigo, Python España y personas voluntarias de PyConES24, secundamos el manifiesto de la PSF[¹] y valoramos la diversidad en todas sus formas creyendo  firmemente que la inclusión de diferentes perspectivas enriquece nuestra comunidad y mejora nuestro campo. Seguiremos esforzándonos por promover la diversidad y garantizar que todas las personas se sientan bienvenidas y representadas en nuestra conferencia."
 msgstr "Desde o equipo Organizador: Python Vigo, Python España e persoas voluntarias de PyConES24, secundamos o manifesto da PSF[¹] e valoramos a diversidade en todas as súas formas crendo firmemente que a inclusión de diferentes perspectivas enriquece a nosa comunidade e mellora o noso campo. Seguiremos esforzándonos por promover a diversidade e garantir que todas as persoas sentan benvidas e representadas na nosa conferencia."
+
+msgid "Desde la organización de la PyConES nos gustaría ofrecerte todas las facilidades posibles para tu viaje a la <strong>ciudad de Vigo</strong>. Además, si te apetece, puedes aprovechar para disfrutar de unos días más en <strong>Galicia</strong>."
+msgstr "Desde a organización da PyConES gustaríanos ofrecerche todas as facilidades posibles para a túa viaxe á <strong>cidade de Vigo</strong>. Ademais, se che apetece, podes aproveitar para gozar duns días máis en <strong>Galicia</strong>."
 
 msgid "DevOps / Administración de sistemas / Scripts de automatización"
 msgstr "DevOps, administración de sistemas, guións de automatización"
 
 msgid "Diversidad y becas"
 msgstr "Diversidade e bolsas"
+
+msgid "Durante todos las paradas de café que se hagan, ¡tendremos información tuya! Habrán desde roll-ups y mensajes de agradecimiento hasta aquello en lo que tú, como empresa, quieras participar: servilletas con logotipo, vasos, etc"
+msgstr "Durante todos as paradas de café que se fagan, teremos información túa! Haberán desde roll-ups e mensaxes de agradecemento ata aquilo no que ti, como empresa, queiras participar: servilletas con logotipo, vasos, etc"
 
 msgid "Ediciones anteriores"
 msgstr "Edicións anteriores"
@@ -284,6 +308,9 @@ msgid "El acoso en público o privado"
 msgstr "O acoso en público ou privado"
 
 msgid "El auditorio tiene su propio servicio de catering caracterizado por el buen gusto de su cocina."
+msgstr ""
+
+msgid "El logotipo aparecerá junto a los logos de la asociación y de la comunidad que organizan. Es posible que, en las entradas empresariales, no aparezca tu logotipo."
 msgstr ""
 
 msgid "El uso de lenguaje o imágenes sexualizadas, y aproximaciones o atenciones sexuales de cualquier tipo"
@@ -370,6 +397,9 @@ msgstr "Grazas"
 msgid "Gracias a <a href=\"https://2024.djangocon.eu/\" target=\"_blank\" class=\"text-primary hover:text-secondary\">DjangoCon Europe</a> y <a href=\"https://www.writethedocs.org/conf/portland/2024/venue/#accessibility\" target=\"_blank\" class=\"text-primary hover:text-secondary\">writethedocs</a> por la inspiración en esta página."
 msgstr "Grazas a <a href=\"https://2024.djangocon.eu/\" target=\"_blank\" class=\"text-primary hover:text-secondary\">DjangoCon Europe</a> e <a href=\"https://www.writethedocs.org/conf/portland/2024/venue/#accessibility\" target=\"_blank\" class=\"text-primary hover:text-secondary\">writethedocs</a> pola inspiración desta páxina."
 
+msgid "Gracias a las empresas que colaboran con la PyConES podemos ofrecer el mejor evento y experiencia posible. Somos una conferencia con un bajo coste de entrada capaz de ofrecer una experiencia de 3 días incluyendo regalos, almuerzos, comidas y meriendas. Con la ayuda de estas empresas conseguimos hacer un evento diverso e inclusivo enfocado en cuidar la comunidad de Python."
+msgstr "Grazas ás empresas que colaboran coa PyConES podemos ofrecer o mellor evento e experiencia posible. Somos unha conferencia cun baixo custo de entrada capaz de ofrecer unha experiencia de 3 días incluíndo agasallos, xantares, comidas e merendas. Coa axuda destas empresas conseguimos facer un evento diverso e inclusivo enfocado en coidar a comunidade de Python."
+
 msgid "Hay tres vías principales de entrada por autopista:"
 msgstr "Hai tres vías principais de entrada por autopista:"
 
@@ -384,6 +414,9 @@ msgstr "Inicio"
 
 msgid "Internet de las cosas"
 msgstr "Internet das cousas"
+
+msgid "Julio"
+msgstr "Julio"
 
 msgid "Junio"
 msgstr "Xuño"
@@ -415,6 +448,9 @@ msgstr "As medidas do posto son orientativas."
 msgid "Las ponencias principales, apertura y cierre del evento serán en Español, de todas formas, todas las personas de la organización hablan Español e Inglés, en caso de que personas que asistan necesiten información en uno de los dos idiomas."
 msgstr "As ponencias principais do evento, de apertura e de peche, serán en castelán. Porén, todas as persoas da organización falan castelán e inglés, e moitas galego, en caso de que persoas que asistan queiran información nun deses idiomas."
 
+msgid "Las reservas pueden hacerse en el siguiente enlace <a href=\"https://zenithoteles.com/es/acceso-clientes/#login_colectivos\" target=\"blank\" class=\"underline text-primary hover:text-secondary\">Acceso Zenit</a> con el siguiente código <strong>PYCONESVIGO2024</strong> o directamente en el siguiente botón:"
+msgstr "As reservas poden facerse no seguinte enlace <a href=\"https://zenithoteles.com/es/acceso-clientes/#login_colectivos\" target=\"blank\" class=\"underline text-primary hover:text-secondary\">Acceso Zenit</a> co seguinte código <strong>PYCONESVIGO2024</strong> ou directamente no seguinte botón:"
+
 msgid "Llegar a Vigo es muy fácil: desde Madrid, A Coruña, Santiago de Compostela o el norte de Portugal se puede llegar directamente al centro de la ciudad. Vigo está comunicada por carretera y tren con Madrid y otras urbes como Bilbao. Además, el aeropuerto de Peinador está conectado con las ciudades españolas más importantes y con varios destinos internacionales."
 msgstr "Chegar a Vigo é moi doado: desde Madrid, A Coruña, Santiago de Compostela ou o norte de Portugal pode chegar directamente ao centro da cidade. Vigo está comunicada por carretera e tren con Madrid e outras urbes como Bilbao. Ademais, o aeroporto de Peinador está conectado coas cidades españolas máis importantes e con varios destinos internacionais."
 
@@ -435,6 +471,12 @@ msgstr "Londres"
 
 msgid "Los casos de comportamiento abusivo, acosador o inaceptable de otro modo podrán ser denunciados a las personas administradoras de la comunidad responsables del cumplimiento:"
 msgstr "Os casos de comportamento abusivo, acosador ou inaceptable doutro xeito poderán ser denunciados ás persoas administradoras da comunidade responsables do cumprimento:"
+
+msgid "Ludoteca"
+msgstr ""
+
+msgid "Ludoteca sujeta a disponibilidad - si hay una empresa que quiera colaborar directamente proveyendo del material necesario para montar la ludoteca, tendrá preferencia."
+msgstr ""
 
 msgid "Luego de enviar tu propuesta, tendrás la posibilidad de Editarla, así que no te preocupes si tienes que hacer cambios luego de enviarla."
 msgstr "Unha vez enviada a proposta poderás editala, así que non te preocupes se tes que facer cambios despois de enviala."
@@ -467,10 +509,16 @@ msgstr "Máis información nas seguintes ligazóns:"
 msgid "Más información en: %(venue_link)s."
 msgstr "Máis información en: %(venue_link)s."
 
+msgid "Nivel"
+msgstr "Nivel"
+
 msgid "Niveles"
 msgstr "Niveis"
 
 msgid "No olvides seguirnos en twitter <a href=\"https://twitter.com/PyConES\" class=\"font-bold text-primary hover:text-secondary\">@PyConES</a> para obtener la información más reciente y actualizada!"
+msgstr ""
+
+msgid "Nombre de sala"
 msgstr ""
 
 msgid "Nos comprometemos a atender todas tus necesidades dietéticas. Al adquirir tu entrada, tendrás la oportunidad de indicar cualquier preferencia o restricción alimentaria de manera detallada."
@@ -547,11 +595,20 @@ msgstr ""
 msgid "Paris"
 msgstr "París"
 
+msgid "Patrocinio de becas"
+msgstr ""
+
+msgid "Patrocinio de streaming"
+msgstr ""
+
 msgid "Patrocinios"
 msgstr "Patrocinios"
 
 msgid "Por acoso se entiende comentarios ofensivos relacionados con género, orientación sexual, discapacidad, apariencia física, tamaño corporal, etnia o religión, pornografía en espacios públicos, intimidación deliberada, acecho, persecución, acoso por fotografías o grabaciones, constante interrupción de charlas u otros eventos, contacto físico inapropiado y atención sexual no deseada."
 msgstr "Por acoso enténdese comentarios ofensivos relacionados con xénero, orientación sexual, discapacidade, aparencia física, tamaño corporal, etnia ou relixión, pornografía en espazos públicos, intimidación deliberada, espreita, persecución, acoso por fotografías ou gravacións, constante interrupción de charlas ou outros eventos, contacto físico inapropiado e atención sexual non desexada."
+
+msgid "Porque no nos olvidamos de todas las mamis que asisten al evento, y seguro que tú tampoco. ¡Ayúdanos a construir un entorno inclusivo con todo lo necesario para que se sientan cómodas!"
+msgstr ""
 
 msgid "Precio"
 msgstr "Prezo"
@@ -613,8 +670,14 @@ msgstr ""
 msgid "Requerimientos previos o comentarios adicionales de tu charla"
 msgstr "Requisitos previos ou comentarios adicionais sobre a charla"
 
+msgid "Resolución de becas de asistentes"
+msgstr ""
+
 msgid "Respetar las diferentes opiniones, puntos de vista y experiencias"
 msgstr "Respectar as diferentes opinións, puntos de vista e experiencias"
+
+msgid "Sala de lactancia"
+msgstr ""
 
 msgid "Saltos entre distintos campos profesionales"
 msgstr "Saltos entre distintos campos profesionais"
@@ -715,6 +778,9 @@ msgstr "Síguenos en Twitter"
 msgid "Síguenos en Youtube"
 msgstr "Síguenos en YouTube"
 
+msgid "Taller Django Girls"
+msgstr ""
+
 msgid "Taller patrocinado"
 msgstr "Taller de patrocinio"
 
@@ -754,11 +820,20 @@ msgstr "Un evento que reunirá a centos de entusiastas da linguaxe de programaci
 msgid "Una estructura simple que puedes seguir, es poder contemplar los siguientes puntos en tu propuesta:"
 msgstr "Unha estrutura simple e fácil de seguir, que contemple os seguintes aspectos:"
 
+msgid "Una sala tiene tu nombre. Aparecerá así en todos los folletos, documentos y avisos. Además, podrás colocar roll-ups dentro de la sala durante todo el fin de semana."
+msgstr ""
+
 msgid "Usar un lenguaje inclusivo y que dé cabida a una audiencia diversa"
 msgstr "Usar unha linguaxe inclusiva e que dea cabida a unha audiencia diversa"
 
 msgid "Valoramos mucho las propuestas:"
 msgstr "Valoramos moito as propostas:"
+
+msgid "Viaje"
+msgstr ""
+
+msgid "Viaje a la ciudad de Vigo"
+msgstr ""
 
 msgid "Video promocional"
 msgstr "Vídeo promocional"
@@ -787,10 +862,25 @@ msgstr "código de conduta de DjangoCon Europe 2020"
 msgid "versión en español del Contributor Covenant 2.0"
 msgstr "versión en español do Contributor Covenant 2.0"
 
+msgid "¡Ayúdanos a financiar viajes para que todavía más gente pueda asistir a la PyConES! Por cada beca otorgada, se te mencionará de manera especial tanto durante el evento como en los mensajes que se intercambien con las personas becadas."
+msgstr ""
+
+msgid "¡Cada vez vienen más peques al evento! Construimos un espacio en donde estén cómodos y dispongan de toda la atención necesaria. ¡Ayúdanos a conseguirlo!"
+msgstr ""
+
+msgid "¡Colabora con este taller masivo con participantes de toda índole! Gana una gran visibilidad con tus roll-ups y un agradecimiento personalizado."
+msgstr ""
+
 msgid "¡Empieza el espectáculo!"
 msgstr "Empeza o espectáculo!"
 
 msgid "¡Queremos que tu experiencia sea lo mejor posible! Si hay algo en lo que no hayamos pensado y que te ayudaría a asistir a nuestro evento, ¡por favor háznoslo saber!"
+msgstr ""
+
+msgid "¡Reserva YA!"
+msgstr "Reserva XA!"
+
+msgid "¡Tú pones la idea, nosotros los premios! ¿Te encantan los retos técnicos? ¿Eres una empresa que busca aprender mientras la gente se lo pasa bien y hace equipo? Patrocina la hackathon de este año y colabora con tu idea y tecnología. La organización se encargará de hacer difusión, buscar gente y regalos."
 msgstr ""
 
 msgid "¡Y muchos más!"
@@ -826,8 +916,23 @@ msgstr "Que dias son os titoriais e as charlas?"
 msgid "¿Qué se hablará y que aprenderá la gente que asista?"
 msgstr "Sobre que se falará e que aprenderá a xente que asista?"
 
+msgid "¿Te gusta la música? ¡A nosotros nos encanta! Sé el patrocinador que nos brinde un concierto. Sitúa tus roll-ups en el meollo cuando todo el mundo esté participando."
+msgstr ""
+
 msgid "¿Te gustaría patrocinar la próxima edición del evento mas importante sobre desarrollo software con Python? No lo dudes y ponte ya mismo en contacto con la organización escribiendo al correo"
 msgstr "Gustaríache patrocinar a próxima edición do evento máis importante sobre o desenvolvemento de software con Python? Non o dubides e ponte xa en contacto coa organización escribindo ao enderezo de correo electrónico"
+
+msgid "¿Viste lo chulos que quedaron los vídeos del año pasado? Ahora imagínate que aparezca tu logo mientras se está en directo… A que mola, ¿eh?"
+msgstr ""
+
+#~ msgid "Apertura para el envío de ponencias/charlas"
+#~ msgstr "Apertura para o envío de ponencias/charlas"
+
+#~ msgid "Apertura para la venta de entradas"
+#~ msgstr "Apertura da venda de entradas"
+
+#~ msgid "Cierre del llamado a ponencias/charlas"
+#~ msgstr "Peche do envío de ponencias/charlas"
 
 #~ msgid "La convocatoria de propuestas (CFP) es hasta las 23:59 (UTC) del 31 de mayo. Mejor no dejarlo para el último minuto."
 #~ msgstr "A convocatoria de propostas (CfP) acaba o 31 de maio ás 23:59 UTC. Mellor non deixalo para última hora."
