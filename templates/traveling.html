@@ -1,7 +1,5 @@
 {% extends "layouts/layout_detail.html" %}
 
-{% from "macros/link.html" import link %}
-
 {% block content %}
 <section class="grid grid-cols-1 gap-8 pb-5 mx-auto w-10/12 text-lg">
     <h1 class="my-12 mb-5 text-5xl text-primary">{{ _("Viaje a la ciudad de Vigo") }}</h1>
@@ -21,12 +19,35 @@
                   con el siguiente código <strong>PYCONESVIGO2024</strong> o directamente en el siguiente botón:
                 {% endtrans %}
             </p>
-            <a href=" https://reservas.zenithoteles.com/EnlaceExterno?claveContrato=PYCONESVIGO2024" target="_blank" class="py-2 px-8 font-bold text-white bg-primary hover:bg-secondary">
+            <a href="https://reservas.zenithoteles.com/EnlaceExterno?claveContrato=PYCONESVIGO2024" target="_blank" class="py-2 px-8 font-bold text-white bg-primary hover:bg-secondary">
                 {{ _("¡Reserva YA!") }}
             </a>
         </div>
-        <figure >
+        <figure>
+          <picture>
+            <source srcset="{{ '/static/images/traveling/logo-zenit.webp'|asseturl }}" type="image/webp">
             <img src="{{ '/static/images/traveling/logo-zenit.jpg'|asseturl }}" alt="Logo hotel zenit" class="w-48">
+          </picture>
+        </figure>
+      </article>
+      <article class="flex flex-col-reverse gap-5 mt-28 md:grid-cols-2 xl:flex-row">
+        <div>
+            <h4 class="mb-4 text-4xl text-primary">Hotel Junquera</h4>
+            <p class="block mt-4 mb-6">
+                {% trans trimmed %}
+                  Las reservas se pueden hacer por teléfono (+34 986 43 48 88) o en la <a href="https://www.hoteljunquera.com/habitaciones.html" target="blank" class="underline text-primary hover:text-secondary">web</a>
+                  del hotel con el siguiente código promocional <strong>PYCONESVIGO2024</strong>.
+                {% endtrans %}
+            </p>
+            <a href="https://www.hoteljunquera.com/habitaciones.html" target="_blank" class="py-2 px-8 font-bold text-white bg-primary hover:bg-secondary">
+                {{ _("¡Reserva YA!") }}
+            </a>
+        </div>
+        <figure>
+          <picture>
+            <source srcset="{{ '/static/images/traveling/logo-junquera.webp'|asseturl }}" type="image/webp">
+            <img src="{{ '/static/images/traveling/logo-junquera.png'|asseturl }}" alt="Logo hotel junquera" class="w-48">
+          </picture>
         </figure>
       </article>
     </div>
