@@ -76,6 +76,9 @@ msgstr ""
 msgid "Abril"
 msgstr ""
 
+msgid "Abrir/cerrar menú"
+msgstr ""
+
 msgid "Accesibilidad"
 msgstr ""
 
