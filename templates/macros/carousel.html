@@ -1,9 +1,9 @@
 {% macro carousel(images) %}
 <section id="default-carousel" class="flex justify-center" data-carousel="slide">
     <button type="button"
-    class="relative left-16 z-30 px-4 cursor-pointer focus:outline-none group"
+    class="relative z-30 px-1 cursor-pointer md:left-16 lg:px-4 focus:outline-none group"
     data-carousel-prev>
-    <span class="inline-flex justify-center items-center w-10 h-10 bg-white rounded-full group-focus:outline-none">
+    <span class="inline-flex justify-center items-center bg-white rounded-full md:w-10 md:h-10 group-focus:outline-none">
         <svg class="w-4 h-4 text-primary rtl:rotate-180" aria-hidden="true" xmlns="http://www.w3.org/2000/svg"
             fill="none" viewBox="0 0 6 10">
             <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
@@ -17,9 +17,9 @@
         <img id="carousel-image-{{ loop.index }}" src="{{ image.path|url }}" alt="...">
     </figure>
     {% endfor %}
-    <button type="button" class="relative right-16 z-30 px-4 cursor-pointer focus:outline-none group"
+    <button type="button" class="relative z-30 px-1 cursor-pointer md:right-16 lg:px-4 focus:outline-none group"
         data-carousel-next>
-        <span class="inline-flex justify-center items-center w-10 h-10 bg-white rounded-full group-focus:outline-none">
+        <span class="inline-flex justify-center items-center bg-white rounded-full md:w-10 md:h-10 group-focus:outline-none">
             <svg class="w-4 h-4 text-primary rtl:rotate-180" aria-hidden="true" xmlns="http://www.w3.org/2000/svg"
                 fill="none" viewBox="0 0 6 10">
                 <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
