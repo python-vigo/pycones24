@@ -14,7 +14,7 @@
                     {{ _("Para conocer todas las ventajas que te ofrecen nuestros distintos niveles de patrocinio puedes descargar el folleto informativo:") }}
                 </p>
             </div>
-            <div class="grid grid-cols-1 gap-4 content-center my-5 h-20 md:grid-cols-2">
+            <div class="grid grid-cols-1 gap-4 content-center my-5 mb-10 md:grid-cols-2">
                 <a href="{{ _("/static/dossier/2024ES - Dossier - PyConES Vigo - Patrocinadores.pdf") | asseturl }}" target="_blank" class="py-1 px-4 font-semibold text-center text-red-600 border border-red-200 hover:text-white hover:bg-red-600 hover:border-transparent focus:ring-2 focus:ring-purple-600 focus:ring-offset-2 focus:outline-none">
                     {{ _("Descargar dosier completo (ES)") }}
                 </a>
@@ -22,9 +22,7 @@
                     {{ _("Descargar dosier resumido (ES)") }}
                 </a>
             </div>
-            <section>
-                {{ carousel(this.attachments) }}
-            </section>
+            {{ carousel(this.attachments) }}
             <div class="overflow-x-auto relative">
               <table class="mt-5 w-full border border-white table-auto">
                   <thead class="text-white">
