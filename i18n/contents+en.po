@@ -78,6 +78,9 @@ msgstr "See below some of the most important milestones of the conference. If th
 msgid "Abril"
 msgstr "April"
 
+msgid "Abrir/cerrar menú"
+msgstr ""
+
 msgid "Accesibilidad"
 msgstr ""
 

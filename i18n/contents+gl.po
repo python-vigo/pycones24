@@ -78,6 +78,9 @@ msgstr "A continuación poderás ver algúns dos hitos máis importantes da conf
 msgid "Abril"
 msgstr "Abril"
 
+msgid "Abrir/cerrar menú"
+msgstr ""
+
 msgid "Accesibilidad"
 msgstr "Accesibilidade"
 
