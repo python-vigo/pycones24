@@ -1,0 +1,56 @@
+<form
+  data-hx-post="http://localhost:8787/"
+  data-hx-target="#form-msg"
+>
+  <div class="grid grid-cols-1 gap-x-6 gap-y-8 mt-10 sm:grid-cols-6">
+    <fieldset class="md:col-span-3">
+      <label for="name" class="block text-sm font-medium leading-6 text-gray-900">{{ _("Nombre de contacto") }}*</label>
+      <input id="name" name="name" type="text" required
+        class="block p-1.5 mt-2 w-full text-gray-900 rounded-md border-0 ring-1 ring-inset ring-gray-300 shadow-sm sm:text-sm sm:leading-6 focus:ring-2 focus:ring-inset placeholder:text-gray-400 focus:ring-secondary">
+    </fieldset>
+
+    <fieldset class="md:col-span-3">
+      <label for="email" class="block text-sm font-medium leading-6 text-gray-900">{{ _("Correo electrónico")
+        }}*</label>
+      <input id="email" name="email" type="email" autocomplete="email" required
+        class="block p-1.5 mt-2 w-full text-gray-900 rounded-md border-0 ring-1 ring-inset ring-gray-300 shadow-sm sm:text-sm sm:leading-6 focus:ring-2 focus:ring-inset placeholder:text-gray-400 focus:ring-secondary">
+    </fieldset>
+
+    <fieldset class="md:col-span-3">
+      <label for="company" class="block text-sm font-medium leading-6 text-gray-900">{{ _("Empresa") }}*</label>
+      <input type="text" name="company" id="company" required
+        class="block p-1.5 mt-2 w-full text-gray-900 rounded-md border-0 ring-1 ring-inset ring-gray-300 shadow-sm sm:text-sm sm:leading-6 focus:ring-2 focus:ring-inset placeholder:text-gray-400 focus:ring-secondary">
+    </fieldset>
+
+    <fieldset class="md:col-span-3">
+      <label for="phone" class="block text-sm font-medium leading-6 text-gray-900">{{ _("Número de teléfono") }}</label>
+      <input type="tel" name="phone" id="phone"
+        class="block p-1.5 mt-2 w-full text-gray-900 rounded-md border-0 ring-1 ring-inset ring-gray-300 shadow-sm sm:text-sm sm:leading-6 focus:ring-2 focus:ring-inset placeholder:text-gray-400 focus:ring-secondary">
+    </fieldset>
+
+    <fieldset class="md:col-span-full">
+      <label for="level" class="block text-sm font-medium leading-6 text-gray-900">{{ _("Nivel de patrocinio")
+        }}*</label>
+      <select id="level" name="level"
+        class="block p-1.5 mt-2 w-full text-gray-900 bg-transparent rounded-md border-0 ring-1 ring-inset ring-gray-300 shadow-sm sm:max-w-xs sm:text-sm sm:leading-6 focus:ring-2 focus:ring-inset focus:ring-secondary">
+        <option>Cíes</option>
+        <option>Ons</option>
+        <option>Sálvora</option>
+        <option>Cortegada</option>
+      </select>
+    </fieldset>
+
+    <fieldset class="col-span-full">
+      <label for="comments" class="block text-sm font-medium leading-6 text-gray-900">{{ _("Preguntas / comentarios")
+        }}</label>
+      <textarea name="comments" id="comments" rows="5" cols="30"
+        class="block p-1.5 mt-2 w-full text-gray-900 rounded-md border-0 ring-1 ring-inset ring-gray-300 shadow-sm sm:text-sm sm:leading-6 focus:ring-2 focus:ring-inset placeholder:text-gray-400 focus:ring-secondary">
+        </textarea>
+    </fieldset>
+
+  </div>
+  <footer class="mt-5">
+    <button type="submit">{{ _("Enviar") }}</button>
+  </footer>
+  <p id="form-msg"></p>
+</form>
