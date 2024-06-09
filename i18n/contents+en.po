@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pycones 24\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2024-06-04 01:22+0200\n"
+"PO-Revision-Date: 2024-06-09 19:00+0200\n"
 "Last-Translator: Adrián Chaves (Gallaecio) <adrian@chaves.io>\n"
 "Language-Team: Proxecto Trasno (proxecto@trasno.gal)\n"
 "Language: en\n"
@@ -275,7 +275,7 @@ msgid "Diversidad y becas"
 msgstr "Diversity and grants"
 
 msgid "Durante todos las paradas de café que se hagan, ¡tendremos información tuya! Habrán desde roll-ups y mensajes de agradecimiento hasta aquello en lo que tú, como empresa, quieras participar: servilletas con logotipo, vasos, etc"
-msgstr ""
+msgstr "During all the coffee breaks, we will advertise you! There will be everything from roll-ups and thank you messages to anything you, as a company, want to participate in: napkins with logo, cups, etc"
 
 msgid "Ediciones anteriores"
 msgstr "Previous editions"
@@ -314,7 +314,7 @@ msgid "El auditorio tiene su propio servicio de catering caracterizado por el bu
 msgstr ""
 
 msgid "El logotipo aparecerá junto a los logos de la asociación y de la comunidad que organizan. Es posible que, en las entradas empresariales, no aparezca tu logotipo."
-msgstr ""
+msgstr "The logo will appear alongside the logos of the association and the organizing community. It is possible that your logo will not appear on the business tickets."
 
 msgid "El uso de lenguaje o imágenes sexualizadas, y aproximaciones o atenciones sexuales de cualquier tipo"
 msgstr "The use of sexualized language or images, and sexual approaches or attention of any kind"
@@ -476,10 +476,10 @@ msgid "Los casos de comportamiento abusivo, acosador o inaceptable de otro modo 
 msgstr "Cases of abusive, harassing or otherwise unacceptable behavior may be reported to the community managers responsible for compliance:"
 
 msgid "Ludoteca"
-msgstr ""
+msgstr "Playroom"
 
 msgid "Ludoteca sujeta a disponibilidad - si hay una empresa que quiera colaborar directamente proveyendo del material necesario para montar la ludoteca, tendrá preferencia."
-msgstr ""
+msgstr "Playroom subject to availability - if there is a company willing to collaborate by providing the necessary materials to set up the playroom, they will be given priority."
 
 msgid "Luego de enviar tu propuesta, tendrás la posibilidad de Editarla, así que no te preocupes si tienes que hacer cambios luego de enviarla."
 msgstr "Once you have submitted your proposal, you will be able to edit it, so do not worry that you might need to make changes after submission."
@@ -522,7 +522,7 @@ msgid "No olvides seguirnos en twitter <a href=\"https://twitter.com/PyConES\" c
 msgstr "Do not forget to follow us in Twitter <a href=\"https://twitter.com/PyConES\" class=\"font-bold text-primary hover:text-secondary\">@PyConES</a> to get the latest updates!"
 
 msgid "Nombre de sala"
-msgstr ""
+msgstr "Room sponsorship"
 
 msgid "Nos comprometemos a atender todas tus necesidades dietéticas. Al adquirir tu entrada, tendrás la oportunidad de indicar cualquier preferencia o restricción alimentaria de manera detallada."
 msgstr ""
@@ -599,10 +599,10 @@ msgid "Paris"
 msgstr "Paris"
 
 msgid "Patrocinio de becas"
-msgstr ""
+msgstr "Grants Sponsorship"
 
 msgid "Patrocinio de streaming"
-msgstr ""
+msgstr "Streaming Sponsorship"
 
 msgid "Patrocinios"
 msgstr "Sponsorships"
@@ -611,7 +611,7 @@ msgid "Por acoso se entiende comentarios ofensivos relacionados con género, ori
 msgstr "Harassment means offensive comments related to gender, sexual orientation, disability, physical appearance, body size, ethnicity or religion, pornography in public spaces, deliberate intimidation, stalking, persecution, harassment by photographs or recordings, constant interruption of talks or other events , inappropriate physical contact and unwanted sexual attention."
 
 msgid "Porque no nos olvidamos de todas las mamis que asisten al evento, y seguro que tú tampoco. ¡Ayúdanos a construir un entorno inclusivo con todo lo necesario para que se sientan cómodas!"
-msgstr ""
+msgstr "Because we don’t forget about all the moms who attend the event, and surely you neither. Help us build an inclusive environment with everything necessary for them to feel comfortable!"
 
 msgid "Precio"
 msgstr "Price"
@@ -680,7 +680,7 @@ msgid "Respetar las diferentes opiniones, puntos de vista y experiencias"
 msgstr "Respect different opinions, points of view and experiences"
 
 msgid "Sala de lactancia"
-msgstr ""
+msgstr "Nursing room"
 
 msgid "Saltos entre distintos campos profesionales"
 msgstr "Hops between different professional fields"
@@ -782,7 +782,7 @@ msgid "Síguenos en Youtube"
 msgstr "Follow us on YouTube"
 
 msgid "Taller Django Girls"
-msgstr ""
+msgstr "Django Girls workshop"
 
 msgid "Taller patrocinado"
 msgstr "Sponsored workshop"
@@ -824,7 +824,7 @@ msgid "Una estructura simple que puedes seguir, es poder contemplar los siguient
 msgstr "A simple layout that you could follow is to cover the following aspects in your proposal:"
 
 msgid "Una sala tiene tu nombre. Aparecerá así en todos los folletos, documentos y avisos. Además, podrás colocar roll-ups dentro de la sala durante todo el fin de semana."
-msgstr ""
+msgstr "A room has your company name. It will appear on all brochures, documents, and notices. In addition, you can place roll-ups inside the room throughout the weekend."
 
 msgid "Usar un lenguaje inclusivo y que dé cabida a una audiencia diversa"
 msgstr "Use language that is inclusive and accommodates a diverse audience"
@@ -833,7 +833,7 @@ msgid "Valoramos mucho las propuestas:"
 msgstr "We value proposals:"
 
 msgid "Viaje"
-msgstr ""
+msgstr "Travel"
 
 msgid "Viaje a la ciudad de Vigo"
 msgstr ""
@@ -866,13 +866,13 @@ msgid "versión en español del Contributor Covenant 2.0"
 msgstr "spanish version of Contributor Covenant 2.0"
 
 msgid "¡Ayúdanos a financiar viajes para que todavía más gente pueda asistir a la PyConES! Por cada beca otorgada, se te mencionará de manera especial tanto durante el evento como en los mensajes que se intercambien con las personas becadas."
-msgstr ""
+msgstr "Help us to finance trips so that even more people can attend PyConES! For each grant awarded, you will be mentioned in a special way both during the event and in the messages exchanged with the recipients."
 
 msgid "¡Cada vez vienen más peques al evento! Construimos un espacio en donde estén cómodos y dispongan de toda la atención necesaria. ¡Ayúdanos a conseguirlo!"
-msgstr ""
+msgstr "More and more, little ones are coming to the event! We want to build a space where they are comfortable and have all the necessary attention. Help us achieve it."
 
 msgid "¡Colabora con este taller masivo con participantes de toda índole! Gana una gran visibilidad con tus roll-ups y un agradecimiento personalizado."
-msgstr ""
+msgstr "Collaborate with this massive workshop with participants of all kinds! Gain great visibility with your roll-ups and a personalized thank you."
 
 msgid "¡Empieza el espectáculo!"
 msgstr "The show starts!"
@@ -884,7 +884,7 @@ msgid "¡Reserva YA!"
 msgstr "Book NOW!"
 
 msgid "¡Tú pones la idea, nosotros los premios! ¿Te encantan los retos técnicos? ¿Eres una empresa que busca aprender mientras la gente se lo pasa bien y hace equipo? Patrocina la hackathon de este año y colabora con tu idea y tecnología. La organización se encargará de hacer difusión, buscar gente y regalos."
-msgstr ""
+msgstr "You provide the idea, and we give the prizes. Do you love technical challenges? Are you a company that seeks to learn while people have fun and team up? Sponsor this year’s hackathon and collaborate with your idea and technology. The organization will take care of spreading the world and finding people and gifts."
 
 msgid "¡Y muchos más!"
 msgstr "And many more!"
@@ -920,13 +920,13 @@ msgid "¿Qué se hablará y que aprenderá la gente que asista?"
 msgstr "What will be covered, and what will attendees learn?"
 
 msgid "¿Te gusta la música? ¡A nosotros nos encanta! Sé el patrocinador que nos brinde un concierto. Sitúa tus roll-ups en el meollo cuando todo el mundo esté participando."
-msgstr ""
+msgstr "Do you like music? We love it! Be the sponsor that gives us a concert. Place your roll-ups in the thick of it when everyone is participating."
 
 msgid "¿Te gustaría patrocinar la próxima edición del evento mas importante sobre desarrollo software con Python? No lo dudes y ponte ya mismo en contacto con la organización escribiendo al correo"
 msgstr "Would you like to sponsor the next edition of the most important event about software development with Python? Contact the organization right now by email at"
 
 msgid "¿Viste lo chulos que quedaron los vídeos del año pasado? Ahora imagínate que aparezca tu logo mientras se está en directo… A que mola, ¿eh?"
-msgstr ""
+msgstr "Did you see how cool last year’s videos turned out? Now image your logo appearing while it’s live.. Cool, huh?"
 
 #~ msgid "Apertura para el envío de ponencias/charlas"
 #~ msgstr "Proposals for talks can be sent"
