@@ -552,6 +552,9 @@ msgstr ""
 msgid "Organización de la Conferencia"
 msgstr ""
 
+msgid "Organizadores"
+msgstr ""
+
 msgid "Os damos la bienvenida a la <strong>PyConES</strong>, la <strong>conferencia de Python más importante de España.</strong>"
 msgstr ""
 
