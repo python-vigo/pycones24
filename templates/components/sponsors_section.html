@@ -82,13 +82,6 @@
       _("Colaboradores"),
       [
         (
-          "https://www.python-vigo.es/",
-          "/static/images/sponsors_logo/collaborators/python-vigo.webp",
-          "/static/images/sponsors_logo/collaborators/python-vigo.png",
-          "Logo Python Vigo",
-          "w-36"
-        ),
-        (
           "https://www.aitire.cloud/",
           "/static/images/sponsors_logo/collaborators/aitire-logo.webp",
           "/static/images/sponsors_logo/collaborators/aitire-logo.png",
@@ -101,6 +94,28 @@
           "/static/images/sponsors_logo/collaborators/logo-industriosa.svg",
           "Logo A Industriosa",
           "w-16"
+        ),
+      ],
+      lg_grid_cols="lg:grid-cols-3 xl:grid-cols-5 2xl:grid-cols-6",
+      )
+    }}
+    {{ render_logo_sponsors(
+      "",
+      _("Organizadores"),
+      [
+        (
+          "https://www.python-vigo.es/",
+          "/static/images/sponsors_logo/organizer/python-vigo.webp",
+          "/static/images/sponsors_logo/organizer/python-vigo.png",
+          "Logo Python Vigo",
+          "w-36"
+        ),
+        (
+          "https://es.python.org/",
+          "/static/images/sponsors_logo/organizer/logo-pythonES.webp",
+          "/static/images/sponsors_logo/organizer/logo-pythonES.png",
+          "Logo Python España",
+          "w-28"
         ),
       ],
       lg_grid_cols="lg:grid-cols-3 xl:grid-cols-5 2xl:grid-cols-6",
