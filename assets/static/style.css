@@ -56,3 +56,11 @@
       font-family: "Dosis", system-ui, sans-serif;
     }
   }
+
+.error-msg {
+  @apply pl-3 bg-red-100 border-l-2 border-primary;
+}
+
+.success-msg {
+  @apply pl-3 bg-green-100 border-l-2 border-green-600;
+}
