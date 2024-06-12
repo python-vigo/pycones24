@@ -97,6 +97,9 @@ msgstr ""
 msgid "Agradecimiento en vivo"
 msgstr ""
 
+msgid "Al enviar este formulario autorizas a la Asociación Python España (CIF G86766821) a que utilice los datos aquí facilitados con carácter interno durante la organización y desarrollo del evento PyConES 2024. Los datos serán tratados por la Asociación Python España con la máxima confidencialidad, de acuerdo con Reglamento (UE) 2016/679 del Parlamento Europeo y del Consejo, de 27 de abril de 2016, relativo a la protección de las personas físicas en lo que respecta al tratamiento de datos personales y a la libre circulación de estos datos, y siguiendo las Recomendaciones e Instrucciones emitidas por la Agencia Española de Protección de Datos (A.E.P.D.). Para ejercer tus derechos ARCO escribe a contacto@es.python.org."
+msgstr ""
+
 msgid "Al participar en la comunidad de Python España, te comprometes a fomentar una experiencia libre de acoso para todo el mundo, independientemente de la edad, dimensión corporal, discapacidad visible o invisible, etnicidad, características sexuales, identidad y expresión de género, nivel de experiencia, educación, nivel socio-económico, nacionalidad, apariencia personal, raza, religión, o identidad u orientación sexual."
 msgstr ""
 
@@ -215,6 +218,9 @@ msgstr ""
 msgid "Convocatoría de propuestas (CFP)"
 msgstr ""
 
+msgid "Correo electrónico"
+msgstr ""
+
 msgid "Cronograma del evento"
 msgstr ""
 
@@ -317,6 +323,9 @@ msgstr ""
 msgid "El uso de lenguaje o imágenes sexualizadas, y aproximaciones o atenciones sexuales de cualquier tipo"
 msgstr ""
 
+msgid "Empresa"
+msgstr ""
+
 msgid "En PyConES 2024, nos comprometemos a promover la diversidad e inclusión en nuestra conferencia. Creemos firmemente en la importancia de crear un entorno inclusivo y respetuoso que fomente la participación de todas las personas, sin importar su raza, etnia, género, edad, habilidades, religión u orientación sexual. También nos preocupamos por brindar un entorno inclusivo para aquellos que tienen responsabilidades parentales."
 msgstr ""
 
@@ -345,6 +354,9 @@ msgid "Entradas de diversidad"
 msgstr ""
 
 msgid "Entradas incluídas"
+msgstr ""
+
+msgid "Enviar"
 msgstr ""
 
 msgid "Envíanos un correo electrónico"
@@ -452,6 +464,9 @@ msgstr ""
 msgid "Las reservas pueden hacerse en el siguiente enlace <a href=\"https://zenithoteles.com/es/acceso-clientes/#login_colectivos\" target=\"blank\" class=\"underline text-primary hover:text-secondary\">Acceso Zenit</a> con el siguiente código <strong>PYCONESVIGO2024</strong> o directamente en el siguiente botón:"
 msgstr ""
 
+msgid "Las reservas se pueden hacer por teléfono (+34 986 43 48 88) o en la <a href=\"https://www.hoteljunquera.com/habitaciones.html\" target=\"blank\" class=\"underline text-primary hover:text-secondary\">web</a> del hotel con el siguiente código promocional <strong>PYCONESVIGO2024</strong>."
+msgstr ""
+
 msgid "Llegar a Vigo es muy fácil: desde Madrid, A Coruña, Santiago de Compostela o el norte de Portugal se puede llegar directamente al centro de la ciudad. Vigo está comunicada por carretera y tren con Madrid y otras urbes como Bilbao. Además, el aeropuerto de Peinador está conectado con las ciudades españolas más importantes y con varios destinos internacionales."
 msgstr ""
 
@@ -513,10 +528,16 @@ msgstr ""
 msgid "Nivel"
 msgstr ""
 
+msgid "Nivel de patrocinio"
+msgstr ""
+
 msgid "Niveles"
 msgstr ""
 
 msgid "No olvides seguirnos en twitter <a href=\"https://twitter.com/PyConES\" class=\"font-bold text-primary hover:text-secondary\">@PyConES</a> para obtener la información más reciente y actualizada!"
+msgstr ""
+
+msgid "Nombre de contacto"
 msgstr ""
 
 msgid "Nombre de sala"
@@ -535,6 +556,9 @@ msgid "Nuestro equipo está aquí para ayudarte. Si tienes alguna pregunta o sug
 msgstr ""
 
 msgid "Nuestros estándares"
+msgstr ""
+
+msgid "Número de teléfono"
 msgstr ""
 
 msgid "O simplemente Sobre tu experiencia de Python y el impacto en tu vida"
@@ -610,6 +634,9 @@ msgid "Porque no nos olvidamos de todas las mamis que asisten al evento, y segur
 msgstr ""
 
 msgid "Precio"
+msgstr ""
+
+msgid "Preguntas / comentarios"
 msgstr ""
 
 msgid "Preguntas Frecuentes"
@@ -810,6 +837,9 @@ msgstr ""
 msgid "Todas las personas que sean ponentes, tienen asegurada su participación en la conferencia, es decir no necesitan una entrada. En caso de que tengas pensado presentarte como ponente, independiente de si tu propuesta es aceptada o no, te recomendamos adquirir una entrada."
 msgstr ""
 
+msgid "Tu patrocinio"
+msgstr ""
+
 msgid "Ubicación: Sala Multipropósito - 3er piso:"
 msgstr ""
 
@@ -856,6 +886,9 @@ msgid "Web oficial auditorio"
 msgstr ""
 
 msgid "código de conducta de DjangoCon Europe 2020"
+msgstr ""
+
+msgid "o desde el <a href=\"#contacto-patrocinio\" class=\"text-primary hover:text-secondary\">formulario de contacto</a>."
 msgstr ""
 
 msgid "versión en español del Contributor Covenant 2.0"
