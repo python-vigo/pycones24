@@ -18,17 +18,31 @@
     <a href="{{ '/diversidad-becas/'|url }}" class="hidden text-lg font-bold text-white lg:block hover:underline">
       {{ _("Diversidad y becas") }}
     </a>
-    <a href="{{ '/viaje/'|url }}" class="hidden text-lg font-bold text-white lg:block hover:underline">
-      {{ _("Viaje") }}
-    </a>
-    <a href="{{ '/faq/'|url }}" class="hidden text-lg font-bold text-white lg:block hover:underline">
-      {{ _("FAQ") }}
-    </a>
+    <div class="hidden relative lg:block group/information max-w-fit">
+      <button type="button" class="inline-flex gap-x-1 items-center text-lg font-bold leading-6 text-white peer" aria-expanded="false">
+        <span>{{ _("Información") }}</span>
+        {{ load_icon("icons/arrow-down.html") }}
+      </button>
+      <div class="absolute z-10 flex-col hidden w-screen *:px-8 *:py-1 -translate-x-1/2 bg-white rounded-lg gap-y-1 left-1/2 max-w-max peer-focus:flex hover:flex border-[1.5px] border-secondary">
+          <a href="{{ '/viaje/'|url }}" class="text-lg font-semibold text-black hover:text-white hover:bg-secondary">
+            {{ _("Viaje") }}
+          </a>
+          <a href="{{ '/ciudad/'|url }}" class="text-lg font-semibold text-black hover:text-white hover:bg-secondary">
+            {{ _("Ciudad") }}
+          </a>
+          <a href="{{ '/lugar/'|url }}" class="text-lg font-semibold text-black hover:text-white hover:bg-secondary">
+            {{ _("Lugar") }}
+          </a>
+          <a href="{{ '/faq/'|url }}" class="w-full text-lg font-semibold text-black hover:text-white hover:bg-secondary">
+            {{ _("FAQ") }}
+          </a>
+      </div>
+    </div>
     <a href="https://pretix.eu/python-spain/"
       class="hidden py-1 px-6 ml-auto text-lg font-bold text-center text-white bg-transparent rounded border-2 md:block hover:bg-white bg-primary hover:text-primary">
       {{ _("Entradas") }}
     </a>
-    <a href="{{ '/menu'|url }}" data-hx-push-url="false" aria-label="{{ _("Abrir/cerrar menú") }}">
+    <a href="{{ '/menu'|url }}" data-hx-push-url="false" aria-label="{{ _("Abrir/cerrar menú") }}" class="lg:hidden">
       {{ load_icon('icons/ham-icon.html') }}
     </a>
     <div>
