@@ -4,39 +4,40 @@
   data-hx-target="#form-msg"
   data-hx-swap="innerHTML"
   data-hx-on::before-swap="event.detail.shouldSwap = true"
+  data-hx-on::after-request='if (event.detail.successful) { for (element of htmx.findAll(event.detail.elt, "input, select, textarea, button")){element.setAttribute("disabled", true)}}'
   data-hx-disabled-elt="button"
 >
   <div class="grid grid-cols-1 gap-x-6 gap-y-8 mt-10 sm:grid-cols-6">
     <fieldset class="md:col-span-3">
       <label for="name" class="block text-sm font-medium leading-6 text-gray-900">{{ _("Nombre de contacto") }}*</label>
       <input id="name" name="name" type="text" required
-        class="block p-1.5 mt-2 w-full text-gray-900 rounded-md border-0 ring-1 ring-inset ring-gray-300 shadow-sm sm:text-sm sm:leading-6 focus:ring-2 focus:ring-inset placeholder:text-gray-400 focus:ring-secondary">
+        class="block p-1.5 mt-2 w-full text-gray-900 rounded-md border-0 ring-1 ring-inset ring-gray-300 shadow-sm sm:text-sm sm:leading-6 focus:ring-2 focus:ring-inset disabled:bg-gray-100 placeholder:text-gray-400 focus:ring-secondary">
     </fieldset>
 
     <fieldset class="md:col-span-3">
       <label for="email" class="block text-sm font-medium leading-6 text-gray-900">{{ _("Correo electrónico")
         }}*</label>
       <input id="email" name="email" type="email" autocomplete="email" required
-        class="block p-1.5 mt-2 w-full text-gray-900 rounded-md border-0 ring-1 ring-inset ring-gray-300 shadow-sm sm:text-sm sm:leading-6 focus:ring-2 focus:ring-inset placeholder:text-gray-400 focus:ring-secondary">
+        class="block p-1.5 mt-2 w-full text-gray-900 rounded-md border-0 ring-1 ring-inset ring-gray-300 shadow-sm sm:text-sm sm:leading-6 focus:ring-2 focus:ring-inset disabled:bg-gray-100 placeholder:text-gray-400 focus:ring-secondary">
     </fieldset>
 
     <fieldset class="md:col-span-3">
       <label for="company" class="block text-sm font-medium leading-6 text-gray-900">{{ _("Empresa") }}*</label>
       <input type="text" name="company" id="company" required
-        class="block p-1.5 mt-2 w-full text-gray-900 rounded-md border-0 ring-1 ring-inset ring-gray-300 shadow-sm sm:text-sm sm:leading-6 focus:ring-2 focus:ring-inset placeholder:text-gray-400 focus:ring-secondary">
+        class="block p-1.5 mt-2 w-full text-gray-900 rounded-md border-0 ring-1 ring-inset ring-gray-300 shadow-sm sm:text-sm sm:leading-6 focus:ring-2 focus:ring-inset disabled:bg-gray-100 placeholder:text-gray-400 focus:ring-secondary">
     </fieldset>
 
     <fieldset class="md:col-span-3">
       <label for="phone" class="block text-sm font-medium leading-6 text-gray-900">{{ _("Número de teléfono") }}</label>
       <input type="tel" name="phone" id="phone"
-        class="block p-1.5 mt-2 w-full text-gray-900 rounded-md border-0 ring-1 ring-inset ring-gray-300 shadow-sm sm:text-sm sm:leading-6 focus:ring-2 focus:ring-inset placeholder:text-gray-400 focus:ring-secondary">
+        class="block p-1.5 mt-2 w-full text-gray-900 rounded-md border-0 ring-1 ring-inset ring-gray-300 shadow-sm sm:text-sm sm:leading-6 focus:ring-2 focus:ring-inset disabled:bg-gray-100 placeholder:text-gray-400 focus:ring-secondary">
     </fieldset>
 
     <fieldset class="md:col-span-full">
       <label for="level" class="block text-sm font-medium leading-6 text-gray-900">{{ _("Nivel de patrocinio")
         }}*</label>
       <select id="level" name="level"
-        class="block p-1.5 mt-2 w-full text-gray-900 bg-transparent rounded-md border-0 ring-1 ring-inset ring-gray-300 shadow-sm sm:max-w-xs sm:text-sm sm:leading-6 focus:ring-2 focus:ring-inset focus:ring-secondary">
+        class="block p-1.5 mt-2 w-full text-gray-900 bg-transparent rounded-md border-0 ring-1 ring-inset ring-gray-300 shadow-sm sm:max-w-xs sm:text-sm sm:leading-6 focus:ring-2 focus:ring-inset disabled:bg-gray-100 focus:ring-secondary">
         <option>Cíes</option>
         <option>Ons</option>
         <option>Sálvora</option>
@@ -48,14 +49,14 @@
       <label for="comments" class="block text-sm font-medium leading-6 text-gray-900">{{ _("Preguntas / comentarios")
         }}</label>
       <textarea name="comments" id="comments" rows="5" cols="30"
-        class="block p-1.5 mt-2 w-full text-gray-900 rounded-md border-0 ring-1 ring-inset ring-gray-300 shadow-sm sm:text-sm sm:leading-6 focus:ring-2 focus:ring-inset placeholder:text-gray-400 focus:ring-secondary">
+        class="block p-1.5 mt-2 w-full text-gray-900 rounded-md border-0 ring-1 ring-inset ring-gray-300 shadow-sm sm:text-sm sm:leading-6 focus:ring-2 focus:ring-inset disabled:bg-gray-100 placeholder:text-gray-400 focus:ring-secondary">
         </textarea>
     </fieldset>
 
     <div id="cf-turnstile-container" class="cf-turnstile" data-sitekey="0x4AAAAAAAcbU_7xQ3grhg_L"></div>
   </div>
   <footer class="mt-5">
-    <button type="submit" class="p-1 px-12 font-semibold text-white bg-primary hover:bg-secondary">{{ _("Enviar") }}</button>
+    <button type="submit" class="p-1 px-12 font-semibold text-white disabled:hidden bg-primary hover:bg-secondary">{{ _("Enviar") }}</button>
   </footer>
   <div id="form-msg" class="mt-2 text-xl lowercase *:border-l-2 data-[msg=success]:border-green-400  p-2 *:first-letter:uppercase">
   </div>
