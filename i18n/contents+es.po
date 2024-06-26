@@ -422,6 +422,9 @@ msgstr ""
 msgid "Hoy en día es una ciudad industrial pero también con mucha vida, con una gran vida nocturna y muchas actividades de ocio."
 msgstr ""
 
+msgid "Información"
+msgstr ""
+
 msgid "Inicio"
 msgstr ""
 
