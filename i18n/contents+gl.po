@@ -424,6 +424,9 @@ msgstr "Comprei entrada e necesito unha factura, como a consigo?"
 msgid "Hoy en día es una ciudad industrial pero también con mucha vida, con una gran vida nocturna y muchas actividades de ocio."
 msgstr "A día de hoxe é unha cidade industrial pero tamén con moita vida, cunha gran vida nocturna e moitas actividades de lecer."
 
+msgid "Información"
+msgstr ""
+
 msgid "Inicio"
 msgstr "Inicio"
 

@@ -424,6 +424,9 @@ msgstr "I bought a ticket and I need an invoice, how can I get it?"
 msgid "Hoy en día es una ciudad industrial pero también con mucha vida, con una gran vida nocturna y muchas actividades de ocio."
 msgstr "Nowadays it is a industrial city, but also full of life, with a great night life and lots of leisure activities."
 
+msgid "Información"
+msgstr ""
+
 msgid "Inicio"
 msgstr "Home"
 
