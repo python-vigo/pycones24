@@ -42,26 +42,46 @@
   </a>
 
   <div class="flex gap-x-10 items-center">
-    <a href="../c4p/" class="hidden text-lg font-bold text-white lg:block hover:underline">
+    <a href="../c4p/" class="hidden text-lg font-bold text-white xl:block hover:underline">
       C4P
     </a>
-    <a href="./" class="hidden text-lg font-bold text-white lg:block hover:underline">
+    <a href="./" class="hidden text-lg font-bold text-white xl:block hover:underline">
       Sponsorships
     </a>
-    <a href="../diversidad-becas/" class="hidden text-lg font-bold text-white lg:block hover:underline">
+    <a href="../diversidad-becas/" class="hidden text-lg font-bold text-white xl:block hover:underline">
       Diversity and grants
     </a>
-    <a href="../viaje/" class="hidden text-lg font-bold text-white lg:block hover:underline">
-      Travel
-    </a>
-    <a href="../faq/" class="hidden text-lg font-bold text-white lg:block hover:underline">
-      FAQ
-    </a>
+    <div class="hidden relative xl:block group/information max-w-fit">
+      <button type="button" class="inline-flex gap-x-1 items-center text-lg font-bold leading-6 text-white peer" aria-expanded="false">
+        <span>Información</span>
+        
+    <div class="">
+        <svg class="w-5 h-5" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
+    <path fill-rule="evenodd" d="M5.23 7.21a.75.75 0 011.06.02L10 11.168l3.71-3.938a.75.75 0 111.08 1.04l-4.25 4.5a.75.75 0 01-1.08 0l-4.25-4.5a.75.75 0 01.02-1.06z" clip-rule="evenodd" />
+  </svg>
+    </div>
+
+      </button>
+      <div class="absolute z-10 flex-col hidden w-screen *:px-8 *:py-1 -translate-x-1/2 bg-white rounded-lg gap-y-1 left-1/2 max-w-max peer-focus:flex hover:flex border-[1.5px] border-secondary">
+          <a href="../viaje/" class="text-lg font-semibold text-black hover:text-white hover:bg-secondary">
+            Travel
+          </a>
+          <a href="../ciudad/" class="text-lg font-semibold text-black hover:text-white hover:bg-secondary">
+            City
+          </a>
+          <a href="../lugar/" class="text-lg font-semibold text-black hover:text-white hover:bg-secondary">
+            Lugar
+          </a>
+          <a href="../faq/" class="w-full text-lg font-semibold text-black hover:text-white hover:bg-secondary">
+            FAQ
+          </a>
+      </div>
+    </div>
     <a href="https://pretix.eu/python-spain/"
       class="hidden py-1 px-6 ml-auto text-lg font-bold text-center text-white bg-transparent rounded border-2 md:block hover:bg-white bg-primary hover:text-primary">
       Tickets
     </a>
-    <a href="../menu/" data-hx-push-url="false" aria-label="Abrir/cerrar menú">
+    <a href="../menu/" data-hx-push-url="false" aria-label="Abrir/cerrar menú" class="xl:hidden">
       
     <div class="">
         <svg id="ham-icon" xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 24 24">
@@ -1073,37 +1093,38 @@
   data-hx-target="#form-msg"
   data-hx-swap="innerHTML"
   data-hx-on::before-swap="event.detail.shouldSwap = true"
+  data-hx-on::after-request='if (event.detail.successful) { for (element of htmx.findAll(event.detail.elt, "input, select, textarea, button")){element.setAttribute("disabled", true)}}'
   data-hx-disabled-elt="button"
 >
   <div class="grid grid-cols-1 gap-x-6 gap-y-8 mt-10 sm:grid-cols-6">
     <fieldset class="md:col-span-3">
       <label for="name" class="block text-sm font-medium leading-6 text-gray-900">Nombre de contacto*</label>
       <input id="name" name="name" type="text" required
-        class="block p-1.5 mt-2 w-full text-gray-900 rounded-md border-0 ring-1 ring-inset ring-gray-300 shadow-sm sm:text-sm sm:leading-6 focus:ring-2 focus:ring-inset placeholder:text-gray-400 focus:ring-secondary">
+        class="block p-1.5 mt-2 w-full text-gray-900 rounded-md border-0 ring-1 ring-inset ring-gray-300 shadow-sm sm:text-sm sm:leading-6 focus:ring-2 focus:ring-inset disabled:bg-gray-100 placeholder:text-gray-400 focus:ring-secondary">
     </fieldset>
 
     <fieldset class="md:col-span-3">
       <label for="email" class="block text-sm font-medium leading-6 text-gray-900">Correo electrónico*</label>
       <input id="email" name="email" type="email" autocomplete="email" required
-        class="block p-1.5 mt-2 w-full text-gray-900 rounded-md border-0 ring-1 ring-inset ring-gray-300 shadow-sm sm:text-sm sm:leading-6 focus:ring-2 focus:ring-inset placeholder:text-gray-400 focus:ring-secondary">
+        class="block p-1.5 mt-2 w-full text-gray-900 rounded-md border-0 ring-1 ring-inset ring-gray-300 shadow-sm sm:text-sm sm:leading-6 focus:ring-2 focus:ring-inset disabled:bg-gray-100 placeholder:text-gray-400 focus:ring-secondary">
     </fieldset>
 
     <fieldset class="md:col-span-3">
       <label for="company" class="block text-sm font-medium leading-6 text-gray-900">Empresa*</label>
       <input type="text" name="company" id="company" required
-        class="block p-1.5 mt-2 w-full text-gray-900 rounded-md border-0 ring-1 ring-inset ring-gray-300 shadow-sm sm:text-sm sm:leading-6 focus:ring-2 focus:ring-inset placeholder:text-gray-400 focus:ring-secondary">
+        class="block p-1.5 mt-2 w-full text-gray-900 rounded-md border-0 ring-1 ring-inset ring-gray-300 shadow-sm sm:text-sm sm:leading-6 focus:ring-2 focus:ring-inset disabled:bg-gray-100 placeholder:text-gray-400 focus:ring-secondary">
     </fieldset>
 
     <fieldset class="md:col-span-3">
       <label for="phone" class="block text-sm font-medium leading-6 text-gray-900">Número de teléfono</label>
       <input type="tel" name="phone" id="phone"
-        class="block p-1.5 mt-2 w-full text-gray-900 rounded-md border-0 ring-1 ring-inset ring-gray-300 shadow-sm sm:text-sm sm:leading-6 focus:ring-2 focus:ring-inset placeholder:text-gray-400 focus:ring-secondary">
+        class="block p-1.5 mt-2 w-full text-gray-900 rounded-md border-0 ring-1 ring-inset ring-gray-300 shadow-sm sm:text-sm sm:leading-6 focus:ring-2 focus:ring-inset disabled:bg-gray-100 placeholder:text-gray-400 focus:ring-secondary">
     </fieldset>
 
     <fieldset class="md:col-span-full">
       <label for="level" class="block text-sm font-medium leading-6 text-gray-900">Nivel de patrocinio*</label>
       <select id="level" name="level"
-        class="block p-1.5 mt-2 w-full text-gray-900 bg-transparent rounded-md border-0 ring-1 ring-inset ring-gray-300 shadow-sm sm:max-w-xs sm:text-sm sm:leading-6 focus:ring-2 focus:ring-inset focus:ring-secondary">
+        class="block p-1.5 mt-2 w-full text-gray-900 bg-transparent rounded-md border-0 ring-1 ring-inset ring-gray-300 shadow-sm sm:max-w-xs sm:text-sm sm:leading-6 focus:ring-2 focus:ring-inset disabled:bg-gray-100 focus:ring-secondary">
         <option>Cíes</option>
         <option>Ons</option>
         <option>Sálvora</option>
@@ -1114,14 +1135,14 @@
     <fieldset class="col-span-full">
       <label for="comments" class="block text-sm font-medium leading-6 text-gray-900">Preguntas / comentarios</label>
       <textarea name="comments" id="comments" rows="5" cols="30"
-        class="block p-1.5 mt-2 w-full text-gray-900 rounded-md border-0 ring-1 ring-inset ring-gray-300 shadow-sm sm:text-sm sm:leading-6 focus:ring-2 focus:ring-inset placeholder:text-gray-400 focus:ring-secondary">
+        class="block p-1.5 mt-2 w-full text-gray-900 rounded-md border-0 ring-1 ring-inset ring-gray-300 shadow-sm sm:text-sm sm:leading-6 focus:ring-2 focus:ring-inset disabled:bg-gray-100 placeholder:text-gray-400 focus:ring-secondary">
         </textarea>
     </fieldset>
 
     <div id="cf-turnstile-container" class="cf-turnstile" data-sitekey="0x4AAAAAAAcbU_7xQ3grhg_L"></div>
   </div>
   <footer class="mt-5">
-    <button type="submit" class="p-1 px-12 font-semibold text-white bg-primary hover:bg-secondary">Enviar</button>
+    <button type="submit" class="p-1 px-12 font-semibold text-white disabled:hidden bg-primary hover:bg-secondary">Enviar</button>
   </footer>
   <div id="form-msg" class="mt-2 text-xl lowercase *:border-l-2 data-[msg=success]:border-green-400  p-2 *:first-letter:uppercase">
   </div>

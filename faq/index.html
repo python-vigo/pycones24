@@ -39,26 +39,46 @@
   </a>
 
   <div class="flex gap-x-10 items-center">
-    <a href="../c4p/" class="hidden text-lg font-bold text-white lg:block hover:underline">
+    <a href="../c4p/" class="hidden text-lg font-bold text-white xl:block hover:underline">
       C4P
     </a>
-    <a href="../patrocinios/" class="hidden text-lg font-bold text-white lg:block hover:underline">
+    <a href="../patrocinios/" class="hidden text-lg font-bold text-white xl:block hover:underline">
       Patrocinios
     </a>
-    <a href="../diversidad-becas/" class="hidden text-lg font-bold text-white lg:block hover:underline">
+    <a href="../diversidad-becas/" class="hidden text-lg font-bold text-white xl:block hover:underline">
       Diversidad y becas
     </a>
-    <a href="../viaje/" class="hidden text-lg font-bold text-white lg:block hover:underline">
-      Viaje
-    </a>
-    <a href="./" class="hidden text-lg font-bold text-white lg:block hover:underline">
-      FAQ
-    </a>
+    <div class="hidden relative xl:block group/information max-w-fit">
+      <button type="button" class="inline-flex gap-x-1 items-center text-lg font-bold leading-6 text-white peer" aria-expanded="false">
+        <span>Información</span>
+        
+    <div class="">
+        <svg class="w-5 h-5" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
+    <path fill-rule="evenodd" d="M5.23 7.21a.75.75 0 011.06.02L10 11.168l3.71-3.938a.75.75 0 111.08 1.04l-4.25 4.5a.75.75 0 01-1.08 0l-4.25-4.5a.75.75 0 01.02-1.06z" clip-rule="evenodd" />
+  </svg>
+    </div>
+
+      </button>
+      <div class="absolute z-10 flex-col hidden w-screen *:px-8 *:py-1 -translate-x-1/2 bg-white rounded-lg gap-y-1 left-1/2 max-w-max peer-focus:flex hover:flex border-[1.5px] border-secondary">
+          <a href="../viaje/" class="text-lg font-semibold text-black hover:text-white hover:bg-secondary">
+            Viaje
+          </a>
+          <a href="../ciudad/" class="text-lg font-semibold text-black hover:text-white hover:bg-secondary">
+            Ciudad
+          </a>
+          <a href="../lugar/" class="text-lg font-semibold text-black hover:text-white hover:bg-secondary">
+            Lugar
+          </a>
+          <a href="./" class="w-full text-lg font-semibold text-black hover:text-white hover:bg-secondary">
+            FAQ
+          </a>
+      </div>
+    </div>
     <a href="https://pretix.eu/python-spain/"
       class="hidden py-1 px-6 ml-auto text-lg font-bold text-center text-white bg-transparent rounded border-2 md:block hover:bg-white bg-primary hover:text-primary">
       Entradas
     </a>
-    <a href="../menu/" data-hx-push-url="false" aria-label="Abrir/cerrar menú">
+    <a href="../menu/" data-hx-push-url="false" aria-label="Abrir/cerrar menú" class="xl:hidden">
       
     <div class="">
         <svg id="ham-icon" xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 24 24">
