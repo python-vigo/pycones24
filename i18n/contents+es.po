@@ -401,6 +401,9 @@ msgstr ""
 msgid "Favorece que más personas sepan que son bienvenidas"
 msgstr ""
 
+msgid "Finalización del período de solicitud de becas"
+msgstr ""
+
 msgid "Folleto en welcome pack"
 msgstr ""
 
@@ -411,6 +414,9 @@ msgid "Gracias a <a href=\"https://2024.djangocon.eu/\" target=\"_blank\" class=
 msgstr ""
 
 msgid "Gracias a las empresas que colaboran con la PyConES podemos ofrecer el mejor evento y experiencia posible. Somos una conferencia con un bajo coste de entrada capaz de ofrecer una experiencia de 3 días incluyendo regalos, almuerzos, comidas y meriendas. Con la ayuda de estas empresas conseguimos hacer un evento diverso e inclusivo enfocado en cuidar la comunidad de Python."
+msgstr ""
+
+msgid "Ha finalizado el periodo de solicitudes de entradas de diversidad y becas."
 msgstr ""
 
 msgid "Hay tres vías principales de entrada por autopista:"
@@ -717,12 +723,10 @@ msgstr ""
 msgid "Se hará en el Auditorio Mar de Vigo, situado en primera línea de mar, frente a las Islas Cíes. <a href=\"https://auditoriomardevigo.com/localizacion/\" target=\"blank\" class=\"text-primary hover:text-secondary\">Más información</a>."
 msgstr ""
 
-#, python-format
-msgid "Se otorgan a través de un proceso de solicitud activo hasta el 30 de junio: <a href=\"%(url)s\" target=\"_blank\" class=\"font-bold underline text-primary\"> ¡Quiero solicitar una beca! </a>"
+msgid "Se otorgan a través de un proceso de solicitud activo hasta el 30 de junio: <a href=\"#\" class=\"font-bold underline cursor-not-allowed text-primary opacity-55\" aria-disabled=\"true\"> ¡Quiero solicitar una beca! </a>"
 msgstr ""
 
-#, python-format
-msgid "Se otorgan a través de un proceso de solicitud activo hasta el 30 de junio: <a href=\"%(url)s\" target=\"_blank\" class=\"font-bold underline text-primary\"> ¡Quiero solicitar una entrada de diversidad! </a>"
+msgid "Se otorgan a través de un proceso de solicitud activo hasta el 30 de junio: <a href=\"#\" class=\"font-bold underline cursor-not-allowed text-primary opacity-55\" aria-disabled=\"true\"> ¡Quiero solicitar una entrada de diversidad! </a>"
 msgstr ""
 
 msgid "Se proporcionará asiento preferencial para los asistentes que lo soliciten. Por favor, <a href=\"mailto:contacto@2024.es.pycon.org\" class=\"text-primary hover:text-secondary\">contacta con nosotros</a> acerca de cualquier requisito de iluminación que puedas tener, y haremos nuestro mejor esfuerzo para satisfacerlo."
@@ -775,12 +779,6 @@ msgid "Siguiendo con el zen de Python, explícito mejor que implícito. Explicit
 msgstr ""
 
 msgid "Siguiente"
-msgstr ""
-
-msgid "Solicitar beca"
-msgstr ""
-
-msgid "Solicitar entrada diversidad"
 msgstr ""
 
 msgid "Soy Ponente, ¿tengo que comprar la entrada?"
