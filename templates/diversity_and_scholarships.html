@@ -11,30 +11,26 @@
             "u orientación sexual. También nos preocupamos por brindar un entorno inclusivo para aquellos que tienen "
             "responsabilidades parentales.") }}
         </p>
-        <div class="flex flex-col gap-5 my-12 md:flex-row">
-            <a href="{{ this.url_scholarship }}" target="_blank" class="py-2 px-8 font-bold text-white bg-primary">{{
-                _("Solicitar beca")
-                }}</a>
-            <a href="{{ this.url_diversity }}" target="_blank" class="py-2 px-8 font-bold text-white bg-primary">
-                {{ _("Solicitar entrada diversidad") }}</a>
+        <div class="p-4 text-lg font-bold bg-red-100 border-l-4 text-secondary border-primary">
+            {{ _("Ha finalizado el periodo de solicitudes de entradas de diversidad y becas.") }}
         </div>
         <p class="text-lg">
             {{ _("Para garantizar la diversidad en nuestra conferencia, hemos implementado diversas iniciativas, "
             "algunas de las cuales incluyen:") }}
         </p>
         <article class="text-lg">
-            <h3 class="mb-4 text-2xl font-bold">{{ _("Entradas de diversidad") }}</h3>
+            <h2 class="mb-4 text-2xl font-bold">{{ _("Entradas de diversidad") }}</h2>
             <p class="mt-5">
                 {% trans trimmed url=this.url_diversity %}
                     Se otorgan a través de un proceso de solicitud activo hasta el 30 de junio:
-                    <a href="{{ url }}" target="_blank" class="font-bold underline text-primary">
+                    <a href="#" class="font-bold underline cursor-not-allowed text-primary opacity-55" aria-disabled="true">
                         ¡Quiero solicitar una entrada de diversidad!
                     </a>
                 {% endtrans %}
             </p>
         </article>
         <article class="text-lg">
-            <h3 class="mb-4 text-2xl font-bold">{{ _("Becas") }}</h3>
+            <h2 class="mb-4 text-2xl font-bold">{{ _("Becas") }}</h2>
             <p>
                 {{ _("Con las becas, tenemos el objetivo de eliminar las barreras económicas, facilitando la "
                 "participación de aquellos que podrían enfrentar dificultades financieras para asistir al evento.")
@@ -43,14 +39,14 @@
             <p class="mt-5">
                 {% trans trimmed url=this.url_scholarship %}
                     Se otorgan a través de un proceso de solicitud activo hasta el 30 de junio:
-                    <a href="{{ url }}" target="_blank" class="font-bold underline text-primary">
+                    <a href="#" class="font-bold underline cursor-not-allowed text-primary opacity-55" aria-disabled="true">
                         ¡Quiero solicitar una beca!
                     </a>
                 {% endtrans %}
             </p>
         </article>
         <article class="text-lg">
-            <h3 class="mb-4 text-2xl font-bold">{{ _("Código de conducta") }}</h3>
+            <h2 class="mb-4 text-2xl font-bold">{{ _("Código de conducta") }}</h2>
             <p>
                 {% trans trimmed link='/codigo-conducta'|url %}
                     Contamos con un Código de Conducta para garantizar un ambiente respetuoso y seguro para todas
@@ -68,13 +64,6 @@
             "nuestro campo. Seguiremos esforzándonos por promover la diversidad y garantizar que todas las "
             "personas se sientan bienvenidas y representadas en nuestra conferencia.") }}
         </p>
-        <div class="flex flex-col gap-5 my-12 md:flex-row">
-            <a href="{{ this.url_scholarship }}" target="_blank" class="py-2 px-8 font-bold text-white bg-primary">{{
-                _("Solicitar beca")
-                }}</a>
-            <a href="{{ this.url_diversity }}" target="_blank" class="py-2 px-8 font-bold text-white bg-primary">
-                {{ _("Solicitar entrada diversidad") }}</a>
-        </div>
         <blockquote class="my-5 text-xs">
             [¹] The Python Software Foundation and the global Python community welcome and encourage participation by everyone. Our community is based on mutual respect, tolerance, and encouragement, and we are working to help each other live up to these principles. We want our community to be more diverse: whoever you are, and whatever your background, we welcome you. The PSF
         </blockquote>
