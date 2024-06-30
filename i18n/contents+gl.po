@@ -403,6 +403,9 @@ msgstr "Preguntas frecuentes"
 msgid "Favorece que más personas sepan que son bienvenidas"
 msgstr "Favorece que máis persoas saiban que son benvidas"
 
+msgid "Finalización del período de solicitud de becas"
+msgstr ""
+
 msgid "Folleto en welcome pack"
 msgstr "Folleto no paquete de benvida"
 
@@ -414,6 +417,9 @@ msgstr "Grazas a <a href=\"https://2024.djangocon.eu/\" target=\"_blank\" class=
 
 msgid "Gracias a las empresas que colaboran con la PyConES podemos ofrecer el mejor evento y experiencia posible. Somos una conferencia con un bajo coste de entrada capaz de ofrecer una experiencia de 3 días incluyendo regalos, almuerzos, comidas y meriendas. Con la ayuda de estas empresas conseguimos hacer un evento diverso e inclusivo enfocado en cuidar la comunidad de Python."
 msgstr "Grazas ás empresas que colaboran coa PyConES podemos ofrecer o mellor evento e experiencia posible. Somos unha conferencia cun baixo custo de entrada capaz de ofrecer unha experiencia de 3 días incluíndo agasallos, xantares, comidas e merendas. Coa axuda destas empresas conseguimos facer un evento diverso e inclusivo enfocado en coidar a comunidade de Python."
+
+msgid "Ha finalizado el periodo de solicitudes de entradas de diversidad y becas."
+msgstr ""
 
 msgid "Hay tres vías principales de entrada por autopista:"
 msgstr "Hai tres vías principais de entrada por autopista:"
@@ -724,13 +730,11 @@ msgstr "Acéptanse charlas con varias persoas como ponentes"
 msgid "Se hará en el Auditorio Mar de Vigo, situado en primera línea de mar, frente a las Islas Cíes. <a href=\"https://auditoriomardevigo.com/localizacion/\" target=\"blank\" class=\"text-primary hover:text-secondary\">Más información</a>."
 msgstr ""
 
-#, python-format
-msgid "Se otorgan a través de un proceso de solicitud activo hasta el 30 de junio: <a href=\"%(url)s\" target=\"_blank\" class=\"font-bold underline text-primary\"> ¡Quiero solicitar una beca! </a>"
-msgstr "Outórganse a través dun proceso de solicitude activo ata o 30 de xuño: <a href=\"%(url)s\" target=\"_blank\" class=\"font-bold underline text-primary\"> Quero solicitar unha bolsa! </a>"
+msgid "Se otorgan a través de un proceso de solicitud activo hasta el 30 de junio: <a href=\"#\" class=\"font-bold underline cursor-not-allowed text-primary opacity-55\" aria-disabled=\"true\"> ¡Quiero solicitar una beca! </a>"
+msgstr ""
 
-#, python-format
-msgid "Se otorgan a través de un proceso de solicitud activo hasta el 30 de junio: <a href=\"%(url)s\" target=\"_blank\" class=\"font-bold underline text-primary\"> ¡Quiero solicitar una entrada de diversidad! </a>"
-msgstr "Outórganse a través dun proceso de solicitude activo ata o 30 de xuño: <a href=\"%(url)s\" target=\"_blank\" class=\"font-bold underline text-primary\"> Quero solicitar unha entrada de diversidade! </a>"
+msgid "Se otorgan a través de un proceso de solicitud activo hasta el 30 de junio: <a href=\"#\" class=\"font-bold underline cursor-not-allowed text-primary opacity-55\" aria-disabled=\"true\"> ¡Quiero solicitar una entrada de diversidad! </a>"
+msgstr ""
 
 msgid "Se proporcionará asiento preferencial para los asistentes que lo soliciten. Por favor, <a href=\"mailto:contacto@2024.es.pycon.org\" class=\"text-primary hover:text-secondary\">contacta con nosotros</a> acerca de cualquier requisito de iluminación que puedas tener, y haremos nuestro mejor esfuerzo para satisfacerlo."
 msgstr ""
@@ -783,12 +787,6 @@ msgstr "Seguindo co zen de Python, explícito mellor que implícito. Explicitar 
 
 msgid "Siguiente"
 msgstr "Seguinte"
-
-msgid "Solicitar beca"
-msgstr "Solicitar unha bolsa"
-
-msgid "Solicitar entrada diversidad"
-msgstr "Solicitar unha entrada de diversidade"
 
 msgid "Soy Ponente, ¿tengo que comprar la entrada?"
 msgstr "Son ponente, teño que mercar entrada?"
@@ -979,5 +977,19 @@ msgstr ""
 #~ msgid "La convocatoria de propuestas (CFP) es hasta las 23:59 (UTC) del 31 de mayo. Mejor no dejarlo para el último minuto."
 #~ msgstr "A convocatoria de propostas (CfP) acaba o 31 de maio ás 23:59 UTC. Mellor non deixalo para última hora."
 
+#, python-format
+#~ msgid "Se otorgan a través de un proceso de solicitud activo hasta el 30 de junio: <a href=\"%(url)s\" target=\"_blank\" class=\"font-bold underline text-primary\"> ¡Quiero solicitar una beca! </a>"
+#~ msgstr "Outórganse a través dun proceso de solicitude activo ata o 30 de xuño: <a href=\"%(url)s\" target=\"_blank\" class=\"font-bold underline text-primary\"> Quero solicitar unha bolsa! </a>"
+
+#, python-format
+#~ msgid "Se otorgan a través de un proceso de solicitud activo hasta el 30 de junio: <a href=\"%(url)s\" target=\"_blank\" class=\"font-bold underline text-primary\"> ¡Quiero solicitar una entrada de diversidad! </a>"
+#~ msgstr "Outórganse a través dun proceso de solicitude activo ata o 30 de xuño: <a href=\"%(url)s\" target=\"_blank\" class=\"font-bold underline text-primary\"> Quero solicitar unha entrada de diversidade! </a>"
+
 #~ msgid "Si quieres formar parte de nuestros patrocinadores para hacer esta conferencia aún más impresionante puedes disponer de un espacio dentro del eventos."
 #~ msgstr "Se queres formar parte dos nosos patrocinadores para facer esta conferencia aínda máis impresionante, podes dispoñer dun espazo dentro do evento."
+
+#~ msgid "Solicitar beca"
+#~ msgstr "Solicitar unha bolsa"
+
+#~ msgid "Solicitar entrada diversidad"
+#~ msgstr "Solicitar unha entrada de diversidade"

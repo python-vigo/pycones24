@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pycones 24\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2024-06-09 19:00+0200\n"
+"PO-Revision-Date: 2024-07-01 00:05+0200\n"
 "Last-Translator: Adrián Chaves (Gallaecio) <adrian@chaves.io>\n"
 "Language-Team: Proxecto Trasno (proxecto@trasno.gal)\n"
 "Language: en\n"
@@ -403,6 +403,9 @@ msgstr "FAQ"
 msgid "Favorece que más personas sepan que son bienvenidas"
 msgstr "Let more people know they are welcome"
 
+msgid "Finalización del período de solicitud de becas"
+msgstr "End of the scholarship application period"
+
 msgid "Folleto en welcome pack"
 msgstr "Brochure in the welcome pack"
 
@@ -414,6 +417,9 @@ msgstr ""
 
 msgid "Gracias a las empresas que colaboran con la PyConES podemos ofrecer el mejor evento y experiencia posible. Somos una conferencia con un bajo coste de entrada capaz de ofrecer una experiencia de 3 días incluyendo regalos, almuerzos, comidas y meriendas. Con la ayuda de estas empresas conseguimos hacer un evento diverso e inclusivo enfocado en cuidar la comunidad de Python."
 msgstr "Thanks to the companies that collaborate with PyConES, we can offer the best event and experience possible. We are a conference with a low entry cost capable of offering a 3-day experience including gifts, breakfasts, lunches, and snacks. With the help of these companies, we manage to make a diverse and inclusive event focused on taking care of the Python community."
+
+msgid "Ha finalizado el periodo de solicitudes de entradas de diversidad y becas."
+msgstr "The application period for diversity entries and scholarships has ended."
 
 msgid "Hay tres vías principales de entrada por autopista:"
 msgstr "There are three main entries by highway:"
@@ -724,13 +730,11 @@ msgstr "Proposals with multiple speakers may be submitted"
 msgid "Se hará en el Auditorio Mar de Vigo, situado en primera línea de mar, frente a las Islas Cíes. <a href=\"https://auditoriomardevigo.com/localizacion/\" target=\"blank\" class=\"text-primary hover:text-secondary\">Más información</a>."
 msgstr "Will take place in Auditorio Mar de Vigo, located on the oceanfront, facing Cíes Islands. <a href=\"https://auditoriomardevigo.com/localizacion/\" target=\"blank\" class=\"text-primary hover:text-secondary\">More info</a>."
 
-#, python-format
-msgid "Se otorgan a través de un proceso de solicitud activo hasta el 30 de junio: <a href=\"%(url)s\" target=\"_blank\" class=\"font-bold underline text-primary\"> ¡Quiero solicitar una beca! </a>"
-msgstr "They are awarded through an active application process until June 30th: <a href=\"%(url)s\" target=\"_blank\" class=\"font-bold underline text-primary\"> I want to apply for a grant! </a>"
+msgid "Se otorgan a través de un proceso de solicitud activo hasta el 30 de junio: <a href=\"#\" class=\"font-bold underline cursor-not-allowed text-primary opacity-55\" aria-disabled=\"true\"> ¡Quiero solicitar una beca! </a>"
+msgstr "They are awarded through an active application process until June 30th: <a href=\"#\" class=\"font-bold underline cursor-not-allowed text-primary opacity-55\" aria-disabled=\"true\"> I want to apply for a grant! </a>"
 
-#, python-format
-msgid "Se otorgan a través de un proceso de solicitud activo hasta el 30 de junio: <a href=\"%(url)s\" target=\"_blank\" class=\"font-bold underline text-primary\"> ¡Quiero solicitar una entrada de diversidad! </a>"
-msgstr "They are awarded through an active application process until June 30th: <a href=\"%(url)s\" target=\"_blank\" class=\"font-bold underline text-primary\"> I want to apply for a diversity ticket! </a>"
+msgid "Se otorgan a través de un proceso de solicitud activo hasta el 30 de junio: <a href=\"#\" class=\"font-bold underline cursor-not-allowed text-primary opacity-55\" aria-disabled=\"true\"> ¡Quiero solicitar una entrada de diversidad! </a>"
+msgstr "They are awarded through an active application process until June 30th: <a href=\"#\" class=\"font-bold underline cursor-not-allowed text-primary opacity-55\" aria-disabled=\"true\"> I want to apply for a diversity ticket! </a>"
 
 msgid "Se proporcionará asiento preferencial para los asistentes que lo soliciten. Por favor, <a href=\"mailto:contacto@2024.es.pycon.org\" class=\"text-primary hover:text-secondary\">contacta con nosotros</a> acerca de cualquier requisito de iluminación que puedas tener, y haremos nuestro mejor esfuerzo para satisfacerlo."
 msgstr ""
@@ -783,12 +787,6 @@ msgstr "Sticking with Python zen, explicit better than implicit. Explain what is
 
 msgid "Siguiente"
 msgstr "Next"
-
-msgid "Solicitar beca"
-msgstr "Apply for a grant"
-
-msgid "Solicitar entrada diversidad"
-msgstr "Apply for a diversity ticket"
 
 msgid "Soy Ponente, ¿tengo que comprar la entrada?"
 msgstr "I am a speaker, do I have to buy a ticket?"
@@ -978,3 +976,17 @@ msgstr "Did you see how cool last year’s videos turned out? Now image your log
 
 #~ msgid "La convocatoria de propuestas (CFP) es hasta las 23:59 (UTC) del 31 de mayo. Mejor no dejarlo para el último minuto."
 #~ msgstr "The call for papers (CfP) closes at 23:59 UTC on May 31th. Do not leave it for the very last minute!"
+
+#, python-format
+#~ msgid "Se otorgan a través de un proceso de solicitud activo hasta el 30 de junio: <a href=\"%(url)s\" target=\"_blank\" class=\"font-bold underline text-primary\"> ¡Quiero solicitar una beca! </a>"
+#~ msgstr "They are awarded through an active application process until June 30th: <a href=\"%(url)s\" target=\"_blank\" class=\"font-bold underline text-primary\"> I want to apply for a grant! </a>"
+
+#, python-format
+#~ msgid "Se otorgan a través de un proceso de solicitud activo hasta el 30 de junio: <a href=\"%(url)s\" target=\"_blank\" class=\"font-bold underline text-primary\"> ¡Quiero solicitar una entrada de diversidad! </a>"
+#~ msgstr "They are awarded through an active application process until June 30th: <a href=\"%(url)s\" target=\"_blank\" class=\"font-bold underline text-primary\"> I want to apply for a diversity ticket! </a>"
+
+#~ msgid "Solicitar beca"
+#~ msgstr "Apply for a grant"
+
+#~ msgid "Solicitar entrada diversidad"
+#~ msgstr "Apply for a diversity ticket"
