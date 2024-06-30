@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pycones 24\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2024-06-09 19:00+0200\n"
+"PO-Revision-Date: 2024-07-01 00:05+0200\n"
 "Last-Translator: Adrián Chaves (Gallaecio) <adrian@chaves.io>\n"
 "Language-Team: Proxecto Trasno (proxecto@trasno.gal)\n"
 "Language: en\n"
@@ -404,7 +404,7 @@ msgid "Favorece que más personas sepan que son bienvenidas"
 msgstr "Let more people know they are welcome"
 
 msgid "Finalización del período de solicitud de becas"
-msgstr ""
+msgstr "End of the scholarship application period"
 
 msgid "Folleto en welcome pack"
 msgstr "Brochure in the welcome pack"
@@ -419,7 +419,7 @@ msgid "Gracias a las empresas que colaboran con la PyConES podemos ofrecer el me
 msgstr "Thanks to the companies that collaborate with PyConES, we can offer the best event and experience possible. We are a conference with a low entry cost capable of offering a 3-day experience including gifts, breakfasts, lunches, and snacks. With the help of these companies, we manage to make a diverse and inclusive event focused on taking care of the Python community."
 
 msgid "Ha finalizado el periodo de solicitudes de entradas de diversidad y becas."
-msgstr ""
+msgstr "The application period for diversity entries and scholarships has ended."
 
 msgid "Hay tres vías principales de entrada por autopista:"
 msgstr "There are three main entries by highway:"
@@ -731,10 +731,10 @@ msgid "Se hará en el Auditorio Mar de Vigo, situado en primera línea de mar, f
 msgstr "Will take place in Auditorio Mar de Vigo, located on the oceanfront, facing Cíes Islands. <a href=\"https://auditoriomardevigo.com/localizacion/\" target=\"blank\" class=\"text-primary hover:text-secondary\">More info</a>."
 
 msgid "Se otorgan a través de un proceso de solicitud activo hasta el 30 de junio: <a href=\"#\" class=\"font-bold underline cursor-not-allowed text-primary opacity-55\" aria-disabled=\"true\"> ¡Quiero solicitar una beca! </a>"
-msgstr ""
+msgstr "They are awarded through an active application process until June 30th: <a href=\"#\" class=\"font-bold underline cursor-not-allowed text-primary opacity-55\" aria-disabled=\"true\"> I want to apply for a grant! </a>"
 
 msgid "Se otorgan a través de un proceso de solicitud activo hasta el 30 de junio: <a href=\"#\" class=\"font-bold underline cursor-not-allowed text-primary opacity-55\" aria-disabled=\"true\"> ¡Quiero solicitar una entrada de diversidad! </a>"
-msgstr ""
+msgstr "They are awarded through an active application process until June 30th: <a href=\"#\" class=\"font-bold underline cursor-not-allowed text-primary opacity-55\" aria-disabled=\"true\"> I want to apply for a diversity ticket! </a>"
 
 msgid "Se proporcionará asiento preferencial para los asistentes que lo soliciten. Por favor, <a href=\"mailto:contacto@2024.es.pycon.org\" class=\"text-primary hover:text-secondary\">contacta con nosotros</a> acerca de cualquier requisito de iluminación que puedas tener, y haremos nuestro mejor esfuerzo para satisfacerlo."
 msgstr ""
