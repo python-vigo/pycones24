@@ -45,20 +45,28 @@
     <a href="{{ '/menu'|url }}" data-hx-push-url="false" aria-label="{{ _("Abrir/cerrar menú") }}" class="xl:hidden">
       {{ load_icon('icons/ham-icon.html') }}
     </a>
-    <div>
-      <form
-        class="mx-auto"
-      >
-      <select
-        aria-label="{{ _("Selecciona idioma") }}"
-        class="text-white *:text-black bg-transparent *:dark:text-white *:dark:bg-gray-700 text-lg"
-        onchange="location = this.options[this.selectedIndex].value;"
-      >
-        <option value="{{ '.'|url(alt='es') }}" {% if this.alt == 'es' %}selected{% endif %}>ES</option>
-        <option value="{{ '.'|url(alt='en') }}" {% if this.alt == 'en' %}selected{% endif %}>EN</option>
-        <option value="{{ '.'|url(alt='gl') }}" {% if this.alt == 'gl' %}selected{% endif %}>GAL</option>
-      </select>
-      </form>
+    <div class="hidden relative xl:block group/information max-w-fit">
+      <button type="button" class="inline-flex gap-x-1 items-center text-lg font-bold leading-6 text-white peer uppercase" aria-expanded="false">
+        <span>
+          {% if this.alt == 'gl' %}
+            GAL 
+          {% else %}
+            {{this.alt}}
+          {% endif %}
+        </span>
+        {{ load_icon("icons/arrow-down.html") }}
+      </button>
+      <div class="absolute z-10 flex-col hidden w-screen *:px-6 *:py-1 -translate-x-1/2 bg-white rounded-lg left-1/2 max-w-max peer-focus:flex hover:flex border-[1.5px] border-secondary">
+          <a href="{{ '.'|url(alt='es') }}" class="text-lg font-semibold text-black hover:text-white hover:bg-secondary">
+            {{ _("ES") }}
+          </a>
+          <a href="{{ '.'|url(alt='en') }}" class="text-lg font-semibold text-black hover:text-white hover:bg-secondary">
+            {{ _("EN") }}
+          </a>
+          <a href="{{ '.'|url(alt='gl') }}" class="text-lg font-semibold text-black hover:text-white hover:bg-secondary">
+            {{ _("GAL") }}
+          </a>
+      </div>
     </div>
   </div>
 </nav>
