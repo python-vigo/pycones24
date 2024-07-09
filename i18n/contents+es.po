@@ -745,9 +745,6 @@ msgid ""
 "</ul>"
 msgstr ""
 
-msgid "Selecciona idioma"
-msgstr ""
-
 msgid "Sesión de contratación"
 msgstr ""
 
