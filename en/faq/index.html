@@ -94,20 +94,32 @@
     </div>
 
     </a>
-    <div>
-      <form
-        class="mx-auto"
-      >
-      <select
-        aria-label="Choose Language"
-        class="text-white *:text-black bg-transparent *:dark:text-white *:dark:bg-gray-700 text-lg"
-        onchange="location = this.options[this.selectedIndex].value;"
-      >
-        <option value="../../faq/" >ES</option>
-        <option value="./" selected>EN</option>
-        <option value="../../gal/faq/" >GAL</option>
-      </select>
-      </form>
+    <div class="relative xl:block group/information max-w-fit">
+      <button type="button" class="inline-flex gap-x-1 items-center text-lg font-bold leading-6 text-white uppercase peer" aria-expanded="false">
+        <span>
+          
+            en
+          
+        </span>
+        
+    <div class="">
+        <svg class="w-5 h-5" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
+    <path fill-rule="evenodd" d="M5.23 7.21a.75.75 0 011.06.02L10 11.168l3.71-3.938a.75.75 0 111.08 1.04l-4.25 4.5a.75.75 0 01-1.08 0l-4.25-4.5a.75.75 0 01.02-1.06z" clip-rule="evenodd" />
+  </svg>
+    </div>
+
+      </button>
+      <div class="absolute z-10 flex-col hidden w-screen *:px-6 *:py-1 -translate-x-1/2 bg-white rounded-lg left-1/2 max-w-max peer-focus:flex hover:flex border-[1.5px] border-secondary">
+          <a href="../../faq/" class="text-lg font-semibold text-black hover:text-white hover:bg-secondary">
+            ES
+          </a>
+          <a href="./" class="text-lg font-semibold text-black hover:text-white hover:bg-secondary">
+            EN
+          </a>
+          <a href="../../gal/faq/" class="text-lg font-semibold text-black hover:text-white hover:bg-secondary">
+            GAL
+          </a>
+      </div>
     </div>
   </div>
 </nav>
