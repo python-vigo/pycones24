@@ -752,9 +752,6 @@ msgid ""
 "</ul>"
 msgstr ""
 
-msgid "Selecciona idioma"
-msgstr "Choose Language"
-
 msgid "Sesión de contratación"
 msgstr "Hiring session"
 
@@ -984,6 +981,9 @@ msgstr "Did you see how cool last year’s videos turned out? Now image your log
 #, python-format
 #~ msgid "Se otorgan a través de un proceso de solicitud activo hasta el 30 de junio: <a href=\"%(url)s\" target=\"_blank\" class=\"font-bold underline text-primary\"> ¡Quiero solicitar una entrada de diversidad! </a>"
 #~ msgstr "They are awarded through an active application process until June 30th: <a href=\"%(url)s\" target=\"_blank\" class=\"font-bold underline text-primary\"> I want to apply for a diversity ticket! </a>"
+
+#~ msgid "Selecciona idioma"
+#~ msgstr "Choose Language"
 
 #~ msgid "Solicitar beca"
 #~ msgstr "Apply for a grant"
