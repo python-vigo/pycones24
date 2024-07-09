@@ -45,11 +45,11 @@
     <a href="{{ '/menu'|url }}" data-hx-push-url="false" aria-label="{{ _("Abrir/cerrar menú") }}" class="xl:hidden">
       {{ load_icon('icons/ham-icon.html') }}
     </a>
-    <div class="hidden relative xl:block group/information max-w-fit">
+    <div class="relative xl:block group/information max-w-fit">
       <button type="button" class="inline-flex gap-x-1 items-center text-lg font-bold leading-6 text-white uppercase peer" aria-expanded="false">
         <span>
           {% if this.alt == 'gl' %}
-            GAL 
+            GAL
           {% else %}
             {{this.alt}}
           {% endif %}
