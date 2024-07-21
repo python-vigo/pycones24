@@ -1,0 +1,3 @@
+_model: job_offers
+---
+_template: job_offers/job_offers.html
