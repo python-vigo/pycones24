@@ -207,6 +207,9 @@ msgstr "Consideracións adicionais"
 msgid "Construye un clima de confianza, donde si alguien quiere reportar un incidente, sabrá que no empezaremos por cuestionarle (victim blaming)."
 msgstr "Constrúe un clima de confianza, onde se alguén quere reportar un incidente, saberá que non empezaremos por cuestionarlle (victim blaming)."
 
+msgid "Contactar"
+msgstr ""
+
 #, python-format
 msgid "Contamos con un Código de Conducta para garantizar un ambiente respetuoso y seguro para todas las personas asistentes. Pueden consultarlo en el siguiente enlace: <a href=\"%(link)s\" class=\"font-bold underline text-primary\"> Código de Conducta </a>."
 msgstr "Contamos cun código de conduta para garantir un ambiente respectuoso e seguro para todas as persoas asistentes. Podes consultalo na seguinte ligazón: <a href=\"%(link)s\" class=\"font-bold underline text-primary\"> Código de Conduta </a>."
@@ -478,6 +481,9 @@ msgstr "As reservas poden facerse no seguinte enlace <a href=\"https://zenithote
 msgid "Las reservas se pueden hacer por teléfono (+34 986 43 48 88) o en la <a href=\"https://www.hoteljunquera.com/habitaciones.html\" target=\"blank\" class=\"underline text-primary hover:text-secondary\">web</a> del hotel con el siguiente código promocional <strong>PYCONESVIGO2024</strong>."
 msgstr ""
 
+msgid "Las siguientes ofertas han sido enviadas por los patrocinadores de la conferencia:"
+msgstr ""
+
 msgid "Llegar a Vigo es muy fácil: desde Madrid, A Coruña, Santiago de Compostela o el norte de Portugal se puede llegar directamente al centro de la ciudad. Vigo está comunicada por carretera y tren con Madrid y otras urbes como Bilbao. Además, el aeropuerto de Peinador está conectado con las ciudades españolas más importantes y con varios destinos internacionales."
 msgstr "Chegar a Vigo é moi doado: desde Madrid, A Coruña, Santiago de Compostela ou o norte de Portugal pode chegar directamente ao centro da cidade. Vigo está comunicada por carretera e tren con Madrid e outras urbes como Bilbao. Ademais, o aeroporto de Peinador está conectado coas cidades españolas máis importantes e con varios destinos internacionais."
 
@@ -522,6 +528,9 @@ msgstr "Marzo"
 
 msgid "Mayo"
 msgstr "Maio"
+
+msgid "Muy pronto, podrás encontrar en esta sección una amplia variedad de ofertas de trabajo."
+msgstr ""
 
 msgid "Más información"
 msgstr "Máis información"
@@ -862,6 +871,9 @@ msgstr "Usar unha linguaxe inclusiva e que dea cabida a unha audiencia diversa"
 
 msgid "Valoramos mucho las propuestas:"
 msgstr "Valoramos moito as propostas:"
+
+msgid "Ver detalles"
+msgstr ""
 
 msgid "Viaje"
 msgstr ""
