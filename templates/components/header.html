@@ -9,16 +9,19 @@
   </a>
 
   <div class="flex gap-x-10 items-center">
-    <a href="{{ '/cfp/'|url }}" class="hidden text-lg font-bold text-white xl:block hover:underline">
+    <a href="{{ '/cfp/'|url }}" class="hidden text-lg font-bold text-white 2xl:block hover:underline">
       {{ _("C4P") }}
     </a>
-    <a href="{{ '/patrocinios/'|url }}" class="hidden text-lg font-bold text-white xl:block hover:underline">
+    <a href="{{ '/patrocinios/'|url }}" class="hidden text-lg font-bold text-white 2xl:block hover:underline">
       {{ _("Patrocinios") }}
     </a>
-    <a href="{{ '/diversidad-becas/'|url }}" class="hidden text-lg font-bold text-white xl:block hover:underline">
+    <a href="{{ '/diversidad-becas/'|url }}" class="hidden text-lg font-bold text-white 2xl:block hover:underline">
       {{ _("Diversidad y becas") }}
     </a>
-    <div class="hidden relative xl:block group/information max-w-fit">
+    <li class="hidden text-lg font-bold text-white 2xl:block hover:underline">
+      <a href="{{ '/ofertas-trabajo/'|url }}">{{ _("Ofertas de trabajo") }}</a>
+    </li>
+    <div class="hidden relative 2xl:block group/information max-w-fit">
       <button type="button" class="inline-flex gap-x-1 items-center text-lg font-bold leading-6 text-white peer" aria-expanded="false">
         <span>{{ _("Información") }}</span>
         {{ load_icon("icons/arrow-down.html") }}
@@ -38,12 +41,12 @@
           </a>
       </div>
     </div>
+    <a href="{{ '/menu'|url }}" data-hx-push-url="false" aria-label="{{ _("Abrir/cerrar menú") }}" class="2xl:hidden">
+      {{ load_icon('icons/ham-icon.html') }}
+    </a>
     <a href="https://pretix.eu/python-spain/"
       class="hidden py-1 px-6 ml-auto text-lg font-bold text-center text-white bg-transparent rounded border-2 md:block hover:bg-white bg-primary hover:text-primary">
       {{ _("Entradas") }}
-    </a>
-    <a href="{{ '/menu'|url }}" data-hx-push-url="false" aria-label="{{ _("Abrir/cerrar menú") }}" class="xl:hidden">
-      {{ load_icon('icons/ham-icon.html') }}
     </a>
     <div class="relative xl:block group/information max-w-fit">
       <button type="button" class="inline-flex gap-x-1 items-center text-lg font-bold leading-6 text-white uppercase peer" aria-expanded="false">
