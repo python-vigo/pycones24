@@ -461,6 +461,9 @@ msgstr ""
 msgid "La convocatoria de propuestas (CFP) es hasta las 23:59 (UTC) del 9 de junio. Mejor no dejarlo para el último minuto."
 msgstr ""
 
+msgid "El periodo de la convocatoria de propuestas ha finalizado."
+msgstr ""
+
 msgid "La forma más habitual de viajar a Vigo es en coche. Las buenas conexiones de la ciudad facilitan el acceso a Vigo por autopista desde Madrid, Santiago, A Coruña y Oporto."
 msgstr ""
 

@@ -463,6 +463,9 @@ msgstr "The conference will be mainly in Spanish, and depending on how many talk
 msgid "La convocatoria de propuestas (CFP) es hasta las 23:59 (UTC) del 9 de junio. Mejor no dejarlo para el último minuto."
 msgstr "The call for papers (CfP) closes at 23:59 UTC on June 9th. Do not leave it for the very last minute!"
 
+msgid "El periodo de la convocatoria de propuestas ha finalizado."
+msgstr "The call for papers has closed"
+
 msgid "La forma más habitual de viajar a Vigo es en coche. Las buenas conexiones de la ciudad facilitan el acceso a Vigo por autopista desde Madrid, Santiago, A Coruña y Oporto."
 msgstr "The most common way to get to Vigo is by car. Well connected, you can get to Vigo by highway from Madrid, Santiago, A Coruña and Porto."
 
