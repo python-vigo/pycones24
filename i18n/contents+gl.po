@@ -463,6 +463,9 @@ msgstr "A conferencia será principalmente en castelán, e dependendo das charla
 msgid "La convocatoria de propuestas (CFP) es hasta las 23:59 (UTC) del 9 de junio. Mejor no dejarlo para el último minuto."
 msgstr "A convocatoria de propostas (CfP) acaba o 9 de Xuño ás 23:59 UTC. Mellor non deixalo para última hora."
 
+msgid "El periodo de la convocatoria de propuestas ha finalizado."
+msgstr "O período para a convocatoria de propostas xa acabou"
+
 msgid "La forma más habitual de viajar a Vigo es en coche. Las buenas conexiones de la ciudad facilitan el acceso a Vigo por autopista desde Madrid, Santiago, A Coruña y Oporto."
 msgstr "A forma máis habitual de viaxar a Vigo é en coche. As boas conexións da cidade facilitan o acceso a Vigo por autopista desde Madrid, Santiago, A Coruña e Porto."
 
