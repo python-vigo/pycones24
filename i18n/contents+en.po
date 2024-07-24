@@ -100,7 +100,7 @@ msgid "Agradecimiento en vivo"
 msgstr "Thanks live"
 
 msgid "Al enviar este formulario autorizas a la Asociación Python España (CIF G86766821) a que utilice los datos aquí facilitados con carácter interno durante la organización y desarrollo del evento PyConES 2024. Los datos serán tratados por la Asociación Python España con la máxima confidencialidad, de acuerdo con Reglamento (UE) 2016/679 del Parlamento Europeo y del Consejo, de 27 de abril de 2016, relativo a la protección de las personas físicas en lo que respecta al tratamiento de datos personales y a la libre circulación de estos datos, y siguiendo las Recomendaciones e Instrucciones emitidas por la Agencia Española de Protección de Datos (A.E.P.D.). Para ejercer tus derechos ARCO escribe a contacto@es.python.org."
-msgstr ""
+msgstr "I authorize the Asociación Python España (VAT G86766821) to use the data provided here for internal purposes during the organization and development of the PyConES 2024 event. The data will be treated by the Asociación Python España with the utmost confidentiality, in accordance with Regulation (EU) 2016/679 of the European Parliament and of the Council, of April 27, 2016, regarding the protection of individuals with regard to the processing of personal data and the free movement of such data, and following the Recommendations and Instructions issued by the Spanish Data Protection Agency (A.E.P.D.). To exercise your ARCO rights, please write to contacto@es.python.org."
 
 msgid "Al participar en la comunidad de Python España, te comprometes a fomentar una experiencia libre de acoso para todo el mundo, independientemente de la edad, dimensión corporal, discapacidad visible o invisible, etnicidad, características sexuales, identidad y expresión de género, nivel de experiencia, educación, nivel socio-económico, nacionalidad, apariencia personal, raza, religión, o identidad u orientación sexual."
 msgstr "By participating in the Python Spain community, you commit to promoting a harassment-free experience for everyone, regardless of age, body size, visible or invisible disability, ethnicity, sexual characteristics, gender identity and expression, level of experience , education, socioeconomic status, national origin, personal appearance, race, religion, or sexual identity or orientation."
@@ -224,7 +224,7 @@ msgid "Convocatoría de propuestas (CFP)"
 msgstr "Call for Papers (CfP)"
 
 msgid "Correo electrónico"
-msgstr ""
+msgstr "Email"
 
 msgid "Cronograma del evento"
 msgstr "Event timeline"
@@ -325,11 +325,14 @@ msgstr ""
 msgid "El logotipo aparecerá junto a los logos de la asociación y de la comunidad que organizan. Es posible que, en las entradas empresariales, no aparezca tu logotipo."
 msgstr "The logo will appear alongside the logos of the association and the organizing community. It is possible that your logo will not appear on the business tickets."
 
+msgid "El periodo de la convocatoria de propuestas ha finalizado."
+msgstr "The call for papers has closed"
+
 msgid "El uso de lenguaje o imágenes sexualizadas, y aproximaciones o atenciones sexuales de cualquier tipo"
 msgstr "The use of sexualized language or images, and sexual approaches or attention of any kind"
 
 msgid "Empresa"
-msgstr ""
+msgstr "Company"
 
 msgid "En PyConES 2024, nos comprometemos a promover la diversidad e inclusión en nuestra conferencia. Creemos firmemente en la importancia de crear un entorno inclusivo y respetuoso que fomente la participación de todas las personas, sin importar su raza, etnia, género, edad, habilidades, religión u orientación sexual. También nos preocupamos por brindar un entorno inclusivo para aquellos que tienen responsabilidades parentales."
 msgstr "At PyConES 2024, we are committed to promoting diversity and inclusion at our conference. We firmly believe in the importance of creating an inclusive and respectful environment that encourages the participation of all individuals, regardless of their race, ethnicity, gender, age, abilities, religion, or sexual orientation. We also care about providing an inclusive environment for those with parental responsibilities."
@@ -362,7 +365,7 @@ msgid "Entradas incluídas"
 msgstr "Tickets included"
 
 msgid "Enviar"
-msgstr ""
+msgstr "Submit"
 
 msgid "Envíanos un correo electrónico"
 msgstr "Email us"
@@ -434,7 +437,7 @@ msgid "Hoy en día es una ciudad industrial pero también con mucha vida, con un
 msgstr "Nowadays it is a industrial city, but also full of life, with a great night life and lots of leisure activities."
 
 msgid "Información"
-msgstr ""
+msgstr "Information"
 
 msgid "Inicio"
 msgstr "Home"
@@ -463,9 +466,6 @@ msgstr "The conference will be mainly in Spanish, and depending on how many talk
 msgid "La convocatoria de propuestas (CFP) es hasta las 23:59 (UTC) del 9 de junio. Mejor no dejarlo para el último minuto."
 msgstr "The call for papers (CfP) closes at 23:59 UTC on June 9th. Do not leave it for the very last minute!"
 
-msgid "El periodo de la convocatoria de propuestas ha finalizado."
-msgstr "The call for papers has closed"
-
 msgid "La forma más habitual de viajar a Vigo es en coche. Las buenas conexiones de la ciudad facilitan el acceso a Vigo por autopista desde Madrid, Santiago, A Coruña y Oporto."
 msgstr "The most common way to get to Vigo is by car. Well connected, you can get to Vigo by highway from Madrid, Santiago, A Coruña and Porto."
 
@@ -478,11 +478,17 @@ msgstr "The measurements of the stand are indicative."
 msgid "Las ponencias principales, apertura y cierre del evento serán en Español, de todas formas, todas las personas de la organización hablan Español e Inglés, en caso de que personas que asistan necesiten información en uno de los dos idiomas."
 msgstr "The mail talks, that open and close the event, will be given in Spanish. However, everyone in the organization speaks both Spanish and English, should anyone need information in either language."
 
+msgid "Hotel Zenit"
+msgid "Zenit Hotel"
+
 msgid "Las reservas pueden hacerse en el siguiente enlace <a href=\"https://zenithoteles.com/es/acceso-clientes/#login_colectivos\" target=\"blank\" class=\"underline text-primary hover:text-secondary\">Acceso Zenit</a> con el siguiente código <strong>PYCONESVIGO2024</strong> o directamente en el siguiente botón:"
 msgstr "Reservations can be made at the following link <a href=\"https://zenithoteles.com/es/acceso-clientes/#login_colectivos\" target=\"blank\" class=\"underline text-primary hover:text-secondary\">Zenit access</a> with the following code <strong>PYCONESVIGO2024</strong> or directly at the following button:"
 
+msgid "Hotel Junquera"
+msgid "Junquera Hotel"
+
 msgid "Las reservas se pueden hacer por teléfono (+34 986 43 48 88) o en la <a href=\"https://www.hoteljunquera.com/habitaciones.html\" target=\"blank\" class=\"underline text-primary hover:text-secondary\">web</a> del hotel con el siguiente código promocional <strong>PYCONESVIGO2024</strong>."
-msgstr ""
+msgstr "Reservations can be made by phone (+34 986 43 48 88) or at the hotel's <a href=\"https://www.hoteljunquera.com/habitaciones.html\" target=\"blank\" class=\"underline text-primary hover:text-secondary\">web</a> with the following code <strong>PYCONESVIGO2024</strong>."
 
 msgid "Las siguientes ofertas han sido enviadas por los patrocinadores de la conferencia:"
 msgstr ""
@@ -521,7 +527,7 @@ msgid "Luego de seleccionar un plan de patrocinio, podrás elegir adicionalmente
 msgstr "Once you have chosen a sponsorship plan, you may choose additional, independent items to support the conference, such as «Interviews» or «Lactation Room». That means you will be supporting the conference paying your chosen plan, plus those independent items (with limited slots) for specific activities."
 
 msgid "Lugar"
-msgstr ""
+msgstr "Location"
 
 msgid "Machine learning e inteligencia artificial"
 msgstr "Machine learning and artificial intelligence"
@@ -552,7 +558,7 @@ msgid "Nivel"
 msgstr "Level"
 
 msgid "Nivel de patrocinio"
-msgstr ""
+msgstr "Sponsorship level"
 
 msgid "Niveles"
 msgstr "Levels"
@@ -561,7 +567,7 @@ msgid "No olvides seguirnos en twitter <a href=\"https://twitter.com/PyConES\" c
 msgstr "Do not forget to follow us in Twitter <a href=\"https://twitter.com/PyConES\" class=\"font-bold text-primary hover:text-secondary\">@PyConES</a> to get the latest updates!"
 
 msgid "Nombre de contacto"
-msgstr ""
+msgstr "Contact name"
 
 msgid "Nombre de sala"
 msgstr "Room sponsorship"
@@ -582,7 +588,7 @@ msgid "Nuestros estándares"
 msgstr "Our standards"
 
 msgid "Número de teléfono"
-msgstr ""
+msgstr "Telephone number"
 
 msgid "O simplemente Sobre tu experiencia de Python y el impacto en tu vida"
 msgstr "Or just about your experience using Python and its impact in your life"
@@ -665,7 +671,7 @@ msgid "Precio"
 msgstr "Price"
 
 msgid "Preguntas / comentarios"
-msgstr ""
+msgstr "Questions / Comments"
 
 msgid "Preguntas Frecuentes"
 msgstr "Frequently Asked Questions"
@@ -855,7 +861,7 @@ msgid "Todas las personas que sean ponentes, tienen asegurada su participación 
 msgstr "Every talker is granted entry to the conference, i.e. they do not need a ticket. If you are thinking of submitting a talk, you are encouraged to get a ticket, regardless of whether or not your submission is accepted."
 
 msgid "Tu patrocinio"
-msgstr ""
+msgstr "Your sponsorship"
 
 msgid "Ubicación: Sala Multipropósito - 3er piso:"
 msgstr ""
