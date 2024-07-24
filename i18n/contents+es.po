@@ -323,6 +323,9 @@ msgstr ""
 msgid "El logotipo aparecerá junto a los logos de la asociación y de la comunidad que organizan. Es posible que, en las entradas empresariales, no aparezca tu logotipo."
 msgstr ""
 
+msgid "El periodo de la convocatoria de propuestas ha finalizado."
+msgstr ""
+
 msgid "El uso de lenguaje o imágenes sexualizadas, y aproximaciones o atenciones sexuales de cualquier tipo"
 msgstr ""
 
@@ -461,9 +464,6 @@ msgstr ""
 msgid "La convocatoria de propuestas (CFP) es hasta las 23:59 (UTC) del 9 de junio. Mejor no dejarlo para el último minuto."
 msgstr ""
 
-msgid "El periodo de la convocatoria de propuestas ha finalizado."
-msgstr ""
-
 msgid "La forma más habitual de viajar a Vigo es en coche. Las buenas conexiones de la ciudad facilitan el acceso a Vigo por autopista desde Madrid, Santiago, A Coruña y Oporto."
 msgstr ""
 
@@ -476,7 +476,13 @@ msgstr ""
 msgid "Las ponencias principales, apertura y cierre del evento serán en Español, de todas formas, todas las personas de la organización hablan Español e Inglés, en caso de que personas que asistan necesiten información en uno de los dos idiomas."
 msgstr ""
 
+msgid "Hotel Zenit"
+msgstr ""
+
 msgid "Las reservas pueden hacerse en el siguiente enlace <a href=\"https://zenithoteles.com/es/acceso-clientes/#login_colectivos\" target=\"blank\" class=\"underline text-primary hover:text-secondary\">Acceso Zenit</a> con el siguiente código <strong>PYCONESVIGO2024</strong> o directamente en el siguiente botón:"
+msgstr ""
+
+msgid "Hotel Junquera"
 msgstr ""
 
 msgid "Las reservas se pueden hacer por teléfono (+34 986 43 48 88) o en la <a href=\"https://www.hoteljunquera.com/habitaciones.html\" target=\"blank\" class=\"underline text-primary hover:text-secondary\">web</a> del hotel con el siguiente código promocional <strong>PYCONESVIGO2024</strong>."

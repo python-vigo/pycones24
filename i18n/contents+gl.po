@@ -100,7 +100,7 @@ msgid "Agradecimiento en vivo"
 msgstr "Agradecemento en directo"
 
 msgid "Al enviar este formulario autorizas a la Asociación Python España (CIF G86766821) a que utilice los datos aquí facilitados con carácter interno durante la organización y desarrollo del evento PyConES 2024. Los datos serán tratados por la Asociación Python España con la máxima confidencialidad, de acuerdo con Reglamento (UE) 2016/679 del Parlamento Europeo y del Consejo, de 27 de abril de 2016, relativo a la protección de las personas físicas en lo que respecta al tratamiento de datos personales y a la libre circulación de estos datos, y siguiendo las Recomendaciones e Instrucciones emitidas por la Agencia Española de Protección de Datos (A.E.P.D.). Para ejercer tus derechos ARCO escribe a contacto@es.python.org."
-msgstr ""
+msgstr "Ao enviar este formulario autorizas á Asociación Python España (CIF G86766821) a empregar os datos aquí entregados internamente durante a organización e o desenvolvemento do evento PyConES 2024. Os datos serán tratados pola Asociación Python España coa máxima confidencialidade, de acordo co Reglamento (UE) 2016/679 do Parlamento Europeo e do Consello, de 27 de abril de 2016, relativo á protección das persoas físicas no que respecta ao tratamento de datos persoais e á libre circulación destes datos, e seguindo as Recomendacións e Instruccións emitidas pola Axencia Española de Protección de Datos (A.E.P.D.). Para exercer os teus dereitos ARCO escribe a contacto@es.python.org."
 
 msgid "Al participar en la comunidad de Python España, te comprometes a fomentar una experiencia libre de acoso para todo el mundo, independientemente de la edad, dimensión corporal, discapacidad visible o invisible, etnicidad, características sexuales, identidad y expresión de género, nivel de experiencia, educación, nivel socio-económico, nacionalidad, apariencia personal, raza, religión, o identidad u orientación sexual."
 msgstr "Ao participar na comunidade de Python España, comprométesche a fomentar unha experiencia libre de acoso para todo o mundo, independentemente da idade, dimensión corporal, discapacidade visible ou invisible, etnicidad, características sexuais, identidade e expresión de xénero, nivel de experiencia, educación, nivel socio-económico, nacionalidade, aparencia persoal, raza, relixión, ou identidade ou orientación sexual."
@@ -325,6 +325,9 @@ msgstr ""
 msgid "El logotipo aparecerá junto a los logos de la asociación y de la comunidad que organizan. Es posible que, en las entradas empresariales, no aparezca tu logotipo."
 msgstr ""
 
+msgid "El periodo de la convocatoria de propuestas ha finalizado."
+msgstr "O período para a convocatoria de propostas xa acabou"
+
 msgid "El uso de lenguaje o imágenes sexualizadas, y aproximaciones o atenciones sexuales de cualquier tipo"
 msgstr "O uso de linguaxe ou imaxes sexualizadas, e aproximacións ou atencións sexuais de calquera tipo"
 
@@ -463,9 +466,6 @@ msgstr "A conferencia será principalmente en castelán, e dependendo das charla
 msgid "La convocatoria de propuestas (CFP) es hasta las 23:59 (UTC) del 9 de junio. Mejor no dejarlo para el último minuto."
 msgstr "A convocatoria de propostas (CfP) acaba o 9 de Xuño ás 23:59 UTC. Mellor non deixalo para última hora."
 
-msgid "El periodo de la convocatoria de propuestas ha finalizado."
-msgstr "O período para a convocatoria de propostas xa acabou"
-
 msgid "La forma más habitual de viajar a Vigo es en coche. Las buenas conexiones de la ciudad facilitan el acceso a Vigo por autopista desde Madrid, Santiago, A Coruña y Oporto."
 msgstr "A forma máis habitual de viaxar a Vigo é en coche. As boas conexións da cidade facilitan o acceso a Vigo por autopista desde Madrid, Santiago, A Coruña e Porto."
 
@@ -478,11 +478,17 @@ msgstr "As medidas do posto son orientativas."
 msgid "Las ponencias principales, apertura y cierre del evento serán en Español, de todas formas, todas las personas de la organización hablan Español e Inglés, en caso de que personas que asistan necesiten información en uno de los dos idiomas."
 msgstr "As ponencias principais do evento, de apertura e de peche, serán en castelán. Porén, todas as persoas da organización falan castelán e inglés, e moitas galego, en caso de que persoas que asistan queiran información nun deses idiomas."
 
+msgid "Hotel Zenit"
+msgstr ""
+
 msgid "Las reservas pueden hacerse en el siguiente enlace <a href=\"https://zenithoteles.com/es/acceso-clientes/#login_colectivos\" target=\"blank\" class=\"underline text-primary hover:text-secondary\">Acceso Zenit</a> con el siguiente código <strong>PYCONESVIGO2024</strong> o directamente en el siguiente botón:"
 msgstr "As reservas poden facerse no seguinte enlace <a href=\"https://zenithoteles.com/es/acceso-clientes/#login_colectivos\" target=\"blank\" class=\"underline text-primary hover:text-secondary\">Acceso Zenit</a> co seguinte código <strong>PYCONESVIGO2024</strong> ou directamente no seguinte botón:"
 
-msgid "Las reservas se pueden hacer por teléfono (+34 986 43 48 88) o en la <a href=\"https://www.hoteljunquera.com/habitaciones.html\" target=\"blank\" class=\"underline text-primary hover:text-secondary\">web</a> del hotel con el siguiente código promocional <strong>PYCONESVIGO2024</strong>."
+msgid "Hotel Junquera"
 msgstr ""
+
+msgid "Las reservas se pueden hacer por teléfono (+34 986 43 48 88) o en la <a href=\"https://www.hoteljunquera.com/habitaciones.html\" target=\"blank\" class=\"underline text-primary hover:text-secondary\">web</a> del hotel con el siguiente código promocional <strong>PYCONESVIGO2024</strong>."
+msgstr "As reservas poden facerse por teléfono (+34 986 43 48 88) ou na <a href=\"https://www.hoteljunquera.com/habitaciones.html\" target=\"blank\" class=\"underline text-primary hover:text-secondary\">web</a> do hotel co seguinte código promocional <strong>PYCONESVIGO2024</strong>."
 
 msgid "Las siguientes ofertas han sido enviadas por los patrocinadores de la conferencia:"
 msgstr ""
