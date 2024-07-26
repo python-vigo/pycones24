@@ -2,14 +2,6 @@ title: Patrocino, como e cantas entradas consigo?
 ---
 _template: faq/faq_item.html
 ---
-description:
-
-Segundo o plan elixido terías as seguintes entradas:
-<ul class="mt-1 ml-8 list-disc text-secondary">
-  <li>Cíes: 6 entradas</li>
-  <li>Ons: 4 entradas</li>
-  <li>Sálvora: 2 entradas</li>
-  <li>Cortegada: 1 entrada</li>
-</ul>
+description: Segundo o plan elixido terías as seguintes entradas:<ul class="mt-1 ml-8 list-disc text-secondary"><li>Cíes: 6 entradas</li><li>Ons: 4 entradas</li><li>Sálvora: 2 entradas</li><li>Cortegada: 1 entrada</li></ul>
 ---
-secondary_description: Máis información na sección de <a href="https://2024.es.pycon.org/gal/patrocinios/" class="mt-1 text-primary hover:text-secondary">patrocinios</a>.
+secondary_description: Máis información na sección de <a href="https://2024.es.pycon.org/patrocinios/" class="mt-1 text-primary hover:text-secondary">patrocinios</a>.
