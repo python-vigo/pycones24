@@ -431,6 +431,12 @@ msgstr ""
 msgid "He comprado mi entrada y necesito una factura ¿Cómo la consigo?"
 msgstr ""
 
+msgid "Hotel Junquera"
+msgstr ""
+
+msgid "Hotel Zenit"
+msgstr ""
+
 msgid "Hoy en día es una ciudad industrial pero también con mucha vida, con una gran vida nocturna y muchas actividades de ocio."
 msgstr ""
 
@@ -476,13 +482,7 @@ msgstr ""
 msgid "Las ponencias principales, apertura y cierre del evento serán en Español, de todas formas, todas las personas de la organización hablan Español e Inglés, en caso de que personas que asistan necesiten información en uno de los dos idiomas."
 msgstr ""
 
-msgid "Hotel Zenit"
-msgstr ""
-
 msgid "Las reservas pueden hacerse en el siguiente enlace <a href=\"https://zenithoteles.com/es/acceso-clientes/#login_colectivos\" target=\"blank\" class=\"underline text-primary hover:text-secondary\">Acceso Zenit</a> con el siguiente código <strong>PYCONESVIGO2024</strong> o directamente en el siguiente botón:"
-msgstr ""
-
-msgid "Hotel Junquera"
 msgstr ""
 
 msgid "Las reservas se pueden hacer por teléfono (+34 986 43 48 88) o en la <a href=\"https://www.hoteljunquera.com/habitaciones.html\" target=\"blank\" class=\"underline text-primary hover:text-secondary\">web</a> del hotel con el siguiente código promocional <strong>PYCONESVIGO2024</strong>."
@@ -753,14 +753,7 @@ msgstr ""
 msgid "Seguridad y redes"
 msgstr ""
 
-msgid ""
-"Según el plan elegido tendrías las siguientes entradas:\n"
-"<ul class=\"mt-1 ml-8 list-disc text-secondary\">\n"
-"  <li>Cíes: 6 entradas</li>\n"
-"  <li>Ons: 4 entradas</li>\n"
-"  <li>Sálvora: 2 entradas</li>\n"
-"  <li>Cortegada: 1 entrada</li>\n"
-"</ul>"
+msgid "Según el plan elegido tendrías las siguientes entradas: <ul class=\"mt-1 ml-8 list-disc text-secondary\"><li>Cíes: 6 entradas</li><li>Ons: 4 entradas</li><li>Sálvora: 2 entradas</li><li>Cortegada: 1 entrada</li></ul>"
 msgstr ""
 
 msgid "Sesión de contratación"
