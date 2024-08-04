@@ -1,0 +1,90 @@
+{% extends "layouts/layout_detail.html" %}
+{% from "macros/load_icon.html" import load_icon %}
+{% block content %}
+<section class="gap-y-5 pb-10 mx-auto w-10/12">
+    <h1 class="my-10 text-5xl text-primary">{{ _("Organización") }}</h1>
+    <p class="mb-8 text-2xl lg:w-8/12 text-secondary">
+        {% trans trimmed %} La edición 2024 de la PyConES es posible gracias a
+        muchas personas voluntarias que provienen de comunidades como Python
+        Vigo, Python Canarias, Python España, entre otras: {% endtrans %}
+    </p>
+    <article class="grid grid-cols-1 gap-7 w-full 2xl:grid-cols-2 md:max-w-fit">
+        {% for member in this.children %}
+        <div
+            class="pb-2 pl-12 w-full rounded-br-lg border-[2px] border-primary md:w-[566px] md:h-[226px]"
+        >
+            <div class="flex flex-col gap-5 md:flex-row">
+                {% for image in member.attachments %}
+                <picture
+                    class="flex w-24 h-24 items-center border-[1px] border-[#DBDBDB] rounded-b-full"
+                >
+                    <img
+                        class="object-cover w-full rounded-b-full"
+                        src="{{ image.path|url }}"
+                        alt="{{ member.name }}"
+                    />
+                </picture>
+                {% endfor %}
+                <span
+                    {% if member.attachments %}
+                        class="pr-3 md:mt-4"
+                    {% else %}
+                        class="pr-3 mt-4"
+                    {% endif %}
+                >
+                    <p class="text-xl text-secondary">{{ member.community }}</p>
+                    <p class="text-3xl text-primary">{{ member.name }}</p>
+                </span>
+            </div>
+            <div class="flex gap-5 mt-6">
+                {% for team in member.teams %}
+                <span
+                    class="py-1 px-5 font-bold text-white rounded-full bg-secondary"
+                >
+                    {{ team }}
+                </span>
+                {% endfor %}
+            </div>
+            <div class="flex gap-4 justify-end mt-6 mr-5 md:gap-2">
+                {% if member.linkedin_link %}
+                <a
+                    href="{{ member.linkedin_link }}"
+                    target="_blank"
+                    class="border-primary border-[2px] p-2 rounded-full text-center hover:border-secondary *:hover:fill-secondary"
+                >
+                    {{ load_icon("icons/rrss-linkedin-icon.html", "w-4 fill-primary") }}
+                </a>
+                {% endif %}
+                {% if member.twitter_link %}
+                <a
+                    href="{{ member.twitter_link }}"
+                    target="_blank"
+                    class="border-primary border-[2px] p-2 rounded-full hover:border-secondary *:hover:fill-secondary"
+                >
+                    {{ load_icon("icons/rrss-twitter-icon.html", "w-4 fill-primary") }}
+                </a>
+                {% endif %}
+                {% if member.fosstodon_link %}
+                <a
+                    href="{{ member.fosstodon_link }}"
+                    target="_blank"
+                    class="border-primary border-[2px] p-2 rounded-full hover:border-secondary *:hover:fill-secondary"
+                >
+                    {{ load_icon("icons/rrss-mastodon-icon.html", "w-4 fill-primary") }}
+                </a>
+                {% endif %}
+                {% if member.github_link %}
+                <a
+                    href="{{ member.github_link }}"
+                    target="_blank"
+                    class="border-primary border-[2px] p-2 rounded-full hover:border-secondary *:hover:fill-secondary"
+                >
+                    {{ load_icon("icons/github.html", "w-4 fill-primary") }}
+                </a>
+                {% endif %}
+            </div>
+        </div>
+        {% endfor %}
+    </article>
+</section>
+{% endblock content %}
