@@ -26,9 +26,6 @@ msgstr ""
 msgid "1 vez en el fin de semana"
 msgstr ""
 
-msgid "10 lugares que ver imprescindibles"
-msgstr ""
-
 msgid "2 entradas, una por la charla patrocinada y otra por el taller patrocinado. Las entradas solo se otorgan si se imparten la charla y el taller, respectivamente."
 msgstr ""
 
@@ -86,6 +83,9 @@ msgid "Aceptar la responsabilidad y disculparse ante quienes se vean afectados p
 msgstr ""
 
 msgid "Add-ons"
+msgstr ""
+
+msgid "Adéntrate por callejuelas rodeadas de edificios históricos"
 msgstr ""
 
 msgid "Aeropuerto de Porto - Portugal"
@@ -175,13 +175,13 @@ msgstr ""
 msgid "Cierre del llamado a ponencias"
 msgstr ""
 
-msgid "Ciudad"
-msgstr ""
-
 msgid "Colaboradores"
 msgstr ""
 
 msgid "Comentarios despectivos trolling, insultantes o derogatorios, y ataques personales o políticos"
+msgstr ""
+
+msgid "Como llegar a Vigo"
 msgstr ""
 
 msgid "Comunidad, sociedad y cultura"
@@ -269,6 +269,15 @@ msgstr ""
 msgid "Descripción"
 msgstr ""
 
+msgid "Descubre Vigo: Qué hacer y ver"
+msgstr ""
+
+msgid "Descubre el centro de la ciudad con un relajado paseo de una hora"
+msgstr ""
+
+msgid "Desde el auditorío Mar de Vigo recorre el origen de Vigo en menos de 2 horas"
+msgstr ""
+
 msgid "Desde el equipo Organizador: Python Vigo, Python España y personas voluntarias de PyConES24, secundamos el manifiesto de la PSF[¹] y valoramos la diversidad en todas sus formas creyendo  firmemente que la inclusión de diferentes perspectivas enriquece nuestra comunidad y mejora nuestro campo. Seguiremos esforzándonos por promover la diversidad y garantizar que todas las personas se sientan bienvenidas y representadas en nuestra conferencia."
 msgstr ""
 
@@ -279,6 +288,9 @@ msgid "DevOps / Administración de sistemas / Scripts de automatización"
 msgstr ""
 
 msgid "Diversidad y becas"
+msgstr ""
+
+msgid "Donde comer en Vigo - Viajeros callejeros"
 msgstr ""
 
 msgid "Durante todos las paradas de café que se hagan, ¡tendremos información tuya! Habrán desde roll-ups y mensajes de agradecimiento hasta aquello en lo que tú, como empresa, quieras participar: servilletas con logotipo, vasos, etc"
@@ -470,6 +482,9 @@ msgstr ""
 msgid "La convocatoria de propuestas (CFP) es hasta las 23:59 (UTC) del 9 de junio. Mejor no dejarlo para el último minuto."
 msgstr ""
 
+msgid "La edición 2024 de la PyConES es posible gracias a muchas personas voluntarias que provienen de comunidades como Python Vigo, Python Canarias, Python España, entre otras:"
+msgstr ""
+
 msgid "La forma más habitual de viajar a Vigo es en coche. Las buenas conexiones de la ciudad facilitan el acceso a Vigo por autopista desde Madrid, Santiago, A Coruña y Oporto."
 msgstr ""
 
@@ -527,6 +542,9 @@ msgstr ""
 msgid "Lugar"
 msgstr ""
 
+msgid "Lugares que ver en Vigo"
+msgstr ""
+
 msgid "Machine learning e inteligencia artificial"
 msgstr ""
 
@@ -550,6 +568,12 @@ msgstr ""
 
 #, python-format
 msgid "Más información en: %(venue_link)s."
+msgstr ""
+
+msgid "Más información sobre estos lugares o otras recomendaciones en: <a href=\"https://www.viajeroscallejeros.com/lugares-que-ver-en-vigo\" target=\"_blank\" class=\"underline text-primary hover:text-secondary\" > Lugares que ver en Vigo - Viajeros callejeros </a> o en <a href=\"https://www.turismodevigo.org/es/vigo-en-un-dia\" target=\"_blank\" class=\"underline text-primary hover:text-secondary\" > Vigo en un día - Concello de Vigo </a>"
+msgstr ""
+
+msgid "Más información sobre estos restaurantes en:"
 msgstr ""
 
 msgid "Nivel"
@@ -600,6 +624,9 @@ msgstr ""
 msgid "Ofertas de trabajo"
 msgstr ""
 
+msgid "Organización"
+msgstr ""
+
 msgid "Organización de la Conferencia"
 msgstr ""
 
@@ -643,6 +670,9 @@ msgid "Para otros espacios o de forma alternativa, ponte en contacto con la Junt
 msgstr ""
 
 msgid "Paris"
+msgstr ""
+
+msgid "Paseo por el mirador de Vigo en menos de 2 horas"
 msgstr ""
 
 msgid "Patrocinio de becas"
@@ -693,9 +723,6 @@ msgstr ""
 msgid "Publicar información privada de otras personas, tales como direcciones físicas o de correo electrónico, sin su permiso explícito"
 msgstr ""
 
-msgid "Puede consultar algunos de ellos en los siguientes enlaces:"
-msgstr ""
-
 msgid "Python España, como asociación en torno a la que se organizan eventos de distintos tipos, quiere asegurar que todas las personas que participen en dichos eventos o comunicaciones tengan una experiencia profesional y positiva de aprendizaje, colaboración u ocio. Para ello, se espera que quien participe en la comunidad muestre respeto y cortesía hacia el resto."
 msgstr ""
 
@@ -729,6 +756,15 @@ msgstr ""
 msgid "Respetar las diferentes opiniones, puntos de vista y experiencias"
 msgstr ""
 
+msgid "Restaurantes recomendados"
+msgstr ""
+
+msgid "Ruta por Vigo de cine en 2 horas"
+msgstr ""
+
+msgid "Rutas de Vigo"
+msgstr ""
+
 msgid "Sala de lactancia"
 msgstr ""
 
@@ -750,6 +786,12 @@ msgstr ""
 msgid "Se proporcionará asiento preferencial para los asistentes que lo soliciten. Por favor, <a href=\"mailto:contacto@2024.es.pycon.org\" class=\"text-primary hover:text-secondary\">contacta con nosotros</a> acerca de cualquier requisito de iluminación que puedas tener, y haremos nuestro mejor esfuerzo para satisfacerlo."
 msgstr ""
 
+msgid "Se recomienda comprar el billete con antelación para no quedarte sin plaza en <a href=\"https://isladeons.es/\" target=\"_blank\" class=\"underline text-primary hover:text-secondary\">Compra billetes Islas de Ons</a>"
+msgstr ""
+
+msgid "Se recomienda comprar el billete con antelación para no quedarte sin plaza en <a href=\"https://lasislascies.com/\" target=\"_blank\" class=\"underline text-primary hover:text-secondary\">Compra billetes Islas Cíes</a>"
+msgstr ""
+
 msgid "Seguridad y redes"
 msgstr ""
 
@@ -759,10 +801,19 @@ msgstr ""
 msgid "Sesión de contratación"
 msgstr ""
 
+msgid "Si aparte de la PyConES, decides aprovechar para disfrutar de unos días más en Galicia, no dejes escapar la oportunidad de visitar:"
+msgstr ""
+
+msgid "Si aparte de la PyConES, decides aprovechar para disfrutar de unos días más en Galicia, no dejes escapar la oportunidad de visitar: "
+msgstr ""
+
 msgid "Si en tu caso necesitas una factura para presentarla a la entidad que está cubriendo tu asistencia al evento, generaremos tu factura cuando se realice el evento o hasta cuando se cierre el plazo para cambiar los detalles de los tickets de la conferencia. Principalmente, por la complejidad de cancelar dichos documentos en nuestra infraestructura."
 msgstr ""
 
 msgid "Si es un evento presencial, ponte en contacto directamente con las personas organizadoras del evento. Es muy probable que hayan publicando un código de conducta específico del evento con instrucciones de a quién acudir; te proporcionarán un espacio seguro para ayudarte."
+msgstr ""
+
+msgid "Si no dispones de mucho tiempo, te recomendamos los siguientes lugares por su proximidad al Auditorio Mar de Vigo:"
 msgstr ""
 
 msgid "Si prefieres un poco más de flexibilidad, no te costará encontrar un taxi en Vigo. Es una opción muy cómoda para moverse por el centro de Vigo y sus barrios. Tienen tarifas razonables y te permitirán desplazarte rápidamente."
@@ -771,10 +822,16 @@ msgstr ""
 msgid "Si quieres formar parte de nuestros patrocinadores para hacer esta conferencia aún más impresionante puedes disponer de un espacio dentro del evento."
 msgstr ""
 
+msgid "Si quieres saber que hacer o ver en Vigo, puedes consultar nuestras recomendaciones en:"
+msgstr ""
+
 msgid "Si se trata de un espacio en línea, ponte en contacto con las personas moderadoras de ese espacio."
 msgstr ""
 
 msgid "Si te estás preguntando, ¿puedo hacer esto? La respuesta es sí. Si tienes un tema que te interesa, entonces nos interesa a nosotros."
+msgstr ""
+
+msgid "Si tienes dudas de como llegar a Vigo, tienes toda la información en"
 msgstr ""
 
 msgid "Si tu taller dura más o menos tiempo no dudes en comunicarlo a la organización para tenerlo en cuenta en la configuración del programa. Esto nos dará la oportunidad de crear un planificación variada y ajustada a los tres días de conferencia."
@@ -879,13 +936,7 @@ msgstr ""
 msgid "Video promocional"
 msgstr ""
 
-msgid "Vigo"
-msgstr ""
-
 msgid "Vigo cuenta con dos estaciones de ferrocarril: URZAIZ, desde donde sale el AVE, y GUIXAR, situada en la calle Areal, ambas en pleno centro de la ciudad."
-msgstr ""
-
-msgid "Vigo en un día"
 msgstr ""
 
 msgid "Vigo es una ciudad pequeña y se puede ir andando a casi todas partes, aunque Vigo es conocida por sus cuestas (¡así que prepárate para subir y bajar!). Hoy en día, hay muchas escaleras mecánicas y ascensores que te ayudarán con eso."
