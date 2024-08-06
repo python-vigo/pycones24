@@ -1,0 +1,217 @@
+{% extends "layouts/layout_detail.html" %}
+
+{% from "macros/external_link.html" import external_link %}
+{% from "macros/link.html" import link %}
+
+{% block content %}
+  <section class="grid grid-cols-1 gap-8 pb-5 mx-auto w-10/12 max-w-5xl text-lg md:ml-48 lg:w-9/12">
+      <h1 class="mt-12 text-5xl text-primary">{{ _("Descubre Vigo: Qué hacer y ver") }}</h1>
+      <div>
+        <p>
+            {{ _("En el corazón de las Rías Baixas, Vigo es la mayor ciudad de Galicia. Originalmente un pueblo de "
+            "pescadores, ahora es conocida como la “Puerta del Atlántico”. Es una ciudad con una gran oferta cultural "
+            "y gastronómica, con una amplia variedad de restaurantes y bares donde degustar algunos de los mejores "
+            "mariscos del mundo.") }}
+        </p>
+        <p class="mt-2 mb-5">
+            {{ _("Hoy en día es una ciudad industrial pero también con mucha vida, con una gran vida "
+            "nocturna y muchas actividades de ocio.") }}
+        </p>
+      </div>
+      <p>
+        {{ _("Si tienes dudas de como llegar a Vigo, tienes toda la información en") }} <a href="{{ '/ciudad/'|url }}" class="text-primary hover:text-secondary">{{ _("Como llegar a Vigo") }}</a>
+      </p>
+      <iframe class="w-full h-96 lg:w-8/12" src="https://www.youtube.com/embed/nwW1qMn9Gvw?si=tqyJ17v11sGUufPw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+      <article id="lugares-imprescindibles">
+        <h2 class="text-4xl text-secondary">{{ _("Lugares que ver en Vigo") }}</h2>
+        <p class="mt-3">
+            {% trans trimmed %}
+                Si no dispones de mucho tiempo, te recomendamos los siguientes lugares por su proximidad al Auditorio Mar de Vigo:
+            {% endtrans %}
+        </p>
+        <ul class="flex flex-col gap-3 mt-3 ml-8 list-disc">
+            <li>
+                <div class="gap-2 items-center md:flex">
+                    {{ external_link("https://maps.app.goo.gl/94925fh5z9GJJuRC6", "Playa de Samil") }}
+                    <span class="text-sm">(1,3 km del Auditorio Mar de Vigo)</span>
+                </div>
+            </li>
+            <li>
+                <div class="gap-2 items-center md:flex">
+                    {{ external_link("https://maps.app.goo.gl/94925fh5z9GJJuRC6", "Barrio de Bouzas") }}
+                    <span class="text-sm">(1,3 km del Auditorio Mar de Vigo)</span>
+                </div>
+            </li>
+            <li>
+                <div class="gap-2 items-center md:flex">
+                    {{ external_link("https://maps.app.goo.gl/94925fh5z9GJJuRC6", "Monte O Castro") }}
+                    <span class="text-sm">(1,3 km del Auditorio Mar de Vigo)</span>
+                </div>
+            </li>
+            <li>
+                <div class="gap-2 items-center md:flex">
+                    {{ external_link("https://maps.app.goo.gl/94925fh5z9GJJuRC6", "Pazo Quiñones de León") }}
+                    <span class="text-sm">(1,3 km del Auditorio Mar de Vigo)</span>
+                </div>
+            </li>
+            <li>
+                <div class="gap-2 items-center md:flex">
+                    {{ external_link("https://maps.app.goo.gl/94925fh5z9GJJuRC6", "Porta do sol") }}
+                    <span class="text-sm">(1,3 km del Auditorio Mar de Vigo)</span>
+                </div>
+            </li>
+            <li>
+                <div class="gap-2 items-center md:flex">
+                    {{ external_link("https://maps.app.goo.gl/94925fh5z9GJJuRC6", "Plaza de la constitución") }}
+                    <span class="text-sm">(1,3 km del Auditorio Mar de Vigo)</span>
+                </div>
+            </li>
+            <li>
+                <div class="gap-2 items-center md:flex">
+                    {{ external_link("https://maps.app.goo.gl/94925fh5z9GJJuRC6", "Casco antiguo de Vigo") }}
+                    <span class="text-sm">(1,3 km del Auditorio Mar de Vigo)</span>
+                </div>
+            </li>
+            <li>
+                <div class="gap-2 items-center md:flex">
+                    {{ external_link("https://maps.app.goo.gl/94925fh5z9GJJuRC6", "Parque de la alameda") }}
+                    <span class="text-sm">(1,3 km del Auditorio Mar de Vigo)</span>
+                </div>
+            </li>
+            <li>
+                <div class="gap-2 items-center md:flex">
+                    {{ external_link("https://maps.app.goo.gl/94925fh5z9GJJuRC6", "Puerto de Vigo") }}
+                    <span class="text-sm">(1,3 km del Auditorio Mar de Vigo)</span>
+                </div>
+            </li>
+        </ul>
+        <p class="mt-4">{{ _("Si aparte de la PyConES, decides aprovechar para disfrutar de unos días más en Galicia, no dejes escapar la oportunidad de visitar: ") }}</p>
+        <ul class="flex flex-col gap-3 mt-3 ml-8 list-disc">
+            <li>
+                <div class="flex gap-2 items-center">
+                    {{ external_link("https://lasislascies.com/como-llegar-a-las-islas-cies/", "Islas Cíes") }}
+                </div>
+                <p class="text-sm">
+                    {% trans %}
+                      Se recomienda comprar el billete con antelación para no quedarte sin plaza en <a href="https://lasislascies.com/" target="_blank" class="underline text-primary hover:text-secondary">Compra billetes Islas Cíes</a>
+                    {% endtrans %}
+                </p>
+            </li>
+            <li>
+                <div class="flex gap-2 items-center">
+                    {{ external_link("https://isladeons.es/como-llegar-a-ons/", "Islas de Ons") }}
+                </div>
+                <p class="text-sm">
+                    {% trans %}
+                      Se recomienda comprar el billete con antelación para no quedarte sin plaza en <a href="https://isladeons.es/" target="_blank" class="underline text-primary hover:text-secondary">Compra billetes Islas de Ons</a>
+                    {% endtrans %}
+                </p>
+            </li>
+            <li>
+                <div class="flex gap-2 items-center">
+                    {{ external_link("https://www.piratasdenabia.com/isla-de-san-simon/", "Islas de San Simón") }}
+                </div>
+            </li>
+        </ul>
+        <p class="mt-3">
+            {% trans trimmed %}
+              Más información sobre estos lugares o otras recomendaciones en:
+              <a
+                href="https://www.viajeroscallejeros.com/lugares-que-ver-en-vigo"
+                target="_blank"
+                class="underline text-primary hover:text-secondary"
+              >
+                Lugares que ver en Vigo - Viajeros callejeros
+              </a>
+              o en
+              <a
+                href="https://www.turismodevigo.org/es/vigo-en-un-dia"
+                target="_blank"
+                class="underline text-primary hover:text-secondary"
+              >
+                Vigo en un día - Concello de Vigo
+              </a>
+            {% endtrans %}
+        </p>
+      </article>
+      <article id="restaurantes-recomendados">
+        <h2 class="text-4xl text-secondary">{{ _("Restaurantes recomendados") }}</h2>
+        <ul class="flex flex-col gap-3 mt-3 ml-8 list-disc">
+            <li>
+                <div class="gap-2 items-center md:flex">
+                    {{ external_link("https://maps.app.goo.gl/94925fh5z9GJJuRC6", "Taberna A Pedra") }}
+                    <span class="text-sm">(1,3 km del Auditorio Mar de Vigo)</span>
+                </div>
+            </li>
+            <li>
+                <div class="gap-2 items-center md:flex">
+                    {{ external_link("https://maps.app.goo.gl/Rirc8sWhcSNedytz6", "Casa Vella") }}
+                    <span class="text-sm">(1,5 km del Auditorio Mar de Vigo)</span>
+                </div>
+            </li>
+            <li>
+                <div class="gap-2 items-center md:flex">
+                    {{ external_link("https://maps.app.goo.gl/gBc2itP3mKrsgPrw5", "O Portón") }}
+                    <span class="text-sm">(1,5 km del Auditorio Mar de Vigo)</span>
+                </div>
+            </li>
+            <li>
+                <div class="gap-2 items-center md:flex">
+                    {{ external_link("https://maps.app.goo.gl/GfX3YkWVd9fFEQ5v7", "Maruja Limón") }}
+                    <span class="text-sm">(1,5 km del Auditorio Mar de Vigo)</span>
+                </div>
+            </li>
+            <li>
+                <div class="gap-2 items-center md:flex">
+                    {{ external_link("https://maps.app.goo.gl/w8F7vkEzyZoigLr26", "Tapas Areal") }}
+                    <span class="text-sm">(2,3 km del Auditorio Mar de Vigo)</span>
+                </div>
+            </li>
+            <li>
+                <div class="gap-2 items-center md:flex">
+                    {{ external_link("https://maps.app.goo.gl/KETsjBhhPaC6QXrX7", "Detapaencepa") }}
+                    <span class="text-sm">(2,9 km del Auditorio Mar de Vigo)</span>
+                </div>
+            </li>
+            <li>
+                <div class="gap-2 items-center md:flex">
+                    {{ external_link("https://maps.app.goo.gl/VXKS5vVGQD9uY9ER8", "The Othilio Bar") }}
+                    <span class="text-sm">(2,7 km del Auditorio Mar de Vigo)</span>
+                </div>
+            </li>
+            <li>
+                <div class="gap-2 items-center md:flex">
+                    {{ external_link("https://maps.app.goo.gl/TXayCveAH9Ueswub6", "Follas Novas") }}
+                    <span class="text-sm">(2,7 km del Auditorio Mar de Vigo)</span>
+                </div>
+            </li>
+            <li>
+                <div class="gap-2 items-center md:flex">
+                    {{ external_link("https://maps.app.goo.gl/8iX9BKHH11bJgU6YA", "Casa Marco") }}
+                    <span class="text-sm">(3,7 km del Auditorio Mar de Vigo)</span>
+                </div>
+            </li>
+            <li>
+                <div class="gap-2 items-center md:flex">
+                    {{ external_link("https://maps.app.goo.gl/pSyaGBdLC3HhB6CR8", "La Hacienda de Machado") }}
+                    <span class="text-sm">(5,4 km del Auditorio Mar de Vigo)</span>
+                </div>
+            </li>
+        </ul>
+        <p class="mt-3">
+            {{ _("Más información sobre estos restaurantes en:" )}}
+            {{ link("https://www.viajeroscallejeros.com/donde-comer-en-vigo/", _("Donde comer en Vigo - Viajeros callejeros"))}}
+        </p>
+      </article>
+      <article id="rutas-vigo">
+        <h2 class="text-4xl text-secondary">{{ _("Rutas de Vigo") }}</h2>
+        <ul class="flex flex-col gap-3 mt-3 ml-8 list-disc">
+            <li>{{ link("https://www.turismodevigo.org/es/el-puerto-en-100-minutos", _("Desde el auditorío Mar de Vigo recorre el origen de Vigo en menos de 2 horas"))}}</li>
+            <li>{{ link("https://www.turismodevigo.org/es/vigo-en-60-minutos", _("Descubre el centro de la ciudad con un relajado paseo de una hora"))}}</li>
+            <li>{{ link("https://www.turismodevigo.org/es/monte-de-o-castro-en-100-minutos", _("Paseo por el mirador de Vigo en menos de 2 horas"))}}</li>
+            <li>{{ link("https://www.turismodevigo.org/es/vigo-antiguo", _("Adéntrate por callejuelas rodeadas de edificios históricos"))}}</li>
+            <li>{{ link("https://hoxe.vigo.org/conecenos/rutas_cine_literatura.php?lang=gal&tipo=5&idruta=194", _("Ruta por Vigo de cine en 2 horas")) }}</li>
+        </ul>
+      </article>
+  </section>
+{% endblock content %}

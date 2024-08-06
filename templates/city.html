@@ -4,36 +4,13 @@
 
 {% block content %}
 <section class="grid grid-cols-1 gap-8 pb-5 mx-auto w-10/12 text-lg">
-    <h1 class="my-12 mb-5 text-5xl text-primary">{{ _("Vigo") }}</h1>
+    <h1 class="my-12 mb-5 text-5xl text-primary">{{ _("Cómo llegar a Vigo") }}</h1>
     <div class="w-full lg:w-9/12">
         <p>
-            {{ _("En el corazón de las Rías Baixas, Vigo es la mayor ciudad de Galicia. Originalmente un pueblo de "
-            "pescadores, ahora es conocida como la “Puerta del Atlántico”. Es una ciudad con una gran oferta cultural "
-            "y gastronómica, con una amplia variedad de restaurantes y bares donde degustar algunos de los mejores "
-            "mariscos del mundo.") }}
+            {{ _("Si quieres saber que hacer o ver en Vigo, puedes consultar nuestras recomendaciones en:") }} <a href="{{ '/vigo/'|url }}" class="text-primary hover:text-secondary">{{ _("Descubre Vigo: Qué hacer y ver") }}</a>
         </p>
-        <p class="my-5">
-            {{ _("Hoy en día es una ciudad industrial pero también con mucha vida, con una gran vida "
-            "nocturna y muchas actividades de ocio.") }}
-        </p>
-        <iframe class="w-full h-96 lg:w-11/12" src="https://www.youtube.com/embed/yv0QRtUnfHE?si=jdUsevb1zLRa0dfY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-        <p>{{ _("Puede consultar algunos de ellos en los siguientes enlaces:") }}</p>
-        <ul class="mt-3 ml-8 list-disc">
-            <li>
-                {{ link(
-                "https://www.turismodevigo.org/es/vigo-en-un-dia",
-                _("Vigo en un día"))
-                }}
-            </li>
-            <li>
-                {{ link(
-                "https://www.viajeroscallejeros.com/lugares-que-ver-en-vigo/",
-                _("10 lugares que ver imprescindibles"))
-                }}
-            </li>
-        </ul>
         <article class="grid grid-cols-1 gap-5 mt-4">
-            <h2 class="text-4xl text-secondary">{{ _("Cómo llegar a Vigo") }}</h2>
+            <h2 class="text-4xl text-secondary">{{ _("Viaje") }}</h2>
             <p>{{ _("Llegar a Vigo es muy fácil: desde Madrid, A Coruña, Santiago de Compostela o el norte de Portugal "
                 "se puede llegar directamente al centro de la ciudad. Vigo está comunicada por carretera y tren con "
                 "Madrid y otras urbes como Bilbao. Además, el aeropuerto de Peinador está conectado con las ciudades "
