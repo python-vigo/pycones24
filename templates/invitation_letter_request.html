@@ -1,0 +1,55 @@
+{% extends "layouts/layout_detail.html" %}
+
+{% block content %}
+<section class="py-12 pb-5 mx-auto w-10/12 max-w-5xl text-lg md:ml-48 lg:w-9/12">
+    <h1 class="text-5xl text-primary">{{ _("Carta de invitación") }}</h1>
+    <article class="flex flex-col gap-6 my-12">
+        <h2 class="text-2xl text-secondary">{{ _("¿Necesita que le enviemos una carta de invitación?") }}</h2>
+        <p
+        >
+            {% trans trimmed %}
+            Si vienes desde fuera de España, es posible que necesites algunos documentos adicionales para tu viaje,
+            incluido un visado.
+            No se preocupe, estamos aquí para ayudarle. Esta página le guiará a través del proceso de obtención de una
+            carta de invitación de nuestra parte, en caso de que necesite una para su solicitud de visado.
+            {% endtrans %}
+        </p>
+        <a
+          href="{{ this.form_link }}"
+          target="_blank"
+          rel="noopener noreferrer"
+          class="p-2 px-12 font-semibold text-white cursor-pointer bg-primary w-fit hover:bg-secondary"
+        >
+            {{ _("Solicitar carta de invitación") }}
+        </a>
+        <p>
+            {% trans trimmed %}
+              Los residentes de la UE normalmente no requieren un visado para España; sin embargo, por favor asegúrese de
+              tener un documento válido con usted.
+            {% endtrans %}
+        </p>
+    </article>
+    <article class="flex flex-col gap-6 my-12">
+        <h2 class="text-2xl text-secondary">{{ _("Solicitar carta de invitación") }}</h2>
+        <p>
+            {% trans trimmed form_link=this.form_link %}
+              Si necesita una carta de invitación para su solicitud de visa, por favor complete
+              el siguiente formulario: <a href="{{ form_link }}" target="_blank" rel="noopener noreferrer" class="underline text-primary hover:text-secondary">forms.gle/LGFJWnpohgbBo4CUA</a>.
+              Revisaremos su solicitud y le enviaremos la carta de invitación lo antes posible.
+            {% endtrans %}
+        </p>
+        <div>
+            <p>{{ _("El formulario pedirá los detalles específicos necesarios para la carta de invitación, incluyendo:") }}</p>
+            <ul class="ml-8 list-disc">
+                <li>{{ _("Nombre completo") }}</li>
+                <li>{{ _("Fecha de nacimiento") }}</li>
+                <li>{{ _("Número de pasaporte") }}</li>
+                <li>{{ _("Fecha de expedición del pasaporte") }}</li>
+                <li>{{ _("Fecha de caducidad del pasaporte") }}</li>
+                <li>{{ _("Dirección de origen") }}</li>
+                <li>{{ _("Dirección de alojamiento en destino") }}</li>
+            </ul>
+        </div>
+    </article>
+</section>
+{% endblock %}
