@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pycones 24\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2024-08-11 12:46+0200\n"
+"PO-Revision-Date: 2024-08-17 22:04+0200\n"
 "Last-Translator: Adrián Chaves (Gallaecio) <adrian@chaves.io>\n"
 "Language-Team: Proxecto Trasno (proxecto@trasno.gal)\n"
 "Language: en\n"
@@ -102,7 +102,7 @@ msgid "Add-ons"
 msgstr "Add-ons"
 
 msgid "Adéntrate por callejuelas rodeadas de edificios históricos"
-msgstr "Wander through narrow streets surrounded by historic buildings."
+msgstr "Wander through narrow streets surrounded by historic buildings"
 
 msgid "Aeropuerto de Porto - Portugal"
 msgstr "Porto Airport — Portugal"
@@ -135,7 +135,7 @@ msgid "Aparición en soportes físicos impresos supeditada a la producción de l
 msgstr "Appearance on physical printed media subject to its production."
 
 msgid "Apertura de la venta de entradas"
-msgstr "Opening for ticket sales "
+msgstr "Opening for ticket sales"
 
 msgid "Apertura para el envío de ponencias"
 msgstr "Opening for submission of proposals"
@@ -178,6 +178,9 @@ msgstr "C4P"
 
 msgid "Cantidad"
 msgstr "Quantity"
+
+msgid "Carta de invitación"
+msgstr "Invitation letter"
 
 msgid "Centrarse en lo que sea mejor no sólo para nosotros como individuos, sino para la comunidad en general"
 msgstr "Focus on what is best for not only us as individuals, but for the community as a whole"
@@ -303,6 +306,12 @@ msgstr "From the organization of PyConES, we would like to offer you all the pos
 msgid "DevOps / Administración de sistemas / Scripts de automatización"
 msgstr "DevOps / system administration / automation scripts"
 
+msgid "Dirección de alojamiento en destino"
+msgstr "Accommodation address"
+
+msgid "Dirección de origen"
+msgstr "Address"
+
 msgid "Diversidad y becas"
 msgstr "Diversity and grants"
 
@@ -348,11 +357,14 @@ msgstr "Harassment in public or private"
 msgid "El auditorio tiene su propio servicio de catering caracterizado por el buen gusto de su cocina."
 msgstr "The auditorium has its own catering service, known for its tasteful cuisine."
 
+msgid "El formulario pedirá los detalles específicos necesarios para la carta de invitación, incluyendo:"
+msgstr "The form will ask for specific details needed for the invitation letter, including:"
+
 msgid "El logotipo aparecerá junto a los logos de la asociación y de la comunidad que organizan. Es posible que, en las entradas empresariales, no aparezca tu logotipo."
 msgstr "The logo will appear alongside the logos of the association and the organizing community. It is possible that your logo will not appear on the business tickets."
 
 msgid "El periodo de la convocatoria de propuestas ha finalizado."
-msgstr "The call for papers has closed"
+msgstr "The call for papers has closed."
 
 msgid "El uso de lenguaje o imágenes sexualizadas, y aproximaciones o atenciones sexuales de cualquier tipo"
 msgstr "The use of sexualized language or images, and sexual approaches or attention of any kind"
@@ -435,6 +447,15 @@ msgstr "FAQ"
 msgid "Favorece que más personas sepan que son bienvenidas"
 msgstr "Let more people know they are welcome"
 
+msgid "Fecha de caducidad del pasaporte"
+msgstr "Passport expiry date"
+
+msgid "Fecha de expedición del pasaporte"
+msgstr "Passport issue date"
+
+msgid "Fecha de nacimiento"
+msgstr "Date of birth"
+
 msgid "Finalización del período de solicitud de becas"
 msgstr "End of the scholarship application period"
 
@@ -496,7 +517,7 @@ msgid "La conferencia se realizará principalmente en Español, y dependiendo de
 msgstr "The conference will be mainly in Spanish, and depending on how many talks in English are accepted, there may be a complete track during talk days."
 
 msgid "La convocatoria de propuestas (CFP) es hasta las 23:59 (UTC) del 9 de junio. Mejor no dejarlo para el último minuto."
-msgstr "The call for papers (CfP) closes at 23:59 UTC on June 9th. Do not leave it for the very last minute!"
+msgstr "The call for papers (CfP) closes at 23:59 UTC on June 9th. Do not leave it for the very last minute."
 
 msgid "La edición 2024 de la PyConES es posible gracias a muchas personas voluntarias que provienen de comunidades como Python Vigo, Python Canarias, Python España, entre otras:"
 msgstr "The 2024 edition of PyConES is made possible thanks to many volunteers from communities such as Python Vigo, Python Canarias, Python España, among others:"
@@ -542,6 +563,9 @@ msgstr "London"
 
 msgid "Los casos de comportamiento abusivo, acosador o inaceptable de otro modo podrán ser denunciados a las personas administradoras de la comunidad responsables del cumplimiento:"
 msgstr "Cases of abusive, harassing or otherwise unacceptable behavior may be reported to the community managers responsible for compliance:"
+
+msgid "Los residentes de la UE normalmente no requieren un visado para España; sin embargo, por favor asegúrese de tener un documento válido con usted."
+msgstr "EU residents typically do not require a visa for Spain; however, please ensure you have a valid document with you."
 
 msgid "Ludoteca"
 msgstr "Playroom"
@@ -590,7 +614,7 @@ msgid "Más información sobre estos lugares o otras recomendaciones en: <a href
 msgstr "More information about these places or other recommendations at: <a href=\"https://www.viajeroscallejeros.com/lugares-que-ver-en-vigo\" target=\"_blank\" class=\"underline text-primary hover:text-secondary\">Places to see in Vigo - Viajeros callejeros</a> or <a href=\"https://www.turismodevigo.org/es/vigo-en-un-dia\" target=\"_blank\" class=\"underline text-primary hover:text-secondary\">Vigo in a day - Concello de Vigo</a>"
 
 msgid "Más información sobre estos restaurantes en:"
-msgstr "More information on these restaurants can be found at"
+msgstr "More information on these restaurants can be found at:"
 
 msgid "Nivel"
 msgstr "Level"
@@ -603,6 +627,9 @@ msgstr "Levels"
 
 msgid "No olvides seguirnos en twitter <a href=\"https://twitter.com/PyConES\" class=\"font-bold text-primary hover:text-secondary\">@PyConES</a> para obtener la información más reciente y actualizada!"
 msgstr "Do not forget to follow us in Twitter <a href=\"https://twitter.com/PyConES\" class=\"font-bold text-primary hover:text-secondary\">@PyConES</a> to get the latest updates!"
+
+msgid "Nombre completo"
+msgstr "Full name"
 
 msgid "Nombre de contacto"
 msgstr "Contact name"
@@ -624,6 +651,9 @@ msgstr "Our team is here to help you. If you have any question or feedback, do n
 
 msgid "Nuestros estándares"
 msgstr "Our standards"
+
+msgid "Número de pasaporte"
+msgstr "Passport number"
 
 msgid "Número de teléfono"
 msgstr "Telephone number"
@@ -834,6 +864,10 @@ msgstr "If you need an invoice for the entity that sponsors your attendance to t
 msgid "Si es un evento presencial, ponte en contacto directamente con las personas organizadoras del evento. Es muy probable que hayan publicando un código de conducta específico del evento con instrucciones de a quién acudir; te proporcionarán un espacio seguro para ayudarte."
 msgstr "If it is an in-person event, contact the event organizers directly. They most likely have posted an event-specific code of conduct with instructions on who to go to; they will provide you with a safe space to help you."
 
+#, python-format
+msgid "Si necesita una carta de invitación para su solicitud de visa, por favor complete el siguiente formulario: <a href=\"%(form_link)s\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"underline text-primary hover:text-secondary\">forms.gle/LGFJWnpohgbBo4CUA</a>. Revisaremos su solicitud y le enviaremos la carta de invitación lo antes posible."
+msgstr "If you require an invitation letter for your visa application, please complete the following form: <a href=\"%(form_link)s\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"underline text-primary hover:text-secondary\">forms.gle/LGFJWnpohgbBo4CUA</a>. We will review your request and send you the invitation letter as soon as possible."
+
 msgid "Si no dispones de mucho tiempo, te recomendamos los siguientes lugares por su proximidad al Auditorio Mar de Vigo:"
 msgstr "If you don't have much time, we recommend the following places due to their proximity to the Auditorium Mar de Vigo:"
 
@@ -858,6 +892,9 @@ msgstr "If you have any questions about how to get to Vigo, you can find all the
 msgid "Si tu taller dura más o menos tiempo no dudes en comunicarlo a la organización para tenerlo en cuenta en la configuración del programa. Esto nos dará la oportunidad de crear un planificación variada y ajustada a los tres días de conferencia."
 msgstr "If your workshops takes more or less time, tell the organization so that they can take it into account when designing the program. This will allow us to create a diverse program that fits into the three days of the conference."
 
+msgid "Si vienes desde fuera de España, es posible que necesites algunos documentos adicionales para tu viaje, incluido un visado. No se preocupe, estamos aquí para ayudarle. Esta página le guiará a través del proceso de obtención de una carta de invitación de nuestra parte, en caso de que necesite una para su solicitud de visado."
+msgstr "If you're joining us from outside Spain, you might need some extra documents for your trip, including a visa. Don't worry; we're here to help! This page guides you through the process of obtaining an invitation letter from us, should you need one for your visa application."
+
 msgid "Si visitas la sección <a href=\"https://2024.es.pycon.org/faq/\" class=\"text-primary hover:text-secondary\">Convocatoria de Propuestas</a> encontrarás instrucciones para crear tu Abstract y también un enlace a la plataforma donde se envían las propuestas, pretalx."
 msgstr "If you visit the <a href=\"https://2024.es.pycon.org/faq/\" class=\"text-primary hover:text-secondary\">Call for Proposals</a> section, you will find instructions to create your abstract and a link to the platform where proposals must be submitted, pretalx."
 
@@ -866,6 +903,9 @@ msgstr "Sticking with Python zen, explicit better than implicit. Explain what is
 
 msgid "Siguiente"
 msgstr "Next"
+
+msgid "Solicitar carta de invitación"
+msgstr "Request your invitation letter"
 
 msgid "Soy Ponente, ¿tengo que comprar la entrada?"
 msgstr "I am a speaker, do I have to buy a ticket?"
@@ -982,7 +1022,7 @@ msgid "¡Ayúdanos a financiar viajes para que todavía más gente pueda asistir
 msgstr "Help us to finance trips so that even more people can attend PyConES! For each grant awarded, you will be mentioned in a special way both during the event and in the messages exchanged with the recipients."
 
 msgid "¡Cada vez vienen más peques al evento! Construimos un espacio en donde estén cómodos y dispongan de toda la atención necesaria. ¡Ayúdanos a conseguirlo!"
-msgstr "More and more, little ones are coming to the event! We want to build a space where they are comfortable and have all the necessary attention. Help us achieve it."
+msgstr "More and more, little ones are coming to the event! We want to build a space where they are comfortable and have all the necessary attention. !Help us achieve it!"
 
 msgid "¡Colabora con este taller masivo con participantes de toda índole! Gana una gran visibilidad con tus roll-ups y un agradecimiento personalizado."
 msgstr "Collaborate with this massive workshop with participants of all kinds! Gain great visibility with your roll-ups and a personalized thank you."
@@ -1010,6 +1050,9 @@ msgstr "Where is the conference taking place?"
 
 msgid "¿La conferencia es sólo en Español?"
 msgstr "Is the conference in Spanish only?"
+
+msgid "¿Necesita que le enviemos una carta de invitación?"
+msgstr "Do you need an invitation letter from us?"
 
 msgid "¿Olvidamos algo?"
 msgstr "Did we forget something?"
