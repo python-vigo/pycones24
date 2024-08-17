@@ -163,6 +163,9 @@ msgstr ""
 msgid "Cantidad"
 msgstr ""
 
+msgid "Carta de invitación"
+msgstr ""
+
 msgid "Centrarse en lo que sea mejor no sólo para nosotros como individuos, sino para la comunidad en general"
 msgstr ""
 
@@ -287,6 +290,12 @@ msgstr ""
 msgid "DevOps / Administración de sistemas / Scripts de automatización"
 msgstr ""
 
+msgid "Dirección de alojamiento en destino"
+msgstr ""
+
+msgid "Dirección de origen"
+msgstr ""
+
 msgid "Diversidad y becas"
 msgstr ""
 
@@ -330,6 +339,9 @@ msgid "El acoso en público o privado"
 msgstr ""
 
 msgid "El auditorio tiene su propio servicio de catering caracterizado por el buen gusto de su cocina."
+msgstr ""
+
+msgid "El formulario pedirá los detalles específicos necesarios para la carta de invitación, incluyendo:"
 msgstr ""
 
 msgid "El logotipo aparecerá junto a los logos de la asociación y de la comunidad que organizan. Es posible que, en las entradas empresariales, no aparezca tu logotipo."
@@ -417,6 +429,15 @@ msgid "FAQ"
 msgstr ""
 
 msgid "Favorece que más personas sepan que son bienvenidas"
+msgstr ""
+
+msgid "Fecha de caducidad del pasaporte"
+msgstr ""
+
+msgid "Fecha de expedición del pasaporte"
+msgstr ""
+
+msgid "Fecha de nacimiento"
 msgstr ""
 
 msgid "Finalización del período de solicitud de becas"
@@ -527,6 +548,9 @@ msgstr ""
 msgid "Los casos de comportamiento abusivo, acosador o inaceptable de otro modo podrán ser denunciados a las personas administradoras de la comunidad responsables del cumplimiento:"
 msgstr ""
 
+msgid "Los residentes de la UE normalmente no requieren un visado para España; sin embargo, por favor asegúrese de tener un documento válido con usted."
+msgstr ""
+
 msgid "Ludoteca"
 msgstr ""
 
@@ -588,6 +612,9 @@ msgstr ""
 msgid "No olvides seguirnos en twitter <a href=\"https://twitter.com/PyConES\" class=\"font-bold text-primary hover:text-secondary\">@PyConES</a> para obtener la información más reciente y actualizada!"
 msgstr ""
 
+msgid "Nombre completo"
+msgstr ""
+
 msgid "Nombre de contacto"
 msgstr ""
 
@@ -607,6 +634,9 @@ msgid "Nuestro equipo está aquí para ayudarte. Si tienes alguna pregunta o sug
 msgstr ""
 
 msgid "Nuestros estándares"
+msgstr ""
+
+msgid "Número de pasaporte"
 msgstr ""
 
 msgid "Número de teléfono"
@@ -813,6 +843,10 @@ msgstr ""
 msgid "Si es un evento presencial, ponte en contacto directamente con las personas organizadoras del evento. Es muy probable que hayan publicando un código de conducta específico del evento con instrucciones de a quién acudir; te proporcionarán un espacio seguro para ayudarte."
 msgstr ""
 
+#, python-format
+msgid "Si necesita una carta de invitación para su solicitud de visa, por favor complete el siguiente formulario: <a href=\"%(form_link)s\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"underline text-primary hover:text-secondary\">forms.gle/LGFJWnpohgbBo4CUA</a>. Revisaremos su solicitud y le enviaremos la carta de invitación lo antes posible."
+msgstr ""
+
 msgid "Si no dispones de mucho tiempo, te recomendamos los siguientes lugares por su proximidad al Auditorio Mar de Vigo:"
 msgstr ""
 
@@ -837,6 +871,9 @@ msgstr ""
 msgid "Si tu taller dura más o menos tiempo no dudes en comunicarlo a la organización para tenerlo en cuenta en la configuración del programa. Esto nos dará la oportunidad de crear un planificación variada y ajustada a los tres días de conferencia."
 msgstr ""
 
+msgid "Si vienes desde fuera de España, es posible que necesites algunos documentos adicionales para tu viaje, incluido un visado. No se preocupe, estamos aquí para ayudarle. Esta página le guiará a través del proceso de obtención de una carta de invitación de nuestra parte, en caso de que necesite una para su solicitud de visado."
+msgstr ""
+
 msgid "Si visitas la sección <a href=\"https://2024.es.pycon.org/faq/\" class=\"text-primary hover:text-secondary\">Convocatoria de Propuestas</a> encontrarás instrucciones para crear tu Abstract y también un enlace a la plataforma donde se envían las propuestas, pretalx."
 msgstr ""
 
@@ -844,6 +881,9 @@ msgid "Siguiendo con el zen de Python, explícito mejor que implícito. Explicit
 msgstr ""
 
 msgid "Siguiente"
+msgstr ""
+
+msgid "Solicitar carta de invitación"
 msgstr ""
 
 msgid "Soy Ponente, ¿tengo que comprar la entrada?"
@@ -988,6 +1028,9 @@ msgid "¿En qué lugar se realizará la conferencia?"
 msgstr ""
 
 msgid "¿La conferencia es sólo en Español?"
+msgstr ""
+
+msgid "¿Necesita que le enviemos una carta de invitación?"
 msgstr ""
 
 msgid "¿Olvidamos algo?"
