@@ -206,6 +206,9 @@ msgstr "Como chegar a Vigo"
 msgid "Comunidad, sociedad y cultura"
 msgstr "Comunidade, sociedade e cultura"
 
+msgid "Comunidades Patrocinadoras"
+msgstr ""
+
 msgid "Con las becas, tenemos el objetivo de eliminar las barreras económicas, facilitando la participación de aquellos que podrían enfrentar dificultades financieras para asistir al evento."
 msgstr "Coas bolsas queremos eliminar barreiras económicas para a participación no evento."
 
@@ -852,9 +855,6 @@ msgstr "Segundo o plan elixido terías as seguintes entradas:<ul class=\"mt-1 ml
 msgid "Sesión de contratación"
 msgstr "Sesión de contratación"
 
-msgid "Si aparte de la PyConES, decides aprovechar para disfrutar de unos días más en Galicia, no dejes escapar la oportunidad de visitar:"
-msgstr "Se á parte da PyConES, decides aproveitar para gozar duns días máis en Galicia, non deixes escapar a oportunidade de visitar:"
-
 msgid "Si aparte de la PyConES, decides aprovechar para disfrutar de unos días más en Galicia, no dejes escapar la oportunidad de visitar: "
 msgstr "Se á parte da PyConES, decides aproveitar para gozar duns días máis en Galicia, non deixes escapar a oportunidade de visitar: "
 
@@ -1132,6 +1132,9 @@ msgstr "Viste o chulos que quedaron os vídeos do ano pasado? Agora imaxínache 
 
 #~ msgid "Selecciona idioma"
 #~ msgstr "Escolle un idioma"
+
+#~ msgid "Si aparte de la PyConES, decides aprovechar para disfrutar de unos días más en Galicia, no dejes escapar la oportunidad de visitar:"
+#~ msgstr "Se á parte da PyConES, decides aproveitar para gozar duns días máis en Galicia, non deixes escapar a oportunidade de visitar:"
 
 #~ msgid "Si quieres formar parte de nuestros patrocinadores para hacer esta conferencia aún más impresionante puedes disponer de un espacio dentro del eventos."
 #~ msgstr "Se queres formar parte dos nosos patrocinadores para facer esta conferencia aínda máis impresionante, podes dispoñer dun espazo dentro do evento."
