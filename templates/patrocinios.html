@@ -3,6 +3,10 @@
 
 {% extends "layout.html" %}
 
+{% block extra_script %}
+  <script src="https://challenges.cloudflare.com/turnstile/v0/api.js?render=explicit"></script>
+{% endblock extra_script %}
+
 {% block main_content %}
 
 <section class="grid grid-cols-1 gap-y-5 pb-10 mx-auto w-10/12">
