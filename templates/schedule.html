@@ -1,0 +1,22 @@
+{% extends "layout.html" %}
+
+{% block extra_script %}
+  <script type="text/javascript" src="https://pretalx.com/pycones-2024/schedule/widget/v2.en.js"></script>
+{% endblock extra_script %}
+
+{% block main_content %}
+    <section class="gap-y-5 pb-10">
+      <h1 class="px-5 my-10 text-5xl md:px-12 text-primary">{{ _("Programa") }}</h1>
+      <article class="px-5 pt-14">
+        <pretalx-schedule event-url="https://pretalx.com/pycones-2024/" locale="en" style="--pretalx-clr-primary: #3aa57c;"></pretalx-schedule>
+        <noscript>
+           <div class="pretalx-widget">
+                <div class="pretalx-widget-info-message">
+                    JavaScript is disabled in your browser. To access our schedule without JavaScript,
+                    please <a target="_blank" href="https://pretalx.com/pycones-2024/schedule/">click here</a>.
+                </div>
+            </div>
+        </noscript>
+      </article>
+    </section>
+{% endblock main_content %}

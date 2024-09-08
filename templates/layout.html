@@ -24,10 +24,12 @@
     <meta name="google-site-verification" content="ggr-BOSKTnIjcxjkkreUx5oqxBWojqS-iDhnE8ovQAk" />
     <script src="https://challenges.cloudflare.com/turnstile/v0/api.js?render=explicit"></script>
     <script src="{{ '/static/js/htmx.min.js'|url }}"></script>
+    {% block extra_script %}
+    {% endblock extra_script %}
   </head>
   <body class="flex flex-col min-h-screen">
     {% block body %}
-    <header class="mt-0 bg-primary">
+    <header class="mt-0 w-full bg-primary">
       {% include "components/header.html" %}
     </header>
     <main class="flex-grow">{% block main_content %} {% endblock main_content %}</main>
