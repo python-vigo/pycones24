@@ -97,6 +97,9 @@ msgstr ""
 msgid "Agradecimiento en vivo"
 msgstr ""
 
+msgid "Agradecimientos especiales"
+msgstr ""
+
 msgid "Al enviar este formulario autorizas a la Asociación Python España (CIF G86766821) a que utilice los datos aquí facilitados con carácter interno durante la organización y desarrollo del evento PyConES 2024. Los datos serán tratados por la Asociación Python España con la máxima confidencialidad, de acuerdo con Reglamento (UE) 2016/679 del Parlamento Europeo y del Consejo, de 27 de abril de 2016, relativo a la protección de las personas físicas en lo que respecta al tratamiento de datos personales y a la libre circulación de estos datos, y siguiendo las Recomendaciones e Instrucciones emitidas por la Agencia Española de Protección de Datos (A.E.P.D.). Para ejercer tus derechos ARCO escribe a contacto@es.python.org."
 msgstr ""
 
@@ -745,6 +748,9 @@ msgid "Principales destinos internacionales:"
 msgstr ""
 
 msgid "Principales destinos nacionales:"
+msgstr ""
+
+msgid "Programa"
 msgstr ""
 
 msgid "Próximamente"
