@@ -251,6 +251,21 @@
     }}
     {{ render_logo_sponsors(
       "",
+      _("Agradecimientos especiales"),
+      [
+      (
+          "https://www.stickermule.com/es",
+          "",
+          "/static/images/sponsors_logo/special_thanks/sticker-mule.svg",
+          "Logo Sticker Mule",
+          "w-24"
+        ),
+      ],
+      lg_grid_cols="lg:grid-cols-3 xl:grid-cols-5 2xl:grid-cols-6",
+      )
+    }}
+    {{ render_logo_sponsors(
+      "",
       _("Organizadores"),
       [
         (
