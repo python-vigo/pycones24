@@ -10,7 +10,7 @@
   <p class="mt-2 mb-10 text-2xl text-secondary">{{ _("Las siguientes ofertas han sido enviadas por los patrocinadores de la conferencia:") }}</p>
   <div class="grid grid-cols-1 gap-y-16 md:gap-x-4">
     {% for job_offer in this.children %}
-      {{ card_job(job_offer.company, job_offer.skills, job_offer.name_job, job_offer.range_salary, job_offer.description, job_offer.city, job_offer.link_job) }}
+      {{ card_job(job_offer.company, job_offer.skills, job_offer.name_job, job_offer.range_salary, job_offer.description, job_offer.city, job_offer.link_job, job_offer.contact_email) }}
     {% else %}
       <p class="text-3xl italic">{{ _("Muy pronto, podrás encontrar en esta sección una amplia variedad de ofertas de trabajo.") }}</p>
     {% endfor %}
