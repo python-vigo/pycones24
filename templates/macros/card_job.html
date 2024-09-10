@@ -7,9 +7,9 @@
     <p class="mt-5 text-lg leading-6 text-gray-600 line-clamp-3">
         {{ description }}
     </p>
-    <div class="flex gap-x-4 items-center mt-4 mb-2 text-sm">
+    <div class="flex flex-wrap gap-y-1 gap-x-4 items-center mt-4 mb-2 text-sm">
         {% for skill in skills %}
-          <span class="relative z-10 py-1.5 px-3 font-medium text-white rounded-full bg-secondary">{{ skill }}</span>
+          <span class="relative z-10 py-1.5 px-3 min-w-max font-medium text-white rounded-full bg-secondary">{{ skill }}</span>
         {% endfor %}
     </div>
     <div class="flex gap-x-5 justify-start mt-1 text-sm font-bold text-secondary">
