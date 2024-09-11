@@ -136,6 +136,18 @@ msgstr ""
 msgid "Aplicaciones móviles, multimedia, embebidos"
 msgstr ""
 
+msgid "Are you an experienced Senior Software Engineer ready to take the next step in your career? We are looking for a talented individual to transition into a management role, leading our dynamic engineering team. This is an exciting opportunity to shape the future of our tech space."
+msgstr ""
+
+msgid "As a Lead Technical Director, you will guide a development and support team in building innovative tools for the production teams to efficiently create animated films at Skydance."
+msgstr ""
+
+msgid "As a Senior Pipeline Engineer, you will define, develop, test, analyze, and maintain software applications and libraries for the global feature animation pipeline by employing industry best practices."
+msgstr ""
+
+msgid "As a Senior TD, you will develop and support innovative tools for our production teams to efficiently create animated films at Skydance."
+msgstr ""
+
 msgid "Asignación de entradas de diversidad"
 msgstr ""
 
@@ -356,6 +368,9 @@ msgstr ""
 msgid "El periodo de la convocatoria de propuestas ha finalizado."
 msgstr ""
 
+msgid "El programa no es definitivo. Podría sufrir algunas modificaciones."
+msgstr ""
+
 msgid "El uso de lenguaje o imágenes sexualizadas, y aproximaciones o atenciones sexuales de cualquier tipo"
 msgstr ""
 
@@ -446,6 +461,9 @@ msgstr ""
 msgid "Fecha de nacimiento"
 msgstr ""
 
+msgid "Fever"
+msgstr ""
+
 msgid "Finalización del período de solicitud de becas"
 msgstr ""
 
@@ -477,6 +495,9 @@ msgid "Hotel Zenit"
 msgstr ""
 
 msgid "Hoy en día es una ciudad industrial pero también con mucha vida, con una gran vida nocturna y muchas actividades de ocio."
+msgstr ""
+
+msgid "If you're smart, have great energy and have interest in participating in the whole lifecycle of a feature - we are in sync."
 msgstr ""
 
 msgid "Información"
@@ -576,6 +597,9 @@ msgid "Lugares que ver en Vigo"
 msgstr ""
 
 msgid "Machine learning e inteligencia artificial"
+msgstr ""
+
+msgid "Madrid - Hybrid"
 msgstr ""
 
 msgid "Marzo"
@@ -783,6 +807,9 @@ msgstr ""
 msgid "Recomendaciones para tu propuesta"
 msgstr ""
 
+msgid "Remote"
+msgstr ""
+
 msgid "Requerimientos dietéticos"
 msgstr ""
 
@@ -892,6 +919,9 @@ msgstr ""
 msgid "Siguiente"
 msgstr ""
 
+msgid "Skydance Animation Madrid"
+msgstr ""
+
 msgid "Solicitar carta de invitación"
 msgstr ""
 
@@ -992,6 +1022,17 @@ msgid "Vigo es una ciudad pequeña y se puede ir andando a casi todas partes, au
 msgstr ""
 
 msgid "Vitrasa es el autobús urbano público de Vigo. Puedes utilizar las siguientes aplicaciones o webs para planificar tu viaje y estar informado:"
+msgstr ""
+
+msgid "We are looking for a Senior Backend Engineer to join the backend team with outstanding software development talent proven by great work results/experience."
+msgstr ""
+
+msgid ""
+"We are looking for a Senior Frontend Engineer to join the backend team with outstanding software development talent proven by great work results/experience.\n"
+"If you're smart, have great energy and have interest in participating in the whole lifecycle of a feature - we are in sync."
+msgstr ""
+
+msgid "We are looking for a Tech Lead to join Fever with outstanding software development talent proven by great work results/experience. Somebody that cares about code quality and not just get things done, but get things done right - to lead engineering developments for product teams."
 msgstr ""
 
 msgid "Web oficial auditorio"

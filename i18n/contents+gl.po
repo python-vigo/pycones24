@@ -3,7 +3,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pycones 24\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2024-08-17 22:12+0200\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2024-09-12 00:46+0200\n"
 "Last-Translator: Adrián Chaves (Gallaecio) <adrian@chaves.io>\n"
 "Language-Team: Proxecto Trasno (proxecto@trasno.gal)\n"
 "Language: gl\n"
@@ -151,6 +152,18 @@ msgstr "Aplicacións de escritorio"
 
 msgid "Aplicaciones móviles, multimedia, embebidos"
 msgstr "Aplicacións móbiles, multimedia e incrustación"
+
+msgid "Are you an experienced Senior Software Engineer ready to take the next step in your career? We are looking for a talented individual to transition into a management role, leading our dynamic engineering team. This is an exciting opportunity to shape the future of our tech space."
+msgstr ""
+
+msgid "As a Lead Technical Director, you will guide a development and support team in building innovative tools for the production teams to efficiently create animated films at Skydance."
+msgstr ""
+
+msgid "As a Senior Pipeline Engineer, you will define, develop, test, analyze, and maintain software applications and libraries for the global feature animation pipeline by employing industry best practices."
+msgstr ""
+
+msgid "As a Senior TD, you will develop and support innovative tools for our production teams to efficiently create animated films at Skydance."
+msgstr ""
 
 msgid "Asignación de entradas de diversidad"
 msgstr "Asignación de entradas de diversidade"
@@ -372,6 +385,9 @@ msgstr "O logotipo aparecerá xunto aos logos da asociación e da comunidade que
 msgid "El periodo de la convocatoria de propuestas ha finalizado."
 msgstr "O período para a convocatoria de propostas xa acabou."
 
+msgid "El programa no es definitivo. Podría sufrir algunas modificaciones."
+msgstr "O programa non é definitivo. Podería sufrir algunhas modificacións."
+
 msgid "El uso de lenguaje o imágenes sexualizadas, y aproximaciones o atenciones sexuales de cualquier tipo"
 msgstr "O uso de linguaxe ou imaxes sexualizadas, e aproximacións ou atencións sexuais de calquera tipo"
 
@@ -462,6 +478,9 @@ msgstr "Data de expedición do pasaporte"
 msgid "Fecha de nacimiento"
 msgstr "Data de nacemento"
 
+msgid "Fever"
+msgstr ""
+
 msgid "Finalización del período de solicitud de becas"
 msgstr "Finalización do período de solicitude de bolsas"
 
@@ -494,6 +513,9 @@ msgstr "Hotel Zenit"
 
 msgid "Hoy en día es una ciudad industrial pero también con mucha vida, con una gran vida nocturna y muchas actividades de ocio."
 msgstr "A día de hoxe é unha cidade industrial pero tamén con moita vida, cunha gran vida nocturna e moitas actividades de lecer."
+
+msgid "If you're smart, have great energy and have interest in participating in the whole lifecycle of a feature - we are in sync."
+msgstr ""
 
 msgid "Información"
 msgstr "Información"
@@ -593,6 +615,9 @@ msgstr "Lugares que ver en Vigo"
 
 msgid "Machine learning e inteligencia artificial"
 msgstr "Aprendizaxe artificial e intelixencia artificial"
+
+msgid "Madrid - Hybrid"
+msgstr ""
 
 msgid "Marzo"
 msgstr "Marzo"
@@ -804,6 +829,9 @@ msgstr "Recepción de benvida e rexistro"
 msgid "Recomendaciones para tu propuesta"
 msgstr "Recomendacións para propostas"
 
+msgid "Remote"
+msgstr ""
+
 msgid "Requerimientos dietéticos"
 msgstr "Requirimentos dietéticos"
 
@@ -913,6 +941,9 @@ msgstr "Seguindo co zen de Python, explícito mellor que implícito. Explicitar 
 msgid "Siguiente"
 msgstr "Seguinte"
 
+msgid "Skydance Animation Madrid"
+msgstr ""
+
 msgid "Solicitar carta de invitación"
 msgstr "Solicitar carta de invitación"
 
@@ -1014,6 +1045,17 @@ msgstr "Vigo é unha cidade pequena e pode irse andando a case todas partes, aí
 
 msgid "Vitrasa es el autobús urbano público de Vigo. Puedes utilizar las siguientes aplicaciones o webs para planificar tu viaje y estar informado:"
 msgstr "Vitrasa é o autobús urbano público de Vigo. Podes utilizar as seguintes aplicacións ou webs para planificar a túa viaxe e ter a última información:"
+
+msgid "We are looking for a Senior Backend Engineer to join the backend team with outstanding software development talent proven by great work results/experience."
+msgstr ""
+
+msgid ""
+"We are looking for a Senior Frontend Engineer to join the backend team with outstanding software development talent proven by great work results/experience.\n"
+"If you're smart, have great energy and have interest in participating in the whole lifecycle of a feature - we are in sync."
+msgstr ""
+
+msgid "We are looking for a Tech Lead to join Fever with outstanding software development talent proven by great work results/experience. Somebody that cares about code quality and not just get things done, but get things done right - to lead engineering developments for product teams."
+msgstr ""
 
 msgid "Web oficial auditorio"
 msgstr "Web oficial auditorio"
