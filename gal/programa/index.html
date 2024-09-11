@@ -138,8 +138,13 @@
     </header>
     <main class="flex-grow">
     <section class="gap-y-5 pb-10">
-      <h1 class="px-5 my-10 text-5xl md:px-12 text-primary">Programa</h1>
-      <article class="px-5 pt-14">
+      <div class="flex flex-col gap-9 justify-between items-center my-10 md:flex-row">
+        <h1 class="px-5 text-5xl text-primary">Programa</h1>
+        <div class="p-2 mx-5 font-bold bg-blue-100 border-l-4 text-secondary text-md border-secondary w-fit">
+          O programa non é definitivo. Podería sufrir algunhas modificacións.
+        </div>
+      </div>
+      <article class="overflow-x-auto px-5 pt-14">
         <pretalx-schedule event-url="https://pretalx.com/pycones-2024/" locale="en" style="--pretalx-clr-primary: #3aa57c;"></pretalx-schedule>
         <noscript>
            <div class="pretalx-widget">
