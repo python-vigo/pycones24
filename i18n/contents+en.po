@@ -176,6 +176,9 @@ msgstr "Bus"
 msgid "Baja visión o dificultad de audición"
 msgstr "Low vision or hearing difficulties"
 
+msgid "Barcelona - Hybrid"
+msgstr ""
+
 msgid "Becas"
 msgstr "Grants"
 
@@ -417,6 +420,12 @@ msgstr "By train"
 msgid "Entradas"
 msgstr "Tickets"
 
+msgid "Entradas apoyo"
+msgstr ""
+
+msgid "Entradas de apoyo"
+msgstr ""
+
 msgid "Entradas de diversidad"
 msgstr "Diversity tickets"
 
@@ -548,6 +557,9 @@ msgstr "The call for papers (CfP) closes at 23:59 UTC on June 9th. Do not leave 
 
 msgid "La edición 2024 de la PyConES es posible gracias a muchas personas voluntarias que provienen de comunidades como Python Vigo, Python Canarias, Python España, entre otras:"
 msgstr "The 2024 edition of PyConES is made possible thanks to many volunteers from communities such as Python Vigo, Python Canarias, Python España, among others:"
+
+msgid "La edición 2024 de la PyConES es posible gracias al generoso apoyo de quienes han adquirido entradas de apoyo individual, apoyo empresarial y fila 0. Agradecemos profundamente a todos nuestros patrocinadores y participantes por su compromiso y contribución para fortalecer y crecer la comunidad Python."
+msgstr ""
 
 msgid "La forma más habitual de viajar a Vigo es en coche. Las buenas conexiones de la ciudad facilitan el acceso a Vigo por autopista desde Madrid, Santiago, A Coruña y Oporto."
 msgstr "The most common way to get to Vigo is by car. Well connected, you can get to Vigo by highway from Madrid, Santiago, A Coruña and Porto."
@@ -1003,6 +1015,9 @@ msgstr "All community administrators are required to respect the privacy and sec
 msgid "Todas las personas que sean ponentes, tienen asegurada su participación en la conferencia, es decir no necesitan una entrada. En caso de que tengas pensado presentarte como ponente, independiente de si tu propuesta es aceptada o no, te recomendamos adquirir una entrada."
 msgstr "Every talker is granted entry to the conference, i.e. they do not need a ticket. If you are thinking of submitting a talk, you are encouraged to get a ticket, regardless of whether or not your submission is accepted."
 
+msgid "TravelPerk"
+msgstr ""
+
 msgid "Tu patrocinio"
 msgstr "Your sponsorship"
 
@@ -1058,6 +1073,12 @@ msgstr ""
 
 msgid "Web oficial auditorio"
 msgstr "Official website auditorium"
+
+msgid "We’re not looking for stack experts. We’re looking for smart people who can bring in the best tools and processes to get the job done. "
+msgstr ""
+
+msgid "You will work on a day-to-day basis with our product team to design, architect and implement our product. TravelPerk is a next-generation platform to take the pain out of booking and managing business travel. "
+msgstr ""
 
 msgid "código de conducta de DjangoCon Europe 2020"
 msgstr "djangoCon Europe 2020 code of conduct"
