@@ -1,7 +1,7 @@
-title: Accesibilidad
+title: Accessibility
 ---
 _template: venue/venue_section.html
 ---
-description: Estamos dedicados a hacer nuestra conferencia accesible para todos. Encuentra detalles y recursos aquí. ¿Necesitas más información o alojamientos específicos? Contáctanos en <a href="mailto:contacto@2024.es.pycon.org" class="text-primary">contacto@2024.es.pycon.org</a>
+description: We are dedicated to making our conference accessible to everyone. Find details and resources here. Need more information or specific accommodations? Contact us at <a href="mailto:contacto@2024.es.pycon.org" class="text-primary">contacto@2024.es.pycon.org</a>
 ---
 sort_key: 2
