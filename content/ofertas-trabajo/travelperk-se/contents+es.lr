@@ -1,0 +1,23 @@
+company: TravelPerk
+---
+city: Barcelona - Hybrid
+---
+description:
+
+We’re not looking for stack experts. We’re looking for smart people who can bring in the best tools and processes to get the job done. 
+
+You will work on a day-to-day basis with our product team to design, architect and implement our product. TravelPerk is a next-generation platform to take the pain out of booking and managing business travel. 
+---
+link_job: https://www.travelperk.com/job-application/?gh_jid=4770555&gh_src=4276577e1us
+---
+name_job: Software Engineer
+---
+range_salary: N/A
+---
+skills:
+
+Python
+Django
+React
+---
+_template: job_offers/card_job.html

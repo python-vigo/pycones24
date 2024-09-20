@@ -1,12 +1,12 @@
 _model: venue
 ---
-title_section: Location
+title_section: Lugar
 ---
 description:
 
-<p>This year, PyConEs will be held in the city of Vigo, Spain, at the prestigious Auditorium Mar de Vigo.</p>
+<p>Este año la PyConEs se llevará a cabo en la ciudad de Vigo, España, en el prestigioso Auditorio Mar de Vigo.</p>
 
-<p>Located in the heart of Vigo, this venue boasts a seafront location, offering stunning views of the Cíes Islands and the expansive sea of Vigo.</p>
+<p>Ubicado en el corazón de Vigo, este lugar presume de una ubicación frente al mar, ofreciendo vistas impresionantes de las Islas Cíes y el extenso Mar de Vigo.</p>
 
 <p>El Auditorio Mar de Vigo es celebrado no solo por su brillantez arquitectónica sino también por sus instalaciones de vanguardia, haciéndolo un escenario ideal para la conferencia de Python más importante de España.</p>
 ---
@@ -16,7 +16,7 @@ reception_title: Recepción de Bienvenida y registro
 ---
 reception_description:
 
-Location: Multipurpose Room - 3rd floor:
+Ubicación: Sala Multipropósito - 3er piso:
 
 <ul class="mt-2 ml-8 list-disc">
 <li>La Conferencia se llevará a cabo en el 3er piso, el más alto del edificio, junto a la Terraza sobre el estuario del Auditorio Mar De Vigo.</li>
