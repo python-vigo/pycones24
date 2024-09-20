@@ -1,6 +1,6 @@
-title: Gracias
+title: Thank you
 ---
-description: Gracias a <a href="https://2024.djangocon.eu/" target="_blank" class="text-primary hover:text-secondary">DjangoCon Europe</a> y <a href="https://www.writethedocs.org/conf/portland/2024/venue/#accessibility" target="_blank" class="text-primary hover:text-secondary">writethedocs</a> por la inspiración en esta página.
+description: Thanks to <a href="https://2024.djangocon.eu/" target="_blank" class="text-primary hover:text-secondary">DjangoCon Europe</a> and <a href="https://www.writethedocs.org/conf/portland/2024/venue/#accessibility" target="_blank" class="text-primary hover:text-secondary">Write the Docs</a> for the inspiration on this page.
 ---
 sort_key: 9
 ---

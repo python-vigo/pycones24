@@ -1,7 +1,7 @@
-title: Soy patrocinante ¿Cómo y Cuántas entradas consigo?
+title: I am a sponsor, how many tickets do I get, and how?
 ---
 _template: faq/faq_item.html
 ---
-description: Según el plan elegido tendrías las siguientes entradas: <ul class="mt-1 ml-8 list-disc text-secondary"><li>Cíes: 6 entradas</li><li>Ons: 4 entradas</li><li>Sálvora: 2 entradas</li><li>Cortegada: 1 entrada</li></ul>
+description: Depending on the chosen sponsorship plan you will have the following tickets: <ul class="mt-1 ml-8 list-disc text-secondary"><li>Cíes: 6 tickets</li><li>Ons: 4 tickets</li><li>Sálvora: 2 tickets</li><li>Cortegada: 1 tickets</li></ul>
 ---
-secondary_description: Más información en la sección de <a href="https://2024.es.pycon.org/patrocinios/" class="mt-1 text-primary hover:text-secondary">patrocinios</a>.
+secondary_description: More information in the <a href="https://2024.es.pycon.org/patrocinios/" class="mt-1 text-primary hover:text-secondary">Sponsorship</a> section.
