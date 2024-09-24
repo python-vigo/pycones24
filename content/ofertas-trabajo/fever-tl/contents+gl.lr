@@ -4,7 +4,6 @@ _template: job_offers/card_job.html
 ---
 city: Remoto
 ---
-description: Estamos buscando a un Tech Lead para que se una a Fever con un talento sobresaliente para el desarrollo de software, demostrado por un gran trabajo y resultados/experiencia. Alguien al que le importe la calidad del código y no solo hacer que las cosas funcionen, pero que haga las cosas bien - para liderar los desarrollos para los equipos de producto.
 description: Estamos buscando un Tech Lead para que poida unierse a Fever cun talento sobresaínte para o desenvolvemento de software, demostrado por un gran traballo e resultados/experiencia. Alguén ao que lle importe a calidade do código e non so facer que as cousas funcionen, pero que faga as cousas ben - para liderar os desenvolvementos para os equipos de producto.
 ---
 link_job: https://careers.feverup.com/jobs/4090030101/tech-lead/
