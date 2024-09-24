@@ -2,22 +2,22 @@ company: Fever
 ---
 _template: job_offers/card_job.html
 ---
-city: Remoto
+city: Remote
 ---
-description: Estamos buscando a un Tech Lead para que se una a Fever, con un talento sobresaliente para el desarrollo de software, demostrado por un gran trabajo y resultados/experiencia. Alguien al que le importe la calidad del código y no solo hacer que las cosas funcionen, pero que haga las cosas bien - para liderar los desarrollos para los equipos de producto.
+description: We are looking for a Tech Lead to join Fever with outstanding software development talent proven by great work results/experience. Somebody that cares about code quality and not just get things done, but get things done right - to lead engineering developments for product teams.
 ---
 link_job: https://careers.feverup.com/jobs/4090030101/tech-lead/
 ---
 name_job: Tech Lead
 ---
-range_salary: (Incluyendo Base, Bonus, y Opciones de Stock) 80.000 - 108.000
+range_salary: (Including Base, Bonus, and Stock Options) 80.000 - 108.000
 ---
 skills:
 
-buenas prácticas
+Good practices
 testing
-patrones de diseño
+design patterns
 CI/CD
-sistemas distribuidos
+distributed systems
 ---
 contact_email: pablo.arribas@feverup.com

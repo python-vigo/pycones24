@@ -2,15 +2,15 @@ company: Fever
 ---
 _template: job_offers/card_job.html
 ---
-city: Remoto
+city: Remote
 ---
-description: ¿Eres un Desarrollador de Software Senior preparado para dar tu siguiente salto en tu carrera? Estamos buscando una persona talentosa para que asuma un rol de gestión, liderando nuestro dinámico equipo de ingeniería. Esta es una oportunidad emocionante para definir el futuro de nuestro espacio tecnológico.
+description: Are you an experienced Senior Software Engineer ready to take the next step in your career? We are looking for a talented individual to transition into a management role, leading our dynamic engineering team. This is an exciting opportunity to shape the future of our tech space.
 ---
 link_job: https://careers.feverup.com/jobs/4090971101/engineering-lead/
 ---
 name_job: Engineering Lead
 ---
-range_salary: Comprobar en la Oferta
+range_salary: Check Offer
 ---
 skills: N/A
 ---
