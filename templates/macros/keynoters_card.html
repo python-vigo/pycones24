@@ -1,0 +1,31 @@
+{% from "macros/load_icon.html" import load_icon %}
+
+{% macro keynoters_card(photo_avif, photo, name, description, url_linkedin) %}
+  <article class="flex flex-col pr-12 pb-4 pl-12 w-full rounded-br-lg md:flex-row md:pl-0 border-[2px] border-primary h-fit md:w-[566px]">
+      <picture class="hidden mx-5 mt-6 md:block md:w-60">
+          <source srcset="{{ "/static/logo/logo-red.avif"|asseturl }}" type="image/webp">
+          <img src="{{ "/static/logo/logo-red.png"|asseturl }}" alt="Logo PyConES 2024">
+      </picture>
+      <div>
+          <header class="flex flex-col gap-5 items-center md:flex-row">
+              <picture class="flex w-24 h-24 items-center border-[1px] border-[#DBDBDB] rounded-b-full">
+                  <source srcset="{{ photo|asseturl }}" type="image/webp">
+                  <img src="{{ photo|asseturl }}" alt="{{ name }}" class="rounded-b-full max-h-[96px]">
+              </picture>
+              <h4 class="text-3xl text-primary">{{ name }}</h4>
+              <a
+                  href="{{ url_linkedin }}"
+                  target="_blank"
+                  aria-label="Linkedin {{ name }}"
+                  rel="noopener noreferrer"
+                  class="border-primary border-[2px] p-2 rounded-full text-center hover:border-secondary *:hover:fill-secondary md:ms-auto"
+              >
+                  {{ load_icon("icons/rrss-linkedin-icon.html", "w-4 fill-primary") }}
+              </a>
+          </header>
+          <p class="mt-6 text-lg text-secondary">
+              {{ description }}
+          </p>
+      </div>
+  </article>
+{% endmacro %}
