@@ -1,6 +1,6 @@
 {% from "macros/link.html" import link %}
 
-{% macro render_logo_sponsors(label_level, level, logos, icon_level=None, lg_grid_cols="2xl:grid-cols-3") %}
+{% macro render_logo_sponsors(label_level, level, logos, icon_level=None) %}
   <article class="flex flex-col gap-y-3 justify-around mx-auto mt-16 w-11/12 md:w-9/12 xl:flex-row">
       <section class="flex gap-2 items-center w-full lg:w-2/12 text-secondary leading-[-12px]">
         {% if icon_level %}
@@ -19,9 +19,9 @@
           </p>
         </div>
       </section>
-      <section class="grid items-center w-full grid-cols-1 p-8 bg-white border-l-2 gap-14 justify-items-center md:grid-cols-2 md:justify-items-start {{ lg_grid_cols }} lg:gap-x-14 lg:w-10/12 border-primary">
+      <section class="grid grid-cols-1 gap-14 justify-items-center items-center p-8 w-full bg-white border-l-2 md:grid-cols-2 lg:w-10/12 xl:flex xl:flex-row xl:flex-wrap xl:gap-x-14 border-primary">
         {% for link, image_webp_logo, image_logo, alt_logo, icon_size in logos %}
-          <a href="{{ link }}" target="_blank" class="col-span-1 hover:opacity-60">
+          <a href="{{ link }}" target="_blank" class="hover:opacity-60">
             <figure class="{{ icon_size }} mx-auto">
               <picture>
                 {% if image_webp_logo %}
