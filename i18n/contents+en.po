@@ -900,9 +900,6 @@ msgstr "Depending on the chosen sponsorship plan you will have the following tic
 msgid "Sesión de contratación"
 msgstr "Hiring session"
 
-msgid "Si aparte de la PyConES, decides aprovechar para disfrutar de unos días más en Galicia, no dejes escapar la oportunidad de visitar:"
-msgstr "If, in addition to PyConES, you decide to enjoy a few more days in Galicia, don't miss the opportunity to visit:"
-
 msgid "Si aparte de la PyConES, decides aprovechar para disfrutar de unos días más en Galicia, no dejes escapar la oportunidad de visitar: "
 msgstr "If, in addition to PyConES, you decide to enjoy a few more days in Galicia, don't miss the opportunity to visit: "
 
@@ -1203,6 +1200,9 @@ msgstr "Did you see how cool last year’s videos turned out? Now image your log
 
 #~ msgid "Selecciona idioma"
 #~ msgstr "Choose Language"
+
+#~ msgid "Si aparte de la PyConES, decides aprovechar para disfrutar de unos días más en Galicia, no dejes escapar la oportunidad de visitar:"
+#~ msgstr "If, in addition to PyConES, you decide to enjoy a few more days in Galicia, don't miss the opportunity to visit:"
 
 #~ msgid "Solicitar beca"
 #~ msgstr "Apply for a grant"
