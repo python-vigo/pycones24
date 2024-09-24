@@ -2,18 +2,18 @@ company: Fever
 ---
 _template: job_offers/card_job.html
 ---
-city: Remote
+city: Remoto
 ---
 description:
 
-We are looking for a Senior Frontend Engineer to join the backend team with outstanding software development talent proven by great work results/experience.
-If you're smart, have great energy and have interest in participating in the whole lifecycle of a feature - we are in sync.
+Estamos buscando a un Ingeniero Senior de Frontend para que se una a nuestro equipo de frontend con un talento sobresaliente para el desarrollo de software demostrado por un gran trabajo y resultados/experiencia.
+Si eres inteligente y tienes una gran energía e interés en participar en el desarrollo completo de una funcionalidad - entonces pensamos igual.
 ---
 link_job: https://careers.feverup.com/jobs/4089984101/senior-frontend-engineer/
 ---
 name_job: Senior Frontend Engineer
 ---
-range_salary: (Including Base, Bonus and Stock Options) 67.500 - 90.000
+range_salary: (Incluyendo Base, Bonus y Opciones de Stock) 67.500 - 90.000
 ---
 skills:
 

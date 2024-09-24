@@ -2,21 +2,21 @@ company: Fever
 ---
 _template: job_offers/card_job.html
 ---
-city: Remote
+city: Remoto
 ---
 description:
 
-We are looking for a Senior Backend Engineer to join the backend team with outstanding software development talent proven by great work results/experience.
+Estamos buscando a un Enxeñeiro Senior de Backend para que se una ao noso equipo de backend cun talento sobresaínte para o desenvolvemento de software demostrado por un gran traballo e resultados/experiencia.
 
-If you're smart, have great energy and have interest in participating in the whole lifecycle of a feature - we are in sync.
+Se eres intelixente e tes unha gran enerxía e interés en participar no desenvolvemento completo dunha funcionalidade - entón pensamos igual.
 ---
 link_job: https://careers.feverup.com/jobs/4085720101/senior-backend-engineer/
 ---
-name_job: Senior Backend Engineer
+name_job: Enxeñeiro Senior de Backend
 ---
 range_salary:
 
- (Including Base, Variable, and Stock Options) 67.500 - 90.000
+ (Incluíndo Base, Variable, e Opcións de Stock) 67.500 - 90.000
 ---
 skills:
 
