@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pycones 24\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2024-09-12 00:45+0200\n"
+"PO-Revision-Date: 2024-09-25 10:36+0200\n"
 "Last-Translator: Adrián Chaves (Gallaecio) <adrian@chaves.io>\n"
 "Language-Team: Proxecto Trasno (proxecto@trasno.gal)\n"
 "Language: en\n"
@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Poedit 3.4.4\n"
+"X-Generator: Poedit 3.5\n"
 
 msgid "/static/dossier/2024ES - Dossier - PyConES Vigo - Patrocinadores - resumido.pdf"
 msgstr "/static/dossier/2024EN - Dossier - PyConES Vigo - Sponsors - short.pdf"
@@ -152,18 +152,6 @@ msgstr "Desktop apps"
 msgid "Aplicaciones móviles, multimedia, embebidos"
 msgstr "Mobile apps, multimedia, embedded"
 
-msgid "Are you an experienced Senior Software Engineer ready to take the next step in your career? We are looking for a talented individual to transition into a management role, leading our dynamic engineering team. This is an exciting opportunity to shape the future of our tech space."
-msgstr ""
-
-msgid "As a Lead Technical Director, you will guide a development and support team in building innovative tools for the production teams to efficiently create animated films at Skydance."
-msgstr ""
-
-msgid "As a Senior Pipeline Engineer, you will define, develop, test, analyze, and maintain software applications and libraries for the global feature animation pipeline by employing industry best practices."
-msgstr ""
-
-msgid "As a Senior TD, you will develop and support innovative tools for our production teams to efficiently create animated films at Skydance."
-msgstr ""
-
 msgid "Asignación de entradas de diversidad"
 msgstr "Diversity ticket allocation"
 
@@ -176,8 +164,8 @@ msgstr "Bus"
 msgid "Baja visión o dificultad de audición"
 msgstr "Low vision or hearing difficulties"
 
-msgid "Barcelona - Hybrid"
-msgstr ""
+msgid "Barcelona - Hibrido"
+msgstr "Barcelona - Hybrid"
 
 msgid "Becas"
 msgstr "Grants"
@@ -217,6 +205,15 @@ msgstr "Collaborators"
 
 msgid "Comentarios despectivos trolling, insultantes o derogatorios, y ataques personales o políticos"
 msgstr "Derogatory trolling, insulting or derogatory comments, and personal or political attacks"
+
+msgid "Como Lead Technical Director, guiarás un equipo de desarrollo y soporte en la construcción de herramientas innovadoras para que los equipos de producción puedan crear películas animadas de forma eficiente en Skydance."
+msgstr "As a Lead Technical Director, you will guide a development and support team in building innovative tools for the production teams to efficiently create animated films at Skydance."
+
+msgid "Como Senior Pipeline Engineer, definirás, desarrollarás, probarás, analizarás y mantendrás aplicaciones y librerías de software para la pipeline de funcionalidad global de la animación, empleando las mejores prácticas de la industria."
+msgstr "As a Senior Pipeline Engineer, you will define, develop, test, analyze, and maintain software applications and libraries for the global feature animation pipeline by employing industry best practices."
+
+msgid "Como Senior Technical Director, desarrollarás y mantendrás herramientas innovadoras para que nuestros equipos de producción puedan crear películas animadas de forma eficiente en Skydance."
+msgstr "As a Senior TD, you will develop and support innovative tools for our production teams to efficiently create animated films at Skydance."
 
 msgid "Como llegar a Vigo"
 msgstr "How to get to Vigo"
@@ -421,10 +418,10 @@ msgid "Entradas"
 msgstr "Tickets"
 
 msgid "Entradas apoyo"
-msgstr ""
+msgstr " Supporter Ticket"
 
 msgid "Entradas de apoyo"
-msgstr ""
+msgstr "Supporter Ticket"
 
 msgid "Entradas de diversidad"
 msgstr "Diversity tickets"
@@ -446,6 +443,19 @@ msgstr "Any given person may submit multiple proposals"
 
 msgid "Esta página contiene toda la información sobre el proceso de propuesta para PyConES 2024 – la actualizaremos regularmente a medida que haya nueva información disponible."
 msgstr "This page contains all the information about the procedure to propose a talk or workshop for PyConES 2024. We will update it constantly as new information becomes available."
+
+msgid "Estamos buscando a un Ingeniero Senior de Backend para que se una a nuestro equipo de backend, con un talento sobresaliente para el desarrollo de software demostrado por un gran trabajo y resultados/experiencia."
+msgstr "We are looking for a Senior Backend Engineer to join the backend team with outstanding software development talent proven by great work results/experience."
+
+msgid ""
+"Estamos buscando a un Ingeniero Senior de Frontend para que se una a nuestro equipo de frontend, con un talento sobresaliente para el desarrollo de software demostrado por un gran trabajo y resultados/experiencia.\n"
+"Si eres inteligente y tienes una gran energía e interés en participar en el desarrollo completo de una funcionalidad - entonces pensamos igual."
+msgstr ""
+"Estamos buscando a un Ingeniero Senior de Frontend para que se una a nuestro equipo de frontend, con un talento sobresaliente para el desarrollo de software demostrado por un gran trabajo y resultados/experiencia.\n"
+"Si eres inteligente y tienes una gran energía e interés en participar en el desarrollo completo de una funcionalidad - entonces pensamos igual."
+
+msgid "Estamos buscando a un Tech Lead para que se una a Fever, con un talento sobresaliente para el desarrollo de software, demostrado por un gran trabajo y resultados/experiencia. Alguien al que le importe la calidad del código y no solo hacer que las cosas funcionen, pero que haga las cosas bien - para liderar los desarrollos para los equipos de producto."
+msgstr "We are looking for a Tech Lead to join Fever with outstanding software development talent proven by great work results/experience. Somebody that cares about code quality and not just get things done, but get things done right - to lead engineering developments for product teams."
 
 msgid "Estamos buscando una variedad de charlas sobre temas técnicos y no técnicos. Buscamos charlas accesibles para todos los niveles de habilidad, y buscamos propuestas de oradores nuevos y experimentados."
 msgstr "We are looking for diverse talks about both technical and non-technical topics. We want talks for all skill levels from both new and experienced speakers."
@@ -522,9 +532,6 @@ msgstr "Hotel Zenit"
 msgid "Hoy en día es una ciudad industrial pero también con mucha vida, con una gran vida nocturna y muchas actividades de ocio."
 msgstr "Nowadays it is a industrial city, but also full of life, with a great night life and lots of leisure activities."
 
-msgid "If you're smart, have great energy and have interest in participating in the whole lifecycle of a feature - we are in sync."
-msgstr ""
-
 msgid "Información"
 msgstr "Information"
 
@@ -559,7 +566,7 @@ msgid "La edición 2024 de la PyConES es posible gracias a muchas personas volun
 msgstr "The 2024 edition of PyConES is made possible thanks to many volunteers from communities such as Python Vigo, Python Canarias, Python España, among others:"
 
 msgid "La edición 2024 de la PyConES es posible gracias al generoso apoyo de quienes han adquirido entradas de apoyo individual, apoyo empresarial y fila 0. Agradecemos profundamente a todos nuestros patrocinadores y participantes por su compromiso y contribución para fortalecer y crecer la comunidad Python."
-msgstr ""
+msgstr "PyConES 2024 is made possible by the generous support of those who have purchased individual support, corporate support and row 0 tickets. We are deeply grateful to all our sponsors and participants for their commitment and contribution to strengthen and grow the Python community."
 
 msgid "La forma más habitual de viajar a Vigo es en coche. Las buenas conexiones de la ciudad facilitan el acceso a Vigo por autopista desde Madrid, Santiago, A Coruña y Oporto."
 msgstr "The most common way to get to Vigo is by car. Well connected, you can get to Vigo by highway from Madrid, Santiago, A Coruña and Porto."
@@ -627,8 +634,8 @@ msgstr "Places to see in Vigo"
 msgid "Machine learning e inteligencia artificial"
 msgstr "Machine learning and artificial intelligence"
 
-msgid "Madrid - Hybrid"
-msgstr ""
+msgid "Madrid - Hibrido"
+msgstr "Madrid - Hybrid"
 
 msgid "Marzo"
 msgstr "March"
@@ -666,6 +673,9 @@ msgstr "Sponsorship level"
 
 msgid "Niveles"
 msgstr "Levels"
+
+msgid "No estamos buscando a expertos en stacks. Estamos buscando a gente inteligente que pueda traer las mejores herramientas y metodologías para conseguir hacer el trabajo."
+msgstr "We’re not looking for stack experts. We’re looking for smart people who can bring in the best tools and processes to get the job done. "
 
 msgid "No olvides seguirnos en twitter <a href=\"https://twitter.com/PyConES\" class=\"font-bold text-primary hover:text-secondary\">@PyConES</a> para obtener la información más reciente y actualizada!"
 msgstr "Do not forget to follow us in Twitter <a href=\"https://twitter.com/PyConES\" class=\"font-bold text-primary hover:text-secondary\">@PyConES</a> to get the latest updates!"
@@ -840,8 +850,8 @@ msgstr "Welcome reception and registration"
 msgid "Recomendaciones para tu propuesta"
 msgstr "Tips for your proposal"
 
-msgid "Remote"
-msgstr ""
+msgid "Remoto"
+msgstr "Remote"
 
 msgid "Requerimientos dietéticos"
 msgstr "Dietary requirements"
@@ -905,6 +915,9 @@ msgstr "If, in addition to PyConES, you decide to enjoy a few more days in Galic
 
 msgid "Si en tu caso necesitas una factura para presentarla a la entidad que está cubriendo tu asistencia al evento, generaremos tu factura cuando se realice el evento o hasta cuando se cierre el plazo para cambiar los detalles de los tickets de la conferencia. Principalmente, por la complejidad de cancelar dichos documentos en nuestra infraestructura."
 msgstr "If you need an invoice for the entity that sponsors your attendance to the event, we will generate your invoice once the event is held, or once conference ticket details can no longer be changed. Mainly because of how complex it is to cancel those documents in our framework."
+
+msgid "Si eres inteligente y tienes una gran energía e interés en participar en el desarrollo completo de una funcionalidad - entonces pensamos igual."
+msgstr "If you're smart, have great energy and have interest in participating in the whole lifecycle of a feature - we are in sync."
 
 msgid "Si es un evento presencial, ponte en contacto directamente con las personas organizadoras del evento. Es muy probable que hayan publicando un código de conducta específico del evento con instrucciones de a quién acudir; te proporcionarán un espacio seguro para ayudarte."
 msgstr "If it is an in-person event, contact the event organizers directly. They most likely have posted an event-specific code of conduct with instructions on who to go to; they will provide you with a safe space to help you."
@@ -1012,6 +1025,9 @@ msgstr "All community administrators are required to respect the privacy and sec
 msgid "Todas las personas que sean ponentes, tienen asegurada su participación en la conferencia, es decir no necesitan una entrada. En caso de que tengas pensado presentarte como ponente, independiente de si tu propuesta es aceptada o no, te recomendamos adquirir una entrada."
 msgstr "Every talker is granted entry to the conference, i.e. they do not need a ticket. If you are thinking of submitting a talk, you are encouraged to get a ticket, regardless of whether or not your submission is accepted."
 
+msgid "Trabajarás en el día a día con nuestro equipo de producto para diseñar, crear la arquitectura, e implementar nuestro producto. TravelPerk es una plataforma de siguiente generación para hacer más ameno el proceso de alquilar y organizar viajes de negocios."
+msgstr "You will work on a day-to-day basis with our product team to design, architect and implement our product. TravelPerk is a next-generation platform to take the pain out of booking and managing business travel. "
+
 msgid "TravelPerk"
 msgstr ""
 
@@ -1057,25 +1073,8 @@ msgstr "Vigo is a small city and you can walk almost everywhere. However, mind t
 msgid "Vitrasa es el autobús urbano público de Vigo. Puedes utilizar las siguientes aplicaciones o webs para planificar tu viaje y estar informado:"
 msgstr "Vitrasa is the name of the public urban bus of Vigo. You can use the following apps or websites to plan your trip and find up-to-date information:"
 
-msgid "We are looking for a Senior Backend Engineer to join the backend team with outstanding software development talent proven by great work results/experience."
-msgstr ""
-
-msgid ""
-"We are looking for a Senior Frontend Engineer to join the backend team with outstanding software development talent proven by great work results/experience.\n"
-"If you're smart, have great energy and have interest in participating in the whole lifecycle of a feature - we are in sync."
-msgstr ""
-
-msgid "We are looking for a Tech Lead to join Fever with outstanding software development talent proven by great work results/experience. Somebody that cares about code quality and not just get things done, but get things done right - to lead engineering developments for product teams."
-msgstr ""
-
 msgid "Web oficial auditorio"
 msgstr "Official website auditorium"
-
-msgid "We’re not looking for stack experts. We’re looking for smart people who can bring in the best tools and processes to get the job done. "
-msgstr ""
-
-msgid "You will work on a day-to-day basis with our product team to design, architect and implement our product. TravelPerk is a next-generation platform to take the pain out of booking and managing business travel. "
-msgstr ""
 
 msgid "código de conducta de DjangoCon Europe 2020"
 msgstr "djangoCon Europe 2020 code of conduct"
@@ -1115,6 +1114,9 @@ msgstr "How can I watch the streaming?"
 
 msgid "¿En qué lugar se realizará la conferencia?"
 msgstr "Where is the conference taking place?"
+
+msgid "¿Eres un Desarrollador de Software Senior preparado para dar tu siguiente salto en tu carrera? Estamos buscando una persona talentosa para que asuma un rol de gestión, liderando nuestro dinámico equipo de ingeniería. Esta es una oportunidad emocionante para definir el futuro de nuestro espacio tecnológico."
+msgstr "Are you an experienced Senior Software Engineer ready to take the next step in your career? We are looking for a talented individual to transition into a management role, leading our dynamic engineering team. This is an exciting opportunity to shape the future of our tech space."
 
 msgid "¿La conferencia es sólo en Español?"
 msgstr "Is the conference in Spanish only?"
