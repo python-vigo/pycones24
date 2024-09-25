@@ -109,6 +109,9 @@ msgstr ""
 msgid "Alcance"
 msgstr ""
 
+msgid "Anna es investigadora en tecnologías digitales y procesos democráticos. Actualmente trabaja en The Data Tank una organización que defiende un enfoque holístico de la reutilización de datos para el bien común. Antes de incorporarse a The Data Tank, fue Directora de Participación Pública e Investigación en el Ada Lovelace Institute. Su función se centraba en garantizar que las perspectivas y experiencias públicas se integraran en la investigación de Ada de forma rigurosa, inclusiva y significativa."
+msgstr ""
+
 msgid "Anterior"
 msgstr ""
 
@@ -523,10 +526,16 @@ msgstr ""
 msgid "Internet de las cosas"
 msgstr ""
 
+msgid "Ismael Faro es el Vicepresidente de Cuántica é AI en IBM Research, y tiene la reconocida distinción de Ingeniero Distinguido por sus contribuciones técnicas. Fue el ingeniero arquitecto de la primer plataforma de nube cuántica pública, la IBM Quantum Experience, en 2016. Ismael también es reconocido como uno de los pioneros que contribuyeron al desarrollo del kit de desarrollo software de computación cuántico de código abierto, Qiskit."
+msgstr ""
+
 msgid "Julio"
 msgstr ""
 
 msgid "Junio"
+msgstr ""
+
+msgid "Keynoters"
 msgstr ""
 
 msgid "La Autovía del Noroeste (A-6) y la Autovía das Rías Baixas (A-52) conectan Vigo y Madrid. Si viaja a Vigo desde Portugal, puede tomar la autopista A-3, que une Oporto, Lisboa y Braga con la frontera española, y después la AP-9 y la A-55, que le llevarán directamente al centro de Vigo."

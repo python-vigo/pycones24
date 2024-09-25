@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pycones 24\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2024-09-25 10:36+0200\n"
+"PO-Revision-Date: 2024-09-25 19:10+0200\n"
 "Last-Translator: Adrián Chaves (Gallaecio) <adrian@chaves.io>\n"
 "Language-Team: Proxecto Trasno (proxecto@trasno.gal)\n"
 "Language: en\n"
@@ -124,6 +124,9 @@ msgstr "By participating in the Python Spain community, you commit to promoting 
 
 msgid "Alcance"
 msgstr "Scope"
+
+msgid "Anna es investigadora en tecnologías digitales y procesos democráticos. Actualmente trabaja en The Data Tank una organización que defiende un enfoque holístico de la reutilización de datos para el bien común. Antes de incorporarse a The Data Tank, fue Directora de Participación Pública e Investigación en el Ada Lovelace Institute. Su función se centraba en garantizar que las perspectivas y experiencias públicas se integraran en la investigación de Ada de forma rigurosa, inclusiva y significativa."
+msgstr ""
 
 msgid "Anterior"
 msgstr "Previous"
@@ -541,11 +544,17 @@ msgstr "Home"
 msgid "Internet de las cosas"
 msgstr "Internet of things"
 
+msgid "Ismael Faro es el Vicepresidente de Cuántica é AI en IBM Research, y tiene la reconocida distinción de Ingeniero Distinguido por sus contribuciones técnicas. Fue el ingeniero arquitecto de la primer plataforma de nube cuántica pública, la IBM Quantum Experience, en 2016. Ismael también es reconocido como uno de los pioneros que contribuyeron al desarrollo del kit de desarrollo software de computación cuántico de código abierto, Qiskit."
+msgstr ""
+
 msgid "Julio"
 msgstr "July"
 
 msgid "Junio"
 msgstr "June"
+
+msgid "Keynoters"
+msgstr ""
 
 msgid "La Autovía del Noroeste (A-6) y la Autovía das Rías Baixas (A-52) conectan Vigo y Madrid. Si viaja a Vigo desde Portugal, puede tomar la autopista A-3, que une Oporto, Lisboa y Braga con la frontera española, y después la AP-9 y la A-55, que le llevarán directamente al centro de Vigo."
 msgstr "Autovía del Noroeste (A-6) and Autovía das Rías Baixas (A-52) connect Vigo to Madrid. From Portugal take the A-3 highway, which connects Porto, Lisbon and Braga with the Spanish border, and then take AP-9 followed by A-55, and you will arrive at the city center of Vigo."
@@ -1053,7 +1062,7 @@ msgid "Ver detalles"
 msgstr "See details"
 
 msgid "Ver programa"
-msgstr ""
+msgstr "See schedule"
 
 msgid "Viaje"
 msgstr "Travel"
@@ -1113,7 +1122,7 @@ msgid "¿Cómo accedo al streaming?"
 msgstr "How can I watch the streaming?"
 
 msgid "¿Cómo que aún no tienes entrada? A qué esperas para disfrutar de la comunidad de Python y Vigo"
-msgstr ""
+msgstr "What do you mean you don't have a ticket yet? What are you waiting for to enjoy the Python community and Vigo"
 
 msgid "¿En qué lugar se realizará la conferencia?"
 msgstr "Where is the conference taking place?"
