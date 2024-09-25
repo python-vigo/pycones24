@@ -1,7 +1,7 @@
 {% from "macros/load_icon.html" import load_icon %}
 
-{% macro keynoters_card(photo_avif, photo, name, description, url_linkedin) %}
-  <article class="flex flex-col pr-12 pb-4 pl-12 w-full rounded-br-lg md:flex-row md:pl-0 border-[2px] border-primary h-fit md:w-[566px]">
+{% macro keynoters_card(photo_avif, photo, name, description, url_linkedin, talk_url, talk_date, talk_title) %}
+  <article class="flex flex-col pr-12 pb-4 pl-12 w-full rounded-br-lg md:flex-row md:pl-0 border-[2px] border-primary md:h-[520px] md:w-[566px]">
       <picture class="hidden mx-5 mt-6 md:block md:w-60">
           <source srcset="{{ "/static/logo/logo-red.avif"|asseturl }}" type="image/webp">
           <img src="{{ "/static/logo/logo-red.png"|asseturl }}" alt="Logo PyConES 2024">
@@ -23,9 +23,21 @@
                   {{ load_icon("icons/rrss-linkedin-icon.html", "w-4 fill-primary") }}
               </a>
           </header>
-          <p class="mt-6 text-lg text-secondary">
+          <p class="mt-6 mb-8 text-lg text-secondary">
               {{ description }}
           </p>
+          <a
+            href="{{ talk_url }}"
+            aria-label="Pretix {{ name }}"
+            rel="noopener noreferrer"
+            class="p-2 hover:text-primary hover:fill-primary"
+          >
+              <div class="flex justify-between">
+                  <h5 class="font-semibold">{{ talk_date }}</h5>
+                  {{ load_icon("icons/open-link.html", "w-5 h-5") }}
+              </div>
+              <p class="mt-1">{{ talk_title }}</p>
+            </a>
       </div>
   </article>
 {% endmacro %}
