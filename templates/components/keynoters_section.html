@@ -1,0 +1,45 @@
+{% from "macros/keynoters_card.html" import keynoters_card %}
+
+<section class="bg-[#F2F5F7] pt-20 p-4 pb-14">
+    <h2 id="keynoters" class="mb-20 text-5xl text-center text-primary">
+        <a href="#keynoters">{{ _("Keynoters") }}</a>
+    </h2>
+    <div class="flex flex-col gap-8 items-center lg:flex-row lg:justify-center">
+        {{
+          keynoters_card(
+            "/static/images/keynoters/ismael_faro.avif",
+            "/static/images/keynoters/ismael_faro.jpg",
+            "Ismael Faro",
+            _(
+              "Ismael Faro es el Vicepresidente de Cuántica é AI en IBM Research, y tiene la reconocida distinción "
+              "de Ingeniero Distinguido por sus contribuciones técnicas. Fue el ingeniero arquitecto de la primer "
+              "plataforma de nube cuántica pública, la IBM Quantum Experience, en 2016. Ismael también es "
+              "reconocido como uno de los pioneros que contribuyeron al desarrollo del kit de desarrollo software de "
+              "computación cuántico de código abierto, Qiskit."
+            ),
+            "https://www.linkedin.com/in/ismaelfaro/",
+            "https://pretalx.com/pycones-2024/talk/QTRXVW/",
+            "Sábado 05, 10:00–10:45 | Sala Treboada",
+            "Python en Quantum+AI."
+          )
+        }}
+        {{
+            keynoters_card(
+              "/static/images/keynoters/anna.avif",
+              "/static/images/keynoters/anna.jpg",
+              "Anna",
+              _(
+                "Anna es investigadora en tecnologías digitales y procesos democráticos. Actualmente trabaja en The Data Tank "
+                "una organización que defiende un enfoque holístico de la reutilización de datos para el bien común. "
+                "Antes de incorporarse a The Data Tank, fue Directora de Participación Pública e Investigación en el "
+                "Ada Lovelace Institute. Su función se centraba en garantizar que las perspectivas y experiencias públicas "
+                "se integraran en la investigación de Ada de forma rigurosa, inclusiva y significativa."
+              ),
+              "https://www.linkedin.com/in/annacolom/",
+              "https://pretalx.com/pycones-2024/talk/CVXJMM/",
+              "Sábado 05, 17:30–18:15 | Sala Treboada",
+              "Menos 'hype', más responsabilidad? Quien decide qué en el uso de datos y la IA."
+            )
+        }}
+    </div>
+</section>
