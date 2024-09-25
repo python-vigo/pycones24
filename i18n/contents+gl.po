@@ -835,9 +835,6 @@ msgstr "Python España, como asociación ao redor da que se organizan eventos de
 msgid "Queremos motivar a personas con distintos niveles de experiencia en ponencias a participar en la conferencia. Sabemos que para personas que recién comienzan, el presentar una idea que refleje todos los detalles geniales que tu charla incluirá puede ser confuso."
 msgstr "Queremos motivar a persoas con distintos niveis de experiencia en ponencias a participar na conferencia. Sabemos que para persoas que están comezando, pode resultar confuso o proceso de presentar unha idea que reflicta todos os detalles interesantes sobre a túa charla."
 
-msgid "Quiero patrocinar"
-msgstr "Quero patrocinar"
-
 msgid "Quiero patrocinar pero ¿Cómo funcionan los add-ons?"
 msgstr "Quero patrocinar pero… como funcionan os complementos?"
 
@@ -910,6 +907,9 @@ msgstr "Segundo o plan elixido terías as seguintes entradas:<ul class=\"mt-1 ml
 msgid "Sesión de contratación"
 msgstr "Sesión de contratación"
 
+msgid "Si aparte de la PyConES, decides aprovechar para disfrutar de unos días más en Galicia, no dejes escapar la oportunidad de visitar:"
+msgstr "Se á parte da PyConES, decides aproveitar para gozar duns días máis en Galicia, non deixes escapar a oportunidade de visitar:"
+
 msgid "Si aparte de la PyConES, decides aprovechar para disfrutar de unos días más en Galicia, no dejes escapar la oportunidad de visitar: "
 msgstr "Se á parte da PyConES, decides aproveitar para gozar duns días máis en Galicia, non deixes escapar a oportunidade de visitar: "
 
@@ -931,9 +931,6 @@ msgstr "Se non dispós de moito tempo, recomendámosche os seguintes lugares pol
 
 msgid "Si prefieres un poco más de flexibilidad, no te costará encontrar un taxi en Vigo. Es una opción muy cómoda para moverse por el centro de Vigo y sus barrios. Tienen tarifas razonables y te permitirán desplazarte rápidamente."
 msgstr "Se prefires un pouco máis de flexibilidade, non te custará atopar un taxi en Vigo. É unha opción moi cómoda para moverse polo centro de Vigo e os seus barrios. Teñen tarifas razoábeis e permitirante desprazarte rapidamente."
-
-msgid "Si quieres formar parte de nuestros patrocinadores para hacer esta conferencia aún más impresionante puedes disponer de un espacio dentro del evento."
-msgstr "Se queres formar parte dos nosos patrocinadores para facer esta conferencia aínda máis impresionante, podes dispoñer dun espazo dentro do evento."
 
 msgid "Si quieres saber que hacer o ver en Vigo, puedes consultar nuestras recomendaciones en:"
 msgstr "Se queres saber que facer ou ver en Vigo, podes consultar as nosas recomendacións en:"
@@ -1055,6 +1052,9 @@ msgstr "Valoramos moito as propostas:"
 msgid "Ver detalles"
 msgstr "Ver detalles"
 
+msgid "Ver programa"
+msgstr ""
+
 msgid "Viaje"
 msgstr "Viaxe"
 
@@ -1111,6 +1111,9 @@ msgstr "E moitos máis!"
 
 msgid "¿Cómo accedo al streaming?"
 msgstr "Como acceso á emisión?"
+
+msgid "¿Cómo que aún no tienes entrada? A qué esperas para disfrutar de la comunidad de Python y Vigo"
+msgstr ""
 
 msgid "¿En qué lugar se realizará la conferencia?"
 msgstr "En que lugar se realizará a conferencia?"
@@ -1175,6 +1178,9 @@ msgstr "Viste o chulos que quedaron os vídeos do ano pasado? Agora imaxínache 
 #~ msgid "Puede consultar algunos de ellos en los siguientes enlaces:"
 #~ msgstr "Pode consultar algúns deles nas seguintes ligazóns:"
 
+#~ msgid "Quiero patrocinar"
+#~ msgstr "Quero patrocinar"
+
 #, python-format
 #~ msgid "Se otorgan a través de un proceso de solicitud activo hasta el 30 de junio: <a href=\"%(url)s\" target=\"_blank\" class=\"font-bold underline text-primary\"> ¡Quiero solicitar una beca! </a>"
 #~ msgstr "Outórganse a través dun proceso de solicitude activo ata o 30 de xuño: <a href=\"%(url)s\" target=\"_blank\" class=\"font-bold underline text-primary\"> Quero solicitar unha bolsa! </a>"
@@ -1203,8 +1209,8 @@ msgstr "Viste o chulos que quedaron os vídeos do ano pasado? Agora imaxínache 
 #~ msgid "Selecciona idioma"
 #~ msgstr "Escolle un idioma"
 
-#~ msgid "Si aparte de la PyConES, decides aprovechar para disfrutar de unos días más en Galicia, no dejes escapar la oportunidad de visitar:"
-#~ msgstr "Se á parte da PyConES, decides aproveitar para gozar duns días máis en Galicia, non deixes escapar a oportunidade de visitar:"
+#~ msgid "Si quieres formar parte de nuestros patrocinadores para hacer esta conferencia aún más impresionante puedes disponer de un espacio dentro del evento."
+#~ msgstr "Se queres formar parte dos nosos patrocinadores para facer esta conferencia aínda máis impresionante, podes dispoñer dun espazo dentro do evento."
 
 #~ msgid "Si quieres formar parte de nuestros patrocinadores para hacer esta conferencia aún más impresionante puedes disponer de un espacio dentro del eventos."
 #~ msgstr "Se queres formar parte dos nosos patrocinadores para facer esta conferencia aínda máis impresionante, podes dispoñer dun espazo dentro do evento."
