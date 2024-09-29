@@ -19,10 +19,11 @@ reception_description:
 Location: Mar de Vigo Auditorium, Main Hall:
 
 <ul class="mt-2 ml-8 list-disc">
-<li>The Conference will take place throughout the building. We will have the main auditorium, as well as 3 additional rooms for talks and workshops. In addition, the main hall space will be where coffee breaks and sponsor space will take place.</li>
-<li>The lunch break will take place on the 3rd floor next to the Terrace over the estuary of the Mar De Vigo Auditorium</li>
-<li>There are different levels of access to the 3rd floor of the building.</li>
-<li>The Auditorium is quite new and has elevators from street level to the top floor or you can choose to use the stairs.</li>
+<li>La Conferencia se llevará a cabo en todo el edificio. Dispondremos del auditorio principal, así como 3 salas adicionales para
+las charlas y talleres. Además, el espacio del hall principal será donde se realizarán los coffe-breaks y el espacio de patrocinadores.</li>
+<li>La pausa para la comida se realizará en el 3er piso junto a la Terraza sobre el estuario del Auditorio Mar De Vigo</li>
+<li>Hay diferentes niveles de acceso al 3er piso del edificio.</li>
+<li>El Auditorio es bastante reciente y cuenta con ascensores desde el nivel de la calle hasta el último piso o puedes optar por usar las escaleras.</li>
 </ul>
 ---
 _template: venue/venue.html
