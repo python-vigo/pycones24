@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pycones 24\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2024-09-25 10:41+0200\n"
+"PO-Revision-Date: 2024-09-29 23:28+0200\n"
 "Last-Translator: Adrián Chaves (Gallaecio) <adrian@chaves.io>\n"
 "Language-Team: Proxecto Trasno (proxecto@trasno.gal)\n"
 "Language: gl\n"
@@ -59,15 +59,19 @@ msgstr ""
 
 msgid ""
 "<ul class=\"mt-2 ml-8 list-disc\">\n"
-"    <li>La Conferencia se llevará a cabo en el 3er piso, el más alto del edificio, junto a la Terraza sobre el estuario del Auditorio Mar De Vigo. </li>\n"
+"    <li>La Conferencia se llevará a cabo en todo el edificio. Dispondremos del auditorio principal, así como 3 salas adicionales para\n"
+"las charlas y talleres. Además, el espacio del hall principal será donde se realizarán los coffe-breaks y el espacio de patrocinadores.</li>\n"
+"    <li>La pausa para la comida se realizará en el 3er piso junto a la Terraza sobre el estuario del Auditorio Mar De Vigo</li>\n"
 "     <li>Hay diferentes niveles de acceso al 3er piso del edificio. </li>\n"
 "     <li>El Auditorio es bastante reciente y cuenta con ascensores desde el nivel de la calle hasta el último piso o puedes optar por usar las escaleras. </li>\n"
 "</ul>"
 msgstr ""
 "<ul class=\"mt-2 ml-8 list-disc\">\n"
-"    <li>A Conferencia levará a cabo no 3er piso, o máis alto do edificio, xunto á Terraza sobre o estuario do Auditorio Mar De Vigo. </li>\n"
-"     <li>Hai diferentes niveis de acceso ao 3er piso do edificio. </li>\n"
-"     <li>O Auditorio é bastante recente e conta con ascensores desde o nivel da rúa ata o último piso ou podes optar por usar as escaleiras.</li>\n"
+"    <li>A conferencia celebrarase en todo o edificio. Teremos o auditorio principal, así como 3 salas adicionais para\n"
+"charlas e obradoiros. Ademais, o espazo do salón principal será onde se celebrarán os coffee breaks e o espazo dos patrocinadores.</li>\n"
+"    <li>O descanso do xantar será no 3o andar xunto á Terraza sobre a ría do Auditorio Mar de Vigo</li>\n"
+"     <li>Hai diferentes niveis de acceso ao 3o andar do edificio. </li>\n"
+"     <li>O Auditorio é bastante recente e ten ascensores desde o nivel da rúa ata o piso superior ou podes optar por usar as escaleiras.</li>\n"
 "</ul>"
 
 msgid ""
@@ -916,9 +920,6 @@ msgstr "Segundo o plan elixido terías as seguintes entradas:<ul class=\"mt-1 ml
 msgid "Sesión de contratación"
 msgstr "Sesión de contratación"
 
-msgid "Si aparte de la PyConES, decides aprovechar para disfrutar de unos días más en Galicia, no dejes escapar la oportunidad de visitar:"
-msgstr "Se á parte da PyConES, decides aproveitar para gozar duns días máis en Galicia, non deixes escapar a oportunidade de visitar:"
-
 msgid "Si aparte de la PyConES, decides aprovechar para disfrutar de unos días más en Galicia, no dejes escapar la oportunidad de visitar: "
 msgstr "Se á parte da PyConES, decides aproveitar para gozar duns días máis en Galicia, non deixes escapar a oportunidade de visitar: "
 
@@ -1040,8 +1041,8 @@ msgstr "TravelPerk"
 msgid "Tu patrocinio"
 msgstr "Tu patrocinio"
 
-msgid "Ubicación: Sala Multipropósito - 3er piso:"
-msgstr "Ubicación: Sala Multipropósito - 3er piso:"
+msgid "Ubicación: Auditorio Mar de Vigo, Hall Principal:"
+msgstr ""
 
 msgid "Un evento que reunirá a cientos de entusiastas del lenguaje de programación Python, con una agenda increíble en la mejor localización posible."
 msgstr "Un evento que reunirá a centos de entusiastas da linguaxe de programación Python, cunha axenda incríbel na mellor localización posíbel."
@@ -1169,6 +1170,19 @@ msgstr "Viste o chulos que quedaron os vídeos do ano pasado? Agora imaxínache 
 #~ msgid "10 lugares que ver imprescindibles"
 #~ msgstr "10 lugares imprescindíbeis para ver"
 
+#~ msgid ""
+#~ "<ul class=\"mt-2 ml-8 list-disc\">\n"
+#~ "    <li>La Conferencia se llevará a cabo en el 3er piso, el más alto del edificio, junto a la Terraza sobre el estuario del Auditorio Mar De Vigo. </li>\n"
+#~ "     <li>Hay diferentes niveles de acceso al 3er piso del edificio. </li>\n"
+#~ "     <li>El Auditorio es bastante reciente y cuenta con ascensores desde el nivel de la calle hasta el último piso o puedes optar por usar las escaleras. </li>\n"
+#~ "</ul>"
+#~ msgstr ""
+#~ "<ul class=\"mt-2 ml-8 list-disc\">\n"
+#~ "    <li>A Conferencia levará a cabo no 3er piso, o máis alto do edificio, xunto á Terraza sobre o estuario do Auditorio Mar De Vigo. </li>\n"
+#~ "     <li>Hai diferentes niveis de acceso ao 3er piso do edificio. </li>\n"
+#~ "     <li>O Auditorio é bastante recente e conta con ascensores desde o nivel da rúa ata o último piso ou podes optar por usar as escaleiras.</li>\n"
+#~ "</ul>"
+
 #~ msgid "Apertura para el envío de ponencias/charlas"
 #~ msgstr "Apertura para o envío de ponencias/charlas"
 
@@ -1218,6 +1232,9 @@ msgstr "Viste o chulos que quedaron os vídeos do ano pasado? Agora imaxínache 
 #~ msgid "Selecciona idioma"
 #~ msgstr "Escolle un idioma"
 
+#~ msgid "Si aparte de la PyConES, decides aprovechar para disfrutar de unos días más en Galicia, no dejes escapar la oportunidad de visitar:"
+#~ msgstr "Se á parte da PyConES, decides aproveitar para gozar duns días máis en Galicia, non deixes escapar a oportunidade de visitar:"
+
 #~ msgid "Si quieres formar parte de nuestros patrocinadores para hacer esta conferencia aún más impresionante puedes disponer de un espacio dentro del evento."
 #~ msgstr "Se queres formar parte dos nosos patrocinadores para facer esta conferencia aínda máis impresionante, podes dispoñer dun espazo dentro do evento."
 
@@ -1229,6 +1246,9 @@ msgstr "Viste o chulos que quedaron os vídeos do ano pasado? Agora imaxínache 
 
 #~ msgid "Solicitar entrada diversidad"
 #~ msgstr "Solicitar unha entrada de diversidade"
+
+#~ msgid "Ubicación: Sala Multipropósito - 3er piso:"
+#~ msgstr "Ubicación: Sala Multipropósito - 3er piso:"
 
 #~ msgid "Vigo"
 #~ msgstr "Vigo"
