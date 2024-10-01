@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pycones 24\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2024-09-29 23:28+0200\n"
+"PO-Revision-Date: 2024-10-02 01:06+0200\n"
 "Last-Translator: Adrián Chaves (Gallaecio) <adrian@chaves.io>\n"
 "Language-Team: Proxecto Trasno (proxecto@trasno.gal)\n"
 "Language: gl\n"
@@ -545,6 +545,9 @@ msgstr "Información"
 msgid "Inicio"
 msgstr "Inicio"
 
+msgid "Innatial Developers"
+msgstr "Innatial Developers"
+
 msgid "Internet de las cosas"
 msgstr "Internet das cousas"
 
@@ -558,7 +561,7 @@ msgid "Junio"
 msgstr "Xuño"
 
 msgid "Keynoters"
-msgstr ""
+msgstr "Keynoters"
 
 msgid "La Autovía del Noroeste (A-6) y la Autovía das Rías Baixas (A-52) conectan Vigo y Madrid. Si viaja a Vigo desde Portugal, puede tomar la autopista A-3, que une Oporto, Lisboa y Braga con la frontera española, y después la AP-9 y la A-55, que le llevarán directamente al centro de Vigo."
 msgstr "A Autovía do Noroeste (A-6) e a Autovía das Rías Baixas (A-52) conectan Vigo e Madrid. Se viaxa a Vigo desde Portugal, pode tomar a autopista A-3, que une Porto, Lisboa e Braga coa fronteira española, e despois a AP-9 e a A-55, que lle levarán directamente ao centro de Vigo."
@@ -920,6 +923,9 @@ msgstr "Segundo o plan elixido terías as seguintes entradas:<ul class=\"mt-1 ml
 msgid "Sesión de contratación"
 msgstr "Sesión de contratación"
 
+msgid "Si aparte de la PyConES, decides aprovechar para disfrutar de unos días más en Galicia, no dejes escapar la oportunidad de visitar:"
+msgstr "Se á parte da PyConES, decides aproveitar para gozar duns días máis en Galicia, non deixes escapar a oportunidade de visitar:"
+
 msgid "Si aparte de la PyConES, decides aprovechar para disfrutar de unos días más en Galicia, no dejes escapar la oportunidad de visitar: "
 msgstr "Se á parte da PyConES, decides aproveitar para gozar duns días máis en Galicia, non deixes escapar a oportunidade de visitar: "
 
@@ -1042,7 +1048,7 @@ msgid "Tu patrocinio"
 msgstr "Tu patrocinio"
 
 msgid "Ubicación: Auditorio Mar de Vigo, Hall Principal:"
-msgstr ""
+msgstr "Ubicación: Auditorio Mar de Vigo, Hall Principal:"
 
 msgid "Un evento que reunirá a cientos de entusiastas del lenguaje de programación Python, con una agenda increíble en la mejor localización posible."
 msgstr "Un evento que reunirá a centos de entusiastas da linguaxe de programación Python, cunha axenda incríbel na mellor localización posíbel."
@@ -1063,7 +1069,7 @@ msgid "Ver detalles"
 msgstr "Ver detalles"
 
 msgid "Ver programa"
-msgstr ""
+msgstr "Ver programa"
 
 msgid "Viaje"
 msgstr "Viaxe"
@@ -1079,6 +1085,9 @@ msgstr "Vigo conta con dúas estacións de ferrocarril: Urzaiz, desde onde sae o
 
 msgid "Vigo es una ciudad pequeña y se puede ir andando a casi todas partes, aunque Vigo es conocida por sus cuestas (¡así que prepárate para subir y bajar!). Hoy en día, hay muchas escaleras mecánicas y ascensores que te ayudarán con eso."
 msgstr "Vigo é unha cidade pequena e pode irse andando a case todas partes, aínda que Vigo é coñecida polas súas costas (así que prepárate para subir e baixar!). Hoxe en día hai moitas escaleiras mecánicas e ascensores que te axudarán."
+
+msgid "Vigo, Hibrido"
+msgstr "Vigo, Hibrido"
 
 msgid "Vitrasa es el autobús urbano público de Vigo. Puedes utilizar las siguientes aplicaciones o webs para planificar tu viaje y estar informado:"
 msgstr "Vitrasa é o autobús urbano público de Vigo. Podes utilizar as seguintes aplicacións ou webs para planificar a túa viaxe e ter a última información:"
@@ -1123,7 +1132,7 @@ msgid "¿Cómo accedo al streaming?"
 msgstr "Como acceso á emisión?"
 
 msgid "¿Cómo que aún no tienes entrada? A qué esperas para disfrutar de la comunidad de Python y Vigo"
-msgstr ""
+msgstr "Como que aínda non tes entrada? A que esperas para gozar da comunidade de Python e Vigo"
 
 msgid "¿En qué lugar se realizará la conferencia?"
 msgstr "En que lugar se realizará a conferencia?"
@@ -1157,6 +1166,9 @@ msgstr "Que dias son os titoriais e as charlas?"
 
 msgid "¿Qué se hablará y que aprenderá la gente que asista?"
 msgstr "Sobre que se falará e que aprenderá a xente que asista?"
+
+msgid "¿Te encanta programar y quieres prosperar económica y profesionalmente? En Innatial Developers buscamos desarrolladores Python especializados en el área de data science y machine learning, un perfil autónomo y gran calidad técnica."
+msgstr "Gústache a programación e queres crecer tanto a nivel profesional como económico? En Innatial Developers buscamos desenvolvedores de Python especializados en ciencia de datos e aprendizaxe automática. Buscamos un perfil autónomo con grandes coñecementos técnicos."
 
 msgid "¿Te gusta la música? ¡A nosotros nos encanta! Sé el patrocinador que nos brinde un concierto. Sitúa tus roll-ups en el meollo cuando todo el mundo esté participando."
 msgstr "Gústache a música? A nós encántanos! Sei o patrocinador que nos brinde un concerto. Sitúa os teus roll-ups no meollo cando todo o mundo estea a participar."
@@ -1231,9 +1243,6 @@ msgstr "Viste o chulos que quedaron os vídeos do ano pasado? Agora imaxínache 
 
 #~ msgid "Selecciona idioma"
 #~ msgstr "Escolle un idioma"
-
-#~ msgid "Si aparte de la PyConES, decides aprovechar para disfrutar de unos días más en Galicia, no dejes escapar la oportunidad de visitar:"
-#~ msgstr "Se á parte da PyConES, decides aproveitar para gozar duns días máis en Galicia, non deixes escapar a oportunidade de visitar:"
 
 #~ msgid "Si quieres formar parte de nuestros patrocinadores para hacer esta conferencia aún más impresionante puedes disponer de un espacio dentro del evento."
 #~ msgstr "Se queres formar parte dos nosos patrocinadores para facer esta conferencia aínda máis impresionante, podes dispoñer dun espazo dentro do evento."
