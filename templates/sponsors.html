@@ -1,0 +1,27 @@
+{% extends "layouts/layout_title.html" %}
+
+{% from "macros/logo_sponsors.html" import render_logo_sponsors %}
+{% from "macros/link.html" import link %}
+
+
+{% block h1_title %}{{ _("Patrocinadores") }}{% endblock h1_title %}
+{% block content %}
+    <p class="mt-2 mb-10 text-2xl text-secondary">
+      {{ _("Gracias a las empresas que colaboran con la PyConES podemos ofrecer "
+        "el mejor evento y experiencia posible. Somos una conferencia con un bajo "
+        "coste de entrada capaz de ofrecer una experiencia de 3 días incluyendo regalos, "
+        "almuerzos, comidas y meriendas. Con la ayuda de estas empresas conseguimos hacer "
+        "un evento diverso e inclusivo enfocado en cuidar la comunidad de Python.") }}
+    </p>
+    <div class="*:lg:w-11/12">
+        {% include "components/sponsors_logos.html" %}
+    </div>
+    <article class="mt-32 text-secondary">
+        {% trans trimmed %}
+          También es posible gracias al generoso apoyo de quienes han adquirido entradas de
+          apoyo individual, apoyo empresarial y fila 0. Puedes ver quienes son en el siguiente
+          enlace:
+        {% endtrans %}
+        <a href="{{ '/entradas-apoyo'|url }}" class="underline cursor-pointer text-primary hover:text-secondary">{{ _("Entradas apoyo") }}</a>
+    </article>
+{% endblock content %}
