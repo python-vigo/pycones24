@@ -1,0 +1,9 @@
+{% extends "layout.html" %}
+
+
+{% block main_content %}
+    <section class="pb-10 mx-auto md:w-11/12 lg:w-10/12">
+      <h1 class="my-10 text-5xl text-primary">{% block h1_title %}{% endblock h1_title %}</h1>
+      {% block content %}
+      {% endblock content %}
+{% endblock main_content %}
