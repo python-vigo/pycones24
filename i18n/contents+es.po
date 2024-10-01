@@ -525,6 +525,9 @@ msgstr ""
 msgid "Inicio"
 msgstr ""
 
+msgid "Innatial Developers"
+msgstr ""
+
 msgid "Internet de las cosas"
 msgstr ""
 
@@ -895,6 +898,9 @@ msgstr ""
 msgid "Sesión de contratación"
 msgstr ""
 
+msgid "Si aparte de la PyConES, decides aprovechar para disfrutar de unos días más en Galicia, no dejes escapar la oportunidad de visitar:"
+msgstr ""
+
 msgid "Si aparte de la PyConES, decides aprovechar para disfrutar de unos días más en Galicia, no dejes escapar la oportunidad de visitar: "
 msgstr ""
 
@@ -1055,6 +1061,9 @@ msgstr ""
 msgid "Vigo es una ciudad pequeña y se puede ir andando a casi todas partes, aunque Vigo es conocida por sus cuestas (¡así que prepárate para subir y bajar!). Hoy en día, hay muchas escaleras mecánicas y ascensores que te ayudarán con eso."
 msgstr ""
 
+msgid "Vigo, Hibrido"
+msgstr ""
+
 msgid "Vitrasa es el autobús urbano público de Vigo. Puedes utilizar las siguientes aplicaciones o webs para planificar tu viaje y estar informado:"
 msgstr ""
 
@@ -1131,6 +1140,9 @@ msgid "¿Qué días son los tutoriales y charlas?"
 msgstr ""
 
 msgid "¿Qué se hablará y que aprenderá la gente que asista?"
+msgstr ""
+
+msgid "¿Te encanta programar y quieres prosperar económica y profesionalmente? En Innatial Developers buscamos desarrolladores Python especializados en el área de data science y machine learning, un perfil autónomo y gran calidad técnica."
 msgstr ""
 
 msgid "¿Te gusta la música? ¡A nosotros nos encanta! Sé el patrocinador que nos brinde un concierto. Sitúa tus roll-ups en el meollo cuando todo el mundo esté participando."
