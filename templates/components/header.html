@@ -12,13 +12,26 @@
     <a href="{{ '/programa/'|url }}" class="hidden text-lg font-bold text-white 2xl:block hover:underline">
       {{ _("Programa") }}
     </a>
-    <a href="{{ '/patrocinios/'|url }}" class="hidden text-lg font-bold text-white 2xl:block hover:underline">
-      {{ _("Patrocinios") }}
-    </a>
+    <div class="hidden relative 2xl:block group/information max-w-fit">
+      <button type="button" class="inline-flex gap-x-1 items-center text-lg font-bold leading-6 text-white peer" aria-expanded="false">
+        <span>{{ _("Patrocinadores y empleo") }}</span>
+        {{ load_icon("icons/arrow-down.html") }}
+      </button>
+      <div class="absolute z-10 flex-col hidden w-screen *:px-8 *:py-1 -translate-x-1/2 bg-white rounded-lg gap-y-1 left-1/2 max-w-max peer-focus:flex hover:flex border-[1.5px] border-secondary">
+          <a href="{{ '/patrocinadores/'|url }}" class="text-lg font-semibold text-black hover:text-white hover:bg-secondary">
+            {{ _("Patrocinadores") }}
+          </a>
+          <a href="{{ '/ofertas-trabajo/'|url }}" class="text-lg font-semibold text-black hover:text-white hover:bg-secondary">
+            {{ _("Ofertas de trabajo") }}
+          </a>
+          <a href="{{ '/patrocinios/'|url }}" class="text-lg font-semibold text-black hover:text-white hover:bg-secondary">
+            {{ _("¿Quieres patrocinar?") }}
+          </a>
+      </div>
+    </div>
     <a href="{{ '/diversidad-becas/'|url }}" class="hidden text-lg font-bold text-white 2xl:block hover:underline">
       {{ _("Diversidad y becas") }}
     </a>
-    <a href="{{ '/ofertas-trabajo/'|url }}" class="hidden text-lg font-bold text-white 2xl:block hover:underline">{{ _("Ofertas de trabajo") }}</a>
     <div class="hidden relative 2xl:block group/information max-w-fit">
       <button type="button" class="inline-flex gap-x-1 items-center text-lg font-bold leading-6 text-white peer" aria-expanded="false">
         <span>{{ _("Información") }}</span>
