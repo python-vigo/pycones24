@@ -1,0 +1,22 @@
+company: Innatial Developers
+---
+_template: job_offers/card_job.html
+---
+city: Vigo, Hibrido
+---
+description: ¿Te encanta programar y quieres prosperar económica y profesionalmente? En Innatial Developers buscamos desarrolladores Python especializados en el área de data science y machine learning, un perfil autónomo y gran calidad técnica.
+---
+link_job: https://www.linkedin.com/posts/innatial_wearehiring-python-development-activity-7245426150137548804-OOEc
+---
+name_job: Desarrollador Mid Python
+---
+range_salary: 30.000 - 35.000
+---
+skills:
+
+Pandas
+PyTorch
+TensorFlow
+Kafka
+---
+contact_email: rrhh@innatial.com
