@@ -1,0 +1,22 @@
+company: Innatial Developers
+---
+_template: job_offers/card_job.html
+---
+city: Vigo, Hybrid
+---
+description: Do you like programming and would like to grow both professionally and economically? At Innatial Developers we are looking for Python developers specialized in data science and machine learning. We are looking for an autonomous profile with great technical knowledge.
+---
+link_job: https://www.linkedin.com/posts/innatial_wearehiring-python-development-activity-7245426150137548804-OOEc
+---
+name_job: Mid Python Developer
+---
+range_salary: 30.000 - 35.000
+---
+skills:
+
+Pandas
+PyTorch
+TensorFlow
+Kafka
+---
+contact_email: rrhh@innatial.com
