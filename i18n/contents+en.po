@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pycones 24\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2024-10-02 01:04+0200\n"
+"PO-Revision-Date: 2024-10-02 13:47+0200\n"
 "Last-Translator: Adrián Chaves (Gallaecio) <adrian@chaves.io>\n"
 "Language-Team: Proxecto Trasno (proxecto@trasno.gal)\n"
 "Language: en\n"
@@ -180,6 +180,9 @@ msgstr "Grants"
 msgid "Beneficios"
 msgstr "Advantages"
 
+msgid "Bloomberg"
+msgstr ""
+
 msgid "Bromas racistas, sexistas o excluyentes"
 msgstr "Racist, sexist or exclusionary jokes"
 
@@ -288,6 +291,9 @@ msgstr "Getting to Vigo"
 
 msgid "Dar y aceptar adecuadamente críticas constructivas"
 msgstr "Appropriately give and accept constructive criticism"
+
+msgid "Debido al continuo crecimiento y a la necesidad de dar soporte al negocio a nivel global, estamos buscando un Team Lead para construir y hacer crecer nuestro equipo de data management en Londres. Si te apasiona la gestión de personas, la gestión de datos y la resolución de retos únicos, ¡nos encantaría hablar contigo!"
+msgstr "Due to the continuous growth and a need to support business globally, we are looking for a Team Lead to build and grow our Data Management team in London. If you have a passion towards people management, data management and solving unique challenges, we would love to talk to you!"
 
 msgid "Definición del problema"
 msgstr "Definition of the problem"
@@ -923,9 +929,6 @@ msgstr "Depending on the chosen sponsorship plan you will have the following tic
 msgid "Sesión de contratación"
 msgstr "Hiring session"
 
-msgid "Si aparte de la PyConES, decides aprovechar para disfrutar de unos días más en Galicia, no dejes escapar la oportunidad de visitar:"
-msgstr "If, in addition to PyConES, you decide to enjoy a few more days in Galicia, don't miss the opportunity to visit:"
-
 msgid "Si aparte de la PyConES, decides aprovechar para disfrutar de unos días más en Galicia, no dejes escapar la oportunidad de visitar: "
 msgstr "If, in addition to PyConES, you decide to enjoy a few more days in Galicia, don't miss the opportunity to visit: "
 
@@ -1210,6 +1213,9 @@ msgstr "Did you see how cool last year’s videos turned out? Now image your log
 #~ msgid "La convocatoria de propuestas (CFP) es hasta las 23:59 (UTC) del 31 de mayo. Mejor no dejarlo para el último minuto."
 #~ msgstr "The call for papers (CfP) closes at 23:59 UTC on May 31th. Do not leave it for the very last minute!"
 
+#~ msgid "London"
+#~ msgstr "Londres"
+
 #~ msgid "Puede consultar algunos de ellos en los siguientes enlaces:"
 #~ msgstr "Find some of them in the following links:"
 
@@ -1243,6 +1249,9 @@ msgstr "Did you see how cool last year’s videos turned out? Now image your log
 
 #~ msgid "Selecciona idioma"
 #~ msgstr "Choose Language"
+
+#~ msgid "Si aparte de la PyConES, decides aprovechar para disfrutar de unos días más en Galicia, no dejes escapar la oportunidad de visitar:"
+#~ msgstr "If, in addition to PyConES, you decide to enjoy a few more days in Galicia, don't miss the opportunity to visit:"
 
 #~ msgid "Si quieres formar parte de nuestros patrocinadores para hacer esta conferencia aún más impresionante puedes disponer de un espacio dentro del evento."
 #~ msgstr "If you want to be one of our sponsors, to make this conference even better, you may enjoy a space within the event."

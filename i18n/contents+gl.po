@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pycones 24\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2024-10-02 01:06+0200\n"
+"PO-Revision-Date: 2024-10-02 13:48+0200\n"
 "Last-Translator: Adrián Chaves (Gallaecio) <adrian@chaves.io>\n"
 "Language-Team: Proxecto Trasno (proxecto@trasno.gal)\n"
 "Language: gl\n"
@@ -180,6 +180,9 @@ msgstr "Bolsas"
 msgid "Beneficios"
 msgstr "Beneficios"
 
+msgid "Bloomberg"
+msgstr "Bloomberg"
+
 msgid "Bromas racistas, sexistas o excluyentes"
 msgstr "Bromas racistas, sexistas ou excluíntes"
 
@@ -288,6 +291,9 @@ msgstr "Como chegar a Vigo"
 
 msgid "Dar y aceptar adecuadamente críticas constructivas"
 msgstr "Dar e aceptar adecuadamente críticas construtivas"
+
+msgid "Debido al continuo crecimiento y a la necesidad de dar soporte al negocio a nivel global, estamos buscando un Team Lead para construir y hacer crecer nuestro equipo de data management en Londres. Si te apasiona la gestión de personas, la gestión de datos y la resolución de retos únicos, ¡nos encantaría hablar contigo!"
+msgstr "Debido ao continuo crecemento e á necesidade de dar soporte ao negocio a nivel global, estamos a buscar un Team Lead para construír e facer crecer o noso equipo de data management en Londres. Se che apaixona a xestión de persoas, a xestión de datos e a resolución de retos únicos, encantaríanos falar contigo!"
 
 msgid "Definición del problema"
 msgstr "Definición do problema"
@@ -923,9 +929,6 @@ msgstr "Segundo o plan elixido terías as seguintes entradas:<ul class=\"mt-1 ml
 msgid "Sesión de contratación"
 msgstr "Sesión de contratación"
 
-msgid "Si aparte de la PyConES, decides aprovechar para disfrutar de unos días más en Galicia, no dejes escapar la oportunidad de visitar:"
-msgstr "Se á parte da PyConES, decides aproveitar para gozar duns días máis en Galicia, non deixes escapar a oportunidade de visitar:"
-
 msgid "Si aparte de la PyConES, decides aprovechar para disfrutar de unos días más en Galicia, no dejes escapar la oportunidad de visitar: "
 msgstr "Se á parte da PyConES, decides aproveitar para gozar duns días máis en Galicia, non deixes escapar a oportunidade de visitar: "
 
@@ -1243,6 +1246,9 @@ msgstr "Viste o chulos que quedaron os vídeos do ano pasado? Agora imaxínache 
 
 #~ msgid "Selecciona idioma"
 #~ msgstr "Escolle un idioma"
+
+#~ msgid "Si aparte de la PyConES, decides aprovechar para disfrutar de unos días más en Galicia, no dejes escapar la oportunidad de visitar:"
+#~ msgstr "Se á parte da PyConES, decides aproveitar para gozar duns días máis en Galicia, non deixes escapar a oportunidade de visitar:"
 
 #~ msgid "Si quieres formar parte de nuestros patrocinadores para hacer esta conferencia aún más impresionante puedes disponer de un espacio dentro del evento."
 #~ msgstr "Se queres formar parte dos nosos patrocinadores para facer esta conferencia aínda máis impresionante, podes dispoñer dun espazo dentro do evento."
