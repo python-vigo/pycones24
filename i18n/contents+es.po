@@ -856,6 +856,11 @@ msgstr ""
 msgid "Resolución de becas de asistentes"
 msgstr ""
 
+msgid ""
+"Resolverás problemas nuevos en el ámbito de la gestión de datos y riesgos, creando productos sólidos y escalables.\n"
+"Debido al continuo crecimiento y a la necesidad de dar soporte al negocio a nivel global, estamos ampliando nuestra presencia en data management en Londres. "
+msgstr ""
+
 msgid "Respetar las diferentes opiniones, puntos de vista y experiencias"
 msgstr ""
 
