@@ -1,0 +1,25 @@
+company: Bloomberg
+---
+city: London
+---
+description:
+
+Resolverás problemas nuevos en el ámbito de la gestión de datos y riesgos, creando productos sólidos y escalables.
+Debido al continuo crecimiento y a la necesidad de dar soporte al negocio a nivel global, estamos ampliando nuestra presencia en data management en Londres. 
+---
+link_job: https://bloomberg.avature.net/careers/JobDetail?jobId=4601&qtvc=1904971a1ae8101c0597b38d6bdcb86b1fe0d59687e8fb5aad658e9b34cf9238#
+---
+name_job: Senior Software Engineer
+---
+range_salary: N/A
+---
+skills:
+
+OOP
+React
+Angular
+Splunk
+Humio
+Grafana
+---
+_template: job_offers/card_job.html

@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pycones 24\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2024-10-02 01:06+0200\n"
+"PO-Revision-Date: 2024-10-02 14:15+0200\n"
 "Last-Translator: Adrián Chaves (Gallaecio) <adrian@chaves.io>\n"
 "Language-Team: Proxecto Trasno (proxecto@trasno.gal)\n"
 "Language: gl\n"
@@ -180,6 +180,12 @@ msgstr "Bolsas"
 msgid "Beneficios"
 msgstr "Beneficios"
 
+msgid "Bloomberg"
+msgstr "Bloomberg"
+
+msgid "Brite Payments"
+msgstr ""
+
 msgid "Bromas racistas, sexistas o excluyentes"
 msgstr "Bromas racistas, sexistas ou excluíntes"
 
@@ -288,6 +294,9 @@ msgstr "Como chegar a Vigo"
 
 msgid "Dar y aceptar adecuadamente críticas constructivas"
 msgstr "Dar e aceptar adecuadamente críticas construtivas"
+
+msgid "Debido al continuo crecimiento y a la necesidad de dar soporte al negocio a nivel global, estamos buscando un Team Lead para construir y hacer crecer nuestro equipo de data management en Londres. Si te apasiona la gestión de personas, la gestión de datos y la resolución de retos únicos, ¡nos encantaría hablar contigo!"
+msgstr "Debido ao continuo crecemento e á necesidade de dar soporte ao negocio a nivel global, estamos a buscar un Team Lead para construír e facer crecer o noso equipo de data management en Londres. Se che apaixona a xestión de persoas, a xestión de datos e a resolución de retos únicos, encantaríanos falar contigo!"
 
 msgid "Definición del problema"
 msgstr "Definición do problema"
@@ -653,6 +662,9 @@ msgstr "Aprendizaxe artificial e intelixencia artificial"
 msgid "Madrid - Hibrido"
 msgstr "Madrid - Hibrido"
 
+msgid "Malaga - Remoto (Solo España)"
+msgstr ""
+
 msgid "Marzo"
 msgstr "Marzo"
 
@@ -875,6 +887,13 @@ msgstr "Requisitos previos ou comentarios adicionais sobre a charla"
 msgid "Resolución de becas de asistentes"
 msgstr "Resolución de becas de asistentes"
 
+msgid ""
+"Resolverás problemas nuevos en el ámbito de la gestión de datos y riesgos, creando productos sólidos y escalables.\n"
+"Debido al continuo crecimiento y a la necesidad de dar soporte al negocio a nivel global, estamos ampliando nuestra presencia en data management en Londres. "
+msgstr ""
+"Resolverás problemas novos no ámbito da xestión de datos e riscos, creando produtos sólidos e escalables.\n"
+"Debido ao continuo crecemento e á necesidade de dar soporte ao negocio a nivel global, estamos a ampliar a nosa presenza en data management en Londres. "
+
 msgid "Respetar las diferentes opiniones, puntos de vista y experiencias"
 msgstr "Respectar as diferentes opinións, puntos de vista e experiencias"
 
@@ -922,9 +941,6 @@ msgstr "Segundo o plan elixido terías as seguintes entradas:<ul class=\"mt-1 ml
 
 msgid "Sesión de contratación"
 msgstr "Sesión de contratación"
-
-msgid "Si aparte de la PyConES, decides aprovechar para disfrutar de unos días más en Galicia, no dejes escapar la oportunidad de visitar:"
-msgstr "Se á parte da PyConES, decides aproveitar para gozar duns días máis en Galicia, non deixes escapar a oportunidade de visitar:"
 
 msgid "Si aparte de la PyConES, decides aprovechar para disfrutar de unos días más en Galicia, no dejes escapar la oportunidad de visitar: "
 msgstr "Se á parte da PyConES, decides aproveitar para gozar duns días máis en Galicia, non deixes escapar a oportunidade de visitar: "
@@ -1040,6 +1056,9 @@ msgstr "Todas as ponentes teñen asegurada a súa participación na conferencia,
 
 msgid "Trabajarás en el día a día con nuestro equipo de producto para diseñar, crear la arquitectura, e implementar nuestro producto. TravelPerk es una plataforma de siguiente generación para hacer más ameno el proceso de alquilar y organizar viajes de negocios."
 msgstr "Traballarás no día a día co noso equipo de producto para deseñar, crear a arquitectura, e implementar o noso producto. TravelPerk é unha plataforma da seguinte xeración para facer máis ameno o proceso de alquilar e organizar viaxes de negocios."
+
+msgid "Trabajarás en la construcción de componentes que sirvan de puente entre nosotros y los bancos de toda Europa, con el fin de ofrecer autenticación (AIS) e iniciación de pagos (PIS). Tendrás un gran impacto en la construcción de los cimientos de nuestra plataforma central. Con eso dicho, ¡serás una parte vital del próximo unicornio fintech!"
+msgstr "Traballarás na construción de compoñentes que sirvan de ponte entre nós e os bancos de toda Europa, co fin de ofrecer autenticación (AIS) e iniciación de pagos (PIS). Terás un gran impacto na construción dos cimentos da nosa plataforma central. Con iso dito, serás unha parte vital do próximo unicornio fintech!"
 
 msgid "TravelPerk"
 msgstr "TravelPerk"
@@ -1243,6 +1262,9 @@ msgstr "Viste o chulos que quedaron os vídeos do ano pasado? Agora imaxínache 
 
 #~ msgid "Selecciona idioma"
 #~ msgstr "Escolle un idioma"
+
+#~ msgid "Si aparte de la PyConES, decides aprovechar para disfrutar de unos días más en Galicia, no dejes escapar la oportunidad de visitar:"
+#~ msgstr "Se á parte da PyConES, decides aproveitar para gozar duns días máis en Galicia, non deixes escapar a oportunidade de visitar:"
 
 #~ msgid "Si quieres formar parte de nuestros patrocinadores para hacer esta conferencia aún más impresionante puedes disponer de un espacio dentro del evento."
 #~ msgstr "Se queres formar parte dos nosos patrocinadores para facer esta conferencia aínda máis impresionante, podes dispoñer dun espazo dentro do evento."

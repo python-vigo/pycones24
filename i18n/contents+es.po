@@ -162,6 +162,12 @@ msgstr ""
 msgid "Beneficios"
 msgstr ""
 
+msgid "Bloomberg"
+msgstr ""
+
+msgid "Brite Payments"
+msgstr ""
+
 msgid "Bromas racistas, sexistas o excluyentes"
 msgstr ""
 
@@ -269,6 +275,9 @@ msgid "Cómo llegar a Vigo"
 msgstr ""
 
 msgid "Dar y aceptar adecuadamente críticas constructivas"
+msgstr ""
+
+msgid "Debido al continuo crecimiento y a la necesidad de dar soporte al negocio a nivel global, estamos buscando un Team Lead para construir y hacer crecer nuestro equipo de data management en Londres. Si te apasiona la gestión de personas, la gestión de datos y la resolución de retos únicos, ¡nos encantaría hablar contigo!"
 msgstr ""
 
 msgid "Definición del problema"
@@ -633,6 +642,9 @@ msgstr ""
 msgid "Madrid - Hibrido"
 msgstr ""
 
+msgid "Malaga - Remoto (Solo España)"
+msgstr ""
+
 msgid "Marzo"
 msgstr ""
 
@@ -850,6 +862,11 @@ msgstr ""
 msgid "Resolución de becas de asistentes"
 msgstr ""
 
+msgid ""
+"Resolverás problemas nuevos en el ámbito de la gestión de datos y riesgos, creando productos sólidos y escalables.\n"
+"Debido al continuo crecimiento y a la necesidad de dar soporte al negocio a nivel global, estamos ampliando nuestra presencia en data management en Londres. "
+msgstr ""
+
 msgid "Respetar las diferentes opiniones, puntos de vista y experiencias"
 msgstr ""
 
@@ -896,9 +913,6 @@ msgid "Según el plan elegido tendrías las siguientes entradas: <ul class=\"mt-
 msgstr ""
 
 msgid "Sesión de contratación"
-msgstr ""
-
-msgid "Si aparte de la PyConES, decides aprovechar para disfrutar de unos días más en Galicia, no dejes escapar la oportunidad de visitar:"
 msgstr ""
 
 msgid "Si aparte de la PyConES, decides aprovechar para disfrutar de unos días más en Galicia, no dejes escapar la oportunidad de visitar: "
@@ -1014,6 +1028,9 @@ msgid "Todas las personas que sean ponentes, tienen asegurada su participación 
 msgstr ""
 
 msgid "Trabajarás en el día a día con nuestro equipo de producto para diseñar, crear la arquitectura, e implementar nuestro producto. TravelPerk es una plataforma de siguiente generación para hacer más ameno el proceso de alquilar y organizar viajes de negocios."
+msgstr ""
+
+msgid "Trabajarás en la construcción de componentes que sirvan de puente entre nosotros y los bancos de toda Europa, con el fin de ofrecer autenticación (AIS) e iniciación de pagos (PIS). Tendrás un gran impacto en la construcción de los cimientos de nuestra plataforma central. Con eso dicho, ¡serás una parte vital del próximo unicornio fintech!"
 msgstr ""
 
 msgid "TravelPerk"
