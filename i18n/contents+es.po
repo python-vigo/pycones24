@@ -165,6 +165,9 @@ msgstr ""
 msgid "Bloomberg"
 msgstr ""
 
+msgid "Brite Payments"
+msgstr ""
+
 msgid "Bromas racistas, sexistas o excluyentes"
 msgstr ""
 
@@ -639,6 +642,9 @@ msgstr ""
 msgid "Madrid - Hibrido"
 msgstr ""
 
+msgid "Malaga - Remoto (Solo España)"
+msgstr ""
+
 msgid "Marzo"
 msgstr ""
 
@@ -1022,6 +1028,9 @@ msgid "Todas las personas que sean ponentes, tienen asegurada su participación 
 msgstr ""
 
 msgid "Trabajarás en el día a día con nuestro equipo de producto para diseñar, crear la arquitectura, e implementar nuestro producto. TravelPerk es una plataforma de siguiente generación para hacer más ameno el proceso de alquilar y organizar viajes de negocios."
+msgstr ""
+
+msgid "Trabajarás en la construcción de componentes que sirvan de puente entre nosotros y los bancos de toda Europa, con el fin de ofrecer autenticación (AIS) e iniciación de pagos (PIS). Tendrás un gran impacto en la construcción de los cimientos de nuestra plataforma central. Con eso dicho, ¡serás una parte vital del próximo unicornio fintech!"
 msgstr ""
 
 msgid "TravelPerk"

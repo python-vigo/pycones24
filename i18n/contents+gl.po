@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pycones 24\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2024-10-02 14:03+0200\n"
+"PO-Revision-Date: 2024-10-02 14:15+0200\n"
 "Last-Translator: Adrián Chaves (Gallaecio) <adrian@chaves.io>\n"
 "Language-Team: Proxecto Trasno (proxecto@trasno.gal)\n"
 "Language: gl\n"
@@ -182,6 +182,9 @@ msgstr "Beneficios"
 
 msgid "Bloomberg"
 msgstr "Bloomberg"
+
+msgid "Brite Payments"
+msgstr ""
 
 msgid "Bromas racistas, sexistas o excluyentes"
 msgstr "Bromas racistas, sexistas ou excluíntes"
@@ -659,6 +662,9 @@ msgstr "Aprendizaxe artificial e intelixencia artificial"
 msgid "Madrid - Hibrido"
 msgstr "Madrid - Hibrido"
 
+msgid "Malaga - Remoto (Solo España)"
+msgstr ""
+
 msgid "Marzo"
 msgstr "Marzo"
 
@@ -1050,6 +1056,9 @@ msgstr "Todas as ponentes teñen asegurada a súa participación na conferencia,
 
 msgid "Trabajarás en el día a día con nuestro equipo de producto para diseñar, crear la arquitectura, e implementar nuestro producto. TravelPerk es una plataforma de siguiente generación para hacer más ameno el proceso de alquilar y organizar viajes de negocios."
 msgstr "Traballarás no día a día co noso equipo de producto para deseñar, crear a arquitectura, e implementar o noso producto. TravelPerk é unha plataforma da seguinte xeración para facer máis ameno o proceso de alquilar e organizar viaxes de negocios."
+
+msgid "Trabajarás en la construcción de componentes que sirvan de puente entre nosotros y los bancos de toda Europa, con el fin de ofrecer autenticación (AIS) e iniciación de pagos (PIS). Tendrás un gran impacto en la construcción de los cimientos de nuestra plataforma central. Con eso dicho, ¡serás una parte vital del próximo unicornio fintech!"
+msgstr "Traballarás na construción de compoñentes que sirvan de ponte entre nós e os bancos de toda Europa, co fin de ofrecer autenticación (AIS) e iniciación de pagos (PIS). Terás un gran impacto na construción dos cimentos da nosa plataforma central. Con iso dito, serás unha parte vital do próximo unicornio fintech!"
 
 msgid "TravelPerk"
 msgstr "TravelPerk"
