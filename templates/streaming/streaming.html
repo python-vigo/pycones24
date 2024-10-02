@@ -1,0 +1,18 @@
+{% extends "layout.html" %}
+
+{% from "macros/generate_iframe_streaming.html" import generate_iframe_streaming %}
+
+{% block title %}{{ this.title }}{% endblock %}
+{% block body %}
+  <header class="mt-0 bg-primary">
+    {% include "components/header.html" %}
+  </header>
+  <main class="pb-0">
+    <section class="flex flex-col gap-10 my-10 mx-auto w-11/12">
+        <h1 class="text-5xl text-primary">{{ _("Directo") }}</h1>
+        {% block container_video %}
+          {{ generate_iframe_streaming(1, "https://replay.teltek.es/live/event/iframe/66fcdd0aaf77a7003666a325") }}
+        {% endblock container_video %}
+    </section>
+  </main>
+{% endblock %}

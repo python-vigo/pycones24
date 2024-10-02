@@ -1,0 +1,7 @@
+{% extends "streaming/streaming.html" %}
+
+{% from "macros/generate_iframe_streaming.html" import generate_iframe_streaming %}
+
+{% block container_video %}
+  {{ generate_iframe_streaming(2, "https://replay.teltek.es/live/event/iframe/66fcdfeaaf77a700322d9a59") }}
+{% endblock container_video %}
