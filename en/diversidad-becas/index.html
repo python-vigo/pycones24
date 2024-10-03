@@ -43,13 +43,32 @@
     <a href="../programa/" class="hidden text-lg font-bold text-white 2xl:block hover:underline">
       Schedule
     </a>
-    <a href="../patrocinios/" class="hidden text-lg font-bold text-white 2xl:block hover:underline">
-      Sponsorships
-    </a>
+    <div class="hidden relative 2xl:block group/information max-w-fit">
+      <button type="button" class="inline-flex gap-x-1 items-center text-lg font-bold leading-6 text-white peer" aria-expanded="false">
+        <span>Sponsors &amp; jobs</span>
+        
+    <div class="">
+        <svg class="w-5 h-5" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
+    <path fill-rule="evenodd" d="M5.23 7.21a.75.75 0 011.06.02L10 11.168l3.71-3.938a.75.75 0 111.08 1.04l-4.25 4.5a.75.75 0 01-1.08 0l-4.25-4.5a.75.75 0 01.02-1.06z" clip-rule="evenodd" />
+  </svg>
+    </div>
+
+      </button>
+      <div class="absolute z-10 flex-col hidden w-screen *:px-8 *:py-1 -translate-x-1/2 bg-white rounded-lg gap-y-1 left-1/2 max-w-max peer-focus:flex hover:flex border-[1.5px] border-secondary">
+          <a href="../patrocinadores/" class="text-lg font-semibold text-black hover:text-white hover:bg-secondary">
+            Sponsors
+          </a>
+          <a href="../ofertas-trabajo/" class="text-lg font-semibold text-black hover:text-white hover:bg-secondary">
+            Job offers
+          </a>
+          <a href="../patrocinios/" class="text-lg font-semibold text-black hover:text-white hover:bg-secondary">
+            Want to sponsor?
+          </a>
+      </div>
+    </div>
     <a href="./" class="hidden text-lg font-bold text-white 2xl:block hover:underline">
       Diversity and grants
     </a>
-    <a href="../ofertas-trabajo/" class="hidden text-lg font-bold text-white 2xl:block hover:underline">Job offers</a>
     <div class="hidden relative 2xl:block group/information max-w-fit">
       <button type="button" class="inline-flex gap-x-1 items-center text-lg font-bold leading-6 text-white peer" aria-expanded="false">
         <span>Information</span>

@@ -43,13 +43,32 @@
     <a href="programa/" class="hidden text-lg font-bold text-white 2xl:block hover:underline">
       Programa
     </a>
-    <a href="patrocinios/" class="hidden text-lg font-bold text-white 2xl:block hover:underline">
-      Patrocinios
-    </a>
+    <div class="hidden relative 2xl:block group/information max-w-fit">
+      <button type="button" class="inline-flex gap-x-1 items-center text-lg font-bold leading-6 text-white peer" aria-expanded="false">
+        <span>Patrocinadores y empleo</span>
+        
+    <div class="">
+        <svg class="w-5 h-5" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
+    <path fill-rule="evenodd" d="M5.23 7.21a.75.75 0 011.06.02L10 11.168l3.71-3.938a.75.75 0 111.08 1.04l-4.25 4.5a.75.75 0 01-1.08 0l-4.25-4.5a.75.75 0 01.02-1.06z" clip-rule="evenodd" />
+  </svg>
+    </div>
+
+      </button>
+      <div class="absolute z-10 flex-col hidden w-screen *:px-8 *:py-1 -translate-x-1/2 bg-white rounded-lg gap-y-1 left-1/2 max-w-max peer-focus:flex hover:flex border-[1.5px] border-secondary">
+          <a href="patrocinadores/" class="text-lg font-semibold text-black hover:text-white hover:bg-secondary">
+            Patrocinadores
+          </a>
+          <a href="ofertas-trabajo/" class="text-lg font-semibold text-black hover:text-white hover:bg-secondary">
+            Ofertas de trabajo
+          </a>
+          <a href="patrocinios/" class="text-lg font-semibold text-black hover:text-white hover:bg-secondary">
+            ¿Quieres patrocinar?
+          </a>
+      </div>
+    </div>
     <a href="diversidad-becas/" class="hidden text-lg font-bold text-white 2xl:block hover:underline">
       Diversidad y becas
     </a>
-    <a href="ofertas-trabajo/" class="hidden text-lg font-bold text-white 2xl:block hover:underline">Ofertas de trabajo</a>
     <div class="hidden relative 2xl:block group/information max-w-fit">
       <button type="button" class="inline-flex gap-x-1 items-center text-lg font-bold leading-6 text-white peer" aria-expanded="false">
         <span>Información</span>
@@ -386,8 +405,9 @@
     <p class="mx-auto mt-6 w-10/12 text-lg text-center md:w-7/12">
       Gracias a las empresas que colaboran con la PyConES podemos ofrecer el mejor evento y experiencia posible. Somos una conferencia con un bajo coste de entrada capaz de ofrecer una experiencia de 3 días incluyendo regalos, almuerzos, comidas y meriendas. Con la ayuda de estas empresas conseguimos hacer un evento diverso e inclusivo enfocado en cuidar la comunidad de Python.
     </p>
-    
-  <article class="flex flex-col gap-y-3 justify-around mx-auto mt-16 w-11/12 md:w-9/12 xl:flex-row">
+    <div class="*:w-11/12 *:md:w-9/12">
+      
+  <article class="flex flex-col gap-y-3 justify-around mx-auto mt-16 xl:flex-row">
       <section class="flex gap-2 items-center w-full lg:w-2/12 text-secondary leading-[-12px]">
         
           <img src="static/images/sponsors_logo/levels/cies.svg?h=b0251c9b" alt="Nivel Cies">
@@ -419,8 +439,8 @@
       </section>
   </article>
 
-    
-  <article class="flex flex-col gap-y-3 justify-around mx-auto mt-16 w-11/12 md:w-9/12 xl:flex-row">
+  
+  <article class="flex flex-col gap-y-3 justify-around mx-auto mt-16 xl:flex-row">
       <section class="flex gap-2 items-center w-full lg:w-2/12 text-secondary leading-[-12px]">
         
           <img src="static/images/sponsors_logo/levels/ons.svg?h=a89b04d3" alt="Nivel Ons">
@@ -525,8 +545,8 @@
       </section>
   </article>
 
-    
-  <article class="flex flex-col gap-y-3 justify-around mx-auto mt-16 w-11/12 md:w-9/12 xl:flex-row">
+  
+  <article class="flex flex-col gap-y-3 justify-around mx-auto mt-16 xl:flex-row">
       <section class="flex gap-2 items-center w-full lg:w-2/12 text-secondary leading-[-12px]">
         
           <img src="static/images/sponsors_logo/levels/salvora.svg?h=455ef071" alt="Nivel Sálvora">
@@ -633,8 +653,8 @@
       </section>
   </article>
 
-    
-  <article class="flex flex-col gap-y-3 justify-around mx-auto mt-16 w-11/12 md:w-9/12 xl:flex-row">
+  
+  <article class="flex flex-col gap-y-3 justify-around mx-auto mt-16 xl:flex-row">
       <section class="flex gap-2 items-center w-full lg:w-2/12 text-secondary leading-[-12px]">
         
           <img src="static/images/sponsors_logo/levels/cortegada.svg?h=4c9186bb" alt="Nivel Cortegada">
@@ -744,8 +764,8 @@
       </section>
   </article>
 
-    
-  <article class="flex flex-col gap-y-3 justify-around mx-auto mt-16 w-11/12 md:w-9/12 xl:flex-row">
+  
+  <article class="flex flex-col gap-y-3 justify-around mx-auto mt-16 xl:flex-row">
       <section class="flex gap-2 items-center w-full lg:w-2/12 text-secondary leading-[-12px]">
         
         <div>
@@ -786,8 +806,8 @@
       </section>
   </article>
 
-    
-  <article class="flex flex-col gap-y-3 justify-around mx-auto mt-16 w-11/12 md:w-9/12 xl:flex-row">
+  
+  <article class="flex flex-col gap-y-3 justify-around mx-auto mt-16 xl:flex-row">
       <section class="flex gap-2 items-center w-full lg:w-2/12 text-secondary leading-[-12px]">
         
         <div>
@@ -857,8 +877,8 @@
       </section>
   </article>
 
-    
-  <article class="flex flex-col gap-y-3 justify-around mx-auto mt-16 w-11/12 md:w-9/12 xl:flex-row">
+  
+  <article class="flex flex-col gap-y-3 justify-around mx-auto mt-16 xl:flex-row">
       <section class="flex gap-2 items-center w-full lg:w-2/12 text-secondary leading-[-12px]">
         
         <div>
@@ -908,8 +928,8 @@
       </section>
   </article>
 
-    
-  <article class="flex flex-col gap-y-3 justify-around mx-auto mt-16 w-11/12 md:w-9/12 xl:flex-row">
+  
+  <article class="flex flex-col gap-y-3 justify-around mx-auto mt-16 xl:flex-row">
       <section class="flex gap-2 items-center w-full lg:w-2/12 text-secondary leading-[-12px]">
         
         <div>
@@ -950,6 +970,7 @@
       </section>
   </article>
 
+    </div>
 </section>
   </main>
 
