@@ -328,6 +328,9 @@ msgstr ""
 msgid "Dirección de origen"
 msgstr ""
 
+msgid "Directo"
+msgstr ""
+
 msgid "Diversidad y becas"
 msgstr ""
 
@@ -781,6 +784,12 @@ msgstr ""
 msgid "Paseo por el mirador de Vigo en menos de 2 horas"
 msgstr ""
 
+msgid "Patrocinadores"
+msgstr ""
+
+msgid "Patrocinadores y empleo"
+msgstr ""
+
 msgid "Patrocinio de becas"
 msgstr ""
 
@@ -1003,6 +1012,9 @@ msgstr ""
 msgid "Talleres: de hasta 90 min"
 msgstr ""
 
+msgid "También es posible gracias al generoso apoyo de quienes han adquirido entradas de apoyo individual, apoyo empresarial y fila 0. Puedes ver quienes son en el siguiente enlace:"
+msgstr ""
+
 msgid "También puede llegar a Vigo en autobús. Hay líneas de autobús directas a Vigo desde Madrid, Barcelona y muchas otras ciudades españolas. La estación de autobuses se encuentra en el centro de la ciudad, en la calle Travesía de Vigo."
 msgstr ""
 
@@ -1148,6 +1160,9 @@ msgid "¿Por qué un código de conducta?"
 msgstr ""
 
 msgid "¿Preguntas o sugerencias?"
+msgstr ""
+
+msgid "¿Quieres patrocinar?"
 msgstr ""
 
 msgid "¿Qué Aeropuerto es más cercano a la conferencia?"
