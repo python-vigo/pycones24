@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pycones 24\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2024-10-02 14:13+0200\n"
+"PO-Revision-Date: 2024-10-03 22:02+0200\n"
 "Last-Translator: Adrián Chaves (Gallaecio) <adrian@chaves.io>\n"
 "Language-Team: Proxecto Trasno (proxecto@trasno.gal)\n"
 "Language: en\n"
@@ -345,6 +345,9 @@ msgstr "Accommodation address"
 
 msgid "Dirección de origen"
 msgstr "Address"
+
+msgid "Directo"
+msgstr "Live"
 
 msgid "Diversidad y becas"
 msgstr "Diversity and grants"
@@ -806,6 +809,12 @@ msgstr "Paris"
 msgid "Paseo por el mirador de Vigo en menos de 2 horas"
 msgstr "Walk through the Vigo viewpoint in less than 2 hours"
 
+msgid "Patrocinadores"
+msgstr "Sponsors"
+
+msgid "Patrocinadores y empleo"
+msgstr "Sponsors & jobs"
+
 msgid "Patrocinio de becas"
 msgstr "Grants Sponsorship"
 
@@ -1030,6 +1039,9 @@ msgstr "Sponsored workshop"
 msgid "Talleres: de hasta 90 min"
 msgstr "Workshops: up to 90 min"
 
+msgid "También es posible gracias al generoso apoyo de quienes han adquirido entradas de apoyo individual, apoyo empresarial y fila 0. Puedes ver quienes son en el siguiente enlace:"
+msgstr "It is also possible thanks to the generous support of those who have purchased individual support, corporate support and row 0 tickets. You can see who they are at the following link:"
+
 msgid "También puede llegar a Vigo en autobús. Hay líneas de autobús directas a Vigo desde Madrid, Barcelona y muchas otras ciudades españolas. La estación de autobuses se encuentra en el centro de la ciudad, en la calle Travesía de Vigo."
 msgstr "You can also get to Vigo by bus. There are direct bus lines from Madrid, Barcelona and many other Spanish cities. The bus station is in the city center."
 
@@ -1176,6 +1188,9 @@ msgstr "Why a code of conduct?"
 
 msgid "¿Preguntas o sugerencias?"
 msgstr "Questions or feedback?"
+
+msgid "¿Quieres patrocinar?"
+msgstr "Want to sponsor?"
 
 msgid "¿Qué Aeropuerto es más cercano a la conferencia?"
 msgstr "Which airport is closest to the conference?"

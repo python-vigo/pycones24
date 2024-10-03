@@ -346,6 +346,9 @@ msgstr "Dirección de aloxamento en destino"
 msgid "Dirección de origen"
 msgstr "Dirección de orixe"
 
+msgid "Directo"
+msgstr ""
+
 msgid "Diversidad y becas"
 msgstr "Diversidade e bolsas"
 
@@ -806,6 +809,12 @@ msgstr "París"
 msgid "Paseo por el mirador de Vigo en menos de 2 horas"
 msgstr "Paseo polo miradoiro de Vigo en menos de 2 horas"
 
+msgid "Patrocinadores"
+msgstr ""
+
+msgid "Patrocinadores y empleo"
+msgstr ""
+
 msgid "Patrocinio de becas"
 msgstr "Patrocinio de becas"
 
@@ -1030,6 +1039,9 @@ msgstr "Taller de patrocinio"
 msgid "Talleres: de hasta 90 min"
 msgstr "Talleres: de ata 90 minutos"
 
+msgid "También es posible gracias al generoso apoyo de quienes han adquirido entradas de apoyo individual, apoyo empresarial y fila 0. Puedes ver quienes son en el siguiente enlace:"
+msgstr ""
+
 msgid "También puede llegar a Vigo en autobús. Hay líneas de autobús directas a Vigo desde Madrid, Barcelona y muchas otras ciudades españolas. La estación de autobuses se encuentra en el centro de la ciudad, en la calle Travesía de Vigo."
 msgstr "Tamén podes chegar a Vigo en autobús. Hai liñas de autobús directas a Vigo desde Madrid, Barcelona e moitas outras cidades españolas. A estación de autobuses atópase no centro da cidade, na rúa Travesía de Vigo."
 
@@ -1176,6 +1188,9 @@ msgstr "Por que un código de conduta?"
 
 msgid "¿Preguntas o sugerencias?"
 msgstr "Preguntas ou suxestións?"
+
+msgid "¿Quieres patrocinar?"
+msgstr ""
 
 msgid "¿Qué Aeropuerto es más cercano a la conferencia?"
 msgstr "Cal é o aeroporto máis próximo á conferencia?"
