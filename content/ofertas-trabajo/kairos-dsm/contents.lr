@@ -1,0 +1,28 @@
+company: Kairós
+---
+_template: job_offers/card_job.html
+---
+city: Remoto
+---
+description: En Kairós buscamos DATA SCIENTIST con experiencia en Python para tratamiento de datos (Numpy, Pandas…), Spark (pyspark) , experiencia con SQL/No SQL, R, SciPy, Keras, scikit-learn, tensorflow, langchain y GPT para formar parte de nuestra capacidad de Data & IA.
+---
+link_job: https://jobs.kairosds.com/data-scientist-middle-sr-2024-qaLVqtXmw720/
+---
+name_job: Data Scientist Middle/SR
+---
+range_salary: 35.000 - 62.000
+---
+skills:
+
+Python
+Spark
+SQL
+No SQL
+R
+SciPy
+Keras
+scikit-learn
+tensorflow
+langchain
+GPT
+---

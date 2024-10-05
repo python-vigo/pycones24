@@ -1,13 +1,13 @@
 {% macro generate_iframe_streaming(room, url) %}
   <nav class="border-b-[1px] border-primary flex gap-x-8 *:text-2xl">
-    <a href="{{ "/directo/sala1/"|url }}" {% if room == 1 %}class="font-semibold border-b-2 border-primary" {% endif %}>
-      Saraiba
+    <a href="{{ "/directo/sala3/"|url }}" {% if room == 1 %}class="font-semibold border-b-2 border-primary" {% endif %}>
+      Treboada
     </a>
     <a href="{{ "/directo/sala2/"|url }}" {% if room == 2 %}class="font-semibold border-b-2 border-primary" {% endif %}>
       Poalla
     </a>
-    <a href="{{ "/directo/sala3/"|url }}" {% if room == 3 %}class="font-semibold border-b-2 border-primary" {% endif %}>
-      Treboada
+    <a href="{{ "/directo/sala1/"|url }}" {% if room == 3 %}class="font-semibold border-b-2 border-primary" {% endif %}>
+      Saraiba
     </a>
     <a href="{{ "/directo/sala4/"|url }}" {% if room == 4 %}class="font-semibold border-b-2 border-primary" {% endif %}>
       Orballo
