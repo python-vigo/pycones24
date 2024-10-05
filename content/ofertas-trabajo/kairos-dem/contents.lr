@@ -1,0 +1,24 @@
+company: Kairós
+---
+_template: job_offers/card_job.html
+---
+city: Remoto
+---
+description: En Kairós buscamos DATA ENGINEER con experiencia en Python para tratamiento de datos (Numpy, Pandas…), Spark (pyspark o scala) y con conocimiento de entornos Cloud (Google, Azure, AWS), experiencia con SQL y herramientas de CI/CD para formar parte de nuestra capacidad de Data&IA
+---
+link_job: https://jobs.kairosds.com/data-engineer-middle-sr-2004-57sUrkFLSM7M/
+---
+name_job: Data Engineer Middle/SR
+---
+range_salary: 35.000 - 60.000
+---
+skills:
+
+Python
+Spark
+AWS
+Google Cloud
+Azure
+SQL
+CI/CD
+---
